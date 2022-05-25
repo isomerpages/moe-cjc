@@ -11,10 +11,10 @@ sections:
       key_highlights:
         - title: CJC's e-Open House
           description: ""
-          url: https://google.com
+          url: ""
         - title: CJCares Fundraising
           description: ""
-          url: https://gmail.com
+          url: ""
         - title: NEWS
           description: ""
           url: /news/
