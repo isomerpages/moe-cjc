@@ -9,3 +9,5 @@ links:
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: About Us
+    collection: about-us
