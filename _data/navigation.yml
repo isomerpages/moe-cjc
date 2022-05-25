@@ -1,5 +1,7 @@
 logo: /images/cjclogo-btm.png
 links:
+  - title: About US
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
