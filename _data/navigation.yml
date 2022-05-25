@@ -5,9 +5,9 @@ links:
     sublinks:
       - title: Principal's Message
         url: /about-us/principal-message
+      - title: our vision
+        url: /permalink
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
-  - title: About Us
-    collection: about-us
