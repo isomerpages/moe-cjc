@@ -1,8 +1,13 @@
 logo: /images/cjclogo-btm.png
 links:
-  - title: About US
+  - title: About Us
     collection: about-us
   - title: Contact Us
     url: /contact-us/
   - title: Example Page
     url: /example-page/
+  - title: About Us
+    url: /about-us
+    sublinks:
+      - title: Principal's Message
+        url: /principal-message
