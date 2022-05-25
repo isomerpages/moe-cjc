@@ -15,10 +15,10 @@ sections:
         - title: CJCares Fundraising
           description: ""
           url: https://gmail.com
-  - infobar:
-      title: CJC’s 47th Annual Awards Ceremony, 8 April 2022
-      subtitle: NEWS AND UPDATES
-      description: About a sentence worth of description here
-      button: READ MORE
-      url: /faq/
+        - title: NEWS
+          description: ""
+          url: /news/
+        - title: Highlights
+          description: ""
+          url: ""
 ---
