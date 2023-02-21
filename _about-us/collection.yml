@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Faith.md
       - Our History.md
       - College Theme.md
       - Our Campus.md
