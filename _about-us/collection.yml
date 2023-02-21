@@ -2,5 +2,4 @@ collections:
   about-us:
     output: true
     order:
-      - our vision.md
       - Principal's Message.md
