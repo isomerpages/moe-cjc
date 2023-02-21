@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Mathematics & Science/.keep
-      - Mathematics & Science.md
       - Academic Enrichment.md
       - Character & Citizenship/Character & Citizenship.md
       - Character & Citizenship/Student Development Curriculum.md
