@@ -2,4 +2,5 @@ collections:
   staff:
     output: true
     order:
+      - Corporate Communications/.keep
       - Staff.md
