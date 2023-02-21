@@ -2,4 +2,5 @@ collections:
   education:
     output: true
     order:
+      - Character & Citizenship/.keep
       - Physical Education.md
