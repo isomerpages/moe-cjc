@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Info for JC1 Student & Parents/.keep
       - Direct School Admission 2022.md
       - JAE Appeal 2023.md
       - International and Returning Singaporean Students.md
