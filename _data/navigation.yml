@@ -1,2 +1,12 @@
 logo: /images/cjclogo-btm.png
-links: []
+links:
+  - title: About Us
+    collection: about-us
+  - title: Admission
+    collection: admission
+  - title: Education
+    collection: education
+  - title: Experience
+    collection: experience
+  - title: Achievements
+    collection: achievements
