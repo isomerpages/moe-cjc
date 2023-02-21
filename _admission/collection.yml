@@ -2,6 +2,8 @@ collections:
   admission:
     output: true
     order:
+      - Info for JC1 Student & Parents/Extension of Student Pass for
+        International Students.md
       - Info for JC1 Student & Parents/Extension of Student Smartcard.md
       - Info for JC1 Student & Parents/.keep
       - Direct School Admission 2022.md
