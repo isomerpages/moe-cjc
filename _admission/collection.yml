@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Direct School Admission 2022.md
       - JAE Appeal 2023.md
       - International and Returning Singaporean Students.md
       - Subject Combinations 2023.md
