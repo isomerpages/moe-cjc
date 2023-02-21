@@ -2,6 +2,7 @@ collections:
   education:
     output: true
     order:
+      - Character & Citizenship/Student Leadership Development.md
       - Character & Citizenship/Potential Development.md
       - Character & Citizenship/Pastoral Care.md
       - Character & Citizenship/Service Learning.md
