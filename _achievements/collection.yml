@@ -2,6 +2,7 @@ collections:
   achievements:
     output: true
     order:
+      - CCA Achievements 2017.md
       - CCA Achievements 2016.md
       - CCA Achievements 2015.md
       - CCA Achievements 2014.md
