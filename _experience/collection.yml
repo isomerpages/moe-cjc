@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Community.md
       - Home Tutorial.md
       - CJC Houses/.keep
       - CCAs/.keep
