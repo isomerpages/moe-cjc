@@ -2,6 +2,8 @@ collections:
   admission:
     output: true
     order:
+      - Info for JC1 Student & Parents/Purchase of School Uniforms and Graphing
+        Calculator.md
       - Info for JC1 Student & Parents/Extension of Student Pass for
         International Students.md
       - Info for JC1 Student & Parents/Extension of Student Smartcard.md
