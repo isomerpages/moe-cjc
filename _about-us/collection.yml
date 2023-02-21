@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Our Campus.md
       - Our Leadership.md
       - Our Departments.md
       - Our College Profile.md
