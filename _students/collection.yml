@@ -2,4 +2,5 @@ collections:
   students:
     output: true
     order:
+      - Code of Conduct.md
       - Subject Registration 2023.md
