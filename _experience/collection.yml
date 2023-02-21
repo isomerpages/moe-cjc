@@ -2,6 +2,7 @@ collections:
   experience:
     output: true
     order:
+      - Spirituality.md
       - Community.md
       - Home Tutorial.md
       - CJC Houses/CJC Houses.md
