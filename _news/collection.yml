@@ -1,4 +1,5 @@
 collections:
   news:
     output: true
-    order: []
+    order:
+      - Student Leaders Appreciation and Installation Ceremony, 12 July.md
