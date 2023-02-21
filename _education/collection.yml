@@ -2,6 +2,7 @@ collections:
   education:
     output: true
     order:
+      - Academic Enrichment.md
       - Character & Citizenship/Character & Citizenship.md
       - Character & Citizenship/Student Development Curriculum.md
       - Character & Citizenship/Student Leadership Development.md
