@@ -2,5 +2,6 @@ collections:
   experience:
     output: true
     order:
+      - Home Tutorial.md
       - CJC Houses/.keep
       - CCAs/.keep
