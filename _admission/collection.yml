@@ -2,5 +2,6 @@ collections:
   admission:
     output: true
     order:
+      - Scholarships.md
       - Financial Aid.md
       - Prospects.md
