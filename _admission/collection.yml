@@ -2,6 +2,7 @@ collections:
   admission:
     output: true
     order:
+      - Info for JC1 Student & Parents/Orientation Programme 2023.md
       - Info for JC1 Student & Parents/Subject Combination Registration.md
       - Info for JC1 Student & Parents/Information on Mother Tongue Languages.md
       - Info for JC1 Student & Parents/Information on Finance Matters.md
