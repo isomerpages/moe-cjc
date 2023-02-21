@@ -1,13 +1,2 @@
 logo: /images/cjclogo-btm.png
-links:
-  - title: About Us
-    url: /about-us
-    sublinks:
-      - title: Principal's Message
-        url: /about-us/principal-message
-      - title: our vision
-        url: /permalink
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
+links: []
