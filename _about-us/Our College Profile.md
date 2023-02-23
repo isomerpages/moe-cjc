@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -115,9 +115,9 @@ Internal&nbsp;examinations&nbsp;are&nbsp;conducted&nbsp;across&nbsp;two&nbsp;yea
 Estimated&nbsp;or&nbsp;predicted&nbsp;grades&nbsp;are&nbsp;based&nbsp;on&nbsp;the&nbsp;student’s&nbsp;progress&nbsp;across&nbsp;the&nbsp;two&nbsp;years&nbsp;and&nbsp;are&nbsp;sent&nbsp;to&nbsp;universities&nbsp;and&nbsp;college&nbsp;admissions&nbsp;boards&nbsp;if&nbsp;the&nbsp;GCE&nbsp;A-Level&nbsp;examination&nbsp;results&nbsp;are&nbsp;not&nbsp;yet&nbsp;available,&nbsp;due&nbsp;to&nbsp;the&nbsp;differences&nbsp;in&nbsp;college/&nbsp;academic&nbsp;calendars.
 
 #### **Classes and Course Load**
-Based&nbsp;on&nbsp;the&nbsp;minimum&nbsp;10&nbsp;unit&nbsp;course,&nbsp;classes&nbsp;for&nbsp;each&nbsp;subject&nbsp;are&nbsp;taught&nbsp;through&nbsp;lectures,&nbsp;tutorial&nbsp;sessions&nbsp;and&nbsp;for&nbsp;science&nbsp;subjects,&nbsp;practical&nbsp;sessions.&nbsp;Each&nbsp;class&nbsp;period&nbsp;lasts&nbsp;for&nbsp;55&nbsp;minutes,&nbsp;with&nbsp;practical&nbsp;sessions&nbsp;utilising&nbsp;two such&nbsp;periods.&nbsp;In&nbsp;addition&nbsp;to&nbsp;the&nbsp;lecture/tutorial&nbsp;approach,&nbsp;certain&nbsp;classes&nbsp;are&nbsp;conducted&nbsp;using&nbsp;a&nbsp;seminar&nbsp;approach&nbsp;for&nbsp;greater&nbsp;levels&nbsp;of&nbsp;inquiry&nbsp;and&nbsp;interaction.&nbsp;This&nbsp;mode&nbsp;of&nbsp;delivery&nbsp;has&nbsp;been&nbsp;adopted&nbsp;for&nbsp;all&nbsp;Humanities&nbsp;subjects&nbsp;from 2016.
+Based on the minimum 10 unit course, classes for each subject are taught through lectures, tutorial sessions and for science subjects, practical sessions. Each class period lasts for 55 minutes, with practical sessions utilising two such periods. In addition to the lecture/tutorial approach, certain classes are conducted using a seminar approach for greater levels of inquiry and interaction. This mode of delivery has been adopted for all Humanities subjects from 2016.
 
-Some&nbsp;students&nbsp;with&nbsp;the&nbsp;interest&nbsp;and&nbsp;aptitude&nbsp;to&nbsp;offer&nbsp;subjects&nbsp;at&nbsp;a&nbsp;higher&nbsp;level&nbsp;are&nbsp;able&nbsp;to&nbsp;offer&nbsp;1&nbsp;to&nbsp;2&nbsp;H2&nbsp;subjects&nbsp;at&nbsp;the&nbsp;H3&nbsp;level.&nbsp;H3&nbsp;courses&nbsp;are&nbsp;conducted&nbsp;in&nbsp;a&nbsp;variety&nbsp;of&nbsp;ways,&nbsp;depending&nbsp;on&nbsp;each&nbsp;discipline,&nbsp;in&nbsp;collaboration&nbsp;with&nbsp;Institutes&nbsp;of&nbsp;Higher&nbsp;Learning.&nbsp;They&nbsp;are&nbsp;equivalent&nbsp;to&nbsp;the&nbsp;American&nbsp;high&nbsp;school&nbsp;honours&nbsp;courses&nbsp;or&nbsp;the&nbsp;S&nbsp;papers&nbsp;in&nbsp;the&nbsp;UK&nbsp;system.&nbsp;The&nbsp;other&nbsp;common&nbsp;mode&nbsp;of&nbsp;assessment&nbsp;for&nbsp;H3&nbsp;courses&nbsp;would&nbsp;be&nbsp;through&nbsp;an&nbsp;extended&nbsp;research&nbsp;essay&nbsp;where&nbsp;the&nbsp;research&nbsp;is&nbsp;carried&nbsp;out&nbsp;independently&nbsp;by&nbsp;the&nbsp;student.
+Some students with the interest and aptitude to offer subjects at a higher level are able to offer 1 to 2 H2 subjects at the H3 level. H3 courses are conducted in a variety of ways, depending on each discipline, in collaboration with Institutes of Higher Learning. They are equivalent to the American high school honours courses or the S papers in the UK system. The other common mode of assessment for H3 courses would be through an extended research essay where the research is carried out independently by the student.
 
 #### **Grading system at CJC**
 <center>A-Level Grading<br>Grades A-E are considered passing grades whilst grade S Is considered a ‘sub- pass’ - falling below expectation. Grade U (ungraded) is considered a failing grade. The marking divisions are shown below.</center>
@@ -231,9 +231,9 @@ Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
 |
 
 #### **The CJC Ignite Programme**
-The&nbsp;CJC&nbsp;Ignite&nbsp;programme&nbsp;is&nbsp;a&nbsp;talent&nbsp;development&nbsp;programme&nbsp;in&nbsp;alignment&nbsp;to&nbsp;the&nbsp;College’s&nbsp;mission of&nbsp;“Building&nbsp;a&nbsp;generation:&nbsp;In&nbsp;Truth&nbsp;&amp;&nbsp;Love”&nbsp;where&nbsp;every&nbsp;CJCian&nbsp;is&nbsp;a&nbsp;Thinker&nbsp;with&nbsp;a&nbsp;Mission&nbsp;and&nbsp;a&nbsp;Leader&nbsp;with&nbsp;a&nbsp;Heart.&nbsp;Our&nbsp;integrated&nbsp;curriculum&nbsp;prepares&nbsp;students&nbsp;to&nbsp;be&nbsp;critical&nbsp;thinkers&nbsp;and&nbsp;future-oriented&nbsp;leaders,&nbsp;through&nbsp;providing&nbsp;them&nbsp;with&nbsp;the&nbsp;opportunities&nbsp;to&nbsp;ask&nbsp;difficult&nbsp;questions,&nbsp;uncover&nbsp;core&nbsp;theories&nbsp;and&nbsp;analyse&nbsp;complex&nbsp;problems.&nbsp;Students&nbsp;from&nbsp;the&nbsp;Ignite&nbsp;Programme&nbsp;not&nbsp;only&nbsp;achieve&nbsp;excellent&nbsp;results&nbsp;in&nbsp;the&nbsp;GCE&nbsp;A-Level&nbsp;examination,&nbsp;they&nbsp;are&nbsp;also&nbsp;recognised&nbsp;for&nbsp;their&nbsp;holistic&nbsp;leadership&nbsp;qualities.
+The CJC Ignite programme is a talent development programme in alignment to the College’s mission of “Building a generation: In Truth &amp; Love” where every CJCian is a Thinker with a Mission and a Leader with a Heart. Our integrated curriculum prepares students to be critical thinkers and future-oriented leaders, through providing them with the opportunities to ask difficult questions, uncover core theories and analyse complex problems. Students from the Ignite Programme not only achieve excellent results in the GCE A-Level examination, they are also recognised for their holistic leadership qualities.
 
-The&nbsp;CJC&nbsp;Ignite&nbsp;programme&nbsp;is&nbsp;built&nbsp;upon&nbsp;the&nbsp;following principles:
+The CJC Ignite programme is built upon the following principles:
 * Seminar-style pedagogy, encouraging exploration, reflection and expression of ideas
 * Smaller teacher-student ratio, allowing for greater tutor-student interaction and engagement
 * An authentic service learning project for a target community and / or advocacy programme
@@ -272,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
