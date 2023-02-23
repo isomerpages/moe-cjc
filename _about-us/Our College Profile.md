@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -52,10 +52,10 @@ In&nbsp;CJC&nbsp;we&nbsp;pursue&nbsp;knowledge&nbsp;for&nbsp;the&nbsp;service&nb
 The&nbsp;school’s&nbsp;mission&nbsp;is&nbsp;to&nbsp;develop&nbsp;every&nbsp;CJCian&nbsp;to&nbsp;be&nbsp;a&nbsp;Thinker&nbsp;with&nbsp;a&nbsp;Mission,&nbsp;and&nbsp;Leader&nbsp;with&nbsp;a&nbsp;Heart&nbsp;\-&nbsp;a&nbsp;servant&nbsp;leader&nbsp;who,&nbsp;as&nbsp;a&nbsp;critical thinker,&nbsp;pursues&nbsp;knowledge&nbsp;with&nbsp;a&nbsp;sense&nbsp;of&nbsp;purpose,&nbsp;searches&nbsp;fo Truth&nbsp;in&nbsp;the&nbsp;disciplines&nbsp;of&nbsp;study,&nbsp;discerns,&nbsp;appreciates&nbsp;and&nbsp;empathises&nbsp;fully&nbsp;with&nbsp;the&nbsp;needs&nbsp;and&nbsp;concerns&nbsp;of&nbsp;the&nbsp;different&nbsp;members&nbsp;and&nbsp;sectors&nbsp;of&nbsp;society.
 
 #### **Thinker with a Mission**
-* This&nbsp;thinker&nbsp;pursues&nbsp;knowledge&nbsp;with&nbsp;a&nbsp;sense&nbsp;of&nbsp;purpose&nbsp;and&nbsp;searches&nbsp;for&nbsp;Truth&nbsp;in the&nbsp;disciplines&nbsp;of&nbsp;study.
-* This&nbsp;individual&nbsp;demonstrates&nbsp;and&nbsp;upholds&nbsp;the&nbsp;intellectual&nbsp;traits&nbsp;and&nbsp;values&nbsp;of&nbsp;Humility,&nbsp;Courage,&nbsp;Empathy,&nbsp;Integrity,&nbsp;Perseverance,&nbsp;Faith&nbsp;in&nbsp;Reason&nbsp;and&nbsp;Fair-&nbsp;mindedness.
-* This&nbsp;self directed&nbsp;student&nbsp;always&nbsp;questions&nbsp;assumptions,&nbsp;makes&nbsp;thinking&nbsp;visible,&nbsp;displays&nbsp;conceptual&nbsp;understanding,&nbsp;generates&nbsp;new&nbsp;ideas&nbsp;and&nbsp;makes&nbsp;reflective&nbsp;thinking&nbsp;second&nbsp;nature.
-* This&nbsp;student&nbsp;thinker&nbsp;strives&nbsp;for&nbsp;accuracy,&nbsp;relevance,&nbsp;depth,&nbsp;breadth,&nbsp;logic&nbsp;and
+* This thinker pursues knowledge with a sense of purpose and searches for Truth in the disciplines of study.
+* This individual demonstrates and upholds the intellectual traits and values of Humility, Courage, Empathy, Integrity, Perseverance, Faith in Reason and Fair- mindedness.
+* This self-directed student always questions assumptions, makes thinking visible, displays conceptual understanding, generates new ideas and makes reflective thinking second nature.
+* This student thinker strives for accuracy, relevance, depth, breadth, logic and
 
 fairness&nbsp;when&nbsp;interacting&nbsp;and&nbsp;doing&nbsp;assigned&nbsp;tasks in&nbsp;the&nbsp;classroom,&nbsp;as&nbsp;well&nbsp;as&nbsp;when&nbsp;the&nbsp;student&nbsp;participates&nbsp;in&nbsp;the&nbsp;college’s&nbsp;Student&nbsp;Development,
 
@@ -272,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
