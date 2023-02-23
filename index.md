@@ -34,12 +34,14 @@ sections:
       button: find out more
       url: /highlights/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: Our CJ Story
+      subtitle: catholic junior college
+      description: A CJC education prepares you for life. We want you to be a
+        generation that changes the world.
+      button: for more info
       image: /images/infopic1.jpg
       alt: Image alt text
+      url: /education/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
