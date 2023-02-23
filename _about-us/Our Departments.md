@@ -315,6 +315,6 @@ description: ""
 
 #### **College Chaplain**
 
-
+Father Justin Yip
 
 #### **Executive and Administrative Staff**
