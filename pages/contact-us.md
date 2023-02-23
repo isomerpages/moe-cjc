@@ -8,7 +8,12 @@ locations:
       - 129 Whitley Road
       - Singapore 297822
       - ""
-    operating_hours: []
+    operating_hours:
+      - days: Mon - Fri
+        time: 7am to 5pm
+        description: >
+          The Administrative Office will be closed on Saturdays, Sundays and
+          Public Holidays.
     maps_link: ""
     title: Address
 contacts:
@@ -20,9 +25,9 @@ contacts:
   - content:
       - phone: +65 6253 7267
       - email: ""
-      - other: <b>Messages and Mail</b><br>Urgent messages can be left by ringing the
-          Administrative Office at 62524083. To contact tutors, ring the office
-          and leave a message for the particular staff member to whom you wish
-          to speak.
+      - other: <br><b>Messages and Mail</b><br>Urgent messages can be left by ringing
+          the Administrative Office at 62524083. To contact tutors, ring the
+          office and leave a message for the particular staff member to whom you
+          wish to speak.
     title: Fax
 ---
