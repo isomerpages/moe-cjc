@@ -9,16 +9,28 @@ sections:
   - hero:
       background: /images/e8a24c49e_121.jpg
       key_highlights:
-        - title: CJC's e-Open House
+        - title: Students
           description: ""
           url: ""
-        - title: CJCares Fundraising
+        - title: Staff
           description: ""
           url: ""
-        - title: NEWS
-          description: ""
-          url: /news/
-        - title: Highlights
+        - title: Parents
           description: ""
           url: ""
+        - title: Alumni
+          description: ""
+          url: ""
+  - infobar:
+      title: News
+      subtitle: Catholic Junior College
+      description: Find out about CJC latest news!
+      button: Find out more
+      url: /news/
+  - infobar:
+      title: Highlights
+      subtitle: catholic junior college
+      description: Highlights of CJC
+      button: find out more
+      url: /highlights/
 ---
