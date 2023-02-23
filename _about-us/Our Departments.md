@@ -157,7 +157,20 @@ description: ""
 
 #### **Physical Education**
 
-
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Balbinder Singh / Head of Department/CCA & Partnership | [balbinder_singh@moe.edu.sg](mailto:balbinder_singh@moe.edu.sg) |
+| Marimuthu Sandanam / Year Head JC1, Covering HOD/PE | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
+| Chen Yuliang / Subject Head/PE & CCA | [chen_yuliang@moe.edu.sg](mailto:chen_yuliang@moe.edu.sg)  |
+| Dr Bernadette Ashley / Subject Head/Aesthestics & Partnership  | [bernadette_ashley@moe.edu.sg](mailto:bernadette_ashley@moe.edu.sg)  |
+| Austin Ong Wee Kiat  | [austin_ong_wee_kiat@moe.edu.sg](mailto:austin_ong_wee_kiat@moe.edu.sg)  |
+| Foo Chee Tuang  | [foo_chee_tuang@moe.edu.sg](mailto:foo_chee_tuang@moe.edu.sg)  |
+| Ho Wei Leong Adrian  | [ho_wei_leong_adrian@moe.edu.sg](mailto:ho_wei_leong_adrian@moe.edu.sg)  |
+| James Oh  | [james_oh_chit_lim@moe.edu.sg](mailto:james_oh_chit_lim@moe.edu.sg)  |
+| Jeremy Yeow Yongqi  | [yeow_yongqi_jeremy@moe.edu.sg](mailto:yeow_yongqi_jeremy@moe.edu.sg)  |
+| Norazlan B Ibrahim  | [norazlan_ibrahim@moe.edu.sg](mailto:norazlan_ibrahim@moe.edu.sg) |
+| Peter Loke Weng Oon  | [peter_loke_weng_onn@moe.edu.sg](mailto:peter_loke_weng_onn@moe.edu.sg)  |
+|
 
 #### **Project Work**
 
