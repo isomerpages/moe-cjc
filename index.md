@@ -53,12 +53,14 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: About Us
+      subtitle: catholic junior college
+      description: CJCians strive to be the best and brightest they can be. We lead,
+        serve and strive towards excellence in learning and living.
+      button: for more info
       image: /images/infopic3.jpg
       alt: Image alt text
+      url: /about-us/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
