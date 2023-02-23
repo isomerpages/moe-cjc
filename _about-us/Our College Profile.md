@@ -105,3 +105,119 @@ There are two compulsory elements of the two-year course which are re
 
 Students are expected to take a minimum of 10 units (H1: 1 unit; H2: 2 units; H3: 1 unit). Some students may take a more demanding course of up to 12 units. These students would most likely take a fourth H2 subject and possibly a subject at the H3 level.
 
+#### **Academic Calendar**
+The academic year runs from January to December, comprising two semesters or four terms. Each course of study typically lasts for two years and culminates in students taking the GCE A-Level examinations in November of the graduating year.
+
+Internal examinations are conducted across two years so that students and staff can monitor progress in learning:
+* JC1 (year 11): Mid-Year Examination, Promotional Examination
+* JC2 (year 12): Mid-Year Examination, Preliminary Examination
+
+Estimated or predicted grades are based on the student’s progress across the two years and are sent to universities and college admissions boards if the GCE A-Level examination results are not yet available, due to the differences in college/ academic calendars.
+
+#### **Classes and Course Load**
+Based on the minimum 10 unit course, classes for each subject are taught through lectures, tutorial sessions and for science subjects, practical sessions. Each class period lasts for 55 minutes, with practical sessions utilising two such periods. In addition to the lecture/tutorial approach, certain classes are conducted using a seminar approach for greater levels of inquiry and interaction. This mode of delivery has been adopted for all Humanities subjects from 2016.
+
+Some students with the interest and aptitude to offer subjects at a higher level are able to offer 1 to 2 H2 subjects at the H3 level. H3 courses are conducted in a variety of ways, depending on each discipline, in collaboration with Institutes of Higher Learning. They are equivalent to the American high school honours courses or the S papers in the UK system. The other common mode of assessment for H3 courses would be through an extended research essay where the research is carried out independently by the student.
+
+#### **Grading system at CJC**
+<center>A-Level Grading<br><br>Grades A-E are considered passing grades whilst grade S Is considered a ‘sub- pass’ - falling below expectation. Grade U (ungraded) is considered a failing grade. The marking divisions are shown below.</center>
+
+|  |  |  |  |  |  |  |  |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| H1/H2 | A | B | C | D | E | S | U |
+| H3 | Distinction | Merit |  | Pass |  | Sub<br>-<br>pass | Ungraded |
+| Mark allocation | 70-100 | 60-69 | 55-<br>59 | 50-<br>54 | 45-<br>49 | 40-44 | <40 |
+|
+
+#### **Scholarships**
+Our students are regular recipients of government and university scholarships.
+
+These include scholarships by relevant government ministries and Statutory Boards such as:<br>
+The President’s Scholarship<br>
+The Public Service Commission Scholarships<br>
+SAF Overseas & Merit Scholarship<br>
+MOE (Ministry of Education) Overseas Merit Scholarship (Teaching) MOE Local Merit Scholarship (Teaching)<br>
+MOE Teaching Scholarship<br>
+MOE Teaching Award<br>
+MOHH (Ministry of Health) Scholarship MOHH Healthcare Merit Award<br>
+SPH (Singapore Press Holdings) Scholarship SPRING Scholarship<br>
+SgIS- Healthcare Administration Scholarship (Mid-term)<br>
+PUB (Public Utilities Board) Scholarship<br>
+IDA (Infocomm Development Authority) Scholarship NAC (National Arts Council) Scholarship
+
+And scholarships by various Universities such as: <br>
+NUS (National University of Singapore)<br>
+NTU (Nanyang Technological University)<br>
+SMU (Singapore Management University)<br>
+SUTD (Singapore University of Technology & Design) 
+
+\[This is an indicative list which is not exhaustive.\]
+
+We also offer scholarships and awards at a college-level which our students are regular recipients of. These aim to reward students with a strong academic record, share a passion for sports and/or display strong character and service to the community. They include:<br>
+The CJC Archbishop’s Scholarship The CJC Flame Scholarship<br>
+Dr Ee Peng Liang Memorial Award Mr Bernard Chen Memorial Award<br>
+Father Gerard Keane Memorial Award<br>
+Sister Deirdre O’Loan Commendation Memorial Award<br>
+Sportsperson of the Year Award<br>
+Lee Foundation Merit Award (Service)<br>
+Narindar K. Dhillion Award (Humanities)<br>
+Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
+
+#### **Examples of Universities our students have graduated from:**
+**UK**<br>
+1\.  University of Cambridge<br>
+2\.  University of Oxford<br>
+3\.  London School of Economics<br>
+4\.  Imperial College London<br>
+5\.  King’s College London<br>
+6\.  University of Warwick<br>
+7\.  Durham University<br>
+8\.  University of Nottingham<br>
+9\.  University of Edinburgh
+
+**US**<br>
+1\.  Harvard University<br>
+2\.  Stamford University<br>
+3\.  Columbia University<br>
+4\.  University of Pennsylvania<br>
+5\.  University of Michigan<br>
+6\.  Purdue University<br>
+7\.  Washington University<br>
+8\.  Oberlin College<br>
+9\.  Wesleyan University<br>
+10\.   Rice University<br>
+11\.   Tufts University<br>
+12\.  Georgia Institute of Technology<br>
+13\.  University of California (Davis)<br>
+14\.  University of California (Irvine)<br>
+15\.  Rutgers University<br>
+16\.  New York University
+
+**Australia/ New Zealand**<br>
+1\.  Australian National University<br>
+2\.  University of Melbourne<br>
+3\.  University of Sydney<br>
+4\.  Monash University<br>
+5\.  Murdoch University<br>
+6\.  University of Adelaide<br>
+7\.  University of Auckland<br>
+8\.  University of Canterbury<br>
+9\.  University of Otago
+
+**Singapore**<br>
+1\.  National University of Singapore<br>
+2\.  Nanyang Technological University<br>
+3\.  Singapore Management University<br>
+4\.  Singapore University of Technology and Design<br>
+5\.  Yale- NUS<br>
+6\.  Singapore University of Social Sciences
+
+#### **Subjects Offered at A-Level by our College**
+
+<center><b>Content Based Subjects</b></center>
+
+| Group | Subject | H1 | H2 | H3 |
+|:---:|:---:|:---:|:---:|:---:|
+| <br>Mathematics and Science (Laboratory Science) | Mathematics<br>Biology<br>Chemistry<br>Physics | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ |
+| <br><br>Humanities & The Arts | Economics<br>Geography<br>History<br>Literature in English<br>English Language and Linguistics | √<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√ |
+|
