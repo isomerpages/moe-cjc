@@ -285,8 +285,8 @@ description: ""
 | 2T04 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)   |
 | 2T05 | Tan Weng Cheong Alex | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg) |
 | 2T05 | MacKenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
-| 2T06 | Wang Jiexin  | wang_jiexin@moe.edu.sg |
-| 2T07 | Soh Yan Shan Serena | soh_yan_shan_serena@moe.edu.sg  |
+| 2T06 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
+| 2T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
 | 2T08 | Eugene Tan Ker Wen | tan_ker_wen_eugene@moe.edu.sg |
 | 2T09 | Lim Seow Thong | lim_seow_thong@moe.edu.sg |
 | 2T10 | Ang Shiok Hoon | ang_shiok_hoon@moe.edu.sg |
