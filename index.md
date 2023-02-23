@@ -26,13 +26,13 @@ sections:
       subtitle: Catholic Junior College
       description: Find out about CJC latest news!
       button: Find out more
-      url: /news/
+      url: /news/2023/cjc-open-house/
   - infobar:
       title: Highlights
       subtitle: catholic junior college
       description: Highlights of CJC
       button: find out more
-      url: /highlights/
+      url: /highlights/27/
   - infopic:
       title: Our CJ Story
       subtitle: catholic junior college
@@ -79,5 +79,3 @@ sections:
       alt: Image alt text
       url: https://cjc.moe.edu.sg/eopenhouse
 ---
-
-
