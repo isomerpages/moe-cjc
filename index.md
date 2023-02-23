@@ -43,12 +43,15 @@ sections:
       alt: Image alt text
       url: /education/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: CJCares Fundraising
+      subtitle: catholic junior college
+      description: CJCares supports CJCians who require financial assistance during
+        these challenging times. Money raised will go to CJC Needy Students
+        Fund.
+      button: for more info
       image: /images/infopic2.jpg
       alt: Image alt text
+      url: https://www.giving.sg/catholic-junior-college
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
