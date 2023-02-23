@@ -86,7 +86,17 @@ description: ""
 
 #### **Humanities Department**
 
-
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Hang Shu Min Celestine / Head of Department | [hang_shu_min_celestine@moe.edu.sg](mailto:hang_shu_min_celestine@moe.edu.sg)  |
+| Angeline Sim Guanli / School Staff Developer | [sim_guanli_angeline@moe.edu.sg](mailto:sim_guanli_angeline@moe.edu.sg) |
+| Nur Adhana / Subject Head/History | [nur_adhana_mohamed_anwar@moe.edu.sg](mailto:nur_adhana_mohamed_anwar@moe.edu.sg)  |
+| Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg) |
+| Tan Wei Jun / Subject Head/Student Development Curriculum  | [tan_wei_jun@moe.edu.sg](mailto:tan_wei_jun@moe.edu.sg)  |
+| Tan Weng Cheong Alex / Senior Teacher  | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg)  |
+| Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
+| Lim Hui Min Janice | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
+|
 
 #### **Infocomm Tech / Media Resource Library**
 
