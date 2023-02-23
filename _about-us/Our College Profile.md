@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -86,33 +86,34 @@ A signature global leadership development programme which enables JC1 students t
 Badminton ▫ Basketball ▫ Canoeing ▫ Fencing ▫ Floorball ▫ Judo ▫ Netball ▫ Shooting ▫ Soccer ▫ Swimming ▫ Tennis ▫ Bowling ▫ Track &amp; Field ▫ Cross Country ▫ Volleyball ▫ Ultimate Frisbee
 
 ##### **Visual and Performing Arts**
-Choir&nbsp;▫&nbsp;Modern Dance&nbsp;▫&nbsp;English Drama&nbsp;▫&nbsp;Guitar&nbsp;▫&nbsp;Guzheng&nbsp;▫&nbsp;Concert Band
+Choir ▫ Modern Dance ▫ English Drama ▫ Guitar ▫ Guzheng ▫ Concert Band
 
 ##### **Clubs and Societies**
-Editorial&nbsp;Club&nbsp;▫&nbsp;STEM Club&nbsp;▫&nbsp;Film Sound Video Society ▫ First&nbsp;Aid&nbsp;Club&nbsp;▫&nbsp;Interact&nbsp;Club&nbsp;▫&nbsp;Oratorical&nbsp;Society&nbsp;▫&nbsp;Strategy&nbsp;Games Club&nbsp;▫&nbsp;Student Council ▫ Nexus Investment &amp; Entrepreneurship Society ▫ Genesis&nbsp;(Second&nbsp;CCA)
+Editorial Club ▫ STEM Club ▫ Film Sound Video Society ▫ First Aid Club ▫ Interact Club ▫ Oratorical Society ▫ Strategy Games Club ▫ Student Council ▫ Nexus Investment &amp; Entrepreneurship Society ▫ Genesis (Second CCA)
 
 ##### **Leadership opportunities**
-Student&nbsp;Council&nbsp;▫&nbsp;House&nbsp;Leaders&nbsp;▫&nbsp;Class&nbsp;Committees&nbsp;▫&nbsp;&nbsp;Subject&nbsp;Leaders
+Student Council ▫ House Leaders ▫ Class Committees ▫  Subject Leaders
 
 #### **The Singapore-Cambridge A-Level (Advanced Level) Examination Syllabus (revised in 2007)**
-From&nbsp;2006,&nbsp;a&nbsp;broader&nbsp;and&nbsp;more&nbsp;flexible&nbsp;A-Level&nbsp;curriculum&nbsp;was&nbsp;adopted&nbsp;in&nbsp;line&nbsp;with&nbsp;the&nbsp;nation’s&nbsp;approach&nbsp;for&nbsp;formal&nbsp;education&nbsp;to&nbsp;be&nbsp;relevant&nbsp;to&nbsp;changing&nbsp;needs&nbsp;both&nbsp;locally&nbsp;and&nbsp;globally.
+From 2006, a broader and more flexible A-Level curriculum was adopted in line with the nation’s approach for formal education to be relevant to changing needs both locally and globally.
 
-&nbsp;All&nbsp;students&nbsp;taking&nbsp;the&nbsp;GCE&nbsp;A-Level&nbsp;examinations&nbsp;should&nbsp;be&nbsp;required&nbsp;to&nbsp;study&nbsp;a&nbsp;contrasting&nbsp;subject&nbsp;(from&nbsp;a&nbsp;discipline&nbsp;other&nbsp;than&nbsp;their&nbsp;main&nbsp;course&nbsp;of&nbsp;study),&nbsp;as&nbsp;well&nbsp;as&nbsp;to&nbsp;engage&nbsp;in&nbsp;a&nbsp;project-based&nbsp;activity&nbsp;with&nbsp;their&nbsp;peers.&nbsp;A&nbsp;new&nbsp;three-tiered&nbsp;structure&nbsp;was&nbsp;introduced&nbsp;with&nbsp;H1,&nbsp;H2&nbsp;and&nbsp;H3&nbsp;options&nbsp;available&nbsp;–&nbsp;categories&nbsp;sorted&nbsp;by&nbsp;increasing&nbsp;rigour&nbsp;demanded.
+All students taking the GCE A-Level examinations should be required to study a contrasting subject (from a discipline other than their main course of study), as well as to engage in a project-based activity with their peers. A new three-tiered structure was introduced with H1, H2 and H3 options available – categories sorted by increasing rigour demanded.
 
-All&nbsp;students&nbsp;are&nbsp;required&nbsp;to&nbsp;take&nbsp;a&nbsp;minimum&nbsp;of&nbsp;three&nbsp;subjects&nbsp;at&nbsp;the&nbsp;H2&nbsp;level&nbsp;and&nbsp;these&nbsp;are&nbsp;equivalent&nbsp;to&nbsp;a&nbsp;full&nbsp;A-Level&nbsp;in&nbsp;the&nbsp;current&nbsp;UK&nbsp;system.&nbsp;In&nbsp;addition,&nbsp;students&nbsp;must&nbsp;sit&nbsp;for&nbsp;one&nbsp;other&nbsp;subject&nbsp;at&nbsp;either&nbsp;H1&nbsp;or&nbsp;H2&nbsp;level.
+All students are required to take a minimum of three subjects at the H2 level and these are equivalent to a full A-Level in the current UK system. In addition, students must sit for one other subject at either H1 or H2 level.
 
-There&nbsp;are&nbsp;two&nbsp;compulsory&nbsp;elements&nbsp;of&nbsp;the&nbsp;two-year&nbsp;course&nbsp;which&nbsp;are&nbsp;referred&nbsp;to&nbsp;as&nbsp;**“Knowledge**&nbsp;**Skills”** subjects&nbsp;(see&nbsp;below).&nbsp;These&nbsp;are&nbsp;General&nbsp;Paper,&nbsp;Knowledge&nbsp;and&nbsp;Inquiry&nbsp;and Project&nbsp;Work&nbsp;(completed&nbsp;in&nbsp;the&nbsp;first&nbsp;year).
+There are two compulsory elements of the two-year course which are referred to as “Knowledge Skills” subjects (see below). These are General Paper, Knowledge and Inquiry and Project Work (completed in the first year).
 
-Students&nbsp;are&nbsp;expected&nbsp;to&nbsp;take&nbsp;a&nbsp;minimum&nbsp;of&nbsp;10&nbsp;units&nbsp;(H1:&nbsp;1&nbsp;unit;&nbsp;H2:&nbsp;2&nbsp;units;&nbsp;H3:&nbsp;1&nbsp;unit).&nbsp;Some&nbsp;students&nbsp;may&nbsp;take&nbsp;a&nbsp;more&nbsp;demanding&nbsp;course&nbsp;of&nbsp;up&nbsp;to&nbsp;12&nbsp;units.&nbsp;These&nbsp;students&nbsp;would&nbsp;most&nbsp;likely&nbsp;take&nbsp;a&nbsp;fourth H2&nbsp;subject&nbsp;and&nbsp;possibly&nbsp;a&nbsp;subject&nbsp;at&nbsp;the H3&nbsp;level.
+Students are expected to take a minimum of 10 units (H1: 1 unit; H2: 2 units; H3: 1 unit). Some students may take a more demanding course of up to 12 units. These students would most likely take a fourth H2 subject and possibly a subject at the H3 level.
 
 #### **Academic Calendar**
-The&nbsp;academic&nbsp;year&nbsp;runs&nbsp;from&nbsp;January&nbsp;to&nbsp;December,&nbsp;comprising&nbsp;two&nbsp;semesters&nbsp;or&nbsp;four&nbsp;terms.&nbsp;Each&nbsp;course&nbsp;of&nbsp;study&nbsp;typically&nbsp;lasts&nbsp;for&nbsp;two&nbsp;years&nbsp;and&nbsp;culminates&nbsp;in&nbsp;students&nbsp;taking&nbsp;the&nbsp;GCE A-Level&nbsp;examinations&nbsp;in&nbsp;November&nbsp;of&nbsp;the&nbsp;graduating&nbsp;year.
+The academic year runs from January to December, comprising two semesters or four terms. Each course of study typically lasts for two years and culminates in students taking the GCE A-Level examinations in November of the graduating year.
 
-Internal&nbsp;examinations&nbsp;are&nbsp;conducted&nbsp;across&nbsp;two&nbsp;years&nbsp;so&nbsp;that&nbsp;students&nbsp;and&nbsp;staff&nbsp;can&nbsp;monitor&nbsp;progress&nbsp;in&nbsp;learning:
+Internal examinations are conducted across two years so that students and staff can monitor progress in learning:
+
 * JC1 (year 11): Mid-Year Examination, Promotional Examination
 * JC2 (year 12): Mid-Year Examination, Preliminary Examination
 
-Estimated&nbsp;or&nbsp;predicted&nbsp;grades&nbsp;are&nbsp;based&nbsp;on&nbsp;the&nbsp;student’s&nbsp;progress&nbsp;across&nbsp;the&nbsp;two&nbsp;years&nbsp;and&nbsp;are&nbsp;sent&nbsp;to&nbsp;universities&nbsp;and&nbsp;college&nbsp;admissions&nbsp;boards&nbsp;if&nbsp;the&nbsp;GCE&nbsp;A-Level&nbsp;examination&nbsp;results&nbsp;are&nbsp;not&nbsp;yet&nbsp;available,&nbsp;due&nbsp;to&nbsp;the&nbsp;differences&nbsp;in&nbsp;college/&nbsp;academic&nbsp;calendars.
+Estimated or predicted grades are based on the student’s progress across the two years and are sent to universities and college admissions boards if the GCE A-Level examination results are not yet available, due to the differences in college/ academic calendars.
 
 #### **Classes and Course Load**
 Based on the minimum 10 unit course, classes for each subject are taught through lectures, tutorial sessions and for science subjects, practical sessions. Each class period lasts for 55 minutes, with practical sessions utilising two such periods. In addition to the lecture/tutorial approach, certain classes are conducted using a seminar approach for greater levels of inquiry and interaction. This mode of delivery has been adopted for all Humanities subjects from 2016.
@@ -272,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
