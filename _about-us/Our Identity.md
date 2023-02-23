@@ -39,3 +39,4 @@ Live in Truth live in Faith and Love<br>
 Let our light spread and brighten the night<br>
 Let our flame warm all hearts and unite
 
+**Requires audio to be uploaded to youtube**
