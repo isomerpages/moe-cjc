@@ -31,6 +31,35 @@ description: ""
 
 #### **English Department**
 
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Chua Sook Lan Pauline / Head of Department | [chua_sook_lan_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg) |
+| Chua Mui Ling Dorothy / Lead Teacher | [chua_mui_ling_dorothy@moe.edu.sg](mailto:chua_mui_ling_dorothy@moe.edu.sg) |
+| Chew Heng Suan Cara / Level Head  | [chew_heng_suan_cara@moe.edu.sg](mailto:chew_heng_suan_cara@moe.edu.sg)  |
+| Thong Wan Ling Serene / Level Head | [thong_wan_ling_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg) |
+| Wendy Priscillia Wong / Subject Head/Corporate Communications | [wendy_priscillia_wong@moe.edu.sg](mailto:wendy_priscillia_wong@moe.edu.sg)  |
+| Lee Kwok Chung Conrad / Senior Teacher  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg) |
+| Alexandra Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
+| Annu Rai  | [annu_rai@moe.edu.sg](mailto:annu_rai@moe.edu.sg)  |
+| Brinda Balasubramaniam | [brinda_balasubramaniam@moe.edu.sg](mailto:brinda_balasubramaniam@moe.edu.sg)  |
+| Chia Yi Min Cheryl | [chia_yi_min_cheryl@moe.edu.sg](mailto:chia_yi_min_cheryl@moe.edu.sg)  |
+| David Fahy | [david_laurence_fahy@moe.edu.sg](mailto:david_laurence_fahy@moe.edu.sg)  |
+| Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg)  |
+| Gabriel Lee | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
+| Goh I Mei | [goh_i-mei@moe.edu.sg](mailto:goh_i-mei@moe.edu.sg) |
+| Jacky Chua | [jacky_chua_jie_qi@moe.edu.sg](mailto:jacky_chua_jie_qi@moe.edu.sg) |
+| Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg)  |
+| Law Hui Min  | [law_hui_min@moe.edu.sg](mailto:law_hui_min@moe.edu.sg)  |
+| Loh Zhi Wen Gregory | [loh_zhi_wen_gregory@moe.edu.sg](mailto:loh_zhi_wen_gregory@moe.edu.sg)  |
+| Lynette La'Brooy | [yong_choon_yen_lynette@moe.edu.sg](mailto:yong_choon_yen_lynette@moe.edu.sg)  |
+| Mackenzie Rae Schoon  | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
+| Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
+| Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:nandabalan_panneerselvam@moe.edu.sg)  |
+| Patricia Koh Seok Kwan  | koh_seok_kwan_patricia@moe.edu.sg |
+| Suzie Yanti | suzie_yanti_jumadi@moe.edu.sg  |
+| Tan Jie Jun Lester | tan_jie_jun_lester@moe.edu.sg |
+| Wang Jiexin | wang_jiexin@moe.edu.sg  |
+|
 
 #### **Economics Department**
 
