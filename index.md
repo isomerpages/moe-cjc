@@ -25,13 +25,13 @@ sections:
       title: News
       subtitle: Catholic Junior College
       description: Find out about CJC latest news!
-      button: Find out more
+      button: View all News
       url: /news/
   - infobar:
       title: Highlights
       subtitle: catholic junior college
       description: Highlights of CJC
-      button: find out more
+      button: view all highlights
       url: /highlights/37/
   - infopic:
       title: Our CJ Story
