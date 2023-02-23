@@ -2,4 +2,5 @@ collections:
   highlights:
     output: true
     order:
+      - Distinguished Speakers Series.md
       - Thinker with a Mission, Leader with a Heart Series Ng Yee Lin.md
