@@ -16,3 +16,24 @@ description: ""
 
 **Vice-Principal (Administration)**<br>
 [Mr Philip Alvar](mailto:catholic_jc@moe.edu.sg)
+
+#### **School Management Committee**
+**Chairman**<br>
+Mr Bernard Tan
+
+**Vice Chairman**<br>
+Assoc Prof Ivan Yeo
+
+**Secretary**<br>
+Mrs Phyllis Lim
+
+**Treasurer**<br>
+Ms Gwee Siew Ping
+
+**Members**<br>
+Dr Francis Oen<br>
+Ms Gopi Mirchandani<br>
+Mr Darrell Low<br>
+Dr Reuben Ng<br>
+Ms Jacqueline Chua<br>
+Mr Martino Tan
