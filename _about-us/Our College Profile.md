@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -152,9 +152,9 @@ NTU (Nanyang Technological University)<br>
 SMU (Singapore Management University)<br>
 SUTD (Singapore University of Technology &amp; Design) 
 
-\[This is an&nbsp;indicative&nbsp;list&nbsp;which&nbsp;is not&nbsp;exhaustive.\]
+[This is an indicative list which is not exhaustive.]
 
-We&nbsp;also&nbsp;offer&nbsp;scholarships&nbsp;and&nbsp;awards&nbsp;at&nbsp;a&nbsp;college-level&nbsp;which&nbsp;our&nbsp;students&nbsp;are&nbsp;regular&nbsp;recipients&nbsp;of.&nbsp;These&nbsp;aim&nbsp;to&nbsp;reward&nbsp;students&nbsp;with&nbsp;a&nbsp;strong&nbsp;academic&nbsp;record,&nbsp;share&nbsp;a&nbsp;passion&nbsp;for&nbsp;sports&nbsp;and/or&nbsp;display&nbsp;strong&nbsp;character&nbsp;and&nbsp;service&nbsp;to&nbsp;the&nbsp;community.&nbsp;They&nbsp;include:<br>
+We also offer scholarships and awards at a college-level which our students are regular recipients of. These aim to reward students with a strong academic record, share a passion for sports and/or display strong character and service to the community. They include:<br>
 The CJC Archbishop’s Scholarship The CJC Flame Scholarship<br>
 Dr Ee Peng Liang Memorial Award Mr Bernard Chen Memorial Award<br>
 Father Gerard Keane Memorial Award<br>
@@ -273,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
