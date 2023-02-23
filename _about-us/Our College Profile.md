@@ -229,3 +229,20 @@ Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
 | Languages | Mother Tongue Languages (MTL): _The MTL policy requires all students (including foreign students) to offer an MTL in addition to English Language._ | √ | | | 
 | Knowledge Skills | General Paper<br>Project Work (PW) | √<br>√ | | | 
 |
+
+#### **The CJC Ignite Programme**
+The CJC Ignite programme is a talent development programme in alignment to the College’s mission of “Building a generation: In Truth & Love” where every CJCian is a Thinker with a Mission and a Leader with a Heart. Our integrated curriculum prepares students to be critical thinkers and future-oriented leaders, through providing them with the opportunities to ask difficult questions, uncover core theories and analyse complex problems. Students from the Ignite Programme not only achieve excellent results in the GCE A-Level examination, they are also recognised for their holistic leadership qualities.
+
+The CJC Ignite programme is built upon the following principles:
+* Seminar-style pedagogy, encouraging exploration, reflection and expression of ideas
+* Smaller teacher-student ratio, allowing for greater tutor-student interaction and engagement
+* An authentic service learning project for a target community and / or advocacy programme
+* A residential programme at NUS U-Town based on our integrated learning approach Integration of subject disciplines, through a concept-based approach
+* Greater opportunities to develop life skills, communication and leadership skills
+
+#### **Knowledge Skills**
+These subjects are designed to support a rigorous course of academic study by developing higher order thinking skills, conceptual thinking, processing skills and communication skills.
+
+General Paper – This subject develops in students the ability to think critically, explore a range of key issues of global and local significance and express their views in cogent arguments using accurate and effective language. It comprises two main modes of assessment (writing and reading comprehension) to ensure that students are familiar with the skills required to write an academic argument and to evaluate and assess academic writing. The course spans the complete two years of the junior college course.
+
+Project Work – Students work in groups of 4-5 on a research task set at the national level. This results in a written report, a group project file, and an oral presentation of their research findings and recommendations. All aspects of Project Work are assessed in the first year (JC1).
