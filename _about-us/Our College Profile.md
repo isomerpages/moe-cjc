@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -134,34 +134,34 @@ Some students with the interest and aptitude to offer subjects at a higher level
 Our students are regular recipients of government and university scholarships.
 
 These include scholarships by relevant government ministries and Statutory Boards such as:<br>
-The President’s Scholarship<br>
-The Public Service Commission Scholarships<br>
-SAF Overseas &amp; Merit Scholarship<br>
-MOE (Ministry of Education) Overseas Merit Scholarship (Teaching) MOE Local Merit Scholarship (Teaching)<br>
-MOE Teaching Scholarship<br>
-MOE Teaching Award<br>
-MOHH (Ministry of Health) Scholarship MOHH Healthcare Merit Award<br>
-SPH (Singapore Press Holdings) Scholarship SPRING Scholarship<br>
-SgIS- Healthcare Administration Scholarship (Mid-term)<br>
-PUB (Public Utilities Board) Scholarship<br>
+\- The President’s Scholarship<br>
+\- The Public Service Commission Scholarships<br>
+\- SAF Overseas &amp; Merit Scholarship<br>
+\- MOE (Ministry of Education) Overseas Merit Scholarship (Teaching) MOE Local Merit Scholarship (Teaching)<br>
+\- MOE Teaching Scholarship<br>
+\- MOE Teaching Award<br>
+\- MOHH (Ministry of Health) Scholarship MOHH Healthcare Merit Award<br>
+\- SPH (Singapore Press Holdings) Scholarship SPRING Scholarship<br>
+\- SgIS- Healthcare Administration Scholarship (Mid-term)<br>
+\- PUB (Public Utilities Board) Scholarship<br>
 IDA (Infocomm Development Authority) Scholarship NAC (National Arts Council) Scholarship
 
 And scholarships by various Universities such as: <br>
-NUS (National University of Singapore)<br>
-NTU (Nanyang Technological University)<br>
-SMU (Singapore Management University)<br>
-SUTD (Singapore University of Technology &amp; Design) 
+\- NUS (National University of Singapore)<br>
+\- NTU (Nanyang Technological University)<br>
+\- SMU (Singapore Management University)<br>
+\- SUTD (Singapore University of Technology &amp; Design) 
 
 [This is an indicative list which is not exhaustive.]
 
 We also offer scholarships and awards at a college-level which our students are regular recipients of. These aim to reward students with a strong academic record, share a passion for sports and/or display strong character and service to the community. They include:<br>
-The CJC Archbishop’s Scholarship The CJC Flame Scholarship<br>
-Dr Ee Peng Liang Memorial Award Mr Bernard Chen Memorial Award<br>
-Father Gerard Keane Memorial Award<br>
-Sister Deirdre O’Loan Commendation Memorial Award<br>
-Sportsperson of the Year Award<br>
-Lee Foundation Merit Award (Service)<br>
-Narindar K. Dhillion Award (Humanities)<br>
+\- The CJC Archbishop’s Scholarship The CJC Flame Scholarship<br>
+\- Dr Ee Peng Liang Memorial Award Mr Bernard Chen Memorial Award<br>
+\- Father Gerard Keane Memorial Award<br>
+\- Sister Deirdre O’Loan Commendation Memorial Award<br>
+\- Sportsperson of the Year Award<br>
+\- Lee Foundation Merit Award (Service)<br>
+\- Narindar K. Dhillion Award (Humanities)<br>
 Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
 
 #### **Examples of Universities our students have graduated from:**
@@ -273,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
