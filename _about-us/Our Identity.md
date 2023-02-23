@@ -29,3 +29,13 @@ In Veritate et Caritate carries St Paul's message, a call to love and live among
 The College Flag provides a setting for the College Crest - the two shades of blue that are used in the college uniform and blazer.  
   
 The Crest is placed at the intersection of Y or gamma which is the Greek letter for ‘c’ and is also taken as the form of the Christian Cross. The Flag provides a powerful rallying point for students and the broader College Community in the distinctive College colours.
+
+#### **College Anthem**
+We are heirs of a glorious kingdom<br>
+Of treasures past ages have bestowed<br>
+Of the truth wisdom love and peace<br>
+We rejoice to proclaim and uphold<br>
+Live in Truth live in Faith and Love<br>
+Let our light spread and brighten the night<br>
+Let our flame warm all hearts and unite
+
