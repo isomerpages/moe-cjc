@@ -191,7 +191,24 @@ description: ""
 
 #### **Science (Physics and Biology)**
 
-
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Eugene Yeow / Head of Department | [yeow_eugene_pancratius@moe.edu.sg](mailto:yeow_eugene_pancratius@moe.edu.sg) |
+| Tay Su Lynn / Lead Teacher/Physics | [tay_su_lynn@moe.edu.sg](mailto:tay_su_lynn@moe.edu.sg) |
+| Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg)  |
+| Lin Yicheng Kelvin / Subject Head  | [lin_yicheng_kelvin@moe.edu.sg](mailto:lin_yicheng_kelvin@moe.edu.sg)  |
+| Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg)  |
+| Cipto Hu  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
+| Leong Wee Tek Alvin  | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
+| Lim Kai Ming  | lim_kai_ming@moe.edu.sg  |
+| Lim Seow Thong  | lim_seow_thong@moe.edu.sg  |
+| Lin Shilin Charlene  | lin_shilin_charlene@moe.edu.sg  |
+| Sri Yuni Bte Mazlan  | sri_yuni_mazlan@moe.edu.sg  |
+| Tan Ing Kiat  | tan_ing_keat@moe.edu.sg  |
+| Toh Ping Yong Jeffrey  | toh_ping_yong_jeffrey@moe.edu.sg  |
+| Wee Wee Chau | wee_wee_chau@moe.edu.sg  |
+| Zachary Kok  | zachary_kok_zhi_hoe@moe.edu.sg  |
+|
 
 #### **Science (Chemistry)**
 
