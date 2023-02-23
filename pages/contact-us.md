@@ -20,6 +20,9 @@ contacts:
   - content:
       - phone: +65 6253 7267
       - email: ""
-      - other: ""
+      - other: <b>Messages and Mail</b><br>Urgent messages can be left by ringing the
+          Administrative Office at 62524083. To contact tutors, ring the office
+          and leave a message for the particular staff member to whom you wish
+          to speak.
     title: Fax
 ---
