@@ -55,10 +55,10 @@ description: ""
 | Mackenzie Rae Schoon  | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
 | Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
 | Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:nandabalan_panneerselvam@moe.edu.sg)  |
-| Patricia Koh Seok Kwan  | koh_seok_kwan_patricia@moe.edu.sg |
-| Suzie Yanti | suzie_yanti_jumadi@moe.edu.sg  |
-| Tan Jie Jun Lester | tan_jie_jun_lester@moe.edu.sg |
-| Wang Jiexin | wang_jiexin@moe.edu.sg  |
+| Patricia Koh Seok Kwan  | [koh_seok_kwan_patricia@moe.edu.sg](mailto:koh_seok_kwan_patricia@moe.edu.sg) |
+| Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)  |
+| Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) |
+| Wang Jiexin | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg)  |
 |
 
 #### **Economics Department**
