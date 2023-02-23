@@ -32,7 +32,7 @@ sections:
       subtitle: catholic junior college
       description: Highlights of CJC
       button: find out more
-      url: /highlights/27/
+      url: /highlights/37/
   - infopic:
       title: Our CJ Story
       subtitle: catholic junior college
