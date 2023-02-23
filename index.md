@@ -26,7 +26,7 @@ sections:
       subtitle: Catholic Junior College
       description: Find out about CJC latest news!
       button: Find out more
-      url: /news/2023/cjc-open-house/
+      url: /news/
   - infobar:
       title: Highlights
       subtitle: catholic junior college
