@@ -62,12 +62,14 @@ sections:
       alt: Image alt text
       url: /about-us/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: CJC's Education
+      subtitle: catholic junior college
+      description: Celebrating the launch of the Sister Deirdre O’Loan Centre for
+        Creativity, 24 May 2022
+      button: for more info
       image: /images/infopic4.jpg
       alt: Image alt text
+      url: /news/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
