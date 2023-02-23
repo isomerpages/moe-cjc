@@ -287,30 +287,30 @@ description: ""
 | 2T05 | MacKenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
 | 2T06 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
 | 2T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
-| 2T08 | Eugene Tan Ker Wen | tan_ker_wen_eugene@moe.edu.sg |
-| 2T09 | Lim Seow Thong | lim_seow_thong@moe.edu.sg |
-| 2T10 | Ang Shiok Hoon | ang_shiok_hoon@moe.edu.sg |
-| 2T11 | Joshua Koh | joshua_koh_jun_xiang@moe.edu.sg |
-| 2T11  | Toh Ping Yong Jeffrey | toh_ping_yong_jeffrey@moe.edu.sg  |
-| 2T12 | Jacky Chua | jacky_chua_jie_qi@moe.edu.sg |
-| 2T13 | Chia Chew Xian Valarie | chia_chiew_xian_valarie@moe.edu.sg |
-| 2T14 | Lee Li-Shan | lee_li_shan@moe.edu.sg |
-| 2T15 | Zachary Kok Zhi Hoe | zachary_kok_zhi_hoe@moe.edu.sg |
-| 2T16 | Ng Chee Keong |  ng_chee_keong_c@moe.edu.sg |
-| 2T17 | Goh Tor Heng |  goh_tor_heng@moe.edu.sg |
-| 2T18 | Alexandra Leanne Hofbauer | hofbauer_alexandra_leanne@moe.edu.sg |
-| 2T19 | Thia Peter | thia_peter@moe.edu.sg |
-| 2T20 | Gabriel Lee Kong Meng | lee_kong_meng_gabriel@moe.edu.sg |
-| 2T21 | Chua Chee Siang | chua_chee_siang@moe.edu.sg |
-| 2T22 | Wee Siew Leng  | wee_siew_ling@moe.edu.sg  |
-| 2T23  | Benjamin Thong | benjamin_thong_gui_hong@moe.edu.sg |
-| 2T24 | Pang Soon Kit Kelvin | pang_soon_kit_kelvin@moe.edu.sg |
-| 2T25 | Marhaini Bte Mohamed Amil | marhaini_mohamed_amil@moe.edu.sg |
-| 2T26 | Lim Zhiyi | lim_zhiyi@moe.edu.sg |
-| 2T27 | Wang Qiumei Stephanie | wang_qiumei_stephanie@moe.edu.sg |
-| 2T28 | Lim Wei Ying | lim_wei_ying@moe.edu.sg |
-| 2T29 | Hing Meow Cheng Wendy | hing_meow_cheng_wendy@moe.edu.sg |
-| 2T29 | Thiru Kotti  | kotti_thirumuruganandam@moe.edu.sg  |
+| 2T08 | Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg) |
+| 2T09 | Lim Seow Thong | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
+| 2T10 | Ang Shiok Hoon | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
+| 2T11 | Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg) |
+| 2T11  | Toh Ping Yong Jeffrey | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg)  |
+| 2T12 | Jacky Chua | [jacky_chua_jie_qi@moe.edu.sg](mailto:jacky_chua_jie_qi@moe.edu.sg) |
+| 2T13 | Chia Chew Xian Valarie | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
+| 2T14 | Lee Li-Shan | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
+| 2T15 | Zachary Kok Zhi Hoe | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
+| 2T16 | Ng Chee Keong |  [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg) |
+| 2T17 | Goh Tor Heng |  [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
+| 2T18 | Alexandra Leanne Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg) |
+| 2T19 | Thia Peter | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
+| 2T20 | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
+| 2T21 | Chua Chee Siang | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
+| 2T22 | Wee Siew Leng  | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg)  |
+| 2T23  | Benjamin Thong | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
+| 2T24 | Pang Soon Kit Kelvin | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
+| 2T25 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
+| 2T26 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
+| 2T27 | Wang Qiumei Stephanie | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
+| 2T28 | Lim Wei Ying | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg) |
+| 2T29 | Hing Meow Cheng Wendy | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
+| 2T29 | Thiru Kotti  | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg)  |
 |
 
 #### **College Chaplain**
