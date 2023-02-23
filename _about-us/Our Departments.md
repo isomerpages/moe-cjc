@@ -174,7 +174,20 @@ description: ""
 
 #### **Project Work**
 
-
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Sek Kok Chuan Mervyn/ Head of Department Project Work & Integrated Curriculum | [mervyn_sek@moe.edu.sg](mailto:mervyn_sek@moe.edu.sg) |
+| Lucas Anil D'Cruz / Acting HOD/Student Development | [dcruz_lucas_anil@moe.edu.sg](mailto:dcruz_lucas_anil@moe.edu.sg) |
+| Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg)  |
+| Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg)  |
+| Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg)  |
+| Cassidy Soh  | [soh_yi_xing_cassidy_a@moe.edu.sg](mailto:soh_yi_xing_cassidy_a@moe.edu.sg)  |
+| Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
+| Prabhmeet Kaur | [prabhmeet_kaur_hundal@moe.edu.sg](mailto:prabhmeet_kaur_hundal@moe.edu.sg)  |
+| R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
+| Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg)  |
+| Tan Han Wei Amos  | [tan_han_wei_amos@moe.edu.sg](mailto:tan_han_wei_amos@moe.edu.sg)  |
+|
 
 #### **Science (Physics and Biology)**
 
