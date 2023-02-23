@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -120,7 +120,7 @@ Based&nbsp;on&nbsp;the&nbsp;minimum&nbsp;10&nbsp;unit&nbsp;course,&nbsp;classes&
 Some&nbsp;students&nbsp;with&nbsp;the&nbsp;interest&nbsp;and&nbsp;aptitude&nbsp;to&nbsp;offer&nbsp;subjects&nbsp;at&nbsp;a&nbsp;higher&nbsp;level&nbsp;are&nbsp;able&nbsp;to&nbsp;offer&nbsp;1&nbsp;to&nbsp;2&nbsp;H2&nbsp;subjects&nbsp;at&nbsp;the&nbsp;H3&nbsp;level.&nbsp;H3&nbsp;courses&nbsp;are&nbsp;conducted&nbsp;in&nbsp;a&nbsp;variety&nbsp;of&nbsp;ways,&nbsp;depending&nbsp;on&nbsp;each&nbsp;discipline,&nbsp;in&nbsp;collaboration&nbsp;with&nbsp;Institutes&nbsp;of&nbsp;Higher&nbsp;Learning.&nbsp;They&nbsp;are&nbsp;equivalent&nbsp;to&nbsp;the&nbsp;American&nbsp;high&nbsp;school&nbsp;honours&nbsp;courses&nbsp;or&nbsp;the&nbsp;S&nbsp;papers&nbsp;in&nbsp;the&nbsp;UK&nbsp;system.&nbsp;The&nbsp;other&nbsp;common&nbsp;mode&nbsp;of&nbsp;assessment&nbsp;for&nbsp;H3&nbsp;courses&nbsp;would&nbsp;be&nbsp;through&nbsp;an&nbsp;extended&nbsp;research&nbsp;essay&nbsp;where&nbsp;the&nbsp;research&nbsp;is&nbsp;carried&nbsp;out&nbsp;independently&nbsp;by&nbsp;the&nbsp;student.
 
 #### **Grading system at CJC**
-<center>A-Level Grading<br><br>Grades A-E are considered passing grades whilst grade S Is considered a ‘sub- pass’ - falling below expectation. Grade U (ungraded) is considered a failing grade. The marking divisions are shown below.</center>
+<center>A-Level Grading<br>Grades A-E are considered passing grades whilst grade S Is considered a ‘sub- pass’ - falling below expectation. Grade U (ungraded) is considered a failing grade. The marking divisions are shown below.</center>
 
 |  |  |  |  |  |  |  |  |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -272,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
