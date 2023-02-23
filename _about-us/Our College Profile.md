@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -248,13 +248,13 @@ General&nbsp;Paper&nbsp;–&nbsp;This&nbsp;subject&nbsp;develops&nbsp;in&nbsp;st
 Project&nbsp;Work&nbsp;–&nbsp;Students&nbsp;work&nbsp;in&nbsp;groups&nbsp;of&nbsp;4-5&nbsp;on&nbsp;a&nbsp;research&nbsp;task&nbsp;set&nbsp;at&nbsp;the&nbsp;national&nbsp;level.&nbsp;This&nbsp;results&nbsp;in&nbsp;a&nbsp;written&nbsp;report,&nbsp;a&nbsp;group&nbsp;project&nbsp;file,&nbsp;and&nbsp;an&nbsp;oral&nbsp;presentation&nbsp;of&nbsp;their&nbsp;research&nbsp;findings&nbsp;and&nbsp;recommendations.&nbsp;All&nbsp;aspects&nbsp;of&nbsp;Project&nbsp;Work&nbsp;are&nbsp;assessed&nbsp;in&nbsp;the&nbsp;first&nbsp;year&nbsp;(JC1).
 
 #### **Ministry of Education (MOE) Special Programmes at CJC**
-**English&nbsp;Language&nbsp;and&nbsp;Linguistics**<br>
-English&nbsp;Language&nbsp;and&nbsp;Linguistics&nbsp;(ELL)&nbsp;is&nbsp;a&nbsp;subject&nbsp;offered&nbsp;at&nbsp;the&nbsp;H2&nbsp;level.&nbsp;This&nbsp;subject&nbsp;has&nbsp;been&nbsp;offered&nbsp;as a&nbsp;national&nbsp;A\-Level&nbsp;curriculum&nbsp;since&nbsp;2009.&nbsp;ELL&nbsp;provides&nbsp;students&nbsp;with&nbsp;an&nbsp;excellent&nbsp;grounding&nbsp;in&nbsp;the&nbsp;intricacies&nbsp;of&nbsp;the&nbsp;English&nbsp;language&nbsp;and&nbsp;includes&nbsp;features&nbsp;of&nbsp;disciplines&nbsp;such as&nbsp;Linguistics,&nbsp;Psycholinguistics&nbsp;and&nbsp;Sociolinguistics.
+**English Language and Linguistics**<br>
+English Language and Linguistics (ELL) is a subject offered at the H2 level. This subject has been offered as a national A-Level curriculum since 2009. ELL provides students with an excellent grounding in the intricacies of the English language and includes features of disciplines such as Linguistics, Psycholinguistics and Sociolinguistics.
 
-CJC&nbsp;is&nbsp;one&nbsp;of&nbsp;the&nbsp;three&nbsp;schools&nbsp;offering&nbsp;the&nbsp;English&nbsp;Language&nbsp;Elective&nbsp;Programme&nbsp;(ELEP)&nbsp;in&nbsp;Singapore.&nbsp;This&nbsp;allows&nbsp;selected&nbsp;students&nbsp;with&nbsp;high&nbsp;aptitude&nbsp;for the&nbsp;subject&nbsp;to&nbsp;receive&nbsp;bond-free&nbsp;scholarships&nbsp;that&nbsp;include&nbsp;remission&nbsp;of&nbsp;school&nbsp;fees&nbsp;and&nbsp;an&nbsp;annual&nbsp;allowance.
+CJC is one of the three schools offering the English Language Elective Programme (ELEP) in Singapore. This allows selected students with high aptitude for the subject to receive bond-free scholarships that include remission of school fees and an annual allowance.
 
 #### **Local and Overseas Academic Learning Programme and Trips**
-CJC&nbsp;offers&nbsp;students&nbsp;a&nbsp;rich&nbsp;learning&nbsp;programme&nbsp;which&nbsp;enables&nbsp;engaged&nbsp;and&nbsp;authentic&nbsp;learning&nbsp;experiences.&nbsp;Besides&nbsp;classroom&nbsp;learning,&nbsp;students&nbsp;embark&nbsp;on&nbsp;a&nbsp;range&nbsp;of&nbsp;exciting&nbsp;learning&nbsp;activities,&nbsp;competitions,&nbsp;talent&nbsp;development&nbsp;and&nbsp;research&nbsp;programmes.&nbsp;These&nbsp;also&nbsp;include&nbsp;overseas&nbsp;academic&nbsp;trips&nbsp;to&nbsp;the&nbsp;UK,&nbsp;Hong&nbsp;Kong&nbsp;and&nbsp;India&nbsp;in&nbsp;partnership&nbsp;with&nbsp;reputable&nbsp;organisations&nbsp;and&nbsp;Institutes&nbsp;of&nbsp;Higher&nbsp;Learning&nbsp;such&nbsp;as&nbsp;REACH&nbsp;Cambridge,&nbsp;Hong&nbsp;Kong&nbsp;University&nbsp;(HKU)&nbsp;and&nbsp;the&nbsp;Singapore&nbsp;Ministry&nbsp;of&nbsp;Trade&nbsp;&amp;&nbsp;Industry&nbsp;(MTI).
+CJC offers students a rich learning programme which enables engaged and authentic learning experiences. Besides classroom learning, students embark on a range of exciting learning activities, competitions, talent development and research programmes. These also include overseas academic trips to the UK, Hong Kong and India in partnership with reputable organisations and Institutes of Higher Learning such as REACH Cambridge, Hong Kong University (HKU) and the Singapore Ministry of Trade &amp; Industry (MTI).
 
 ![](/images/collegeprofile1.jpg)
 ![](/images/collegeprofile2.jpg)
@@ -272,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
