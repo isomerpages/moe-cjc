@@ -16,7 +16,7 @@ The Dove is the Spirit of God. At the end of the flood, whose symbolism refers 
 Loved by God, we live in the Spirit and bear the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.
 
 #### **The Flame** 
-<img src="/images/flame.jpg" style="width:30%" align=left>
+<img src="/images/flame.jpg" style="width:25%" align=left>
 
 <br clear="left">
 
@@ -33,4 +33,4 @@ Orange symbolizes sacrifice. Sacrifice born out of a love that is shown in deeds
 
 Yellow symbolizes Truth. Truth encompasses the character of the person, standing with Integrity and Dignity. Truth drives the constant pursuit of perfection of Knowledge and endeavors others to do the same.
 
-The Flame symbolizes all that we hold dear in this College and all that we hope to offer in service to the world through the men and women who pass through the doors of our College. 
+The Flame symbolizes all that we hold dear in this College and all that we hope to offer in service to the world through the men and women who pass through the doors of our College.
