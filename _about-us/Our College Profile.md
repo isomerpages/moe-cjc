@@ -46,3 +46,13 @@ In CJC we pursue knowledge for the service of others.
 **Love**
 * Communal \- Exercising love that is accountable, that cares, nurtures and sacrifices; a love for the common good of all.
 * Individual \- Exercising the choice to be disciplined in body, mind and spirit as an expression of love of oneself.
+
+
+#### **Student Outcomes: Thinker with a Mission, Leader with a Heart**
+The school’s mission is to develop every CJCian to be a Thinker with a Mission, and Leader with a Heart \- a servant leader who, as a critical thinker, pursues knowledge with a sense of purpose, searches fo Truth in the disciplines of study, discerns, appreciates and empathises fully with the needs and concerns of the different members and sectors of society.
+
+#### **Thinker with a Mission**
+* This thinker pursues knowledge with a sense of purpose and searches for Truth in the disciplines of study.
+* This individual demonstrates and upholds the intellectual traits and values of Humility, Courage, Empathy, Integrity, Perseverance, Faith in Reason and Fair- mindedness.
+* This self directed student always questions assumptions, makes thinking visible, displays conceptual understanding, generates new ideas and makes reflective thinking second nature.
+* This student thinker strives for accuracy, relevance, depth, breadth, logic and
