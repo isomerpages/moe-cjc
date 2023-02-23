@@ -100,7 +100,11 @@ description: ""
 
 #### **Infocomm Tech / Media Resource Library**
 
-
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Lyncoln Lee / Head of Department | [lee_lyncoln@moe.edu.sg](mailto:lee_lyncoln@moe.edu.sg) |
+| Peh Ching Hui Rena / Subject Head/ICT | [peh_ching_hui_rena@moe.edu.sg](mailto:peh_ching_hui_rena@moe.edu.sg) |
+|
 
 #### **Integrated Curriculum**
 
