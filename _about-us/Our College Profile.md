@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -26,18 +26,20 @@ CJC was founded in 1971 on the idea that a junior college should be established 
 CJC began accepting students in 1975 and was officially opened in June 1976 by Mr. E.W. Barker, then the Minister of Law and the Environment. Today, we stand as Singapore’s third oldest Junior College and continue to develop students holistically as ‘Thinkers with a Mission and Leaders with a Heart’ in a changing global landscape.
 
 #### **Vision**
-**CJC -&nbsp;A&nbsp;Place of&nbsp;Excellence&nbsp;in&nbsp;Learning&nbsp;and&nbsp;Living.**
+**CJC - A Place of Excellence in Learning and Living.**
+
 * Excellence - Striving for high standards in educating young people.
 * Learning - Enabling students to realise their potential academically, physically and spiritually.
 * Living - Forming a person who is well-integrated into society.
 
 #### **Mission**
-**Building a&nbsp;Generation&nbsp;in&nbsp;Truth&nbsp;and&nbsp;Love:&nbsp;Every&nbsp;CJCian&nbsp;to&nbsp;be&nbsp;a&nbsp;Thinker&nbsp;with&nbsp;a&nbsp;Mission and&nbsp;a&nbsp;Leader&nbsp;with a&nbsp;Heart.**<br>
-We&nbsp;cultivate&nbsp;in&nbsp;each&nbsp;CJCian&nbsp;the&nbsp;skills&nbsp;and&nbsp;attitude&nbsp;to&nbsp;embrace&nbsp;challenges&nbsp;wisely&nbsp;and&nbsp;courageously.&nbsp;We&nbsp;foster&nbsp;a&nbsp;community&nbsp;that&nbsp;cares&nbsp;for&nbsp;the&nbsp;dignity&nbsp;of&nbsp;these&nbsp;young&nbsp;people,&nbsp;nurturing&nbsp;them&nbsp;to&nbsp;be men&nbsp;and&nbsp;women&nbsp;of&nbsp;compassion.&nbsp;We&nbsp;broaden&nbsp;their&nbsp;vision&nbsp;so&nbsp;that&nbsp;they&nbsp;become&nbsp;leaders&nbsp;committed&nbsp;to&nbsp;serving&nbsp;in faith&nbsp;and&nbsp;with&nbsp;integrity.
+**Building a Generation in Truth and Love: Every CJCian to be a Thinker with a Mission and a Leader with a Heart.**
+
+We cultivate in each CJCian the skills and attitude to embrace challenges wisely and courageously. We foster a community that cares for the dignity of these young people, nurturing them to be men and women of compassion. We broaden their vision so that they become leaders committed to serving in faith and with integrity.
 
 #### **Values**
 **Truth and Love**<br>
-In&nbsp;CJC&nbsp;we&nbsp;pursue&nbsp;knowledge&nbsp;for&nbsp;the&nbsp;service&nbsp;of&nbsp;others.
+In CJC we pursue knowledge for the service of others.
 
 **Truth**
 * Intellectual dimension - Pursuing the Truth in deepening understanding in the different disciplines of knowledge.
@@ -272,7 +274,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
