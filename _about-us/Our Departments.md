@@ -65,23 +65,23 @@ description: ""
 
 | Name / Designation | Email Address |
 |:---:|:---:|
-| Venkatram Indra / Head of Department | indra_venkatram@moe.edu.sg |
-| Li Wenqiang Mark / Year Head JC2 | mark_li_wen_qiang@moe.edu.sg |
-| Dawn Ang Xi / Subject Head/Student Leadership Devt | dawn_ang_xi@moe.edu.sg  |
-| Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | lim_meng_hui_a@moe.edu.sg  |
-| Soong Yin-yin Sharon / Senior Teacher  | soong_yin-yin_xiong_yingying@moe.edu.sg  |
-| Alex Wong / Level Head/Economics | alex_wong_yu_jie@moe.edu.sg  |
-| Benjamin Thong  | benjamin_thong_gui_hong@moe.edu.sg |
-| Carolina Ng  | ng_ka_lok_carolina@moe.edu.sg |
-| Ernest Lim Jingjie  | ernest_lim_jingjie@moe.edu.sg  |
-| Marhaini Bte Mohamed Amil | marhaini_mohamed_amil@moe.edu.sg  |
-| Mary Goh  | mary_goh@moe.edu.sg  |
-| Peh Beng Lee  | peh_beng_lee@moe.edu.sg  |
-| Soh Yan Shan Serena | soh_yan_shan_serena@moe.edu.sg  |
-| Tay Yi Qian Priscilla  | tay_yi_qian_priscilla@moe.edu.sg  |
-| Wendy Ng | hing_meow_cheng_wendy@moe.edu.sg  |
-| Wong Xinyi  | wong_xinyi@moe.edu.sg  |
-| Yeo Chin Leong William | yeo_chin_leong@moe.edu.sg  |
+| Venkatram Indra / Head of Department | [indra_venkatram@moe.edu.sg](mailto:indra_venkatram@moe.edu.sg) |
+| Li Wenqiang Mark / Year Head JC2 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
+| Dawn Ang Xi / Subject Head/Student Leadership Devt | [dawn_ang_xi@moe.edu.sg](mailto:dawn_ang_xi@moe.edu.sg)  |
+| Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg)  |
+| Soong Yin-yin Sharon / Senior Teacher  | soong_yin-[yin_xiong_yingying@moe.edu.sg](mailto:yin_xiong_yingying@moe.edu.sg)  |
+| Alex Wong / Level Head/Economics | [alex_wong_yu_jie@moe.edu.sg](mailto:alex_wong_yu_jie@moe.edu.sg)  |
+| Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
+| Carolina Ng  | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg) |
+| Ernest Lim Jingjie  | [ernest_lim_jingjie@moe.edu.sg](mailto:ernest_lim_jingjie@moe.edu.sg)  |
+| Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg)  |
+| Mary Goh  | [mary_goh@moe.edu.sg](mailto:mary_goh@moe.edu.sg)  |
+| Peh Beng Lee  | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
+| Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
+| Tay Yi Qian Priscilla  | [tay_yi_qian_priscilla@moe.edu.sg](mailto:tay_yi_qian_priscilla@moe.edu.sg)  |
+| Wendy Ng | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg)  |
+| Wong Xinyi  | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg)  |
+| Yeo Chin Leong William | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg)  |
 |
 
 #### **Humanities Department**
