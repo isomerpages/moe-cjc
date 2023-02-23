@@ -10,3 +10,5 @@ links:
     collection: experience
   - title: Achievements
     collection: achievements
+  - title: Contact Us
+    url: /contact-us/
