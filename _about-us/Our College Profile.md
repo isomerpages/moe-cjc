@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -241,11 +241,11 @@ The&nbsp;CJC&nbsp;Ignite&nbsp;programme&nbsp;is&nbsp;built&nbsp;upon&nbsp;the&nb
 * Greater opportunities to develop life skills, communication and leadership skills
 
 #### **Knowledge Skills**
-These&nbsp;subjects&nbsp;are&nbsp;designed&nbsp;to&nbsp;support&nbsp;a&nbsp;rigorous&nbsp;course&nbsp;of&nbsp;academic&nbsp;study&nbsp;by&nbsp;developing&nbsp;higher&nbsp;order&nbsp;thinking&nbsp;skills,&nbsp;conceptual&nbsp;thinking,&nbsp;processing&nbsp;skills&nbsp;and&nbsp;communication&nbsp;skills.
+These subjects are designed to support a rigorous course of academic study by developing higher order thinking skills, conceptual thinking, processing skills and communication skills.
 
-General&nbsp;Paper&nbsp;–&nbsp;This&nbsp;subject&nbsp;develops&nbsp;in&nbsp;students&nbsp;the&nbsp;ability&nbsp;to&nbsp;think&nbsp;critically,&nbsp;explore&nbsp;a&nbsp;range&nbsp;of&nbsp;key&nbsp;issues&nbsp;of&nbsp;global&nbsp;and&nbsp;local&nbsp;significance&nbsp;and&nbsp;express&nbsp;their&nbsp;views&nbsp;in&nbsp;cogent&nbsp;arguments&nbsp;using&nbsp;accurate&nbsp;and&nbsp;effective&nbsp;language.&nbsp;It&nbsp;comprises&nbsp;two&nbsp;main&nbsp;modes&nbsp;of&nbsp;assessment&nbsp;(writing&nbsp;and&nbsp;reading&nbsp;comprehension)&nbsp;to&nbsp;ensure&nbsp;that&nbsp;students&nbsp;are&nbsp;familiar&nbsp;with&nbsp;the&nbsp;skills&nbsp;required&nbsp;to&nbsp;write&nbsp;an&nbsp;academic&nbsp;argument&nbsp;and&nbsp;to&nbsp;evaluate&nbsp;and&nbsp;assess&nbsp;academic&nbsp;writing.&nbsp;The&nbsp;course&nbsp;spans&nbsp;the&nbsp;complete&nbsp;two&nbsp;years&nbsp;of&nbsp;the&nbsp;junior&nbsp;college&nbsp;course.
+General Paper – This subject develops in students the ability to think critically, explore a range of key issues of global and local significance and express their views in cogent arguments using accurate and effective language. It comprises two main modes of assessment (writing and reading comprehension) to ensure that students are familiar with the skills required to write an academic argument and to evaluate and assess academic writing. The course spans the complete two years of the junior college course.
 
-Project&nbsp;Work&nbsp;–&nbsp;Students&nbsp;work&nbsp;in&nbsp;groups&nbsp;of&nbsp;4-5&nbsp;on&nbsp;a&nbsp;research&nbsp;task&nbsp;set&nbsp;at&nbsp;the&nbsp;national&nbsp;level.&nbsp;This&nbsp;results&nbsp;in&nbsp;a&nbsp;written&nbsp;report,&nbsp;a&nbsp;group&nbsp;project&nbsp;file,&nbsp;and&nbsp;an&nbsp;oral&nbsp;presentation&nbsp;of&nbsp;their&nbsp;research&nbsp;findings&nbsp;and&nbsp;recommendations.&nbsp;All&nbsp;aspects&nbsp;of&nbsp;Project&nbsp;Work&nbsp;are&nbsp;assessed&nbsp;in&nbsp;the&nbsp;first&nbsp;year&nbsp;(JC1).
+Project Work – Students work in groups of 4-5 on a research task set at the national level. This results in a written report, a group project file, and an oral presentation of their research findings and recommendations. All aspects of Project Work are assessed in the first year (JC1).
 
 #### **Ministry of Education (MOE) Special Programmes at CJC**
 **English Language and Linguistics**<br>
@@ -272,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
