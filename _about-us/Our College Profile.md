@@ -32,7 +32,7 @@ CJC began accepting students in 1975 and was officially opened in June 1976 by M
 * Living - Forming a person who is well-integrated into society.
 
 #### **Mission**
-**Building** **a Generation in Truth and Love: Every CJCian to be a Thinker with a Mission and a Leader with a Heart.**<br>
+**Building a Generation in Truth and Love: Every CJCian to be a Thinker with a Mission and a Leader with a Heart.**<br>
 We cultivate in each CJCian the skills and attitude to embrace challenges wisely and courageously. We foster a community that cares for the dignity of these young people, nurturing them to be men and women of compassion. We broaden their vision so that they become leaders committed to serving in faith and with integrity.
 
 #### **Values**
@@ -44,8 +44,8 @@ In CJC we pursue knowledge for the service of others.
 * Moral dimension - Deepening our understanding of Divine Truth and living lives that are governed by moral guidelines for the Common Good for all creation.
 
 **Love**
-* Communal \- Exercising love that is accountable, that cares, nurtures and sacrifices; a love for the common good of all.
-* Individual \- Exercising the choice to be disciplined in body, mind and spirit as an expression of love of oneself.
+* Communal - Exercising love that is accountable, that cares, nurtures and sacrifices; a love for the common good of all.
+* Individual - Exercising the choice to be disciplined in body, mind and spirit as an expression of love of oneself.
 
 
 #### **Student Outcomes: Thinker with a Mission, Leader with a Heart**
