@@ -69,7 +69,7 @@ sections:
       button: for more info
       image: /images/infopic4.jpg
       alt: Image alt text
-      url: /news/
+      url: /news/2022/6/
   - infopic:
       title: Infopic Title
       subtitle: Infopic Subtitle
