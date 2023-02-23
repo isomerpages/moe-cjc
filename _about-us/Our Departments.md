@@ -318,3 +318,11 @@ description: ""
 Father Justin Yip
 
 #### **Executive and Administrative Staff**
+
+| Name / Designation | Email Address |
+|:---:|:---:|
+| Khairul Nizam Mohd Taha / Administrative Manager | [khairul_nizam_mohd_taha@moe.edu.sg](mailto:khairul_nizam_mohd_taha@moe.edu.sg) |
+| Ravi Govindaram / Operations Manager  | [ravi_govindaram@moe.edu.sg](mailto:ravi_govindaram@moe.edu.sg)  |
+| See Song Pewe Gordon / Operations Manager  | [see_song_pewe@moe.edu.sg](mailto:see_song_pewe@moe.edu.sg)  |
+| Selvasegaran s/o Raman / Operations Manager | [selvasegaran_raman@moe.edu.sg](mailto:selvasegaran_raman@moe.edu.sg)  |
+|
