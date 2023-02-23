@@ -221,3 +221,11 @@ Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
 | <br>Mathematics and Science (Laboratory Science) | Mathematics<br>Biology<br>Chemistry<br>Physics | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ |
 | <br><br>Humanities & The Arts | Economics<br>Geography<br>History<br>Literature in English<br>English Language and Linguistics | √<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√ |
 |
+
+<center><b>Other Subjects</b></center>
+
+| Group | Subject | H1 | H2 | H3 |
+|:---:|:---:|:---:|:---:|:---:|
+| Languages | Mother Tongue Languages (MTL): _The MTL policy requires all students (including foreign students) to offer an MTL in addition to English Language._ | √ | | | 
+| Knowledge Skills | General Paper<br>Project Work (PW) | √<br>√ | | | 
+|
