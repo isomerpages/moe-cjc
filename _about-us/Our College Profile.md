@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -45,12 +45,11 @@ In CJC we pursue knowledge for the service of others.
 * Moral dimension - Deepening our understanding of Divine Truth and living lives that are governed by moral guidelines for the Common Good for all creation.
 
 **Love**
-* Communal&nbsp;-&nbsp;Exercising love&nbsp;that is&nbsp;accountable,&nbsp;that&nbsp;cares,&nbsp;nurtures&nbsp;and&nbsp;sacrifices;&nbsp;a&nbsp;love&nbsp;for&nbsp;the&nbsp;common&nbsp;good&nbsp;of&nbsp;all.
-* Individual -&nbsp;Exercising&nbsp;the&nbsp;choice&nbsp;to&nbsp;be&nbsp;disciplined&nbsp;in&nbsp;body,&nbsp;mind&nbsp;and&nbsp;spirit&nbsp;as&nbsp;an&nbsp;expression&nbsp;of&nbsp;love&nbsp;of&nbsp;oneself.
-
+* Communal - Exercising love that is accountable, that cares, nurtures and sacrifices; a love for the common good of all.
+* Individual - Exercising the choice to be disciplined in body, mind and spirit as an expression of love of oneself.
 
 #### **Student Outcomes: Thinker with a Mission, Leader with a Heart**
-The&nbsp;school’s&nbsp;mission&nbsp;is&nbsp;to&nbsp;develop&nbsp;every&nbsp;CJCian&nbsp;to&nbsp;be&nbsp;a&nbsp;Thinker&nbsp;with&nbsp;a&nbsp;Mission,&nbsp;and&nbsp;Leader&nbsp;with&nbsp;a&nbsp;Heart&nbsp;\-&nbsp;a&nbsp;servant&nbsp;leader&nbsp;who,&nbsp;as&nbsp;a&nbsp;critical thinker,&nbsp;pursues&nbsp;knowledge&nbsp;with&nbsp;a&nbsp;sense&nbsp;of&nbsp;purpose,&nbsp;searches&nbsp;fo Truth&nbsp;in&nbsp;the&nbsp;disciplines&nbsp;of&nbsp;study,&nbsp;discerns,&nbsp;appreciates&nbsp;and&nbsp;empathises&nbsp;fully&nbsp;with&nbsp;the&nbsp;needs&nbsp;and&nbsp;concerns&nbsp;of&nbsp;the&nbsp;different&nbsp;members&nbsp;and&nbsp;sectors&nbsp;of&nbsp;society.
+The school’s mission is to develop every CJCian to be a Thinker with a Mission, and Leader with a Heart - a servant leader who, as a critical-thinker, pursues knowledge with a sense of purpose, searches for Truth in the disciplines of study, discerns, appreciates and empathises fully with the needs and concerns of the different members and sectors of society.
 
 #### **Thinker with a Mission**
 * This thinker pursues knowledge with a sense of purpose and searches for Truth in the disciplines of study.
@@ -58,9 +57,9 @@ The&nbsp;school’s&nbsp;mission&nbsp;is&nbsp;to&nbsp;develop&nbsp;every&nbsp;CJ
 * This self-directed student always questions assumptions, makes thinking visible, displays conceptual understanding, generates new ideas and makes reflective thinking second nature.
 * This student thinker strives for accuracy, relevance, depth, breadth, logic and
 
-fairness&nbsp;when&nbsp;interacting&nbsp;and&nbsp;doing&nbsp;assigned&nbsp;tasks in&nbsp;the&nbsp;classroom,&nbsp;as&nbsp;well&nbsp;as&nbsp;when&nbsp;the&nbsp;student&nbsp;participates&nbsp;in&nbsp;the&nbsp;college’s&nbsp;Student&nbsp;Development,
+fairness when interacting and doing assigned tasks in the classroom, as well as when the student participates in the college’s Student Development,
 
-Leadership&nbsp;and&nbsp;Co-curricular&nbsp;Programmes.
+Leadership and Co-curricular Programmes.
 
 #### **Leader with a Heart**
 * This is a servant leader who discerns, appreciates and empathises fully with the issues of the different members and sectors of society.
@@ -69,22 +68,22 @@ Leadership&nbsp;and&nbsp;Co-curricular&nbsp;Programmes.
 * The college believes that all CJCians are leaders. Regardless of whether they have an official appointment or not, they are capable of exercising self- leadership in their daily actions. They will also be given opportunities to apply leadership skills at the team, organisational and global levels to serve the greater good.
 
 #### **Key Student Development Programmes**
-CJC’s&nbsp;Student&nbsp;Development&nbsp;programme&nbsp;is&nbsp;based&nbsp;on&nbsp;enacting&nbsp;social&nbsp;change,&nbsp;starting&nbsp;from&nbsp;the&nbsp;SELF,&nbsp;learning&nbsp;to&nbsp;work&nbsp;and&nbsp;inspire&nbsp;a&nbsp;TEAM&nbsp;towards&nbsp;the&nbsp;benefit&nbsp;of&nbsp;the&nbsp;larger&nbsp;COMMUNITY.&nbsp;Every&nbsp;students&nbsp;is&nbsp;required&nbsp;to&nbsp;take&nbsp;ownership&nbsp;in&nbsp;developing&nbsp;his or her&nbsp;leadership&nbsp;potential,&nbsp;with&nbsp;a&nbsp;focus&nbsp;on&nbsp;translating&nbsp;core&nbsp;leadership&nbsp;principles&nbsp;to&nbsp;serve&nbsp;others&nbsp;and&nbsp;enact&nbsp;positive&nbsp;change&nbsp;both&nbsp;locally&nbsp;and&nbsp;overseas.
+CJC’s Student Development programme is based on enacting social change, starting from the SELF, learning to work and inspire a TEAM towards the benefit of the larger COMMUNITY. Every students is required to take ownership in developing his or her leadership potential, with a focus on translating core leadership principles to serve others and enact positive change both locally and overseas.
 
 #### **Local Leadership Programmes:**
-**(a)**&nbsp;&nbsp;**Local&nbsp;Service&nbsp;Learning&nbsp;Programme&nbsp;(LSLP)**<br>
-Every&nbsp;year,&nbsp;all&nbsp;JC1&nbsp;students&nbsp;initiate&nbsp;and&nbsp;implement&nbsp;a&nbsp;local&nbsp;Service&nbsp;Learning&nbsp;project.&nbsp;The&nbsp;aim&nbsp;is&nbsp;to&nbsp;develop&nbsp;in&nbsp;each&nbsp;CJCian&nbsp;a&nbsp;sense&nbsp;of&nbsp;mission,&nbsp;a&nbsp;compassionate&nbsp;heart&nbsp;and&nbsp;a&nbsp;commitment&nbsp;to&nbsp;serve&nbsp;others.&nbsp;Each&nbsp;JC1&nbsp;class&nbsp;is&nbsp;given&nbsp;the&nbsp;autonomy&nbsp;to&nbsp;identify&nbsp;a voluntary&nbsp;welfare&nbsp;association&nbsp;to&nbsp;partner&nbsp;and&nbsp;champion&nbsp;a&nbsp;cause&nbsp;they&nbsp;would&nbsp;like&nbsp;to&nbsp;advocate&nbsp;for.&nbsp;Our&nbsp;students&nbsp;partner&nbsp;about&nbsp;25&nbsp;Voluntary&nbsp;Welfare&nbsp;Organisations&nbsp;(VWOs),&nbsp;impacting&nbsp;various&nbsp;sectors&nbsp;of&nbsp;the&nbsp;community&nbsp;such&nbsp;as&nbsp;the&nbsp;elderly,&nbsp;low&nbsp;income&nbsp;families,&nbsp;disadvantaged&nbsp;children,&nbsp;people&nbsp;with&nbsp;special&nbsp;needs&nbsp;and&nbsp;migrant&nbsp;workers.&nbsp;Facilitated by&nbsp;their&nbsp;Home&nbsp;Tutors,&nbsp;students&nbsp;reach&nbsp;out&nbsp;to&nbsp;the&nbsp;beneficiaries&nbsp;in&nbsp;order&nbsp;to&nbsp;understand&nbsp;the&nbsp;issues&nbsp;involved.&nbsp;Employing&nbsp;the&nbsp;use&nbsp;of&nbsp;the&nbsp;reflective&nbsp;cycle,&nbsp;students&nbsp;connect&nbsp;their&nbsp;head&nbsp;knowledge&nbsp;with&nbsp;their&nbsp;‘hearts’&nbsp;and&nbsp;eventually&nbsp;translate&nbsp;it&nbsp;into&nbsp;action&nbsp;to&nbsp;benefit&nbsp;their community.
+**(a)  Local Service Learning Programme (LSLP)**<br>
+Every year, all JC1 students initiate and implement a local Service Learning project. The aim is to develop in each CJCian a sense of mission, a compassionate heart and a commitment to serve others. Each JC1 class is given the autonomy to identify a voluntary welfare association to partner and champion a cause they would like to advocate for. Our students partner about 25 Voluntary Welfare Organisations (VWOs), impacting various sectors of the community such as the elderly, low income families, disadvantaged children, people with special needs and migrant workers. Facilitated by their Home Tutors, students reach out to the beneficiaries in order to understand the issues involved. Employing the use of the reflective cycle, students connect their head knowledge with their ‘hearts’ and eventually translate it into action to benefit their community.
 
-**(b) Work Attachment and Shadowing Programme&nbsp;(WASP)**<br>
-The&nbsp;CJC&nbsp;WASP&nbsp;aims&nbsp;to&nbsp;help&nbsp;students’&nbsp;transition&nbsp;from&nbsp;school&nbsp;to&nbsp;further&nbsp;education&nbsp;and&nbsp;work.&nbsp;It&nbsp;enables&nbsp;students&nbsp;to&nbsp;apply&nbsp;their&nbsp;knowledge,&nbsp;skills&nbsp;and&nbsp;values&nbsp;in&nbsp;different&nbsp;work&nbsp;context,&nbsp;thus&nbsp;improving&nbsp;their&nbsp;capacity&nbsp;to&nbsp;manage&nbsp;their&nbsp;educational&nbsp;and&nbsp;career&nbsp;pathways.&nbsp;Based&nbsp;on&nbsp;WASP,&nbsp;students&nbsp;spend&nbsp;two&nbsp;to&nbsp;three&nbsp;weeks&nbsp;on&nbsp;a&nbsp;work&nbsp;attachment&nbsp;whereby&nbsp;they&nbsp;come&nbsp;to&nbsp;see&nbsp;the&nbsp;importance&nbsp;of&nbsp;their&nbsp;future&nbsp;university&nbsp;and&nbsp;career&nbsp;choices&nbsp;and&nbsp;are&nbsp;inspired&nbsp;to&nbsp;make&nbsp;a&nbsp;positive&nbsp;difference.&nbsp;They&nbsp;are&nbsp;also&nbsp;guided&nbsp;through&nbsp;a&nbsp;deliberate&nbsp;process&nbsp;of&nbsp;reflections,&nbsp;which&nbsp;is further&nbsp;supplemented&nbsp;by&nbsp;lessons&nbsp;that&nbsp;help them&nbsp;to&nbsp;see&nbsp;their&nbsp;role&nbsp;in&nbsp;Singapore’s&nbsp;future,&nbsp;and how&nbsp;their&nbsp;actions&nbsp;have&nbsp;a&nbsp;wider&nbsp;impact&nbsp;on&nbsp;others.
+**(b) Work Attachment and Shadowing Programme (WASP)**<br>
+The CJC WASP aims to help students’ transition from school to further education and work. It enables students to apply their knowledge, skills and values in different work context, thus improving their capacity to manage their educational and career pathways. Based on WASP, students spend two to three weeks on a work attachment whereby they come to see the importance of their future university and career choices and are inspired to make a positive difference. They are also guided through a deliberate process of reflections, which is further supplemented by lessons that help them to see their role in Singapore’s future, and how their actions have a wider impact on others.
 
 #### **Global Leadership Programmes**
 **Overseas Service Learning Programmes (OSLP)**<br>
-A&nbsp;signature&nbsp;global&nbsp;leadership&nbsp;development&nbsp;programme&nbsp;which&nbsp;enables&nbsp;JC1&nbsp;students&nbsp;to&nbsp;participate&nbsp;in&nbsp;overseas&nbsp;Service&nbsp;Learning&nbsp;trips&nbsp;to&nbsp;countries&nbsp;such&nbsp;as&nbsp;Vietnam,&nbsp;Thailand&nbsp;and&nbsp;Cambodia,&nbsp;where&nbsp;they&nbsp;engage&nbsp;and&nbsp;serve&nbsp;local&nbsp;communities.&nbsp;The&nbsp;programme&nbsp;weaves&nbsp;reflective&nbsp;practice,&nbsp;peer&nbsp;learning,&nbsp;decision-&nbsp;making&nbsp;processes,&nbsp;exploration&nbsp;and&nbsp;investigation&nbsp;to&nbsp;complement&nbsp;the&nbsp;college's&nbsp;mission,&nbsp;building&nbsp;a&nbsp;generation&nbsp;of&nbsp;students&nbsp;with&nbsp;the&nbsp;mission&nbsp;to&nbsp;lead&nbsp;and&nbsp;serve&nbsp;others&nbsp;and&nbsp;make&nbsp;a&nbsp;positive&nbsp;impact&nbsp;beyond Singapore
+A signature global leadership development programme which enables JC1 students to participate in overseas Service Learning trips to countries such as Vietnam, Thailand and Cambodia, where they engage and serve local communities. The programme weaves reflective practice, peer learning, decision- making processes, exploration and investigation to complement the college's mission, building a generation of students with the mission to lead and serve others and make a positive impact beyond Singapore
 
 #### **Our Co-Curricular Activities**
 ##### **Physical Sports**
-Badminton&nbsp;▫&nbsp;Basketball&nbsp;▫&nbsp;Canoeing&nbsp;▫&nbsp;Fencing&nbsp;▫&nbsp;Floorball&nbsp;▫&nbsp;Judo&nbsp;▫&nbsp;Netball&nbsp;▫&nbsp;Shooting&nbsp;▫&nbsp;Soccer&nbsp;▫&nbsp;Swimming&nbsp;▫&nbsp;Tennis&nbsp;▫&nbsp;Bowling&nbsp;▫&nbsp;Track&nbsp;&amp;&nbsp;Field&nbsp;▫&nbsp;Cross&nbsp;Country&nbsp;▫&nbsp;Volleyball&nbsp;▫ Ultimate&nbsp;Frisbee
+Badminton ▫ Basketball ▫ Canoeing ▫ Fencing ▫ Floorball ▫ Judo ▫ Netball ▫ Shooting ▫ Soccer ▫ Swimming ▫ Tennis ▫ Bowling ▫ Track &amp; Field ▫ Cross Country ▫ Volleyball ▫ Ultimate Frisbee
 
 ##### **Visual and Performing Arts**
 Choir&nbsp;▫&nbsp;Modern Dance&nbsp;▫&nbsp;English Drama&nbsp;▫&nbsp;Guitar&nbsp;▫&nbsp;Guzheng&nbsp;▫&nbsp;Concert Band
@@ -273,7 +272,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
