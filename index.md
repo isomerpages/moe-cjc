@@ -71,10 +71,11 @@ sections:
       alt: Image alt text
       url: /news/2022/6/
   - infopic:
-      title: Infopic Title
-      subtitle: Infopic Subtitle
-      description: Infopic description
-      button: Button Text
+      title: CJC's Open House
+      subtitle: catholic junior college
+      description: Taking place on the day after release of O-Level Results, 10am to 4pm!
+      button: for more info
       image: /images/infopic5.png
       alt: Image alt text
+      url: https://cjc.moe.edu.sg/eopenhouse
 ---
