@@ -237,22 +237,22 @@ description: ""
 
 | Class | Home Tutor | Email Address |
 |:---:|:---:|:---:|
-| 2T01 | David Fahy | david_laurence_fahy@moe.edu.sg |
-| 2T02 | MacKenzie Rae Schoon  | mackenzie_rae_schoon@moe.edu.sg  |
-| 2T03 | Lee Jin Loong, Clarence | lee_jin_loong_clarence@moe.edu.sg |
-| 2T04 | Wong Xinyi | wong_xinyi@moe.edu.sg |
-| 2T04  | Lester Low  | low_chern_tsai_lester@moe.edu.sg |
-| 2T05 | Charmaine Miranda | charmaine_miranda@moe.edu.sg |
-| 2T05  | Janice Lim | janice_lim_hui_min@moe.edu.sg  |
-| 2T06 | Ang Hui Hun | ang_hui_hun@moe.edu.sg |
-| 2T07 | Soong Yin-yin Sharon | soong_yin-yin_xiong_yingying@moe.edu.sg  |
-| 2T08 | Chin Yen Jin  | chin_yen_jin@moe.edu.sg |
-| 2T08 | Tan Ing Keat | tan_ing_keat@moe.edu.sg |
-| 2T09 | Lin Shilin Charlene | lin_shilin_charlene@moe.edu.sg |
-| 2T09  | Ding Man | ding_man@moe.edu.sg |
-| 2T10 | Lee Kwok Chung Conrad | lee_kwok_chung_conrad@moe.edu.sg |
-| 2T11 | Goh I-Mei | goh_i-mei@moe.edu.sg |
-| 2T12 | Idzham Khalid Lthnin | idzham_khalid_ithnin@moe.edu.sg |
+| 2T01 | David Fahy | [david_laurence_fahy@moe.edu.sg](mailto:david_laurence_fahy@moe.edu.sg) |
+| 2T02 | MacKenzie Rae Schoon  | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
+| 2T03 | Lee Jin Loong, Clarence | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
+| 2T04 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
+| 2T04  | Lester Low  | [low_chern_tsai_lester@moe.edu.sg](mailto:low_chern_tsai_lester@moe.edu.sg) |
+| 2T05 | Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
+| 2T05  | Janice Lim | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg)  |
+| 2T06 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg) |
+| 2T07 | Soong Yin-yin Sharon | soong_yin-[yin_xiong_yingying@moe.edu.sg](mailto:yin_xiong_yingying@moe.edu.sg)  |
+| 2T08 | Chin Yen Jin  | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg) |
+| 2T08 | Tan Ing Keat | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg) |
+| 2T09 | Lin Shilin Charlene | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg) |
+| 2T09  | Ding Man | [ding_man@moe.edu.sg](mailto:ding_man@moe.edu.sg) |
+| 2T10 | Lee Kwok Chung Conrad | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg) |
+| 2T11 | Goh I-Mei | [goh_i-mei@moe.edu.sg](mailto:goh_i-mei@moe.edu.sg) |
+| 2T12 | Idzham Khalid Lthnin | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg) |
 | 2T13 | Tan Mei Qi | tan_mei_qi@moe.edu.sg |
 | 2T14 | Eugene Tan Ker Wen | tan_ker_wen_eugene@moe.edu.sg |
 | 2T15 | Law Hui Min | law_hui_min@moe.edu.sg |
