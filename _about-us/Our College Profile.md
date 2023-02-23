@@ -246,3 +246,12 @@ These subjects are designed to support a rigorous course of academic 
 General Paper – This subject develops in students the ability to think critically, explore a range of key issues of global and local significance and express their views in cogent arguments using accurate and effective language. It comprises two main modes of assessment (writing and reading comprehension) to ensure that students are familiar with the skills required to write an academic argument and to evaluate and assess academic writing. The course spans the complete two years of the junior college course.
 
 Project Work – Students work in groups of 4-5 on a research task set at the national level. This results in a written report, a group project file, and an oral presentation of their research findings and recommendations. All aspects of Project Work are assessed in the first year (JC1).
+
+#### **Ministry of Education (MOE) Special Programmes at CJC**
+**English Language and Linguistics**<br>
+English Language and Linguistics (ELL) is a subject offered at the H2 level. This subject has been offered as a national A\-Level curriculum since 2009. ELL provides students with an excellent grounding in the intricacies of the English language and includes features of disciplines such as Linguistics, Psycholinguistics and Sociolinguistics.
+
+CJC is one of the three schools offering the English Language Elective Programme (ELEP) in Singapore. This allows selected students with high aptitude for the subject to receive bond-free scholarships that include remission of school fees and an annual allowance.
+
+#### **Local and Overseas Academic Learning Programme and Trips**
+CJC offers students a rich learning programme which enables engaged and authentic learning experiences. Besides classroom learning, students embark on a range of exciting learning activities, competitions, talent development and research programmes. These also include overseas academic trips to the UK, Hong Kong and India in partnership with reputable organisations and Institutes of Higher Learning such as REACH Cambridge, Hong Kong University (HKU) and the Singapore Ministry of Trade & Industry (MTI).
