@@ -255,3 +255,11 @@ CJC is one of the three schools offering the English Language Electiv
 
 #### **Local and Overseas Academic Learning Programme and Trips**
 CJC offers students a rich learning programme which enables engaged and authentic learning experiences. Besides classroom learning, students embark on a range of exciting learning activities, competitions, talent development and research programmes. These also include overseas academic trips to the UK, Hong Kong and India in partnership with reputable organisations and Institutes of Higher Learning such as REACH Cambridge, Hong Kong University (HKU) and the Singapore Ministry of Trade & Industry (MTI).
+
+![](/images/collegeprofile1.jpg)
+![](/images/collegeprofile2.jpg)
+![](/images/collegeprofile3.jpg)
+![](/images/collegeprofile4.jpg)
+![](/images/collegeprofile5.jpg)
+![](/images/collegeprofile6.jpg)
+![](/images/collegeprofile7.jpg)
