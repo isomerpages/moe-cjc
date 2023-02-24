@@ -24,15 +24,8 @@ The GCE A-Level curriculum requires students to undertake the following subjects
 
 | Discipline | Subject | H1 Level | H2 Level | H3 Level |
 |---|---|---|---|---|
-| Humanities & the Arts | Economics (Econs) | √ | √ | √ |
-|  | Geography (Geo) | √ | √ | √ |
-|  | History (Hist) | √ | √ | √ |
-|  | Literature in English (Lit) | √ | √ | √ |
-|  | English Language & Linguistics (ELL)* |  | √ |  |
-| Mathematics & Science | Biology (Bio)* | √ | √ | √ |
-|  | Chemistry (Chem)* | √ | √ | √ |
-|  | Physics (Phy)* | √ | √ | √ |
-|  | Mathematics (Math)* | √ | √ | √ |
+| Humanities & the Arts | Economics (Econs)<br>Geography (Geo)<br>History (Hist)<br>Literature in English (Lit)<br>English Language & Linguistics (ELL)* | √<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√ |
+| Mathematics & Science | Biology (Bio)\*<br>Chemistry (Chem)\*<br>Physics (Phy)\*<br>Mathematics (Math)\* | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ |
 |
 
 <center>* Please refer to Table D for more information</center>
