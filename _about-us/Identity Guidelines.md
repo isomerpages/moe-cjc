@@ -44,9 +44,9 @@ For the purpose of logo usage, our target audience is re-segmented into 3 tiers 
 **Clearance**<br>
 When placing the CJC Crest, CJC & Flame or Flame logos on any medium, sufficient clearance space must be given to ensure visibility and impact. The minimum clearance space is specified below and in the **[Brand Identity Guidelines](/files/CJC%20Guidelines%20Book.pdf)** book.
 
-<img src="/images/logousage1.jpg" style="width:75%">
-<img src="/images/logousage2.jpg" style="width:75%">
-<img src="/images/logousage3.jpg" style="width:75%">
+<img src="/images/logousage1.jpg" style="width:55%">
+<img src="/images/logousage2.jpg" style="width:55%">
+<img src="/images/logousage3.jpg" style="width:55%">
 
 **Minimum size**<br>
 The minimum height of the CJC Crest, CJC & Flame or Flame logos for all applications is 20mm to maintain clarity and readability. 
