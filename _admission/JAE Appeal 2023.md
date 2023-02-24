@@ -33,3 +33,20 @@ The following supporting documents are to be included in the online application:
 The JAE appeal period is strictly from **2 Feb 2023 (Thurs), 0800hrs to 8 Feb 2023 (Wed), 1200hrs.** Late or incomplete submission will not be considered.
 
 ##### **Appeal Process:**
+*   Short-listed applicants will be invited for an **e-interview between 2 Feb and 8 Feb**. 
+*   Final decision will be made by the Interview Panel after the interview.
+*   Successful applicants will be notified by phone or SMS latest by **8 Feb 2023, 1400hrs.**
+
+##### **Important Note:**
+1\. All applicants are required to report to the college that they are posted to by the Ministry of Education on 3 Feb 2023 (Fri), 0730hrs, pending the outcome of their appeal application to CJC.  
+  
+2\. Please do **NOT** submit an appeal if you have been offered a place in another school under the Direct School Admission (DSA), as it will not be accepted.
+
+Table 1: Relevant CCAs
+
+|  |  |
+|:---:|---|
+| **Physical Sports** | - Badminton <br> -Basketball (Boys) <br> - Bowling <br> - Canoeing <br> - Cross Country <br> - Fencing <br> - Floorball <br> - Football (Boys) <br> - Netball (Girls) <br> - Swimming <br> - Tennis <br> - Track & Field <br> - Ultimate <br> - Volleyball |
+| **Performing Arts** | - Choir <br> - Concert Band <br> - English Drama <br> - Guitar Ensemble <br> - Guzheng Ensemble <br> - Modern Dance |
+| **Others** | - Oratoricla Society (Debates & Public Speaking) <br> - Nexus: Investment & Entrepreneurship Society <br> - Film, Sound, & Video Society (Film & Photography) <br> - STE2M Club (Science & Technology) |
+|
