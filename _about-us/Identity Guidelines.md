@@ -9,9 +9,9 @@ Catholic Junior College is a pre-university institution that develops students h
 To communicate the college's values and ethos, a unified approach to communication, including a set of verbal and visual identity devices is necessary. This page provides an overview of our brand platform and its features.
 
 #### **Downloads**
-* [Brand Identity Guidelines]
+* [Brand Identity Guidelines](/files/identityguideline.pdf)
 * [Crest]
 * [CJC & Flame]
 * [Flame]
 * [Flag]
-* [Presentation Template]
+* [Presentation Template](/files/identityguidelineppt.pdf)
