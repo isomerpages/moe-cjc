@@ -10,8 +10,8 @@ To communicate the college's values and ethos, a unified approach to communicati
 
 #### **Downloads**
 * [Brand Identity Guidelines](/files/identityguideline.pdf)
-* [Crest]
-* [CJC & Flame]
-* [Flame]
-* [Flag]
+* [Crest](/files/crest.pdf)
+* [CJC & Flame](/files/flame.pdf)
+* [Flame](/files/flamea.pdf)
+* [Flag](/files/flag.pdf)
 * [Presentation Template](/files/identityguidelineppt.pdf)
