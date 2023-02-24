@@ -17,3 +17,9 @@ We are looking for students who are outstanding in the following areas:
 |---|---|
 | - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br><br>- Representation in international/ national competitions<br>- Achievement in music/ dance examinations |
 |
+
+| Sports and Games | Selection Criteria |
+|---|---|
+| - Badminton<br>- Basketball (Boys)<br>- Bowling<br>- Canoeing<br>- Cross Country<br>- Fencing<br>- Floorball<br>- Football (Boys)<br>- Judo<br>- Netball (Girls)<br>- Shooting<br>- Swimming<br>- Tennis<br>- Track and Field<br>- Volleyball | - Achievement in National Schools/ international competitions <br>- Representation at National or Zonal schools competition |
+|
+
