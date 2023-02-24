@@ -42,3 +42,54 @@ A newsletter by CJC's Editorial Club.
 *   **[2014 Issue 1](http://issuu.com/cjcedusg/docs/cjc_newsletter_flame_2014_issue_1)** \- The Start of Something New
 *   **[2013 Issue 3](http://issuu.com/cjcedusg/docs/cjc_e-newsletter_3)** \- Nurturing the Mind
 *   **[2013 Issue 2](http://issuu.com/catholicjc/docs/flame_cjc_newsletter_2013_issue_2)** \- Breaking Boundaries
+
+#### **College Annual**
+An online archive of the CJC Yearbook.
+
+<img src="/images/publications3.jpg" style="width:40%;margin-left::55px;" align = "right">
+
+*  **[2020-2021](https://issuu.com/catholicjc/docs/cjc_college_biennial_2020-2021_final)**
+*   **[2019](https://issuu.com/catholicjc/docs/cjc_annual_2019_for_issuu)**
+*   **[2018](https://issuu.com/catholicjc/docs/cjc_yearbook_2018)**
+*   **[2017](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1) (Part 1)**
+*   **[2017 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part2)**
+*  **[2016](http://issuu.com/catholicjc/docs/cjc_annual_2016)**
+*   **[2015](https://issuu.com/catholicjc/docs/cjc_yearbook_2015)**
+*   **[2014](https://issuu.com/catholicjc/docs/cjc_yearbook_2014)**
+*   **[2013](https://issuu.com/catholicjc/docs/2013)**
+*   **[2012](https://issuu.com/catholicjc/docs/2012)**
+*   **[2011](https://issuu.com/catholicjc/docs/cjc_yearbook_2011)**
+*   **[2010](https://issuu.com/catholicjc/docs/cjc_yearbook_2010)**
+*   **[2009](https://issuu.com/catholicjc/docs/cjc_yearbook_2009)**
+*   **[2008](https://issuu.com/catholicjc/docs/cjc_yearbook_2008)**
+*   **[2007 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_2007-1)**
+*   **[2007 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_2007-2)**
+*   **[2006](https://issuu.com/catholicjc/docs/cjc_yearbook_2006/)**
+*   **[2005](https://issuu.com/catholicjc/docs/cjc_yearbook_2005/)**
+*   **[2004](https://issuu.com/catholicjc/docs/cjc_yearbook_2004)**
+*   **[2003](https://issuu.com/catholicjc/docs/cjc_yearbook_2003)**
+*   **[2002](https://issuu.com/catholicjc/docs/cjc_yearbook_2002)**
+*   **[2001](https://issuu.com/catholicjc/docs/cjc_yearbook_2001)**
+*   **[2000](https://issuu.com/catholicjc/docs/cjc_yearbook_2000)**
+*   **[1999](https://issuu.com/catholicjc/docs/cjc_yearbook_1999)**
+*   **[1998](https://issuu.com/catholicjc/docs/cjc_yearbook_1998)**
+*   **[1997](https://issuu.com/catholicjc/docs/cjc_yearbook_1997)**
+*   **[1996](https://issuu.com/catholicjc/docs/cjc_yearbook_1996)**
+*   **[1995](https://issuu.com/catholicjc/docs/cjc_yearbook_1995)**
+*   **[1994](https://issuu.com/catholicjc/docs/cjc_yearbook_1994)**
+*   **[1993](https://issuu.com/catholicjc/docs/cjc_yearbook_1993)**
+*   **[1992](https://issuu.com/catholicjc/docs/cjc_yearbook_1992)**
+*   **[1991 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_1991__part_1_)**
+*   **[1991 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_1991__part_2_)**
+*   **[1990](https://issuu.com/catholicjc/docs/cjc_yearbook_1990)**
+*   **[1989](https://issuu.com/catholicjc/docs/cjc_yearbook_1989)**
+*   **[1988](https://issuu.com/catholicjc/docs/cjc_yearbook_1988)**
+*   **[1987](https://issuu.com/catholicjc/docs/cjc_yearbook_1987)**
+*   **[1986](https://issuu.com/catholicjc/docs/cjc_yearbook_1986)**
+*   **[1985](https://issuu.com/catholicjc/docs/cjc_yearbook_1985)**
+*   **[1984](https://issuu.com/catholicjc/docs/cjc_yearbook_1984)**
+*   **[1983](https://issuu.com/catholicjc/docs/cjc_yearbook_1983)**
+*   **[1982](https://issuu.com/catholicjc/docs/cjc_yearbook_1982)**
+*   **[1981](https://issuu.com/catholicjc/docs/cjc_yearbook_1981)**
+*   **[1975-1976](https://issuu.com/catholicjc/docs/cjc_yearbook_1976)**
+
