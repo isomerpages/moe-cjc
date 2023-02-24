@@ -69,3 +69,19 @@ Should there be any reason to deviate from the above-mentioned guidelines, pleas
 **Our secondary colours are red, yellow and orange.** Red symbolises love and passion, yellow symbolises cheerfulness and orange symbolises enthusiasm and happiness.
 
 <img src="/images/colours2.jpg" style="width:75%">
+
+Pantone Matching System (PMS): CJC Gold (125), CJC Blue (2738), CJC Dark Blue (5255), CJC Light Blue (2985), CJC Red (1807), CJC Yellow (116) and CJC Orange (173). 
+
+Where exact colours cannot be achieved (e.g. fabric swatches), the closest possible match should be used. Should there be any reason to deviate from the above-mentioned guidelines, please consult the CJC Corporate Communications team.
+
+Download our **[guidelines on CJC colours](/files/CJC%20Guidelines%20Colours.pdf)**
+
+#### **Typefaces**
+**Headline font - Optima LT Standard**<br>
+Optima is a humanist sans serif typeface with high legibility. It is a sophisticated typeface that was inspired by Roman square capitals. Optima scales nicely from small text to billboard-size text.
+
+**Document font - Myriad Pro**<br>
+Myriad Pro is a humanist sans serif typeface with high legibility. It scales nicely from small text to billboard-size text.
+
+**Web font - Arial**<br>
+Arial is a non-grotesque sans serif typeface that is modern and highly versatile in usage on different communication materials.
