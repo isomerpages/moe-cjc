@@ -20,7 +20,7 @@ The Catholic Junior College crest and logos are registered trademarks may only b
 
 #### **Logos**
 
-<img src="/images/logo1.jpg" style="width:25%;margin-right:75px;margin-left:45px;" align = "left">
+<img src="/images/logo1.jpg" style="width:25%;margin-right:95px;margin-left:45px;" align = "left">
 <img src="/images/logo2.jpg" style="width:18%;margin-right:85px;" align = "left">
 <img src="/images/logo3.jpg" style="width:8%;margin-right:15px;" align = "left">
 
