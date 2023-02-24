@@ -93,3 +93,7 @@ An online archive of the CJC Yearbook.
 *   **[1981](https://issuu.com/catholicjc/docs/cjc_yearbook_1981)**
 *   **[1975-1976](https://issuu.com/catholicjc/docs/cjc_yearbook_1976)**
 
+#### **Our Footprints - Reflections in Truth and Love**
+<img src="/images/publications4.jpg" style="width:40%;margin-left::55px;" align = "right">
+
+The book, '[Our Footprints - Reflections in Truth and Love](https://issuu.com/catholicjc/docs/our_footprints_reflections_in_truth_and_love_08081)', showcases the stories of the pioneer batch of students from the Class of 1976 who credit their education within the halls of the College for leading and directing them throughout the course of their lives even as they negotiated new challenges and unchartered waters after their College years. This book intends to inspire hope in more ways than one. It is hoped that this alumni initiative will be a rallying call for other cohorts of CJC students to set into motion individual and collective efforts to give back to the community.
