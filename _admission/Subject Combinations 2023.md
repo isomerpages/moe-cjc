@@ -16,3 +16,23 @@ The GCE A-Level curriculum requires students to undertake the following subjects
 ⮚ Students who achieved a grade of D7 or better in O-Level Higher MTL are exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus (MTB) at O-Level will continue with MTB at GCE A-Level.
 
 ⮚ Students who obtained a grade of D7 or better in O-Level Higher MTL are **NOT** allowed to replace H1 MTL with another content subject.
+
+##### Content-Based Subjects Offered
+⮚ Table A shows the content-based subjects to be offered in 2023:
+
+**Table A:**
+
+| Discipline | Subject | H1 Level | H2 Level | H3 Level |
+|---|---|---|---|---|
+| Humanities & the Arts | Economics (Econs) | √ | √ | √ |
+|  | Geography (Geo) | √ | √ | √ |
+|  | History (Hist) | √ | √ | √ |
+|  | Literature in English (Lit) | √ | √ | √ |
+|  | English Language & Linguistics (ELL)* |  | √ |  |
+| Mathematics & Science | Biology (Bio)* | √ | √ | √ |
+|  | Chemistry (Chem)* | √ | √ | √ |
+|  | Physics (Phy)* | √ | √ | √ |
+|  | Mathematics (Math)* | √ | √ | √ |
+|
+
+<center>* Please refer to Table D for more information</center>
