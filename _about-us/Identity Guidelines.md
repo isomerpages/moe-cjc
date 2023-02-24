@@ -47,3 +47,25 @@ When placing the CJC Crest, CJC & Flame or Flame logos on any medium, sufficient
 <img src="/images/logousage1.jpg" style="width:75%">
 <img src="/images/logousage2.jpg" style="width:75%">
 <img src="/images/logousage3.jpg" style="width:75%">
+
+**Minimum size**<br>
+The minimum height of the CJC Crest, CJC & Flame or Flame logos for all applications is 20mm to maintain clarity and readability. 
+
+**Background**<br>
+The CJC Crest, CJC & Flame and Flame logos should be set against a white, blue or background. The Crest must not be set against background colours with a high contrast or a similar tone to CJC Gold.
+
+**Use of colours**<br>
+When publishing the CJC Crest, CJC & Flame or Flame logos, colours should be consistent. Refer to the next section for colour specifications. 
+
+Full-colour versions are preferred. When full-colour versions are not feasible, use one of the prescribed monochrome variations.
+
+Should there be any reason to deviate from the above-mentioned guidelines, please consult the CJC Corporate Communications team.
+
+#### **Colours**
+**Our primary colours are blue and gold.** Blue symbolises truth, knowledge and intellect and gold symbolises illumination and wisdom.
+
+<img src="/images/colours1.jpg" style="width:75%">
+
+**Our secondary colours are red, yellow and orange.** Red symbolises love and passion, yellow symbolises cheerfulness and orange symbolises enthusiasm and happiness.
+
+<img src="/images/colours2.jpg" style="width:75%">
