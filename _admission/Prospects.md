@@ -40,10 +40,10 @@ Our graduates have enrolled in the following institutions of higher learning:
 *   University of Southern California (US)
 
 #### **Higher Education Courses**
-[Annex A - Local University Pre-requisites 2014.pdf]
-[Annex B - Prospects for Arts and Social Science Degrees Updated Edition.pdf]
-[Annex C - Prospects for Business and Accountancy Degrees.pdf]
-[Annex D - Prospects for Communication Studies.pdf]
-[Annex E - Prospects for Science and Maths Degrees.pdf]
-[Annex F - Prospects for School of Design and Environment Degrees.pdf]
-[Annex G - Prospects for Engineering Degrees.pdf]
+[Annex A - Local University Pre-requisites 2014.pdf](/files/hec1.pdf)<br>
+[Annex B - Prospects for Arts and Social Science Degrees Updated Edition.pdf](/files/hec2.pdf)<br>
+[Annex C - Prospects for Business and Accountancy Degrees.pdf](/files/hec3.pdf)<br>
+[Annex D - Prospects for Communication Studies.pdf](/files/hec4.pdf)<br>
+[Annex E - Prospects for Science and Maths Degrees.pdf](/files/hec5.pdf)<br>
+[Annex F - Prospects for School of Design and Environment Degrees.pdf](/files/hec6.pdf)<br>
+[Annex G - Prospects for Engineering Degrees.pdf](/files/hec7.pdf)
