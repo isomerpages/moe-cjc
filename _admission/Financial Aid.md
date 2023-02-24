@@ -38,3 +38,4 @@ NTUC Income (Income) understands the difficulties that a child may go through wh
 
 For more information about Income, please visit their [website](http://www.income.com.sg/).
 
+[Income IFMISS Brochure 2020.pdf](/files/Income%20IFMISS%20Brochure%202020.pdf)
