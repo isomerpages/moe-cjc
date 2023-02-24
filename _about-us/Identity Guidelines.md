@@ -30,3 +30,13 @@ The Catholic Junior College crest and logos are registered trademarks may only b
 |:---:|:---:|:---:|
 | **CJC Crest**<br> (Tiers 1 and 2) |  **CJC & Flame**<br> (Tier 2) | **Flame**<br> (Tier 3) |
 |
+
+**Logo Usage**<br>
+For the purpose of logo usage, our target audience is re-segmented into 3 tiers based on their extent of interaction and familiarity with our brand. The logo usage segmentation should be observed regardless of the formality of the activity or event.
+
+|  |  |
+|---|---|
+| **Tier 1**<br>Society | This tier consists of all external target audience segments such as prospective students and their parents as well as prospective staff. <br>The CJC Crest must be present in communication materials sent to this tier because we want the people in this tier to become familiar with our complete logo. |
+| **Tier 2**<br>Family | This tier consists of internal target audience segments such as current students and their parents, current staff and alumni.<br><br>Either the CJC Crest or the CJC & Flame logo must be present in communication materials sent to this tier. As the people in this tier are familiar with the CJC brand, the CJC & Flame logo, a simplified version of the CJC Crest, may be used. |
+| **Tier 3**<br>Tradition  | Similar to Tier 2, this tier consists of internal target audience segments such as current students and their parents, current staff and alumni. <br><br>The Flame can only ever be used on its own in very exceptional cases, such as the college collar pin because of the size of the collateral as well as tradition. Otherwise, the logo usage guidelines for Tier 2 should be applied to internal target audience segments. |
+|
