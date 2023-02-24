@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -220,7 +220,7 @@ We also offer scholarships and awards at a college-level which our students are 
 | Group | Subject | H1 | H2 | H3 |
 |:---:|:---:|:---:|:---:|:---:|
 | <br>Mathematics and Science (Laboratory Science) | Mathematics<br>Biology<br>Chemistry<br>Physics | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ | √<br>√<br>√<br>√ |
-| <br><br>Humanities &amp; The Arts | Economics<br>Geography<br>History<br>Literature in English<br>English Language and Linguistics | √<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√ |
+| <br><br>Humanities &amp; The Arts | Economics<br>Geography<br>History<br>Literature in English<br>English Language and Linguistics | √<br>√<br>√<br>√ | √<br>√<br>√<br>√<br>√ | √<br>√<br>√<br>√|
 |
 
 <center><b>Other Subjects</b></center>
@@ -273,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
