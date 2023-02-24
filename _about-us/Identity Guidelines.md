@@ -25,3 +25,8 @@ The Catholic Junior College crest and logos are registered trademarks may only b
 <img src="/images/logo3.jpg" style="width:14%;margin-right:15px;" align = "left">
 
 <br clear="left">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| **CJC Crest**<br> (Tiers 1 and 2) |  **CJC & Flame**<br> (Tier 2) | **Flame**<br> (Tier 3) |
+|
