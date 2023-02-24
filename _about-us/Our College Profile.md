@@ -5,7 +5,7 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
+<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
@@ -162,7 +162,7 @@ We also offer scholarships and awards at a college-level which our students are 
 \- Sportsperson of the Year Award<br>
 \- Lee Foundation Merit Award (Service)<br>
 \- Narindar K. Dhillion Award (Humanities)<br>
-Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
+\- Mr Tay Chen Hui Memorial Award (Science) Principal’s Commendation Award
 
 #### **Examples of Universities our students have graduated from:**
 **UK**<br>
@@ -273,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
+<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
