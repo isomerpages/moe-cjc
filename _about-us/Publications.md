@@ -97,3 +97,8 @@ An online archive of the CJC Yearbook.
 <img src="/images/publications4.jpg" style="width:40%;margin-left::55px;" align = "right">
 
 The book, '[Our Footprints - Reflections in Truth and Love](https://issuu.com/catholicjc/docs/our_footprints_reflections_in_truth_and_love_08081)', showcases the stories of the pioneer batch of students from the Class of 1976 who credit their education within the halls of the College for leading and directing them throughout the course of their lives even as they negotiated new challenges and unchartered waters after their College years. This book intends to inspire hope in more ways than one. It is hoped that this alumni initiative will be a rallying call for other cohorts of CJC students to set into motion individual and collective efforts to give back to the community.
+
+#### **CJ40 Coffee Table Book**
+Catholic Junior College published a coffee table book to [celebrate 40 years of history](https://issuu.com/catholicjc/docs/cj40_coffee_table_book). The book was released to our alumni during the CJ40 Gala Dinner in November 2015.
+
+<img src="/images/publications5.jpg" style="width:40%;margin-left::55px;" align = "left">
