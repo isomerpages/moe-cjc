@@ -30,3 +30,11 @@ Click [here](https://drive.google.com/file/d/1-LmgBJLsqlyJrZTVoFezmLrUQAtjfGeP/
 Application for FAS is through the year, in order to qualify for FAS with effect from Jan 2023, please submit the completed application form with all required supporting documents to the General Office by 14 Feb 2023.
 
 For submission of application form and approval after 14 Feb 2023, applicants will only receive the grant with effect from March 2023.
+
+#### **Income Family Micro-Insurance and Savings Scheme (IFMISS)**
+For pupils attending a local Government or Government-aided primary school and is an MOE Financial Assistance Scheme (MOE-FAS) recipient: 
+
+NTUC Income (Income) understands the difficulties that a child may go through when death or total and permanent disability occurs to a parent or guardian. As such, they have developed the Income Family Micro-Insurance and Savings Scheme (IFMISS) to help students from pre-school to pre-university institutions with disadvantaged backgrounds cope financially in such times of need.
+
+For more information about Income, please visit their [website](http://www.income.com.sg/).
+
