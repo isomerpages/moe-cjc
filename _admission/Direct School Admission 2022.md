@@ -53,7 +53,7 @@ _For DSA-JC (Phase 2)_<br>
 To allow enough time for processing, it is strongly recommended that all applications are submitted online by **1pm, Friday,** **19** **August 2022**.
 
 ##### **Trial/Audition Process**
-_ For DSA-JC (Phase 1),_
+_For DSA-JC (Phase 1),_
 * **Short-listed applicants** will be invited for in-person **auditions/trials** **from 23 May 2022** onwards.
 * Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.
 * Having granted a trial/audition does not mean that the DSA-JC application has been successful.
