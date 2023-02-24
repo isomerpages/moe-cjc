@@ -40,3 +40,6 @@ For the purpose of logo usage, our target audience is re-segmented into 3 tiers 
 | **Tier 2**<br>Family | This tier consists of internal target audience segments such as current students and their parents, current staff and alumni.<br><br>Either the CJC Crest or the CJC & Flame logo must be present in communication materials sent to this tier. As the people in this tier are familiar with the CJC brand, the CJC & Flame logo, a simplified version of the CJC Crest, may be used. |
 | **Tier 3**<br>Tradition  | Similar to Tier 2, this tier consists of internal target audience segments such as current students and their parents, current staff and alumni. <br><br>The Flame can only ever be used on its own in very exceptional cases, such as the college collar pin because of the size of the collateral as well as tradition. Otherwise, the logo usage guidelines for Tier 2 should be applied to internal target audience segments. |
 |
+
+**Clearance**<br>
+When placing the CJC Crest, CJC & Flame or Flame logos on any medium, sufficient clearance space must be given to ensure visibility and impact. The minimum clearance space is specified below and in the **[Brand Identity Guidelines](/files/CJC%20Guidelines%20Book.pdf)** book.
