@@ -20,12 +20,8 @@ While students should find the essay writing and comprehension components famili
 Above all, consistent effort and practice ensures success at the A-Levels.
 
 #### **Student Testimonials**
-![](/images/generalpaper1.jpg)
-
-![](/images/generalpaper2.jpg)
-
-[Testimonials re CJC GP Programme 1.jpg]()<br>
-[More Testimonials.jpg]()
+[Testimonials re CJC GP Programme 1.jpg](https://d33wubrfki0l68.cloudfront.net/daee3e44a0a8b0b812e2c6abe2ef0dcbb52f154b/f64b4/images/generalpaper1.jpg)<br>
+[More Testimonials.jpg](https://d33wubrfki0l68.cloudfront.net/bc9eb3409c0ab4a96aa68b0d967c3520bfba476a/18c45/images/generalpaper2.jpg)
 
 #### **Enrichment**
 **1\. Creative Arts Programme**<br>
