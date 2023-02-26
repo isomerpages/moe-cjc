@@ -31,3 +31,8 @@ Click the following link for an overview of the **8614 H1 Tamil Language** B syl
 
 
 #### **Prerequisites/Suitability**
+
+#### **Other Contact Details**
+Do you have a question that has not been addressed on this site? If so, feel free to write to one of us:
+*   HOD / Ms Lee Ting Ting:<br>[lee\_ting\_ting@moe.edu.sg](mailto:lee\_ting\_ting@moe.edu.sg)
+*   SH / Mr Tan Lye Huat:<br>[tan_lye_huat@moe.edu.sg](mailto:[tan\_lye\_huat@moe.edu.sg](mailto:tan_lye_huat@moe.edu.sg))
