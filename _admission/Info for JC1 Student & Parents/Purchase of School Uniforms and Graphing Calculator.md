@@ -44,3 +44,16 @@ The sale of uniforms will take place on **Monday, 6 Feb** and **Tuesday, 7 Fe
 #### **Sale of Graphing Calculator:**
 Graphing Calculator by Texas Instruments - **TI-84 Plus CE Python**
 
+<img src="/images/graphingcalculator.png" style="width:25%" align=left>
+
+<br clear="left">
+
+**Date & Time:** Tuesday, 14 Feb, 10am to 3.30pm<br>
+**Booth Venue:** CJC PAC Cave<br>
+$175/- per set inclusive of 8% GST. Price only valid at booth sales.
+
+Payment either by<br>
+1\. **Cash** – in **exact notes**, _OR_<br>
+2\. **Cheque** – payable to **Learning Interactive Pte  Ltd**; to write **student’s name/class/drawee’s contact no** on the **reverse side** of the cheque , _OR_<br>
+3\. **PayNow** – to be done via **student’s own phone** while present **at booth counter**. (not through third-party’s phone)<br>
+Please remember to collect the “Record of Purchase” card upon purchase of the GC.
