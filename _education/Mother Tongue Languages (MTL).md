@@ -11,6 +11,23 @@ The Mother Tongue Language (MTL) policy requires all students (including interna
 Mother Tongue B is not a H1 or H2-Level subject. Performance in the Chinese B/Malay B/ Tamil B is indicated as Merit, Pass or Ungraded. Students who pass MTL B will be deemed to have met the Mother Tongue requirement for admission to University. However, no consideration will be given in the computation of university admission score.
 
 #### **A-Level Syllabus**
+Click the following link for an overview of the **8655 H1 Chinese Language** syllabus as well as the assessment format:
+
+
+Click the following link for an overview of the **8611 H1 Chinese Language** B syllabus as well as the assessment format:
+
+
+Click the following link for an overview of the **8656 H1 Malay Language** syllabus as well as the assessment format:
+
+
+Click the following link for an overview of the **8613 H1 Malay Language** B syllabus as well as the assessment format: 
+
+
+Click the following link for an overview of the **8657 H1 Tamil Language** syllabus as well as the assessment format: 
+
+
+Click the following link for an overview of the **8614 H1 Tamil Language** B syllabus as well as the assessment format: 
+
 
 
 #### **Prerequisites/Suitability**
