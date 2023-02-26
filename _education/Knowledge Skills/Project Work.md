@@ -20,3 +20,13 @@ Students are expected to demonstrate the following skills while undertaking Proj
 
 *   **Independent Learning**<br>Students are to demonstrate ownership of their own learning process through an ability to learn independently, reflect on their learning and take appropriate actions to improve it. Students will be given support and guidance by their Project Work Supervising Tutors (ST) in the research, thinking and writing skills necessary for meeting the curriculum objectives of Project Work. This will be done in stages, according to the different documents.  
 Project Work has the same curriculum hours as any other H1 subject. However, as a coursework and team-based subject, it is not uncommon for students to spend time outside of the school curriculum brainstorming, researching, discussing and reviewing their project both individually and in their group.<br><br>It is the College’s mission for Every CJCian to be a ‘Thinker With A Mission and Leader With A Heart’. A core belief of the PW department at CJC is that students can improve under the right environment and approaches. Department teachers value students' insights and feedback and seek to guide and prepare them for life's challenges via the learning outcomes of Project Work. Students acquire skills in order to prepare them for lifelong learning and the complexities of future work life.
+
+#### **A-Level Syllabus**
+Click the following link for an overview of the Project Work syllabus as well as the assessment format:<br>
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808_y22_sy.pdf](/files/alevelsyllabus.pdf)
+
+#### **Student Testimonials**
+
+![](/images/studenttestimonial.jpg)
+
+[3 Testimonial 1.jpg]()
