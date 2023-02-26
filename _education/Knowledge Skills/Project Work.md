@@ -27,6 +27,4 @@ Click the following link for an overview of the Project Work syllabus as well as
 
 #### **Student Testimonials**
 
-![](/images/studenttestimonial.jpg)
-
-[3 Testimonial 1.jpg]()
+[3 Testimonial 1.jpg](https://d33wubrfki0l68.cloudfront.net/29f692be5b9d5720ceefa512416a4cbd5fcd3edd/6199b/images/studenttestimonial.jpg)
