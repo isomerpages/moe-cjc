@@ -28,6 +28,6 @@ Our REP challenges students to grow as individuals in service of others. We expl
 #### **Retreats**
 The REP culminates with the JC2 Retreat at the end of JC2. This retreat is a significant milestone in the lives of students in the RE programme as it marks the end of their time here at CJC, and provides a space for them to reflect and recollect memories and times spent in the college. Looking forward, it challenges them to live the college’s values of Truth and Love when they move out into the real world.
 
-<img src="/images/spirituality.jpg" style="width:85%">
+<img src="/images/spirituality.jpg" style="width:85%" align=left>
 
 <br clear="left">
