@@ -93,10 +93,20 @@ Our science students develop their leadership skills as they develop and facilit
 
 <center><b>STEP Environment Camp</b></center>
 
-_"My journey through the STEP Environment Camp was an enriching and enjoyable one. I was exposed to the different natural biodiversity Singapore has, such as the marine and mangrove environment, and learnt about the devastating impacts of improper waste treatment on these fragile ecosystems. Additionally, the camp has given me the opportunity to meet new friends from 12 different countries and work with them for our end-of-camp presentation, for which my group was awarded 1st place. Although the camp was draining, it definitely helped me gain more knowledge about other countries and grow to appreciate our natural environment even more."_
+_"My journey through the STEP Environment Camp was an enriching and enjoyable one. I was exposed to the different natural biodiversity Singapore has, such as the marine and mangrove environment, and learnt about the devastating impacts of improper waste treatment on these fragile ecosystems. Additionally, the camp has given me the opportunity to meet new friends from 12 different countries and work with them for our end-of-camp presentation, for which my group was awarded 1st place. Although the camp was draining, it definitely helped me gain more knowledge about other countries and grow to appreciate our natural environment even more."_<br>_Reflections by Sherna Cahyadi, 1T32, 2019_
 
-_Reflections by Sherna Cahyadi, 1T32, 2019_
+<img src="/images/academicenrichment14.jpg" style="width:65%">
 
+<center><b>Climate change, melting ice and warming oceans Talk by A/P Adam Switzer, Nanyang Technological University, Singapore</b></center>
 
+<img src="/images/academicenrichment15.jpg" style="width:65%">
+
+<center><b>Talk on "Earthquakes, Tsunamis and what we can learn from them" by Dr James Moore, Nanyang Technological University, Singapore</b></center>
 
 ##### **Mathematics Stretch Programmes**
+"Success is no longer about reproducing content knowledge, but about extrapolating from what we know and applying that knowledge to novel situations."<br>_**Andreas Schleicher**, head of OECD PISA_
+
+We believe in maximising the potential of every student and offer intellectually stimulating learning experiences for students who are ready to go deeper and further in the subject, thereby igniting a passion in them and preparing them for a digital future.   
+  
+The stretch programmes target mainly the science students pursuing H2 Mathematics.  
+The department offers a suite of co-curricular programmes that cater to students of diverse talents and interests:
