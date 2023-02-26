@@ -9,7 +9,7 @@ This is a week-long event organised by the Economics Department for both the JC1
 
 Where possible, external organisations are invited to value-add to students' learning experiences in the classrooms. In 2019, the 'CPF Roadshow' provided students with a fun and educational way to find out more about the Central Provident Fund (CPF) and the importance of personal finance, through Kinect gamification. The creative use of Linoit helped make explicit links between personal finance and the decision-making model in Economics; with many students considering the aims, constraints, benefits and costs of putting aside more money for the future.
 
-<img src="/images/academicenrichment1.jpg" style="width:85%">
+<img src="/images/academicenrichment1.jpg" style="width:65%">
 
 <center><b>Students playing Kinect at the 2019 CPF Roadshow</b></center>
 
@@ -18,11 +18,11 @@ This is an exchange programme that allows students from Catholic Junior College 
 
 This programme aims to enrich students' knowledge of the world as well as stretch their thinking to consider challenges and opportunities that different countries face, in comparison with Singapore. Additionally, students are also involved in school visits and a service-learning project as part of our college ethos to build Thinkers with a Mission and Leaders with a Heart.
 
-<img src="/images/academicenrichment2.jpg" style="width:85%">
+<img src="/images/academicenrichment2.jpg" style="width:65%">
 
 <center><b>Students visiting the Hong Kong High Court</b></center>
 
-<img src="/images/academicenrichment3.jpg" style="width:85%">
+<img src="/images/academicenrichment3.jpg" style="width:55%">
 
 <center><b>Students visiting the Bangkok College of Technology's Automotive Department</b></center>
 
@@ -39,4 +39,3 @@ This programme aims to enrich students' knowledge of the world as well as stretc
 
 
 ##### **Mathematics Stretch Programmes**
-
