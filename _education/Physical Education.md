@@ -19,3 +19,10 @@ Do you influence others around you to lead an active and healthy lifestyle?
 **Mission: CJC PE PROGRAMME:**<br>
 Ensure all the above and more!<br>
 To nurture in all a love for physical health and fitness and be advocates through a wide range of physical and non-physical activities.
+
+<img src="/images/abtpe1.jpg" style="width:85%">
+
+<img src="/images/abtpe2.jpg" style="width:85%">
+
+
+Click to find out more about the CJC PE Programme: [PE Microsite Materials (1).pptx - Google Slides](https://docs.google.com/presentation/d/1cwcHgTNZw5YtbVwPKuaOyArbt7D18k1i/edit#slide=id.p1)
