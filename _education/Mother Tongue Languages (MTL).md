@@ -5,10 +5,12 @@ description: ""
 ---
 ### **Mother Tongue Languages (MTL)**
 #### **About the Programme**
+The Mother Tongue Language (MTL) policy requires all students (including international students) to offer an MTL. In general, students who are Chinese/Malay/Indian in ethnicity are required to study their respective MTL. There is, however, flexibility in the implementation of the MTL policy. Students who are Eurasians or of mixed parentage may apply to offer any of the 3 official MTL. For Singapore Citizen students with double-barrelled race, MTL will be assigned based on the first component race. Non-Tamil Indian students may apply to offer one of the 5 approved NTIL i.e. Non-Tamil Indian Languages (Bengali, Gujarati, Hindi, Punjabi and Urdu). In addition, a non-Chinese/non-Malay student may apply to offer CL/ML as his/her MTL if there are valid grounds to do so. All applications will be considered on a case-by-case basis.  
 
+**MTL B**<br>
+Mother Tongue B is not a H1 or H2-Level subject. Performance in the Chinese B/Malay B/ Tamil B is indicated as Merit, Pass or Ungraded. Students who pass MTL B will be deemed to have met the Mother Tongue requirement for admission to University. However, no consideration will be given in the computation of university admission score.
 
 #### **A-Level Syllabus**
 
 
 #### **Prerequisites/Suitability**
-
