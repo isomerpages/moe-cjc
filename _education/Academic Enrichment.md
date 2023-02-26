@@ -110,3 +110,38 @@ We believe in maximising the potential of every student and offer intellectually
   
 The stretch programmes target mainly the science students pursuing H2 Mathematics.  
 The department offers a suite of co-curricular programmes that cater to students of diverse talents and interests:
+
+| Tier | Target Group | Opportunities |
+|---|---|---|
+| Talent<br>Development<br>Programme  |  Selected<br>students | International Mathematical Modelling Challenge<br> Computing Challenge and Cybersecurity based competitions<br>Singapore Mathematical Olympiads<br>H3 Programme<br>Work Attachments to STEM organisations<br>Data Science Boot Camp (ASEAN Level)<br>SMU Python Programming Advanced Placement Programme |
+| Leadership Development Programme | Mathematics leaders | Organise STEM Fest<br>Lead team in Data Science competitions<br>Conduct workshops<br>Conduct Open House Microlessons<br>Complete Commemoration Projects |
+| Core<br>Programme | Open to<br>interested<br>students | Australian Maths Competition<br>Computational and Algorithmic Competition<br>Learning Journeys to Institutions of Higher Learning (IHL)<br>Design with TI Graphing Calculator<br>Enrichment Camps |
+|
+
+Our partners include Lee Kuan Yew School of Public Policy, Mathematical Modelling Singapore, Cyber Security Agency Singapore, IMDA, Science Centre Singapore, Texas Instruments, NUS, NTU and SMU.  
+  
+The following are our Niche Programmes
+
+**1) International Mathematical Modelling Challenge**<br>
+Organised by Mathematical modelling Singapore, the Challenge seeks to promote the teaching of mathematical modelling and applications of Mathematics to all ages. This is based on the belief that the use of Mathematics is helpful to better understand, analyse and solve real-life problems that are seemingly not related to Mathematics.  
+  
+The competition is open to students in the second year who are shortlisted based on their JC1 performance and recommendation from tutors. The shortlisted students are mentored by a teacher advisor who will prepare them for the challenge.  
+  
+**WOW Factor**: Real world problems require students to integrate knowledge from different topics of Mathematics for their analysis and solution. Real problems take time and teamwork. The IM2C provides students with a deeper experience both of how mathematics can explain our world and what working with mathematics looks like. The participants have to be resourceful, do independent research as well as work closely as a team. One of the team members must have knowledge of Python programming. Students also have the opportunity to hone their Scientific Report Summary writing skills.
+
+<img src="/images/academicenrichment16.jpg" style="width:65%">
+
+**2) Data Science Competition**<br>
+This is a team-based competition open to students in their second year. Organized by the Department of Statistics and Applied Probability of the NUS, the annual competition encourages students to explore creative data displays. 
+
+**WOW Factor:** Mentored by a tutor, participants are challenged to apply research skills and perform statistical analysis using concepts that they learnt from H2 Mathematics to create a poster of an authentic social issue of their interest. Students also have the opportunity to hone their skills in data collection, statistical report writing and design.
+
+<img src="/images/academicenrichment17.jpg" style="width:65%">
+
+**3) Design using Graphing Calculator**<br>
+The competition is open to all students studying in a Junior College / Centralised Institute or a Secondary School in Singapore or the equivalent in Malaysia.
+
+**WOW Factor:** Participants are challenged to do independent research and use the Graphing Calculator to create artwork based on a theme. They get to appreciate how to apply knowledge of the different graphs of H2 Mathematics to design!
+
+<img src="/images/academicenrichment18.jpg" style="width:65%">
+
