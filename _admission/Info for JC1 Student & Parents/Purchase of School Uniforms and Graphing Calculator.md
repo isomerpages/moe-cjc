@@ -40,3 +40,7 @@ The sale of uniforms will take place on **Monday, 6 Feb** and **Tuesday, 7 Fe
 | **Website:** | [www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/) |
 | **Tel:** | 6747 8037|
 |
+
+#### **Sale of Graphing Calculator:**
+Graphing Calculator by Texas Instruments - **TI-84 Plus CE Python**
+
