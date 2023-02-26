@@ -33,15 +33,10 @@ The sale of uniforms will take place on **Monday, 6 Feb** and **Tuesday, 7 Fe
 | College Hoodie | $25.30 |
 |
 
-**Vendor:**<br>
-Shanghai School Uniforms Pte Ltd
-
-**Address:**<br>
-63 Ubi Ave 1, #04-09,<br>
-Singapore 408937
-
-**Website:**<br>
-[www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/)
-
-**Tel:**<br>
-6747 8037
+|  |  |
+|---|---|
+| **Vendor:** | Shanghai School Uniforms Pte Ltd |
+| **Address:** | 63 Ubi Ave 1, #04-09,<br>Singapore 408937 |
+| **Website:** | [www.shanghai-uniforms.com](http://www.shanghai-uniforms.com/) |
+| **Tel:** | 6747 8037|
+|
