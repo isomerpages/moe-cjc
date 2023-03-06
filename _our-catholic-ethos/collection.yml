@@ -1,4 +1,5 @@
 collections:
   our-catholic-ethos:
     output: true
-    order: []
+    order:
+      - Our Catholic Ethos.md
