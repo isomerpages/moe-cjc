@@ -1,5 +1,5 @@
 collections:
-  experience:
+  student-life:
     output: true
     order:
       - Experience.md
