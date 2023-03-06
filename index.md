@@ -21,46 +21,21 @@ sections:
         - title: Alumni
           description: ""
           url: ""
-  - infobar:
-      title: News
+  - infopic:
+      title: Flame+
       subtitle: Catholic Junior College
       description: Find out about CJC latest news!
       button: View all News
       url: /news/
-  - infobar:
+      alt: News
+  - infopic:
       title: Highlights
       subtitle: catholic junior college
       description: Highlights of CJC
       button: view all highlights
       url: /highlights/37/
-  - infopic:
-      title: Our CJ Story
-      subtitle: catholic junior college
-      description: A CJC education prepares you for life. We want you to be a
-        generation that changes the world.
-      button: for more info
-      image: /images/infopic1.jpg
-      alt: Image alt text
-      url: /education/
-  - infopic:
-      title: CJCares Fundraising
-      subtitle: catholic junior college
-      description: CJCares supports CJCians who require financial assistance during
-        these challenging times. Money raised will go to CJC Needy Students
-        Fund.
-      button: for more info
-      image: /images/infopic2.jpg
-      alt: Image alt text
-      url: https://www.giving.sg/catholic-junior-college
-  - infopic:
-      title: About Us
-      subtitle: catholic junior college
-      description: CJCians strive to be the best and brightest they can be. We lead,
-        serve and strive towards excellence in learning and living.
-      button: for more info
-      image: /images/infopic3.jpg
-      alt: Image alt text
-      url: /about-us/
+      image: /images/jumpshot.png
+      alt: Highlights
   - infopic:
       title: CJC's Education
       subtitle: catholic junior college
@@ -71,11 +46,39 @@ sections:
       alt: Image alt text
       url: /news/2022/6/
   - infopic:
-      title: CJC's Open House
+      title: Our Catholic Ethos
+      subtitle: catholic junior college
+      description: CJCians strive to be the best and brightest they can be. We lead,
+        serve and strive towards excellence in learning and living.
+      button: for more info
+      image: /images/about us img.png
+      alt: Image alt text
+      url: /about-us/
+  - infopic:
+      title: Our CJ Story
+      subtitle: catholic junior college
+      description: A CJC education prepares you for life. We want you to be a
+        generation that changes the world.
+      button: for more info
+      image: /images/infopic1.jpg
+      alt: Image alt text
+      url: /education/
+  - infopic:
+      title: Student Life
       subtitle: catholic junior college
       description: Taking place on the day after release of O-Level Results, 10am to 4pm!
       button: for more info
       image: /images/infopic5.png
       alt: Image alt text
       url: https://cjc.moe.edu.sg/eopenhouse
+  - infopic:
+      title: CJCares Fundraising
+      subtitle: catholic junior college
+      description: CJCares supports CJCians who require financial assistance during
+        these challenging times. Money raised will go to CJC Needy Students
+        Fund.
+      button: for more info
+      image: /images/infopic2.jpg
+      alt: Image alt text
+      url: https://www.giving.sg/catholic-junior-college
 ---
