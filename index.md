@@ -53,7 +53,7 @@ sections:
       button: for more info
       image: /images/about us img.png
       alt: Image alt text
-      url: /about-us/
+      url: /our-catholic-ethos/
   - infopic:
       title: Our CJ Story
       subtitle: catholic junior college
@@ -70,7 +70,7 @@ sections:
       button: for more info
       image: /images/infopic5.png
       alt: Image alt text
-      url: https://cjc.moe.edu.sg/eopenhouse
+      url: /student-life/
   - infopic:
       title: CJCares Fundraising
       subtitle: catholic junior college
