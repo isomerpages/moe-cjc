@@ -8,7 +8,7 @@ third_nav_title: CJC Houses
 <img src="/images/albert.jpg" style="width:75%">
 
 #### **Albert House's House Cheer**
-**Leader:** Albert What Team?<br>  
+**Leader:** Albert What Team?<br>
 **House:** A Team!<br>
 **Leader:** Albert What Team?<br>
 **House:** A Team!<br>
