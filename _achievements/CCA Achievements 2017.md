@@ -4,7 +4,7 @@ permalink: /achievements/cca-achievements/2017/
 description: ""
 ---
 ### **CCA Achievements 2017**
-### **Singapore Youth Festival (SYF) 2019**
+#### **Singapore Youth Festival (SYF) 2019**
 
 | Performing Arts | Award |
 |:---:|:---:|
@@ -15,7 +15,7 @@ description: ""
 | **Band** | Accomplishment  |
 |
 
-### **Team Results**
+#### **Team Results**
 
 | Competitions | Position |
 |:---:|:---:|
@@ -24,7 +24,7 @@ description: ""
 | National School Games Canoeing Championships ‘A’ DIV  Girls (K4 - 1000M) | 3rd |
 |
 
-### **Individual Results**
+#### **Individual Results**
 
 | Competitions (Individual) |  Name | Position | Class |
 |:---:|:---:|:---:|:---:|
