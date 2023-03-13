@@ -10,3 +10,34 @@ For the latest information on the CCAs, click on [this link](https://docs.googl
 These slides contain information on the trial/audition dates for the various CCAs.
 
 #### **Visual and Performing Arts**
+<img src="/images/cca1.jpg" style="width:75%">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Choir | Concert Band | English Drama |
+| Guitar Ensemble | Guzheng Ensemble | Modern Dance |
+|
+
+#### **Physical Sports**
+<img src="/images/cca2.jpg" style="width:75%">
+
+|  |  |  |
+|:---:|:---:|:---:|
+| Badminton | Basketball | Bowling |
+| Canoeing | Cross Country | Fencing |
+| Floorball | Football | Volleyball |
+| Netball | Ultimate | Swimming |
+| Tennis | Track and Field |  |
+|
+
+#### **Clubs and Societies**
+<img src="/images/cca3.jpg" style="width:75%">
+
+|  |  |
+|:---:|:---:|
+| Editorial Club | STE2M Club |
+| First Aid Club | Film, Sound, and Video Society |
+| Genesis (2nd CCA) | Interact Club |
+| Nexus Investment & Entrepreneurship Society |  Oratorical Society |
+| Strategy Games Club | Student Council |
+|
