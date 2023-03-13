@@ -5,7 +5,7 @@ description: ""
 third_nav_title: CJC Houses
 ---
 ### **CJC Houses**
-<img src="/images/cjchouse1.jpg" style="width:65%">
+<img src="/images/cjchouse1.jpg" style="width:75%">
 
 #### **Unite to Ignite**
 The House system is a historic feature in Catholic Junior College, with the houses initially named after the saints Patrick, Joseph, Michael, Albert, John and Gregory.  
