@@ -25,11 +25,11 @@ description: ""
 
 | CCA | Achievement | Gender | Name | Class |
 |:---:|:---:|:---:|:---:|:---:|
-| Cross Country<br>(Virtual Inter School Challenge) | 15th | Girls | Girls Individual - Erika Chuah Y-Lin | 1T03 |
-| Cross Country<br>(Virtual Inter School Challenge) | 5th | Boys | Boys Individual - Darrell Leow | 1T19 |
-| Cross Country<br>(Virtual Inter School Challenge) | 11th | Boys | Boys Individual - Ku Zi Ming | 1T22 |
-| Cross Country<br>(Virtual Inter School Challenge) | 17th | Boys | Boys Individual - Jaythan Christopher Tan Jun | 1T25 |
-| Golf | 2nd | Girls | Girls Individual - Choo Jian Ying Jaclyn | 1T08 |
+| **Cross Country<br>(Virtual Inter School Challenge)** | 15th | Girls | Girls Individual - Erika Chuah Y-Lin | 1T03 |
+| **Cross Country<br>(Virtual Inter School Challenge)** | 5th | Boys | Boys Individual - Darrell Leow | 1T19 |
+| **Cross Country<br>(Virtual Inter School Challenge)** | 11th | Boys | Boys Individual - Ku Zi Ming | 1T22 |
+| **Cross Country<br>(Virtual Inter School Challenge)** | 17th | Boys | Boys Individual - Jaythan Christopher Tan Jun | 1T25 |
+| **Golf** | 2nd | Girls | Girls Individual - Choo Jian Ying Jaclyn | 1T08 |
 | Taekwondo | 4th | Boys | Individual - Red 2 - Poomsae - Yves Chong Yun Wen | 1T11 |
 |
 
