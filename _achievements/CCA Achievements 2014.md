@@ -67,7 +67,7 @@ CJC Drama Society clinched a Certificate of Distinction for their rendition of 
 | 10 | Nationals Inter-School Shooting (Air Pistol) Championships<br>  | Madeline Teo Hui Zhen 2T26 | Girls<br>  | 8th |
 | 11 | Nationals Inter-School Shooting (Air Pistol) Championships<br>  | Tan Kuan Wei Benjamin 2T11 | Boys<br>  | 2nd |
 | 12 | National Inter-school Sailing Championships<br>  | Malone Pun Chao Jie 1T05 | Boys<br> <br>  | 3rd |
-| 13 | Nationals Inter-School Track & Field Championship  4X100m Relay<br>                                                                  | Foo Melvin 1T10<br>Ananth Suresh 2T12<br>Chan Zhe Ying 2T10<br>Benedict Kwok An Rong 1T02 | Boys | 4th |
+| 13 | Nationals Inter-School Track & Field Championship  4X100m Relay<br> | Foo Melvin 1T10<br>Ananth Suresh 2T12<br>Chan Zhe Ying 2T10<br>Benedict Kwok An Rong 1T02 | Boys | 4th |
 | 14 | Nationals Inter-School Track & Field Championship 4X400m Relay<br>  | Foo Melvin 1T10<br>Ananth Suresh 2T12<br>Chan Zhe Ying 2T10<br>Bull Jonathan 1T26 | Boys | 5th<br>  |
 | 15 | Nationals Inter-School Track & Field Championship Javelin<br>  | Pee Mun Hsuen, Amos 2T06<br>  | Boys | 4th |
 | 16 | Nationals Inter-School Track & Field Championship Shot Put<br>  | Pee Mun Hsuen, Amos 2T06<br>  | Boys | 8th |
