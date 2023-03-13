@@ -22,13 +22,6 @@ sections:
           description: ""
           url: ""
   - infopic:
-      title: Flame+
-      subtitle: Catholic Junior College
-      description: Find out about CJC latest news!
-      button: View all News
-      url: /news/
-      alt: News
-  - infopic:
       title: Highlights
       subtitle: catholic junior college
       description: Highlights of CJC
