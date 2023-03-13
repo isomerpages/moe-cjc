@@ -30,9 +30,9 @@ Our four houses are proud to have the leadership and service of the following Ho
 
 |  | Albert |  Joseph | Michael | Patrick |
 |:---:|:---:|:---:|:---:|---|
-|    2023 | Teh Xue Hui,<br>Kaisah Itqah Binte Ahmad Iskandar |  Tay Hui Xin Sharon, Khoo Kai Rui Ignatius | Pechetti Venkata Shashwath,<br>Mya Phone Myinnt Moh |  Nicodemus Lai Kye Juun,<br>Mikhael Sierud |
-| 2022 | Nurul Iman Syed Masood<br>Kyi Thanthar (Rebecca) |  Claudia Ng Hui Lin<br>Katerina Shu-Lian Cascapera | Nicole Lyn Chan<br>Xin Ru<br>Jiang Yit Fong | Carina Tay Wen Xi<br>Xayna Kwek |
-|  2021 |  Maria Josephine Orell<br>Nur Sarahfina Binte Kamarudin |  Hannah Chiang Siew Hua<br>Jonathan Wui Jia Jun |  Patwardhan Dhruva Ramon Jitend<br>Yen Su Fei Megan |  Fang Heidi-Eeshin<br>Ashley Yaokasin Ong |
-|  2020 |  Muhammad Nabil B Rezalludin<br>Rogel Derek Jozch Mangundayao |  Berlyn Francesca Phua Qi Qi<br>Matthew Lee<br>Jeun Kai |  Nyi Nyi Tun<br>Mui Yi Zhe Lincoln |  Tee How Yee<br>Amos Tan Tuan |
-|  2019 |  Ethan Chuah E-Wai How Troy | Megan Lim Li Yi<br>Jenifer Vania Bachtiar |  Mohamed Muzammir B Mohamed Murad<br>Tricia See Jia Tung |  Seow Rui Xuan<br>Cherry Ling Zhiyi |
+| **2023** | Teh Xue Hui,<br>Kaisah Itqah Binte Ahmad Iskandar |  Tay Hui Xin Sharon, Khoo Kai Rui Ignatius | Pechetti Venkata Shashwath,<br>Mya Phone Myinnt Moh |  Nicodemus Lai Kye Juun,<br>Mikhael Sierud |
+| **2022** | Nurul Iman Syed Masood<br>Kyi Thanthar (Rebecca) |  Claudia Ng Hui Lin<br>Katerina Shu-Lian Cascapera | Nicole Lyn Chan<br>Xin Ru<br>Jiang Yit Fong | Carina Tay Wen Xi<br>Xayna Kwek |
+|  **2021** |  Maria Josephine Orell<br>Nur Sarahfina Binte Kamarudin |  Hannah Chiang Siew Hua<br>Jonathan Wui Jia Jun |  Patwardhan Dhruva Ramon Jitend<br>Yen Su Fei Megan |  Fang Heidi-Eeshin<br>Ashley Yaokasin Ong |
+|  **2020** |  Muhammad Nabil B Rezalludin<br>Rogel Derek Jozch Mangundayao |  Berlyn Francesca Phua Qi Qi<br>Matthew Lee<br>Jeun Kai |  Nyi Nyi Tun<br>Mui Yi Zhe Lincoln |  Tee How Yee<br>Amos Tan Tuan |
+|  **2019** |  Ethan Chuah E-Wai How Troy | Megan Lim Li Yi<br>Jenifer Vania Bachtiar |  Mohamed Muzammir B Mohamed Murad<br>Tricia See Jia Tung |  Seow Rui Xuan<br>Cherry Ling Zhiyi |
 |
