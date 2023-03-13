@@ -30,7 +30,7 @@ description: ""
 | **Cross Country<br>(Virtual Inter School Challenge)** | 11th | Boys | Boys Individual - Ku Zi Ming | 1T22 |
 | **Cross Country<br>(Virtual Inter School Challenge)** | 17th | Boys | Boys Individual - Jaythan Christopher Tan Jun | 1T25 |
 | **Golf** | 2nd | Girls | Girls Individual - Choo Jian Ying Jaclyn | 1T08 |
-| Taekwondo | 4th | Boys | Individual - Red 2 - Poomsae - Yves Chong Yun Wen | 1T11 |
+| **Taekwondo** | 4th | Boys | Individual - Red 2 - Poomsae - Yves Chong Yun Wen | 1T11 |
 |
 
 #### **Clubs and Societies CCAs - Individual Results**
