@@ -11,7 +11,7 @@ description: ""
 | **Drama** | Distinction |
 |
 
-##### **Sport CCAs - Team Results**
+#### **Sport CCAs - Team Results**
 
 | CCA | Event | Achievements (if applicable) | Gender |
 |:---:|:---:|:---:|:---:|
@@ -25,7 +25,7 @@ description: ""
 | Tennis | NSG | Top 8 | Boys |
 |
 
-##### **Sport CCAs - Individual Results**
+#### **Sport CCAs - Individual Results**
 
 | CCA | Event | Achievements | Name | Class | Sex |
 |:---:|:---:|:---:|:---:|:---:|:---:|
@@ -40,14 +40,14 @@ description: ""
 | Cross Country | NSG Cross Country Boys Individual | 8th | DARRELL LEOW CHEN JEE | 2T19 | M |
 |
 
-##### **Clubs and Societies CCAs - Team Results**
+#### **Clubs and Societies CCAs - Team Results**
 
 | CCA | Event | Achievements (if applicable) | Gender |
 |:---:|:---:|:---:|:---:|
 | Oratorical Society | MOE Inter-collegiate Debate Competition | Quarter-Finalist | Mixed |
 |
 
-##### **Clubs and Societies CCAs - Individual Results**
+#### **Clubs and Societies CCAs - Individual Results**
 
 | CCA | Event | Achievements | Name | Class | Sex |
 |:---:|:---:|:---:|:---:|:---:|:---:|
