@@ -13,13 +13,13 @@ description: ""
 <img src="/images/students2.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
-<p><a href="webhere">
+<p><a href="https://vle.learning.moe.edu.sg/login">
 <img src="/images/students3.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
 <br clear="left">
 
-<p><a href="webhere">
+<p><a href="https://moe-cjc-staging.netlify.app/admission/scholarships/">
 <img src="/images/students4.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
