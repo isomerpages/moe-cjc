@@ -74,4 +74,8 @@ sections:
       image: /images/infopic2.jpg
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
+  - resources:
+      title: Test Section
+      subtitle: Test Section
+      button: Test Resources
 ---
