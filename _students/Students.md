@@ -32,3 +32,5 @@ description: ""
 </a></p>
 
 <br clear="left">
+
+Note: 'Subject Registration' is accessible only during JC1 Orientation and Matriculation.
