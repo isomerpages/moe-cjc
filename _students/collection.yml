@@ -2,5 +2,6 @@ collections:
   students:
     output: true
     order:
+      - Class Management Committee.md
       - Code of Conduct.md
       - Subject Registration 2023.md
