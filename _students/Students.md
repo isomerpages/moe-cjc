@@ -23,11 +23,11 @@ description: ""
 <img src="/images/students4.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
-<p><a href="webhere">
+<p><a href="https://portal.catholicjc.edu.sg/">
 <img src="/images/students5.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
-<p><a href="webhere">
+<p><a href="https://www.flickr.com/photos/catholicjc/sets/">
 <img src="/images/students6.jpg" style="width:20%;margin-right:5px;" align = "left">
 </a></p>
 
