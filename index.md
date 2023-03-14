@@ -63,7 +63,7 @@ sections:
       button: for more info
       image: /images/infopic5.png
       alt: Image alt text
-      url: /student-life/
+      url: https://cjc.moe.edu.sg/eopenhouse
   - infopic:
       title: CJCares Fundraising
       subtitle: catholic junior college
