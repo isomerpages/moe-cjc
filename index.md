@@ -11,16 +11,16 @@ sections:
       key_highlights:
         - title: Students
           description: ""
-          url: ""
+          url: /students/
         - title: Staff
           description: ""
-          url: ""
+          url: /staff/
         - title: Parents
           description: ""
-          url: ""
+          url: /parents/
         - title: Alumni
           description: ""
-          url: ""
+          url: /alumni/
   - infopic:
       title: Highlights
       subtitle: catholic junior college
