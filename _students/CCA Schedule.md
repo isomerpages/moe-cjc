@@ -56,3 +56,5 @@ Please click on the slides for information on the trial/audition dates for the v
 | 11 | Uniformed Group | External |   |   |   |   |   |
 | 12 | Genesis Non-Core CCA (2nd CCA) | Fridays once a month | Chapel<br>2.15pm-3.45pm | Even/Odd Fridays  | Chapel | Emmaus Session once a term | Chapel or LT1 |
 |
+
+_Updated 27 Jan 2022_
