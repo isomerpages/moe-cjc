@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: Students
           description: ""
-          url: /students/code-of-conduct/
+          url: /students/
         - title: Staff
           description: ""
           url: /staff/
