@@ -50,7 +50,7 @@ Please click on the slides for information on the trial/audition dates for the v
 | 4 | First Aid Club | Wednesday | LT6/ J3-04<br>4:30 - 6:30pm | Nil | Nil | Friday | 3:00 - 5:00 pm<br>J3-04 |
 | 5 | Interact Club | Friday | 2.30pm - 4.30pm, LT4 | Wednesday | 4:30 - 6:30pm, LT4 | NIL | NIL |
 | 6 | Oratorical Society | Wednesday | Face-to-face training<br>5.00 - 7.00pm | Friday | Face-to-face training<br>3.00-6.00pm | NIL | NIL |
-| 8 | Strategy Games | Friday | E3-04/05/06/07, 2:30 to 5:30pm | Wed<br>(when Fri is unavailable) | E3-04/05/06/07, 4:15 to 6:15pm | Competitions on Saturdays<br>*Suspended due to Covid-19 situation | Competition Venues |
+| 8 | Strategy Games | Friday | E3-04/05/06/07, 2:30 to 5:30pm | Wed<br>(when Fri is unavailable) | E3-04/05/06/07, 4:15 to 6:15pm | Competitions on Saturdays<br>\*Suspended due to Covid-19 situation | Competition Venues |
 | 9 | Student Council | Friday | J4-05 to J4-07 (JC1)<br>Student Council Centre (JC2)<br>3:00 - 7:00pm | Wednesday | J4-05 to J4-07 (JC1)<br>Student Council Centre (JC2)<br>5:00 - 7:00pm |   | SCC  |
 | 10 | Film Sound Video Society | Wednesday | F2-11<br>4:30 - 6:00pm | Friday | F2-11<br>3:00 - 6:00pm | Morning assemblies (rotation basis) | NIL |
 | 11 | Uniformed Group | External |   |   |   |   |   |
