@@ -51,7 +51,10 @@ description: ""
 
 <br clear="left">
 
-broken links:<br>
+A SSOE or SSOE-VPN connection is required to access the following services:<br>
+CJC Intranet, MOE Intranet, School Cockpit, iExams.
+
+### broken links:
 cjc intranet<br>
 moe intranet<br>
 school cockpit<br>
