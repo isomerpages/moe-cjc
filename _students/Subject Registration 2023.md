@@ -7,7 +7,7 @@ description: ""
 
 <span style = "color: #b61929"><b>Subject Registration System - </b></span> **[Online CJC Portal](https://portal.catholicjc.edu.sg/)** (available only from 3 Feb, 3pm)
 
-#### <span style = "color: #213b81">Important Note:</span>
+#### <span style = "color: #213b81"><b>Important Note:</b></span>
 
 *   Please refer to the website via the link given below to guide you through the process of selecting your subject combination: [https://go.gov.sg/jc1-subj-select](https://go.gov.sg/jc1-subj-select)
     
