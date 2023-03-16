@@ -2,4 +2,4 @@ collections:
   staff:
     output: true
     order:
-      - Staff.md
+      - Corporate Communications.md
