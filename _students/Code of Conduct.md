@@ -93,42 +93,36 @@ Address:  63 Ubi Ave 1, #04-09, Singapore 408937
 **Note:** Visits to the store are strictly by appointment only.
 
 #### **2. Personal Accountability (Self Leadership)**
-**2.1** **Assembly**
-
+**2.1** **Assembly**<br>
 Students who are Singapore citizens must sing the National Anthem and take the Pledge each morning at assembly.  Students will take the pledge with the right fist placed over the heart.
 
-**2.2** **Attendance**
-
+**2.2** **Attendance**<br>
 All students must be punctual for College, classes, CCA and other College activities and events. Latecomers must register their presence.
 
-**2.3 Absence**  
-
+**2.3 Absence**<br>
 Students are expected to be in attendance for all their commitments on official school days. Requests for absence from class should only be made for the most serious of reasons.
 
 **2.3.1** A medical certificate (MC) must be submitted when a student is absent for illness.  The MC is presented to the Home Tutor(s) during assembly before the student resumes classes.  A student who is absent for three days or more because of illness is required to notify the Home Tutor of the extended absence. This may be done through the Admin office.
 
-****2.3**.2** A letter from parents must be presented to the Home Tutor(s) when a student is absent for urgent personal reasons only, **not for illness**. Any absence from college due to an illness must be covered with a MC.     
+**2.3.2** A letter from parents must be presented to the Home Tutor(s) when a student is absent for urgent personal reasons only, **not for illness**. Any absence from college due to an illness must be covered with a MC.     
 
-****2.3**.3** All absentees must present MCs to the Home Tutors (immediately after assembly) upon their return to college before proceeding to lessons.
+**2.3.3** All absentees must present MCs to the Home Tutors (immediately after assembly) upon their return to college before proceeding to lessons.
 
-****2.3**.4** Any student who is absent from College during official class time, without a parental letter or a MC, may be suspended from College as it is truancy.   
+**2.3.4** Any student who is absent from College during official class time, without a parental letter or a MC, may be suspended from College as it is truancy.   
 
-****2.3**.5** Attendance at detention is compulsory, and takes precedence over all other commitments including CCA practice. Students who are unable to attend detention for whatever reasons must inform the Year Head or Assistant Year Head. Failure to attend detention without a valid reason may lead to a student’s suspension from classes.  
+**2.3.5** Attendance at detention is compulsory, and takes precedence over all other commitments including CCA practice. Students who are unable to attend detention for whatever reasons must inform the Year Head or Assistant Year Head. Failure to attend detention without a valid reason may lead to a student’s suspension from classes.  
 
-****2.3**.6** Attendance at CCAs is compulsory. Non-attendance must be covered with a MC or a parent’s letter. Regular attendance is needed to have the CCA recognized and reflected in the student’s holistic achievement certificate.
+**2.3.6** Attendance at CCAs is compulsory. Non-attendance must be covered with a MC or a parent’s letter. Regular attendance is needed to have the CCA recognized and reflected in the student’s holistic achievement certificate.
 
-****2.3**.7** Absence from College, without approval, is considered truancy.  Truancy is viewed as a willful absence from the College and may result in suspension or expulsion.  
+**2.3.7** Absence from College, without approval, is considered truancy.  Truancy is viewed as a willful absence from the College and may result in suspension or expulsion.  
 
-**2.4 Early Leave**
-
+**2.4 Early Leave**<br>
 Permission is to be sought from Principal, Vice Principal or Year Head. Once granted, a student has to sign out at the Admin Office, and inform Home Tutors.
 
-**2.5 Dismissal**
-
+**2.5 Dismissal**<br>
 Determined by the individual's class timetable or 1.00 p.m., whichever is later.
 
-**2.6 Leave of Absence**
-
+**2.6 Leave of Absence**<br>
 A leave of absence must be sought in advance from the Principal or Vice Principal in writing.
 
 #### **3. Community Living**
@@ -231,5 +225,3 @@ During Night Study, no students are allowed to:
 *   Use the photocopying machine  
     
 *   Use handphone within the library premises.
-
-
