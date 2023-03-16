@@ -2,9 +2,9 @@ collections:
   students:
     output: true
     order:
-      - Code of Conduct/CJC Discipline Process.md
-      - Code of Conduct/Code of Conduct.md
       - Code of Conduct/.keep
+      - Code of Conduct/Code of Conduct.md
+      - Code of Conduct/CJC Discipline Process.md
       - Students.md
       - Calender.md
       - College Daily Schedule.md
