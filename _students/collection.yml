@@ -2,6 +2,7 @@ collections:
   students:
     output: true
     order:
+      - Code of Conduct/.keep
       - Students.md
       - Calender.md
       - College Daily Schedule.md
