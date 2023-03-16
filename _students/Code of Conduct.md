@@ -62,3 +62,7 @@ The uniform is an expression of the college’s identity. As an ambassador of th
 
 **1.2.8** The uniform worn correctly.
 
+<img src="/images/attire1.jpg" style="width:22%;margin-left:195px;" align = "left">
+<img src="/images/attire2.jpg" style="width:20%;margin-right:195px;" align = "right">
+
+<br clear="left">
