@@ -6,6 +6,8 @@ third_nav_title: "2023"
 ---
 ### **JC1 Commencement Mass and Ceremony, 20 Feb**
 
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQEzo-XTJZqKbcD0-uifDK_vLXOC0l36y4Wj2qXvALaYNnY2TDm_cMFxOmp3fZ5qyOFrU9jCpAQeXYl/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+
 _By Kimi Tan (2T22) and Bryan Lee (2T27)_
 
 On 20 February, Catholic Junior College (CJC) officially welcomed the new JC1s with the Commencement Mass and Ceremony. This event was significant as it was the first ceremony involving both the JC1s and JC2s since the pandemic, and the auditorium was buzzing with excitement. Earlier in the morning, the seniors facilitated some icebreaker games and interactive activities to connect with their juniors, bringing about a lot of laughter and extending the culture of care to the new CJCians.
@@ -17,5 +19,3 @@ Monsignor (Msgr) Ambrose Vaz presided over mass with our College Chaplain, Fathe
 For the first time in years since the pandemic, the Commencement Mass and Ceremony brought all the staff and students together. With hearts full of thanksgiving and joy, it truly was a good start to the year.
 
 _In Veritate et Caritate_
-
-
