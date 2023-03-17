@@ -316,72 +316,69 @@ NG GUANGXIAN, EDWIN 2T13<br>
 PICHETPONGSA ABHIVIT 2T11
 
 Our **Student Leaders** who have done well:<br>
-WU YAN FEI, LYNETTE 2T02 (Interact Club Exco)  
-NG WEI AN RYAN 2T01 (Oratorical Society Exco)  
-TAN JIA XIN CALISTA 2T01 (Oratorical Society Vice President)  
-CLARA HENG JIA EE 2T04 (Floorball Vice Captain)  
-LAI ZILIANG BRANDON 2T04 (Oratorical Society Exco)  
-HANNAH LOW SI EN 2T06 (Guitar Ensemble Exco)  
-RAPHAEL LER-JAY NG 2T11 (Bowling Exco)  
-OLIVIA TAN 2T20 (Modern Dance Exco)  
-FENG YI 2T27 (Strategy Games Club Exco)  
-TAN YEE FEI 2T04 (Oratorical Society Exco, Ultimate Exco)  
-DO HOANG MY 2T05 (English Drama President)  
-JANICE LOW YEE TENG 2T05 (STE2M Club Exco)  
-JEILEEANA GLEHSA MAGBATO ALOG 2T05 (Choir Exco)  
-SEAN CHIN WEI EN 2T10 (Strategy Games Club Exco)  
-ARYAN AJAY DESHPANDE 2T12 (Tennis Captain)  
-NGUYEN QUANG MINH 2T14 (Guitar Ensemble Exco)  
-LIM QIAN RU CLARABELLE 2T21 (Netball Captain)  
-ETHAN ROW TZE HUNG 2T04 (Floorball Vice Captain)  
-PUTRI NUR QURAISHA BINTE NUR AZHA PUTRA 2T05 (Oratorical Society President)  
-LOW YUN JIA 2T04 (Tennis Captain)  
-LEE RY SHENG 2T09 (Fencing Vice Captain)  
-SZE KENNETH OWEN 2T09 (Film, Sound and Video Society President)   
-WENG CHENXI 2T18 (STE2M Club Exco)  
-LIM QING MEI SHANA 2T03 (Guitar Ensemble Exco)  
-SARAH CHAN SI-EN 2T08 (Volleyball Vice Captain)  
-MELISSA TEO YI YING 2T22 (Concert Band Exco)  
-CLAUDELLE ASHLEY KAY MINN 2T23 (STE2M Club Exco)  
-IGNATIUS CHIA MING HAN 2T28 (Badminton Captain, Genesis President)  
-MICHAEL GEORDI SETIADI 2T28 (Nexus Investment & Entrepreneurship Society Exco)  
-CHIA WEI LING SHANNON 2T01 (Concert Band Exco)  
-NICOLE LIM JIA HUI 2T03 (Strategy Games Club President)  
-LEE SEIN GABE GABRIEL 2T04 (Nexus Investment & Entrepreneurship Society Vice President)  
-SITHU 2T04 (Concert Band Exco)  
-POULOSE AIDAN MICHAEL 2T10 (Floorball Exco)  
-SAMREEN KAUR GILL 2T06 (Editorial Club President)  
-ENG TING 2T01 (Nexus Investment & Entrepreneurship Society Exco)  
-LEONG JINGYI, GRACE 2T01 (Editorial Club Exco)  
+WU YAN FEI, LYNETTE 2T02 (Interact Club Exco)<br>
+NG WEI AN RYAN 2T01 (Oratorical Society Exco)<br>
+TAN JIA XIN CALISTA 2T01 (Oratorical Society Vice President)<br>
+CLARA HENG JIA EE 2T04 (Floorball Vice Captain)<br>
+LAI ZILIANG BRANDON 2T04 (Oratorical Society Exco)<br>
+HANNAH LOW SI EN 2T06 (Guitar Ensemble Exco)<br>
+RAPHAEL LER-JAY NG 2T11 (Bowling Exco)<br>
+OLIVIA TAN 2T20 (Modern Dance Exco)<br>
+FENG YI 2T27 (Strategy Games Club Exco)<br>
+TAN YEE FEI 2T04 (Oratorical Society Exco, Ultimate Exco)<br>
+DO HOANG MY 2T05 (English Drama President)<br>
+JANICE LOW YEE TENG 2T05 (STE2M Club Exco)<br>
+JEILEEANA GLEHSA MAGBATO ALOG 2T05 (Choir Exco)<br>
+SEAN CHIN WEI EN 2T10 (Strategy Games Club Exco)<br>
+ARYAN AJAY DESHPANDE 2T12 (Tennis Captain)<br>
+NGUYEN QUANG MINH 2T14 (Guitar Ensemble Exco)<br>
+LIM QIAN RU CLARABELLE 2T21 (Netball Captain)<br>
+ETHAN ROW TZE HUNG 2T04 (Floorball Vice Captain)<br>
+PUTRI NUR QURAISHA BINTE NUR AZHA PUTRA 2T05 (Oratorical Society President)<br>
+LOW YUN JIA 2T04 (Tennis Captain)<br>
+LEE RY SHENG 2T09 (Fencing Vice Captain)<br>
+SZE KENNETH OWEN 2T09 (Film, Sound and Video Society President)<br>
+WENG CHENXI 2T18 (STE2M Club Exco)<br>
+LIM QING MEI SHANA 2T03 (Guitar Ensemble Exco)<br>
+SARAH CHAN SI-EN 2T08 (Volleyball Vice Captain)<br>
+MELISSA TEO YI YING 2T22 (Concert Band Exco)<br>
+CLAUDELLE ASHLEY KAY MINN 2T23 (STE2M Club Exco)<br>
+IGNATIUS CHIA MING HAN 2T28 (Badminton Captain, Genesis President)<br>
+MICHAEL GEORDI SETIADI 2T28 (Nexus Investment & Entrepreneurship Society Exco)<br>
+CHIA WEI LING SHANNON 2T01 (Concert Band Exco)<br>
+NICOLE LIM JIA HUI 2T03 (Strategy Games Club President)<br>
+LEE SEIN GABE GABRIEL 2T04 (Nexus Investment & Entrepreneurship Society Vice President)<br>
+SITHU 2T04 (Concert Band Exco)<br>
+POULOSE AIDAN MICHAEL 2T10 (Floorball Exco)<br>
+SAMREEN KAUR GILL 2T06 (Editorial Club President)<br>
+ENG TING 2T01 (Nexus Investment & Entrepreneurship Society Exco)<br>
+LEONG JINGYI, GRACE 2T01 (Editorial Club Exco)<br>
 CAITLIN TAY PUAY ENG 2T06 (Floorball Exco)  
 
-Our **Archbishop, ELL** and **Flame** **Scholars** who have done well:  
-LEE ZHI QIANG 2T08  
-JANICE LOW YEE TENG 2T05  
-ISAAC QALIPH RAHIM 2T06  
-LEANNDRA ANISHA ARAKKAL 2T05  
-LIM QIAN RU CLARABELLE 2T21  
-LEE SEIN GABE GABRIEL 2T04  
+Our **Archbishop, ELL** and **Flame** **Scholars** who have done well:<br>
+LEE ZHI QIANG 2T08<br>
+JANICE LOW YEE TENG 2T05<br>
+ISAAC QALIPH RAHIM 2T06<br>
+LEANNDRA ANISHA ARAKKAL 2T05<br>
+LIM QIAN RU CLARABELLE 2T21<br>
+LEE SEIN GABE GABRIEL 2T04
   
-Top Performing **Science** Class: **2T28**  
-Top Performing **Arts** Class: **2T01**  
-**  
-Janice Low Yee Teng, Asst Home Tutorial Councillor, 2T05, STE2M Club Exco  
-**"_CJ really helped with my personal growth not just as a leader but as an individual. I had many opportunities to voice my opinions and explore. Participation in programmes like OSLP, LSLP and competitions in my CCA, STE2M Club, gave me a chance to forge new friendships and contributed to my personal growth as I got to learn communications and organisational skills. I became more self-directed and resilient._"  
+Top Performing **Science** Class: **2T28**<br>
+Top Performing **Arts** Class: **2T01**<br>
+**Janice Low Yee Teng, Asst Home Tutorial Councillor, 2T05, STE2M Club Exco**<br>
+"_CJ really helped with my personal growth not just as a leader but as an individual. I had many opportunities to voice my opinions and explore. Participation in programmes like OSLP, LSLP and competitions in my CCA, STE2M Club, gave me a chance to forge new friendships and contributed to my personal growth as I got to learn communications and organisational skills. I became more self-directed and resilient._"  
   
-**Sze Kenneth Owen, 2T09, Film, Sound and Video Society President**  
+**Sze Kenneth Owen, 2T09, Film, Sound and Video Society President**<br>
 "_The various leadership training camps in CJ made me realise how important being a leader is and guided me in my journey in becoming a leader. For me, perseverance is the number one quality to push through challenges in life. I think it is very important to never give up._"  
   
-**Nicole Lim Jia Hui, 2T03, Strategy Games Club President  
-**"_The little actions that you do can make a difference - such as being there for the people around you and building bonds with your classmates and your friends. My friends and I are always there for each other._"  
+**Nicole Lim Jia Hui, 2T03, Strategy Games Club President**<br>
+"_The little actions that you do can make a difference - such as being there for the people around you and building bonds with your classmates and your friends. My friends and I are always there for each other._"  
   
-**Ignatius Chia Ming Han, 2T28, Badminton Captain, Genesis President**  
+**Ignatius Chia Ming Han, 2T28, Badminton Captain, Genesis President**<br>
 "_Always aim for the best. Have a goal in mind so that it will motivate you to study harder._"  
   
-**Tan Yee Fei, 2T04, Home Tutorial Councillor, Oratorical Society Exco, Ultimate Exco**  
-
+**Tan Yee Fei, 2T04, Home Tutorial Councillor, Oratorical Society Exco, Ultimate Exco**<br>
 "_Home Class culture – sharing a common mindset in doing well and setting good standards for ourselves – was an attribute that created the right learning environment for me. I am also grateful for my teachers, who kept pushing us to strive for better, giving us the assurance that they are on the journey with us._"
 
-**Lim Qian Ru, Clarabelle, 2T21, Flame Scholar, Pastoral Care Councillor, Netball Captain**
-
+**Lim Qian Ru, Clarabelle, 2T21, Flame Scholar, Pastoral Care Councillor, Netball Captain**<br>
 "_Resilience is important in academic achievement. Keep going and putting in the same amount of effort. Consistency will get you ahead._"
