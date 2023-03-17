@@ -25,5 +25,4 @@ _After a two-year hiatus, our alumni were in the highest of spirits for this yea
 
 ![](/images/alumni5.jpg)
 
-[For more stories of our alumni, please visit our publications page to read the CJC40 coffee table book.](https://cjc.moe.edu.sg/about/publications)
-
+[For more stories of our alumni, please visit our publications page to read the CJC40 coffee table book.](https://moe-cjc-staging.netlify.app/about-us/publications/)
