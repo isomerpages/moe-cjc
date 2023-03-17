@@ -13,21 +13,21 @@ CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give
 
 <img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[JC1 Commencement Mass and Ceremony, 20 Feb]()**<br>
+**[JC1 Commencement Mass and Ceremony, 20 Feb](https://moe-cjc-staging.netlify.app/news/2023/2/)**<br>
 The college extended a warm and meaningful welcome to the JC1s with the celebration of mass and the symbolic presentation of the collar pins on 20 Feb.
 
 <br clear="left">
 
 <img src="/images/news3.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[CJC Celebrates with the Class of 2022]()**<br>
+**[CJC Celebrates with the Class of 2022](https://moe-cjc-staging.netlify.app/news/2023/1/)**<br>
 Our heartiest congratulations to the Class of 2022 for your outstanding results at the GCE A-Levels and embracing learning with a growth mindset!
 
 <br clear="left">
 
 <img src="/images/news4.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[CJC Open House 2023]()**<br>
+**[CJC Open House 2023](https://moe-cjc-staging.netlify.app/news/2023/cjc-open-house/)**<br>
 On 13 January 2023, we will be hosting our Open House in person once again. All prospective students are warmly invited to visit us and learn more about our vibrant college programmes.
 
 <br clear="left">
