@@ -104,42 +104,42 @@ To celebrate the indomitable CJ spirit of leadership and service, CJC will be em
 
 <img src="/images/news15.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[JC2 Graduation Ceremony - 8 Oct 2021]()**<br>
+**[JC2 Graduation Ceremony - 8 Oct 2021](https://moe-cjc-staging.netlify.app/news/2021/8/)**<br>
 The JC2 Graduation Ceremony on 8 Oct was a fitting close to the two-year journey of our Class of 2021. We celebrated their resilience and achievements that exemplified them as Thinkers with a Mission, Leaders with a Heart.
 
 <br clear="left">
 
 <img src="/images/news16.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[National Day Awards for CJC staff 2021]()**<br>
+**[National Day Awards for CJC staff 2021](https://moe-cjc-staging.netlify.app/news/2021/7/)**<br>
 Congratulations to Dr Nor Hanisah, Mrs Phyllis Lim, Mr Lim Chye Fook, and Dr Choe Kee Cheng, on being conferred National Day Awards for 2021.
 
 <br clear="left">
 
 <img src="/images/news17.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass]()**<br>
+**[CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass](https://moe-cjc-staging.netlify.app/news/2021/6/)**<br>
 The college comes together to celebrate and give thanks to God for His blessings upon our college and nation in a week of commemorative events - CJCares fundraising project, CJ Celebrates, and a thanksgiving mass.
 
 <br clear="left">
 
 <img src="/images/news18.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020]()**<br>
+**[Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020](https://moe-cjc-staging.netlify.app/news/2021/5/)**<br>
 Congratulations to Nathan Lim, Class of 2013, who graduated from NTU's School of Materials Science and Engineering (MSE) with Honours (Highest Distinction) in the NTU-MSE Convocation for the Class of 2020!
 
 <br clear="left">
 
 <img src="/images/news19.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[Commemorating Lent and Easter as One CJC Community]()**<br>
+**[Commemorating Lent and Easter as One CJC Community](https://moe-cjc-staging.netlify.app/news/2021/4/)**<br>
 We marked the seasons of Lent and Easter with a series of meaningful events organised by the Student Council's Catholic Activities wing
 
 <br clear="left">
 
 <img src="/images/news20.jpg" style="width:40%;margin-right:15px;" align = "left">
 
-**[CJC Celebrates the A-Level Results of the Class of 2020]()**<br>
+**[CJC Celebrates the A-Level Results of the Class of 2020](https://moe-cjc-staging.netlify.app/news/2021/3/)**<br>
 Congratulations to the Class of 2020 on your good 2020 GCE A-Level examination results!
 
 <br clear="left">
