@@ -19,3 +19,32 @@ The College extends its deepest appreciation to all teachers, administrative sta
 The College celebrates the outstanding achievements of the following CJCians who exemplify the traits of a Thinker with a Mission and Leader with a Heart.
 
 ##### **Clara Heng Jia Ee**
+<img src="/images/classof20221.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof20222.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof20223.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof20224.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof20225.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof20226.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof20227.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof20228.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof20229.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof202210.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof202211.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof202212.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof202213.jpg" style="width:30%;margin-right:15px;" align = "left">
+
+<img src="/images/classof202214.jpg" style="width:40%;margin-left:65px;" align = "right">
+
+<img src="/images/classof202215.jpg" style="width:30%;margin-right:15px;" align = "left">
