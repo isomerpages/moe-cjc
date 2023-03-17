@@ -21,30 +21,44 @@ The College celebrates the outstanding achievements of the following CJCians who
 ##### **Clara Heng Jia Ee**
 <img src="/images/classof20221.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof20222.jpg" style="width:40%;margin-left:65px;" align = "right">
+Clara is an enthusiastic learner who embraces opportunities to learn and stretch her thinking. She participated in the History Stretch Programme in CJC where she participated in discussions of higher-order historical content, skills, and concepts. She also took on the role of a facilitator for "Litera", an event organized by the College's Literature Department, where she engaged her cohort peers in literary discussions. In addition, Clara was a participant in the Youth Ecosperity Dialogue which equipped her with new perspectives and insight into our society and environment. Academically, Clara did consistently well in College examinations. She attained the Ministry of Education Merit Award in 2021 in recognition of her consistently good academic results.
+
+Clara displayed admirable leadership during her time as Vice-Captain of the Floorball Team. She motivated and led her teammates to challenge themselves beyond their capabilities; she also fostered a positive culture within the CCA where everyone was valued and uplifted. During the competition season, whenever morale was low, she actively reaffirmed her team's effort which helped them to sustain their drive towards winning their matches. Eventually, they managed to place 4th at the National School Games Floorball Championships ‘A’ Division Girls in 2022.  
+  
+"_Don’t wait until it’s too late before meeting your teachers for consultations. Start early! Listen in class and pay attention to what your teachers say. Learn from your friends too. Don’t disregard the small conversations in class with your teachers and friends because that’s when a lot of ideas are imparted or exchanged._"
+
+##### **Olivia Tan**
+<img src="/images/classof20222.jpg" style="width:40%;margin-left:15px;" align = "right">
+
+Olivia is a focused individual who values discipline and effort to achieve her academic goals. Responsive and attentive in class, she faithfully took down notes and organised her resources for effective revision. She also contributed ideas in class and asked good questions. In recognition of her good academic achievement, she was eligible for the Edusave Merit Bursary in 2021.  
+  
+Olivia's leadership and personal effectiveness were also evident in other roles that she undertook. As a senior in college, she played an important role as a mentor to the new student leaders at the 2022 Class Management Committee Training. A sociable and friendly person, Olivia was instrumental in easing her juniors into their roles in CJC.  
+In the area of community service, Olivia's contributions are commendable. As the Assistant Home Tutorial Councillor, she led a partnership between her class and the Singapore Association for Mental Health. Olivia worked well with her peers in the design and presentation of an online workshop for the public on the topic of trauma-informed care. At her own initiative, she served as a student helper in facilitating a Blood Donation Drive event for the Health Sciences Authority. Olivia clearly demonstrated deep care and concern for members of the community.  
+  
+"_I learnt the value of perseverance during my time in CJ._ _I persevered despite the challenges and learnt how to take better care of my mental and physical wellbeing while balancing my studies and responsibilities._"
 
 <img src="/images/classof20223.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof20224.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof20224.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof20225.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof20226.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof20226.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof20227.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof20228.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof20228.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof20229.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof202210.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof202210.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof202211.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof202212.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof202212.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof202213.jpg" style="width:30%;margin-right:15px;" align = "left">
 
-<img src="/images/classof202214.jpg" style="width:40%;margin-left:65px;" align = "right">
+<img src="/images/classof202214.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 <img src="/images/classof202215.jpg" style="width:30%;margin-right:15px;" align = "left">
