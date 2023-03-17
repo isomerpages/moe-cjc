@@ -39,15 +39,6 @@ sections:
       alt: Image alt text
       url: /news/2022/6/
   - infopic:
-      title: Our Catholic Ethos
-      subtitle: catholic junior college
-      description: CJCians strive to be the best and brightest they can be. We lead,
-        serve and strive towards excellence in learning and living.
-      button: for more info
-      image: /images/about us img.png
-      alt: Image alt text
-      url: /our-catholic-ethos/
-  - infopic:
       title: Our CJ Story
       subtitle: catholic junior college
       description: A CJC education prepares you for life. We want you to be a
