@@ -37,7 +37,7 @@ In the area of community service, Olivia's contributions are commendable. As the
   
 "_I learnt the value of perseverance during my time in CJ._ _I persevered despite the challenges and learnt how to take better care of my mental and physical wellbeing while balancing my studies and responsibilities._"
 
-##### **Gwyneth Tan Siok Hean **
+##### **Gwyneth Tan Siok Hean**
 <img src="/images/classof20223.jpg" style="width:30%;margin-right:15px;" align = "left">
 
 Gwyneth is an inquisitive individual who possesses a fine analytical mind. She reads widely, writes lucidly, and has shown a good ability to explore issues from different perspectives. Gwyneth's intellectual capacity earned her a place in CJC's Ignite programme, a two-year interdisciplinary programme that challenge students to think critically and creatively. She was also the recipient of a number of awards for academic achievement including the CJC Outstanding Academic Achievement Award, Best Project Work Group award, and the Higher Education Community (CDC-CCC) Education Merit Award in 2021.  
