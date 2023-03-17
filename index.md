@@ -21,6 +21,12 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/
+  - infobar:
+      title: News
+      subtitle: catholic junior college
+      description: CJC News
+      button: view all News
+      url: /news/
   - infopic:
       title: Highlights
       subtitle: catholic junior college
