@@ -39,9 +39,12 @@ The following links are to the websites of our local public universities:<br>
 [Singapore University of Technology and Design](http://www.sutd.edu.sg/)
 
 **3) Overseas Universities**<br>
-If you would like to study in Australia, Canada, New Zealand, the United Kingdom or the United States, you may make use of the following services:<br>
-[The Common Application](http://www.commonapp.org/) – an organisation that coordinates College (university) applications for universities in the United States<br>
-[IDP Education](http://www.idp.com/) – a student placement service for students who wish to study in Australia, Canada, New Zealand, the United Kingdom and the United States<br>
+If you would like to study in Australia, Canada, New Zealand, the United Kingdom or the United States, you may make use of the following services:
+
+[The Common Application](http://www.commonapp.org/) – an organisation that coordinates College (university) applications for universities in the United States
+
+[IDP Education](http://www.idp.com/) – a student placement service for students who wish to study in Australia, Canada, New Zealand, the United Kingdom and the United States
+
 [Universities and Colleges Admission Service (UCAS)](http://www.ucas.com/) – an organisation providing a centralised application service for prospective undergraduates in the United Kingdom
 
 **4) Applying for Scholarships**<br>
@@ -56,3 +59,18 @@ Ministries, statutory boards and private organisations also offer scholarships, 
 [BrightSparks](http://www.brightsparks.com.sg/) – a scholarship portal which enables you to apply for multiple scholarships with a single resume. It also has a comparison function to enable you to compare scholarships.
 
 [Scholarships](http://www.scholarships.gov.sg/)@Gov [](http://www.scholarships.gov.sg/)\- a one-stop portal that gives you information on the various Public Service scholarships, from prerequisites to testimonials.
+
+**5) Exploring Different Pathways / Courses Not Offered in Local Public Universities**<br>
+Courses are also available for ‘A’ Level holders at the following institutes (this list is not exhaustive):<br>
+[Singapore Institute of Management (SIM)](http://www.sim.edu.sg/)<br>
+[Management Development Institute of Singapore (MDIS)](http://www.mdis.edu.sg/)<br>
+[Ngee Ann Polytechnic](http://www.np.edu.sg/)<br>
+[Nanyang Polytechnic](http://www.nyp.edu.sg/)<br>
+[PSB Academy](http://www.psb-academy.edu.sg/)<br>
+[Kaplan Singapore](http://www.kaplan.com.sg/)<br>
+[NAFA](http://www.nafa.edu.sg/)<br>
+[LASALLE College of The Arts](http://www.lasalle.edu.sg/)
+
+[Ngee Ann - Adelaide Education Centre](http://www.naa.edu.sg/) (An educational facility offering undergraduate academic programmes by Ngee Ann Kongsi and the University of Adelaide)
+
+For more information on further education options that are available in Singapore, you may also refer to the [Council for Private Education](http://www.cpe.gov.sg/), a statutory board regulating the private education sector in Singapore.
