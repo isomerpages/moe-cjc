@@ -74,3 +74,16 @@ Courses are also available for ‘A’ Level holders at the following institutes
 [Ngee Ann - Adelaide Education Centre](http://www.naa.edu.sg/) (An educational facility offering undergraduate academic programmes by Ngee Ann Kongsi and the University of Adelaide)
 
 For more information on further education options that are available in Singapore, you may also refer to the [Council for Private Education](http://www.cpe.gov.sg/), a statutory board regulating the private education sector in Singapore.
+
+**6)  Direct Admissions Exercise (DAE)**<br>
+GCE ‘A’ Level holders who are interested in applying for admission to any diploma course should do so directly to the relevant polytechnic through the Direct Admissions Exercise (DAE). More information on the DAE can be found on the websites of the respective polytechnics.  The links are appended in the links below:
+
+**Nanyang Polytechnic** **DAE Portal** [http://www.nyp.edu.sg/future-students/when-and-how-do-i-apply/gce-a-level/direct-admissions-exercise-dae](http://www.nyp.edu.sg/future-students/when-and-how-do-i-apply/gce-a-level/direct-admissions-exercise-dae)
+
+**Ngee Ann Polytechnic** **DAE Portal** [http://www.np.edu.sg/admissions/apply/Pages/dae.aspx](http://www.np.edu.sg/admissions/apply/Pages/dae.aspx)
+
+**Republic Polytechnic** **DAE Portal** [http://www.rp.edu.sg/DAE\_A-Level.aspx](http://www.rp.edu.sg/DAE_A-Level.aspx)
+
+**Singapore Polytechnic** **DAE Portal** [http://www.sp.edu.sg/wps/portal/vp-spws/spws.fsu.admexe.dae](http://www.sp.edu.sg/wps/portal/vp-spws/spws.fsu.admexe.dae)
+
+**Temasek Polytechnic** **DAE Portal** [http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local](http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local)
