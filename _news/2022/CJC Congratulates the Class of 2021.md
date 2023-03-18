@@ -17,3 +17,67 @@ Mr Tan Jek Suan, Vice-Principal/Student Development added, “our heartiest cong
 The College extends its deepest appreciation to all teachers, administrative staff, parents, the School Management Committee (SMC) and the alumni for the support, guidance and encouragement they have given the students throughout their time in CJC. May God continue to bless our Class of 2021 with grace and wisdom as they take flight as thinkers and leaders who will make a positive impact on society.
 
 The College celebrates the outstanding achievements of the following CJCians who exemplify the traits of a Thinker with a Mission and Leader with a Heart.
+
+<img src="/images/classof20211.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof20212.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof20213.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof20214.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof20215.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof20216.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof20217.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof20218.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof20219.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof202110.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof202111.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof202112.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof202113.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof202114.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
+
+<img src="/images/classof202115.jpg" style="width:40%;margin-right:15px;" align = "left">
+
+
+
+<img src="/images/classof202116.jpg" style="width:40%;margin-left:25px;" align = "right">
+
+
