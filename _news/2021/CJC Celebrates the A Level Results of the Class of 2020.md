@@ -161,13 +161,263 @@ _"I drew confidence and energy from all the school activities and all the people
 **Pavarisa Tongboriboon**<br>
 Pavarisa, who prefers to be known as Net, is an avid learner who derives a sense of achievement when she is able to internalise and master different concepts and skills. Net enjoys analysing and interpreting mathematical questions in real-world contexts and took the initiative to take part in various competitions such as the Australian Mathematics Competition, Singapore Mathematical Olympiad, Singapore Mathematical Society Essay Competition, and Statistics Report Competition. Through these competitions, she has gained broad exposure and training, which engendered even greater passion in the subject.  
   
-Net pursues her interests tirelessly and her intrinsic motivation to learn and excel has served her well. She was the top student overall in the 2019 Promotional Examinations, where she ranked first for all four of her H2 subjects. Not content to rest on her laurels, Net participated in the Anatomy Challenge hosted by Lee Kong Chian School of Medicine in 2019 to stretch her abilities, and gained insight into the medical profession. Additionally, Net represented CJC during the 12th International Youth Forum Grand Ceremony 2020. After hearing from Nobel Prize winners and other eminent scientists, Net has her heart set on using her strengths to make significant contributions to research in the medical field.  
-  
-  
+Net pursues her interests tirelessly and her intrinsic motivation to learn and excel has served her well. She was the top student overall in the 2019 Promotional Examinations, where she ranked first for all four of her H2 subjects. Not content to rest on her laurels, Net participated in the Anatomy Challenge hosted by Lee Kong Chian School of Medicine in 2019 to stretch her abilities, and gained insight into the medical profession. Additionally, Net represented CJC during the 12th International Youth Forum Grand Ceremony 2020. After hearing from Nobel Prize winners and other eminent scientists, Net has her heart set on using her strengths to make significant contributions to research in the medical field. 
+
 **Matthew Elmer Ken**<br>
 Matthew is intellectually curious and in his time in CJC, did research beyond the syllabus to explore concepts and ideas at a deeper level. His good learning attitude and ability was recognised and he was offered H3 Economics. Given his experience of learning alongside his peers with diverse backgrounds and nationalities, he also broadened his knowledge of differing perspectives and honed his ability to express his ideas clearly during lessons.  
   
 Matthew was also a member of the Class Management Committee serving as the Secretary of the class. He often went beyond the scope of his duty as a scribe and administrator of the class. For instance, Matthew was a point of contact for the foreign students in the class who were staying at a hostel together. He proactively helped to troubleshoot issues and honed effective communication skills. This was also observed in his contributions to his class' Local Service Learning Project – an innovative project to help the school community rebuild the school hostel building into a student learning hub – Matthew voluntarily presented the ideas from the class to the CJC staff as part of an analysis of needs on the ground. Matthew's highly logical and analytical mind, humility in learning and seeking improvement, and genuine desire to serve others were some of his good attributes that demonstrated his growth as a Thinker with a Mission, Leader with a Heart.  
-  
-  
+
 _In Veritate et Caritate_
+
+The College sends her warmest congratulations to the following students on their good performance at the 2020 GCE A-Level examinations.  
+  
+**Representing the Science faculty, we have:**  
+  
+WO JUNWEI, DARRYL 2T14  
+  
+GUO BOKUN 2T19  
+  
+ONG ZHI SHENG 2T19  
+  
+TAN YI PING ZOE 2T32  
+  
+STEFFI LIM EN QI 2T19  
+  
+MATTHEW ELMER KEN 2T32  
+  
+PAVARISA TONGBORIBOON 2T32  
+  
+ONG WEI, DILLON 2T25  
+  
+JEREMY SIM WEN ZE 2T11  
+  
+SIM JUN HONG, RYAN 2T33  
+  
+SUNG YI WEN ELLA 2T22  
+  
+TRACY KUMALA PUTRA 2T14  
+  
+GERALD LIM DA XIANG 2T26  
+  
+TEOW EAU XIN 2T24  
+  
+LIM TAO LIANG, KIRAN 2T32  
+  
+BILLY MULIORAHARDJO 2T31  
+  
+AVDHOOT NILESH FUKE 2T31  
+  
+AKSHAY CHANGAROTH 2T13  
+  
+WONG YI HAO 2T09  
+  
+TOH JIE MING MAX 2T10  
+  
+ISAAC CHUA YUE-CHEN 2T13  
+  
+CHLOE LIM SHU TING 2T15  
+  
+TRIXIE WEE HUI XI 2T33  
+  
+DELPHINE LOKE PEI ZHI 2T28  
+  
+KWEK ZHI YI 2T10  
+  
+NG WEI TENG CLAIRE 2T10  
+  
+SY AYRAND MIGUEL GUZMAN 2T19  
+  
+JARED KONG MANN HAO 2T25  
+  
+ZIDANE TAN 2T20  
+  
+SER JUN WEI KINGSLEY 2T14  
+  
+KYLAN WEE JUN XIN 2T19  
+  
+NG JIAN HAO ALVIN 2T16  
+  
+LOBO JASON GILCHRIST 2T13  
+  
+TAN BOON HOE 2T20  
+  
+OOI WEI WEN VALENCIA 2T28  
+  
+ETHAN SOH 2T14  
+  
+GERRELL TAN 2T21  
+  
+CHEW JUN HONG, DARRICK 2T19  
+  
+GABRIEL LO JIA JIE 2T26  
+  
+SEON HENG MING HOGAN 2T19  
+  
+RYAN TANG SHI JIE 2T19  
+  
+LOH HUI XIN MICHELLE 2T26  
+  
+MUI YI ZHE LINCOLN 2T16  
+  
+ARJUN VIJAYENDIRAN 2T18  
+  
+CHAN QIN XIANG, CLEDWYN 2T27  
+  
+WAI YAN MYINT 2T15  
+  
+TAY XU YANG 2T09  
+  
+KOH LI AN, SHAUN 2T24  
+  
+OW YEONG YOKE WAI 2T11  
+  
+EMILY AURELIA 2T32  
+  
+LIM JUN HOWE 2T10  
+  
+NYAN LIN HTET 2T32  
+  
+PARK JUNHA 2T32  
+  
+ETHAN SOH 2T09  
+  
+TEE HOW YEE 2T32  
+  
+BRAXTON GAN JIA MING 2T22  
+  
+LEE CHEOK YEW 2T20  
+  
+JOSHUA JULES GLADISTON 2T18  
+  
+MUHAMMAD HARIS SEOW LI FU 2T22  
+  
+YIP JING RONG, RACHEL 2T23  
+  
+EDBERT VINCENT WU 2T11  
+  
+STEVEN ANDREW ENGGRATA 2T14  
+  
+JAYNIELLE CLAIRE TAN PINEDA 2T31  
+  
+BERNARDINO REALINO ARYO LINTANG 2T16  
+  
+ANUPAPPHAN ABHISIT 2T09  
+  
+KYP LEE XI YU 2T15  
+  
+  
+**Representing the Humanities faculty, we have:**  
+  
+KAREL NARESWARA DEVANANDA 2T05  
+  
+NG HIM HEAN 2T05  
+  
+EQSHA P NAIR 2T08  
+  
+CHIRAL CHIA YIH ERN 2T03  
+  
+CHAN QING YU 2T01  
+  
+CHAN CHOMEL 2T08  
+  
+RAM SINGH LANGEANA 2T06  
+  
+DHARSHINI JOYCE D/O K 2T02  
+  
+CLEON LIM JINGKAI 2T03  
+  
+PATRICIA TANTRASARI SETIAWAN 2T04  
+  
+BOEY YUI KAY RAINE AMANDA 2T06  
+  
+PARISA MOURI 2T01  
+  
+NG WEN WEI WAYNE 2T02  
+  
+JOAN ANG YI XUAN 2T08  
+  
+MITCHELL HO JIA LE 2T01  
+  
+ISAAC ONG BIN HUI 2T05  
+  
+KEEAN ELIJAH ONG JUN HENG 2T07  
+  
+FONG ZHI HENG 2T06  
+  
+TAN SHEAN YIN JOLENE 2T05  
+  
+TAN MIN KAI, EDSEL 2T04  
+  
+JARRELL KOO JIALE 2T05  
+  
+YEOW LI XIN 2T03  
+  
+DANIEL SUM RUI KANG 2T03  
+  
+PNG WEN JIE KEVIN 2T04  
+  
+KOK YING XIN 2T08  
+  
+TAN JIA NING, CYNTHIA 2T01  
+  
+VIRESHA VIJAYAN 2T01  
+  
+ALIF FITHRAH B ROSLI 2T02  
+  
+ETHAN CHENG BING SHENG 2T01  
+  
+SEET JIEWEN, MEGAN 2T33  
+  
+CHUA ANN TENG 2T05  
+
+DANIAL B SHAHROM 2T05  
+  
+**Student Leaders who have achieved commendable results:**  
+KAREL NARESWARA DEVANANDA 2T05 (STUDENT COUNCIL – Vice President)  
+TAN YI PING ZOE 2T32 (GUITAR ENSEMBLE - Exco)  
+ONG WEI, DILLON 2T25 (CONCERT BAND - Exco)  
+BILLY MULIORAHARDJO 2T31 (VOLLEYBALL – Captain, MUSIC MINISTRY - President)  
+CHLOE LIM SHU TING 2T15 (MODERN DANCE – Vice President)  
+DELPHINE LOKE PEI ZHI 2T28 (NETBALL - Exco)  
+NG WEI TENG CLAIRE 2T10 (SHOOTING – Vice Captain)  
+RAM SINGH LANGEANA 2T06 (EDITORIAL - President)  
+SY AYRAND MIGUEL GUZMAN 2T19 (STRATEGY GAMES - Exco)  
+JARED KONG MANN HAO 2T25 (BASKETBALL – Exco)  
+CLEON LIM JINGKAI 2T03 (JOSEPH HOUSE – Exco)  
+KYLAN WEE JUN XIN 2T19 (STRATEGY GAMES - Exco)  
+TAN SHEAN YIN JOLENE 2T05 (STUDENT COUNCIL - President)  
+TAN MIN KAI, EDSEL 2T04 (JUDO - Captain)  
+JARRELL KOO JIALE 2T05 (STUDENT COUNCILLOR)  
+TAN BOON HOE 2T20 (ULTIMATE FRISBEE - Exco)  
+YEOW LI XIN 2T03 (STUDENT COUNCILLOR)  
+DANIEL SUM RUI KANG 2T03 (BASKETBALL - Vice Captain)  
+ETHAN SOH 2T14 (TENNIS - Exco)  
+SEON HENG MING HOGAN 2T19 (STRATEGY GAMES - Exco)  
+LOH HUI XIN MICHELLE 2T26 (ULTIMATE FRISBEE - Captain)  
+MUI YI ZHE LINCOLN 2T16 (MICHAEL HOUSE – Vice Captain)  
+TAY XU YANG 2T09 (TEN-PIN BOWLING - Captain)  
+EMILY AURELIA 2T32 (STUDENT COUNCILLOR)  
+NYAN LIN HTET 2T32 (STUDENT COUNCILLOR)  
+TEE HOW YEE 2T32 (PATRICK HOUSE - Captain)  
+ALIF FITHRAH B ROSLI 2T02 (CANOEING - Captain)  
+LEE CHEOK YEW 2T20 (FIRST AID - President)  
+MUHAMMAD HARIS SEOW LI FU 2T22 (ALBERT HOUSE - Exco)  
+YIP JING RONG, RACHEL 2T23 (MODERN DANCE - President)  
+CHUA ANN TENG 2T05 (SHOOTING - Captain)  
+BERNARDINO REALINO ARYO LINTANG 2T16 (FILM, SOUND AND VIDEO – Vice President)  
+
+**Top Performing Classes of 2020**<br>
+Science - 2T32<br>
+Arts – 2T01
+
+**Mr Alvin Leong, Home Tutor of 2T32 (Top Performing Science Class of 2020)**<br>
+_“2T32 was a class that consistently strived for excellence, and were extremely focused in their studies; it was my first home class where every day before morning assembly I would enter a classroom full of people revising their work, rather than using their phones or engaging in idle chit chat. As their home tutor, I enforced high expectations in everything they did, from academics to self-discipline to even having fun. We held monthly CMC conversations to discuss class culture and dynamics, had home tours (thanks to a suggestion from another teacher) during HBL, and the class tutored each other in their journey towards the A-Level examinations. There were many student leaders and foreign scholars who achieved much, and the rest of the class was also inspired by how much more they could do, and how much further they could go.”_
+
+**Swetha Panirselvam, Home Tutorial Councillor of 2T01 (Top Performing Arts Class of 2020)**<br>
+_“The success we saw as a class would have not been possible if it were not for the initial initiative to have lunch together, being open to conversation, and spontaneity in getting the entire class involved and prepared for big projects like school events and examinations. We are thankful to the teachers for encouraging participation, being open to impromptu discussions beyond lesson time and for always encouraging us to be better. They also played a significant role in encouraging my classmates to book consultations collectively, coordinating the process by creating excel sheets or through Whatsapp groups. We were more studious and harmonious during the pandemic, and found it comfortable to raise questions, and clarify learning gaps – this practice continued after we resumed physical lessons in schools.”_
+
+**Mr David Laurence Fahy, Home Tutor of 2T01 (Top Performing Arts Class of 2020)**<br>
+_“All the way, the rallying call from the start of the JC journey was that no one was to be left behind – everyone was motivated to move forward in solidarity. A constant reminder was that the A-Levels is a ‘Whole Package’ examination, not modular – there must be all-round high level consistency in academic performance within and across all H1 and H2 subjects._
+
+_Even when CJC like other educational institutions was required to close because of Covid-19, we insisted on and committed to a ‘Splendid Blended’ to maximise opportunities for consolidating learning across the board. The class has shown great spirit and true grit. To 2T01 – Well Done! and continue to strive to be Number One.”_
