@@ -8,7 +8,7 @@ third_nav_title: "2021"
 
 #### **JC2 Graduation Ceremony - 8 October 2021**
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTBJkhPIOZV4QxToe-scrZ6kPQih8bXaxcWRN1QUI8YuuUkxZJ3MWK8Qj8MkX44mYYICJwR4GCmg2qL/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 The JC2 Graduation Ceremony on 8 October 2021 was a fitting close to the two-year journey of our Class of 2021. Our Principal, Mrs Phyllis Lim, first charted the cohort’s growth and key milestones of their CJC journey, celebrating their achievements and resilience that truly exemplify them as Thinkers with a Mission, and Leaders with a Heart. As the Class of 2021’s legacy in CJC is well-established, we also looked forward, with a timely sharing by the Guest-of-Honour, and CJC alumnus, Mr Ivan Yeo (Class of 1997) about navigating uncertainty and fulfilling one’s purpose in life.
 
@@ -22,4 +22,4 @@ The final stage of the Graduation Ceremony is an annual tradition rich with symb
 
 _In Veritate et Caritate_
 
-Watch the JC2 Grad Ceremony video montage on our YouTube channel: [https://tinyurl.com/CJCGradDay2021](https://tinyurl.com/CJCGradDay2021)
+Watch the JC2 Grad Ceremony video montage on our YouTube channel:&nbsp;[https://tinyurl.com/CJCGradDay2021](https://tinyurl.com/CJCGradDay2021)
