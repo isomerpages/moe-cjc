@@ -9,3 +9,39 @@ third_nav_title: "2020"
 ##### **requires video to be uploaded to youtube**
 
 Although the circumstances in which the JC 2s graduated from Catholic Junior College (CJC) were quite different from how they experienced Orientation in 2019, our students and staff rose to the occasion and marked a meaningful and at times, poignant, ceremony for this year’s graduating cohort on 9 October 2020. The theme for the ceremony, ‘Hearts Ablaze – One Flame One Family’, served as a reminder for the graduands to draw upon their strengths and growth mindset to forge a future as CJCians.
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
+
+<img src="/images/2022jc2grad.jpg" style="width:75%">
