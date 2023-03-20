@@ -6,7 +6,7 @@ third_nav_title: "2019"
 ---
 ### **Eugene Ng, Class of 2016, is NSF of the Year 2019**
 
-
+<iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vT-pvE8kFWo_qtYyQTA9lLS0vToYC0SiRyD-PNItn9Wf1hPRSynjfi-0uNcothiZh2QtPmv401xlqrZ/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
 
 **Eugene Ng Zhi Wei, Class of 2016**, has won the prestigious Full-Time National Servicemen (NSF) of the Year 2019 awarded by the Singapore Army. This honour is presented to outstanding Full-time National Servicemen who demonstrated professionalism, leadership and exemplary conduct during their National Service (NS). The college is proud of Eugene Ng and sends our heartiest congratulations to him. Eugene shares his thoughts on winning this Award:
 
