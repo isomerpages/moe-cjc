@@ -18,7 +18,7 @@ Following this was a keynote address by our Guest of Honour, Mr Darrell Low from
 
 Jolene Tan, the 45th Student Council President, shared about her leadership journey as well. She emphasised the value of teamwork and service throughout her time as President of the Student Council. Jolene shared that the Covid-19 situation has made her and her team more appreciative and not take things for granted.
 
-<img src="/images/2020jc2slappreciationceremony2.jpg" style="width:40%;margin-right:15px;" align = "left">
+<img src="/images/2020jc2slappreciationceremony2.jpg" style="width:70%;margin-right:15px;" align = "left">
 
 <br clear="left">
 
@@ -29,6 +29,3 @@ The ceremony culminated in the presentation of certificates to the JC2s to ackno
 Jolene then delivered the closing speech and the ceremony concluded with a blessing by our College Chaplain, Father Gregory Tan, S.J.  
   
 _In Veritate et Caritate._
-
-
-
