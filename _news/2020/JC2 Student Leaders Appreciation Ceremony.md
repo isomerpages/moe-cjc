@@ -12,7 +12,7 @@ Every year, the students and staff of Catholic Junior College come together to a
 The ceremony began with an address by our Principal, Mrs Phyllis Lim, through a video presentation. Mrs Lim expressed her gratitude to the JC2 student leaders for their dedicated leadership and service, and the hope that they will continue to grow and develop after leaving the college. In addition, she praised the student leaders for their adaptability and ability to balance their responsibilities and academic life amidst the uncertainty caused by the pandemic.
 
 
-<img src="/images/2020jc2slappreciationceremony1.jpg" style="width:40%;margin-leftt:15px;" align = "right">
+<img src="/images/2020jc2slappreciationceremony1.jpg" style="width:40%;margin-left:15px;" align = "right">
 
 Following this was a keynote address by our Guest of Honour, Mr Darrell Low from the Class of 1998. He spoke about his own leadership experience in CJC as a student councillor, where he learnt valuable lessons in being adaptable to unexpected situations whilst carrying out his duties. These experiences developed his leadership skills and he highly values a collaborative style of leadership. He spoke about the importance of respect and dignity in leading other in his line of work.
 
