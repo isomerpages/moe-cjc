@@ -18,6 +18,5 @@ In addition to working with our partner schools Riverside Primary and Woodgrove 
 
 The winners of the primary, secondary and junior college categories were Riverside Primary, Bukit Panjang Government High School and Hwa Chong Institution, respectively.
 
-To find out more about Cendekia Sahibba 2019, do read the news coverage on Berita:
-
+To find out more about Cendekia Sahibba 2019, do read the news coverage on Berita:<br>
 [https://berita.mediacorp.sg/mobilem/suarakampus/40-pasukan-beradu-minda-bagi-piala-cendekia-sahibba-2019/4272646.html](https://berita.mediacorp.sg/mobilem/suarakampus/40-pasukan-beradu-minda-bagi-piala-cendekia-sahibba-2019/4272646.html)[](https://berita.mediacorp.sg/mobilem/suarakampus/40-pasukan-beradu-minda-bagi-piala-cendekia-sahibba-2019/4272646.html)
