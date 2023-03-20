@@ -7,7 +7,7 @@ third_nav_title: "2019"
 ---
 ### **Former Chairman of CJC School Management Committee, Mr Gerard Lee, wins Lifetime Achievement Award**
 
-<img src="/images/eng1.jpg" style="width:85%">
+<img src="/images/gerardlee.jpg" style="width:45%">
 
 #### **Mr Gerard Lee, former Chairman of CJC School Management Committee, wins "Best of the Best Lifetime Achievement Award (Asean region)" by Asia Asset Management journal**
 Former Chairman of the Catholic Junior College School Management Committee (CJC SMC), Mr Gerard Lee, was awarded the “Best of the Best Lifetime Achievement Award (Asean region)” by Asia Asset Management journal, a pensions and investment journal, on 9 May 2019. Mr Lee, Chairman of the CJC SMC from 2009 to 2016, was honoured for his illustrious career spanning three decades. Before his role as the Chief Executive Officer for Lion Global Investors in 2010 to date, Mr Lee was the Chief Investment Officer at Temasek’s Fund Management Division and the Chief Executive of Fullerton Fund Management.
