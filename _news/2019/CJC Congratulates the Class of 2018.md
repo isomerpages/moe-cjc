@@ -19,14 +19,48 @@ The college would like to extend its heartfelt appreciation to the teachers and 
 The college congratulates and celebrates the academic and holistic achievements of these outstanding CJCians:
 
 <img src="/images/classof20181.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20182.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20183.jpg" style="width:45%">
+
+
+
 <img src="/images/classof20184.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20185.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20186.jpg" style="width:45%">
+
+
+
 <img src="/images/classof20187.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20188.jpg" style="width:75%">
+
+
+
 <img src="/images/classof20189.jpg" style="width:45%">
+
+
+
+
 <img src="/images/classof201810.jpg" style="width:75%">
+
+
+
 <img src="/images/classof201811.jpg" style="width:45%">
+
+
+
 <img src="/images/classof201812.jpg" style="width:75%">
