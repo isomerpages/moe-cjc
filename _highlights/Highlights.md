@@ -56,7 +56,7 @@ Welcome to Catholic Junior College's e-Open House! Experience the exuberance and
 **[World Philosophy Day 2021 - Essay Writing Competition](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/22/)<br>**
 Calling all promoted JC1 students and all graduating JC2 students! Submit a Philosophy essay on any question listed in celebration of World Philosophy Day on 18 Nov 2021.
 
-**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/21/)<br>**
+**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/22/)<br>**
 'Be the change you want to see' - Warmest congratulations to Nazra Shahnaz, 2T19, for being recognised as one of the top five National Young Leader in Singapore! Read Nazra's reflection on her leadership journey and her thoughts on winning this accolade.
 
 **[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/21/)<br>**
