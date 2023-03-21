@@ -26,34 +26,34 @@ Calling all O-Level graduates and prospective students - come visit us the day a
 **[World Philosophy Day 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/32/)<br>**
 Calling all promoted JC1 students and graduated JC2 students! The college invites you to submit a philosophical essay on any question listed in celebration of World Philosophy Day on 17th Nov 2022.
 
-**[Distinguished Speakers Series 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/31/)<br>**
+**[Distinguished Speakers Series 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/32/)<br>**
 JC1 students attended a dialogue session with Mr Lawrence Anderson, a Senior Fellow at S Rajaratnam School of International Studies and JC2 students attended a dialogue session with Mr Edwin Tong, Minister for Culture, Community and Youth and Second Minister for Law.
 
-**[Thinker with a Mission, Leader with a Heart Series 10](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/30/)<br>**
+**[Thinker with a Mission, Leader with a Heart Series 10](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/31/)<br>**
 Congratulations to Ms Grace Lee, Class of 2010, for receiving the prestigious Outstanding Youth in Education Award 2022! This Award, given by the Academy of Singapore Teachers, recognises young teachers who demonstrate a strong passion for teaching and nurturing students.
 
-**[Prayer for Class of 2021](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/29/)<br>**
+**[Prayer for Class of 2021](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/30/)<br>**
 Join us to offer a prayer for the Class of 2021!
 
-**[Joint Admissions Exercise and Appeals 2022 process](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/28/)<br>**
+**[Joint Admissions Exercise and Appeals 2022 process](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/29/)<br>**
 The JAE and Appeals 2022 process has ended on 10 Feb 2022. Congratulations to students who were posted to CJC under the JAE Exercise. Thank you parents and students who have chosen CJC.
 
-**[Venues for Release of the 2021 GCE A-Level Results, 22 Feb](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/27/)<br>**
+**[Venues for Release of the 2021 GCE A-Level Results, 22 Feb](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/28/)<br>**
 For all J3s collecting their 2021 GCE A-Level Results on 22 Feb, please refer to this list for the venues for your classes.
 
-**[Important Information for the Release of A-Level Results, 22 Feb 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/26/)<br>**
+**[Important Information for the Release of A-Level Results, 22 Feb 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/27/)<br>**
 Class of 2021 JC2s! Please read this to find out how you can collect your 2021 A-Level results, or view your results online, on Tuesday, 22 Feb.
 
-**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/25/)<br>**
+**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/26/)<br>**
 Our warmest congratulations to Deirdre Ng, Class of 2020, for being recognised by President Halimah Yacob, for her selfless efforts for the community during the pandemic.
 
-**[Information for JC1 Students and Parents 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/24/)<br>**
+**[Information for JC1 Students and Parents 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/25/)<br>**
 Some important information for all JC1 students and parents to note.
 
-**[CJC's e-Open House](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/23/)<br>**
+**[CJC's e-Open House](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/24/)<br>**
 Welcome to Catholic Junior College's e-Open House! Experience the exuberance and culture of care characteristic of CJC!
 
-**[World Philosophy Day 2021 - Essay Writing Competition](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/22/)<br>**
+**[World Philosophy Day 2021 - Essay Writing Competition](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/23/)<br>**
 Calling all promoted JC1 students and all graduating JC2 students! Submit a Philosophy essay on any question listed in celebration of World Philosophy Day on 18 Nov 2021.
 
 **[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/22/)<br>**
