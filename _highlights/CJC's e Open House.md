@@ -27,3 +27,5 @@ Come join us at **CJC**, where our students **Ignite, Illuminate,** and **In
 _In Veritate et Caritate  
   
 _Scan this QR code to sign up for a subject consultation via Zoom or click on [this](https://tinyurl.com/cjc2022eohQAoptionform).
+
+<img src="/images/eoh.jpg" style="width:15%" align=left>
