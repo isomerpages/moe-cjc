@@ -58,3 +58,28 @@ Applications submitted **after** **3 July** **2020** will be processed in Ph
 <u>For DSA-JC (Phase 2)</u><br>
 To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by **1pm, Friday,** **21 August 2020**.
 
+##### **Selection Process**
+<u>For DSA-JC (Phase 1)</u>
+*   **Short-listed applicants** will be invited for an e-interview **between 3 July and 6 August 2020.**
+*   The e-interview via video-conferencing will be conducted at the students’ secondary schools.
+*   More information will be provided to the applicants by email at least one week before the e-interview date.
+
+Successful candidates will receive a Letter of Offer by **11 August 2020**. They are required to accept our offer by **3 pm, Friday, 14 August 2020**. Both students and their parents will be notified by email.  
+
+Short-listed applicants who are _not_ offered a place in the DSA-JC (Phase 1) will be notified via email.
+
+<u>For DSA-JC (Phase 2)</u>
+*   **Short-listed applicants** will be invited for an e-interview **between 20 Aug and 2 Sep 2020.**
+*   The e-interview via video-conferencing will be conducted at the students’ secondary schools.
+*   More information will be provided to the applicants by email at least one week before the e-interview date.
+
+Successful candidates will receive a Letter of Offer by **4 September 2020**. They are required to accept our offer by **3 pm, Friday, 10 September 2020**. Both students and their parents will be notified by email.
+
+Short-listed applicants who are _not_ offered a place in the DSA-JC (Phase 2) will be notified via email.
+
+##### **Important Note**
+Successful DSA-JC candidates will **NOT** be allowed to participate in the Joint Admissions Exercise. They will also **NOT** be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour the commitment to the DSA-JC schools.
+
+##### **Enquiries**
+For more information, please visit the [**Ministry of Education DSA-JC**](http://www.moe.gov.sg/education/admissions/dsa-jc/) website.<br>
+For further enquiries on the CJC DSA-JC exercise, please email [catholic\_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg)
