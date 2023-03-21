@@ -59,7 +59,7 @@ Calling all promoted JC1 students and all graduating JC2 students! Submit a Phil
 **[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/21/)<br>**
 'Be the change you want to see' - Warmest congratulations to Nazra Shahnaz, 2T19, for being recognised as one of the top five National Young Leader in Singapore! Read Nazra's reflection on her leadership journey and her thoughts on winning this accolade.
 
-**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/20/)<br>**
+**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/21/)<br>**
 Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
 
 **[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/20/)<br>**
