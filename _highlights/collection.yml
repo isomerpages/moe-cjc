@@ -1,4 +1,6 @@
 collections:
   highlights:
     output: true
-    order: []
+    order:
+      - Notification for School Closure on 10 Mar 23 for Cross Country
+        Activity.md
