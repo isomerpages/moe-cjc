@@ -9,15 +9,11 @@ description: ""
 
 <u>CJC World Philosophy Day Essay Writing Competition - 2019</u>
 
-  
-
-![](https://cjc.moe.edu.sg/pix/spacer.gif)
-
 **CJC World Philosophy Day Essay Writing Competition - 2019**
 
 **NOTE**: This competition is open to **all** current JC1 Students who have completed their Promotional Examinations, and outgoing JC2s students; 
 
-Organized in celebration of - **World Philosophy Day, 21st November, 2019**;                          The contemporary philosopher, Anthony Grayling, believes that philosophy should play a useful role in society and public policy (not just in academia).  
+Organized in celebration of - **World Philosophy Day, 21st November, 2019**; The contemporary philosopher, Anthony Grayling, believes that philosophy should play a useful role in society and public policy (not just in academia).  
 
 A philosophy essay by its very nature involves critical thinking, logical reasoning (from premises to conclusion), and conceptual analysis skills – as critical thinking and rational argumentation are characteristic methods of philosophical inquiry.
 
