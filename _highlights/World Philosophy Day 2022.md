@@ -23,3 +23,22 @@ A philosophy essay by its very nature involves critical thinking, logical reason
 **3) Can a critical and acute observer in the modern world avoid being thoroughly deceived by deep fakes?**<br>
 **4) A single political model (mode of government) cannot function in all cultures. (A view also held by Lee Kuan Yew) Critically assess this perspective.**<br>
 **5) ‘We are moving inexorably towards a surveillance society – Everywhere.’ Can we ensure that society benefits from this seemingly unstoppable trend?**
+
+<b><u>Guidelines and requirements for writing your Philosophy Essay:</u></b><br>
+Length of Essay: At least 800 to 1500 words (feel free to exceed this if need be);
+
+Your essay is an argumentative defense of your adopted Thesis – in which the thesis is clearly stated, explained and analyzed; arguments are rationally presented in support of the thesis; possible objections (counter-arguments) are fairly considered, objectively evaluated, and rationally refuted.
+
+Your philosophical essay thus has five component parts:<br>
+1\) The effective formulation of a Thesis – stated clearly in the introduction;<br>
+2\) Arguments (reasons and evidence) set out in support and defense of Thesis<br>
+3\) Careful critical consideration and evaluation of counter-arguments and counter-examples (objections to Thesis);<br>
+4\) Refutation of Counter-Arguments i.e. Replies to Objections;<br>
+5\) Effective Conclusion – final thoughts / closing remarks;
+
+Submit your essay in hard copy as a - word document - Times New Roman, font size 12;
+
+Indicate on the cover page: Name in full; Identity Number, and Tutorial Group;<br>
+Declaration – state: ‘**This essay is my own work’** – and signature;<br>
+Submission Date: **Friday 13th January, 2023.**<br>
+Teacher-in-Charge: Mr. David L Fahy, English Department, CJC
