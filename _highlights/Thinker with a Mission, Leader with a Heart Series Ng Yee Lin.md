@@ -5,6 +5,8 @@ description: ""
 ---
 ### **Thinker with a Mission, Leader with a Heart Series Ng Yee Lin**
 
+<img src="/images/ngyeelin.jpg" style="width:65%">
+
 Senior Minister of State, Ministry of Trade and Industry, Dr Koh Poh Koon, presents the Youth Community Leadership Award to Ng Yee Lin.
 
 #### **Youth Community Leadership Award 2019 - Ng Yee Lin, 2T22**
