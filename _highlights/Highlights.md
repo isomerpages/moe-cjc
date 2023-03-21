@@ -62,5 +62,5 @@ Calling all promoted JC1 students and all graduating JC2 students! Submit a Phil
 **[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/20/)<br>**
 Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
 
-**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/19/)<br>**
+**[Thinker with a Mission, Leader with a Heart series](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/20/)<br>**
 Kim Yu Ling, Class of 2020, received the Harvard Book Prize (Singapore) 2020/2021 award, presented to promising students all around the world who go beyond the call of duty to show kindness and care to others. Congratulations Yu Ling!
