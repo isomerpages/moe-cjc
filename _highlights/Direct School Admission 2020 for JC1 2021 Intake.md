@@ -12,4 +12,4 @@ CJC invites applications for direct admission to JC1 in 2021 from students who a
 
 In view of the COVID-19 situation, to ensure the safety of the DSA applicants, we will conduct selection using electronic mode and applicants need not visit our school in person.
 
-<span style = "color:  " ><b></b></span>
+<span style = "color:  " ><b>**Admission Criteria**</b></span>
