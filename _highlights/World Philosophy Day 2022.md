@@ -16,8 +16,8 @@ A philosophy essay by its very nature involves critical thinking, logical reason
 **Write an essay in response to ONE of the following questions:**<br>
 **1) Given that everyone is born into a ‘Climate of Opinion’, to what extent can one take credit for one’s beliefs?** <br>
 **2) Here is a modern argument for skepticism about the external world:**<br>
-**Premise 1: You can’t know you are not in a computer simulation;**<br>
-**Premise 2: If you cannot know you are not in a computer simulation, you can’t know anything about the external world;**<br>
+**- Premise 1: You can’t know you are not in a computer simulation;**<br>
+**- Premise 2: If you cannot know you are not in a computer simulation, you can’t know anything about the external world;**<br>
 **Conclusion: Therefore, you can’t know anything about the external world.** <br>
 **Critically assess the plausibility of this argument.**<br>
 **3) Can a critical and acute observer in the modern world avoid being thoroughly deceived by deep fakes?**<br>
