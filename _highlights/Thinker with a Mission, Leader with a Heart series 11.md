@@ -11,7 +11,7 @@ Congratulations to Valsalan Nivish, Class of 2022, for receiving the Harvard Pri
 
 Nivish has been commended for his contributions to the college community as well as his involvement in his neighbourhood. A proponent of active ageing, he is heavily involved in numerous events organised by his neighbourhood committee for the sake of helping the elderly in his neighbourhood live a more active lifestyle.
 
-<img src="/images/twm11a.jpeg" style="width:85%">
+<img src="/images/twm11a.jpg" style="width:85%">
 
 Within the college community, Nivish led the 47th Student Council as its President. In this capacity, he worked tirelessly to improve student life within the college, serving as a voice for the student body and proposing as well as implementing numerous changes to the college, all in the name of giving his fellow schoolmates the best JC experience possible.
 
