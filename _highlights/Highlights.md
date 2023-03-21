@@ -8,22 +8,22 @@ description: ""
 **[School Closure on 10 March 2023 for Cross Country](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/1/)**<br>
 Catholic Junior College's General Office will be closed on Friday 10 Mar 2023 due to staff participation in the annual CJC Cross Country at Pasir Ris Park.
 
-**[Thinker with a Mission, Leader with a Heart series 11](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/37/)**<br>
+**[Thinker with a Mission, Leader with a Heart series 11](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/38/)**<br>
 Congratulations to Valsalan Nivish, class of 2022, for receiving the Harvard Prize Book (Singapore) award! This award is presented to promising students globally who go beyond the call of duty to show kindness and care to others.
 
-**[Venues for collection of 2022 A-Level Results, 17 Feb 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/35/)<br>**
+**[Venues for collection of 2022 A-Level Results, 17 Feb 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/36/)<br>**
 For all J3s collecting your results in college this Friday, refer to this list to know where to go to after the briefing in the PAC.
 
-**[Important Information for the Release of 2022 A-Level Results, 17 Feb 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/36/)<br>**
+**[Important Information for the Release of 2022 A-Level Results, 17 Feb 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/37/)<br>**
 Calling all JC2 students from the Class of 2022! Please read this to find out how to collect your 2022 A-Level results, or view your results online, this Friday, 17 Feb 2023.
 
-**[Information for 2023 JC1 Students and Parents](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/34/)**<br>
+**[Information for 2023 JC1 Students and Parents](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/35/)**<br>
 Welcome to CJ, all JC1 students and parents! Here are some information for you to take note of as you report to college on 3 Feb, Friday, 0730hrs.
 
-**[CJC Open House 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/33/)<br>**
+**[CJC Open House 2023](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/34/)<br>**
 Calling all O-Level graduates and prospective students - come visit us the day after the release of the O-Level results!
 
-**[World Philosophy Day 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/32/)<br>**
+**[World Philosophy Day 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/33/)<br>**
 Calling all promoted JC1 students and graduated JC2 students! The college invites you to submit a philosophical essay on any question listed in celebration of World Philosophy Day on 17th Nov 2022.
 
 **[Distinguished Speakers Series 2022](https://staging.d3g8vdji1y6l0g.amplifyapp.com/highlights/32/)<br>**
