@@ -41,3 +41,26 @@ The JAE and Appeals 2022 process has ended on 10 Feb 2022. Congratulations to st
 **[Venues for Release of the 2021 GCE A-Level Results, 22 Feb]()<br>**
 For all J3s collecting their 2021 GCE A-Level Results on 22 Feb, please refer to this list for the venues for your classes.
 
+**[Important Information for the Release of A-Level Results, 22 Feb 2022]()<br>**
+Class of 2021 JC2s! Please read this to find out how you can collect your 2021 A-Level results, or view your results online, on Tuesday, 22 Feb.
+
+**[Thinker with a Mission, Leader with a Heart series]()<br>**
+Our warmest congratulations to Deirdre Ng, Class of 2020, for being recognised by President Halimah Yacob, for her selfless efforts for the community during the pandemic.
+
+**[Information for JC1 Students and Parents 2022]()<br>**
+Some important information for all JC1 students and parents to note.
+
+**[CJC's e-Open House]()<br>**
+Welcome to Catholic Junior College's e-Open House! Experience the exuberance and culture of care characteristic of CJC!
+
+**[World Philosophy Day 2021 - Essay Writing Competition]()<br>**
+Calling all promoted JC1 students and all graduating JC2 students! Submit a Philosophy essay on any question listed in celebration of World Philosophy Day on 18 Nov 2021.
+
+**[Thinker with a Mission, Leader with a Heart series]()<br>**
+'Be the change you want to see' - Warmest congratulations to Nazra Shahnaz, 2T19, for being recognised as one of the top five National Young Leader in Singapore! Read Nazra's reflection on her leadership journey and her thoughts on winning this accolade.
+
+**[Thinker with a Mission, Leader with a Heart series]()<br>**
+Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
+
+**[Thinker with a Mission, Leader with a Heart series]()<br>**
+Kim Yu Ling, Class of 2020, received the Harvard Book Prize (Singapore) 2020/2021 award, presented to promising students all around the world who go beyond the call of duty to show kindness and care to others. Congratulations Yu Ling!
