@@ -20,3 +20,20 @@ A philosophy essay by its very nature involves critical thinking, logical reason
 **4) To compete with the rise and increasing dominance of Artificial Intelligence, the only rational course of action is to reconstruct ourselves in a manner more like AI machines.**<br>
 **5) Combatting the pandemic has shown how much the political philosophy of a country’s polity matters. Comment.**
 
+##### **Guidelines and requirements for writing your Philosophy Essay:**
+Length of Essay: At least 800 to 1500 words (feel free to exceed if need be);
+
+Your essay is an argumentative defense of your adopted Thesis – in which the thesis is clearly stated, explained and analyzed; arguments are rationally presented in support of the thesis; possible objections (counter-arguments) are fairly considered, objectively evaluated, and rationally refuted.
+
+Your philosophical essay thus has five component parts:<br>
+1\) The effective formulation of a Thesis – stated clearly in the introduction;<br>
+2\) Arguments (reasons and evidence) set out in support and defense of Thesis<br>
+3\) Careful critical consideration and evaluation of counter-arguments and counter-examples (objections to Thesis);<br>
+4\) Refutation of counter-arguments / objections;<br>
+5\) Effective conclusion – final thoughts / closing remarks;
+
+Submit your essay in hard copy as a - word document - Times New Roman, font size 12;<br>
+Indicate on a cover page: Name in full; Identity Number, and Tutorial Group;<br>
+Declaration with signature that – ‘This essay is my own work’ (not plagiarized)<br>
+Submission Date: **Friday, 8th January, 2021**.<br>
+Teacher-in-Charge: Mr. David L Fahy (Senior Teacher), English Department, CJC
