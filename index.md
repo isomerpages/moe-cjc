@@ -75,4 +75,10 @@ sections:
       image: /images/infopic2.jpg
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: https://www.instagram.com/catholic.jc/?hl=en
 ---
