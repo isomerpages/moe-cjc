@@ -186,4 +186,9 @@ sections:
         text-decoration:none;" target="_blank">A post shared by Catholic Junior
         College (@catholic.jc)</a></p></div></blockquote> <script async
         src="//www.instagram.com/embed.js"></script>'
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
 ---
