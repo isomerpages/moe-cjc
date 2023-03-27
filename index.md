@@ -81,7 +81,8 @@ sections:
         src="//www.instagram.com/embed.js"></script><blockquote
         class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
-        data-instgrm-version="14"></blockquote><a href="
+        data-instgrm-version="14"></blockquote><a
+        href="https://www.instagram.com/catholic.jc/
       subtitle: Instagram
       button: Check our latest happenings
   - infobar:
