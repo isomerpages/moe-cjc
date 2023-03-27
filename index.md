@@ -77,11 +77,11 @@ sections:
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
       title: Instagram
-      url: https://www.instagram.com/catholic.jc/"></a><script async
+      url: https://www.instagram.com/catholic.jc/"></a><center><script async
         src="//www.instagram.com/embed.js"></script><blockquote
         class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
-        data-instgrm-version="14"></blockquote><a
+        data-instgrm-version="14"></blockquote></center><a
         href="https://www.instagram.com/catholic.jc/
       subtitle: Instagram
       button: Check our latest happenings
