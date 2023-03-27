@@ -85,9 +85,9 @@ sections:
       button: <marquee>Instagram</marquee>
   - infopic:
       title: <script async src="//www.instagram.com/embed.js"></script>
-      description: <blockquote class="Instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
-      button: Button Text
+      description: <div class="Instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></div>
+      button: test
       subtitle: test
       url: test
       alt: test
