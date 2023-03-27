@@ -87,6 +87,12 @@ sections:
       button: Check our latest happenings
   - infobar:
       subtitle: Infobar Subtitle
-      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
+      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></a><script
+        async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
+        nonce="XE75iScS"></script><div class="fb-post"
+        data-href="https://www.facebook.com/CatholicJC/" data-width="500"
+        data-show-text="false"></div><a
+        href="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
       button: <marquee>Instagram</marquee>
 ---
