@@ -189,6 +189,7 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
+      description: <a href
+        https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link>
       url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
 ---
