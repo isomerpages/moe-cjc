@@ -83,16 +83,17 @@ sections:
       description: <blockquote class="Instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
   - infobar:
-      title: Infobar Title
+      title: <script async src="//www.instagram.com/embed.js"></script>
       subtitle: Infobar Subtitle
-      description: <a
-        href="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link">Link
-        to Instagram</a>
-      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
+      description: <blockquote class="Instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
+      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
       button: <marquee>Instagram</marquee>
   - infopic:
       title: <script async src="//www.instagram.com/embed.js"></script>
       subtitle: Latest Happenings on Instagram
       button: Button Text
       alt: Image alt text
+      description: <blockquote class="Instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
 ---
