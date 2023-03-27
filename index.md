@@ -91,7 +91,7 @@ sections:
       title: IG<script async src="//www.instagram.com/embed.js"></script>
       subtitle: Latest Happenings on Instagram
       button: Button Text
-      alt: Image alt text
+      alt: Some IG photo
       description: <blockquote class="Instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
 ---
