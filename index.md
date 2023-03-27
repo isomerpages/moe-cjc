@@ -88,4 +88,7 @@ sections:
       description: <blockquote class="Instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
       button: Button Text
+      subtitle: test
+      url: test
+      alt: test
 ---
