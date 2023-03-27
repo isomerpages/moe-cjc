@@ -76,12 +76,16 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
-      title: <script async src="//www.instagram.com/embed.js"></script>
+      title: Instagram
       url: https://www.instagram.com/catholic.jc/
-      description: <blockquote class="Instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
+      subtitle: Instagram
   - infobar:
       subtitle: Infobar Subtitle
       url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
       button: <marquee>Instagram</marquee>
+  - infopic:
+      title: <script async src="//www.instagram.com/embed.js"></script>
+      description: <blockquote class="Instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
+      button: Button Text
 ---
