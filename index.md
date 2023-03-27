@@ -76,12 +76,10 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
-      title: IG<script async src="//www.instagram.com/embed.js"></script>
+      title: IG
       subtitle: Latest Happenings on Instagram
       url: https://www.instagram.com/catholic.jc/
       button: View more photos
-      description: <blockquote class="Instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
   - infobar:
       title: <script async src="//www.instagram.com/embed.js"></script>
       subtitle: Infobar Subtitle
