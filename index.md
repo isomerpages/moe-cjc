@@ -87,6 +87,7 @@ sections:
         width:calc(100% - 2px);"></blockquote> <script async
         src="//www.instagram.com/embed.js"></script>'
       button: Test
+      description: <script src="/files/IG.js"></script>
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
