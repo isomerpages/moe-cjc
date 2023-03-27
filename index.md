@@ -97,4 +97,11 @@ sections:
         to Instagram</a>
       url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
       button: <marquee>Instagram</marquee>
+  - infopic:
+      title: <script async src="//www.instagram.com/embed.js"></script>
+      subtitle: Testing for instagram
+      description: <blockquote class="instagram-media"
+        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></blockquote>
+      button: Button Text
+      alt: Image alt text
 ---
