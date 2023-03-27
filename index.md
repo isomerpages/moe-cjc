@@ -87,7 +87,7 @@ sections:
         width:calc(100% - 2px);"></blockquote> <script async
         src="//www.instagram.com/embed.js"></script>'
       button: Test
-      description: <iframe src="https://staging.d3g8vdji1y6l0g.amplifyapp.com/"></iframe>
+      description: <iframe src="https://sites.google.com/moe.edu.sg/physics-lkm/"></iframe>
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
