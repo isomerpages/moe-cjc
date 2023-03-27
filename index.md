@@ -87,7 +87,7 @@ sections:
         width:calc(100% - 2px);"></blockquote> <script async
         src="//www.instagram.com/embed.js"></script>'
       button: Test
-      description: <iframe src="https://go.gov.sg/cjcig"></iframe>
+      description: <iframe src="https://staging.d3g8vdji1y6l0g.amplifyapp.com/"></iframe>
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
