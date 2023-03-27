@@ -187,6 +187,7 @@ sections:
         College (@catholic.jc)</a></p></div></blockquote> <script async
         src="//www.instagram.com/embed.js"></script><a'
       subtitle: Instagram
+      button: Check our latest happenings
   - infobar:
       subtitle: Infobar Subtitle
       url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
