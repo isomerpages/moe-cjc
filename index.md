@@ -76,7 +76,6 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
-      title: Instagram
       url: https://www.instagram.com/catholic.jc/"></a><center><script async
         src="//www.instagram.com/embed.js"></script><blockquote
         class="instagram-media"
@@ -86,9 +85,9 @@ sections:
       subtitle: Instagram
       button: Check our latest happenings
   - infobar:
-      subtitle: Infobar Subtitle
-      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"></a><script
-        async defer crossorigin="anonymous"
+      subtitle: Facebook
+      url: https://www.facebook.com/CatholicJC/"></a><script async defer
+        crossorigin="anonymous"
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         nonce="wi61oHEa"></script><div class="fb-page"
         data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
@@ -99,6 +98,6 @@ sections:
         class="fb-xfbml-parse-ignore"><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><a
-        href="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading
+        href="https://www.facebook.com/CatholicJC/
       button: <marquee>Instagram</marquee>
 ---
