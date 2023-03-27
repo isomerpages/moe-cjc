@@ -78,7 +78,7 @@ sections:
   - infobar:
       title: Instagram
       subtitle: Instagram
-      url: '<blockquote class="instagram-media" data-instgrm-captioned
+      url: '<blockquote class="Instagram-media" data-instgrm-captioned
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0;
         border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0
@@ -189,6 +189,6 @@ sections:
   - infobar:
       title: Infobar Title
       subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      description: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
+      url: https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_web_copy_link
 ---
