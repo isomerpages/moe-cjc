@@ -76,8 +76,8 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
-      title: Latest Happenings
-      subtitle: Instagram
+      title: IG<script async src="//www.instagram.com/embed.js"></script>
+      subtitle: Latest Happenings on Instagram
       url: https://www.instagram.com/catholic.jc/
       button: View more photos
       description: <blockquote class="Instagram-media"
