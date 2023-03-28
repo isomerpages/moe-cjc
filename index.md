@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /alumni/
   - resources:
-      title: Demonstration
-      subtitle: Subtitle Here
-      button: Rest of Resources
+      title: Latest News
+      subtitle: Catholic Junior College
+      button: "View all news "
   - infobar:
       title: News
       subtitle: catholic junior college
