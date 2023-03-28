@@ -105,6 +105,6 @@ sections:
       button: " "
       url: '"></a><iframe
         src="https://docs.google.com/forms/d/e/1FAIpQLSdbdFAabHuWhO0H8l6oQRzYqPdcxG6dm8B-PXev65Mt1ojcnw/viewform?embedded=true"
-        width="640" height="375" frameborder="0" marginheight="0"
-        marginwidth="0">Loading…</iframe><a href="'
+        frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe><a
+        href="'
 ---
