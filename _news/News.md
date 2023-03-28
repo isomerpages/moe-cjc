@@ -3,7 +3,7 @@ title: News
 permalink: /news/
 description: ""
 ---
-<style> img {border-radius: 8px;}</style>
+<style> img {border-radius: 16px;}</style>
 ### **News**
 <img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align = "left">
 
