@@ -16,8 +16,7 @@ locations:
           Public Holidays.
     maps_link: /visitor-information/" class="bp-sec-button has-text-secondary
       margin--top"><div><SPAN>Visitor Information</SPAN><i class="sgds-icon
-      sgds-icon-arrow-right"
-      aria-hidden="true">::before</i></div></a></div><div><a
+      sgds-icon-arrow-right" aria-hidden="true"></i></div></a></div><div><a
       href="https://goo.gl/maps/jE71yoBu6FpzrxuLA
     title: Address
 contacts:
