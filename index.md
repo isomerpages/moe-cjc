@@ -76,33 +76,6 @@ sections:
       alt: Image alt text
       url: https://www.giving.sg/catholic-junior-college
   - infobar:
-      url: https://www.instagram.com/catholic.jc/"></a><center><script async
-        src="//www.instagram.com/embed.js"></script><blockquote
-        class="instagram-media"
-        data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
-        data-instgrm-version="14"></blockquote></center><a
-        href="https://www.instagram.com/catholic.jc/
-      subtitle: Instagram
-      button: Check our latest happenings
-  - infobar:
-      subtitle: Facebook
-      url: '"></a><script async defer crossorigin="anonymous"
-        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
-        nonce="wi61oHEa"></script><div class="fb-page"
-        data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
-        data-width="500" data-height="" data-small-header="false"
-        data-adapt-container-width="true" data-hide-cover="false"
-        data-show-facepile="true"><blockquote
-        cite="https://www.facebook.com/CatholicJC/"
-        class="fb-xfbml-parse-ignore"><a
-        href="https://www.facebook.com/CatholicJC/">Catholic Junior
-        College</a></blockquote></div><style>img {   border-radius: 16px;
-        }   .bg-media-color-2 {   background-color:rgb(181,133,0); }</style><a
-        href="https://www.facebook.com/CatholicJC/'
-      button: <marquee>Facebook</marquee>
-  - infobar:
-      subtitle: Testing for IG size
-      button: " "
       url: '"></a><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0;
@@ -210,5 +183,24 @@ sections:
         font-style:normal; font-weight:normal; line-height:17px;
         text-decoration:none;" target="_blank">A post shared by Catholic Junior
         College (@catholic.jc)</a></p></div></blockquote> <script async
-        src="//www.instagram.com/embed.js"></script><a href="'
+        src="//www.instagram.com/embed.js"></script><a
+        href="https://www.instagram.com/catholic.jc/'
+      button: Check our latest happenings
+      title: Instagram
+  - infobar:
+      subtitle: Facebook
+      url: '"></a><script async defer crossorigin="anonymous"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
+        nonce="wi61oHEa"></script><div class="fb-page"
+        data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
+        data-width="500" data-height="" data-small-header="false"
+        data-adapt-container-width="true" data-hide-cover="false"
+        data-show-facepile="true"><blockquote
+        cite="https://www.facebook.com/CatholicJC/"
+        class="fb-xfbml-parse-ignore"><a
+        href="https://www.facebook.com/CatholicJC/">Catholic Junior
+        College</a></blockquote></div><style>img {   border-radius: 16px;
+        }   .bg-media-color-2 {   background-color:rgb(181,133,0); }</style><a
+        href="https://www.facebook.com/CatholicJC/'
+      button: <marquee>Facebook</marquee>
 ---
