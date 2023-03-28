@@ -97,6 +97,7 @@ sections:
         class="fb-xfbml-parse-ignore"><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><style>img {   border-radius: 16px;
-        }</style><a href="https://www.facebook.com/CatholicJC/'
+        }   bg-media-color-2 {   backbround-color:rgb(181,133,0); }</style><a
+        href="https://www.facebook.com/CatholicJC/'
       button: <marquee>Facebook</marquee>
 ---
