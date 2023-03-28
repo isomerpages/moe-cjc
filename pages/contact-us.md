@@ -15,7 +15,8 @@ locations:
           The Administrative Office will be closed on Saturdays, Sundays and
           Public Holidays.
     maps_link: /visitor-information/" class="bp-sec-button has-text-secondary
-      margin--top">Visitor Information</a></div><div><a
+      margin--top">Visitor Information</a><i class="sgds-icon
+      sgds-icon-arrow-right" aria-hidden="true">::before</i></div><div><a
       href="https://goo.gl/maps/jE71yoBu6FpzrxuLA
     title: Address
 contacts:
