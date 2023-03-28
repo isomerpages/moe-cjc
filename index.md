@@ -188,7 +188,6 @@ sections:
       button: Check our latest happenings
       title: Instagram
   - infobar:
-      subtitle: Facebook
       url: '"></a><script async defer crossorigin="anonymous"
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         nonce="wi61oHEa"></script><div class="fb-page"
@@ -203,5 +202,5 @@ sections:
         }   .bg-media-color-2 {   background-color:rgb(181,133,0);
         }  .media-card-plain { border-radius: 16px; }</style><a
         href="https://www.facebook.com/CatholicJC/'
-      button: <marquee>Facebook</marquee>
+      title: Facebook
 ---
