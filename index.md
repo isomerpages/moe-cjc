@@ -203,4 +203,5 @@ sections:
         }  .media-card-plain { border-radius: 16px; }</style><a
         href="https://www.facebook.com/CatholicJC/'
       title: Facebook
+      button: " "
 ---
