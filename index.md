@@ -100,4 +100,11 @@ sections:
         }   .bg-media-color-2 {   background-color:rgb(181,133,0); }</style><a
         href="https://www.facebook.com/CatholicJC/'
       button: <marquee>Facebook</marquee>
+  - infobar:
+      subtitle: Feedback
+      button: " "
+      url: '"></a><iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLSdbdFAabHuWhO0H8l6oQRzYqPdcxG6dm8B-PXev65Mt1ojcnw/viewform?embedded=true"
+        width="640" height="375" frameborder="0" marginheight="0"
+        marginwidth="0">Loading…</iframe><a href="'
 ---
