@@ -96,7 +96,7 @@ sections:
         cite="https://www.facebook.com/CatholicJC/"
         class="fb-xfbml-parse-ignore"><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
-        College</a></blockquote></div><a
-        href="https://www.facebook.com/CatholicJC/'
+        College</a></blockquote></div><style>img {   border-radius: 8px;
+        }</style><a href="https://www.facebook.com/CatholicJC/'
       button: <marquee>Facebook</marquee>
 ---
