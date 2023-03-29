@@ -40,7 +40,7 @@ sections:
       description: We affirm and recognize the potential in everyone for growth
         together as one CJ Family through our student development experiences.
       button: Click for More!
-      url: /highlights/
+      url: /education/cce/
       image: /images/Artboard – 5D@2x.jpg
       alt: Highlights
   - infopic:
@@ -51,7 +51,7 @@ sections:
         leadership in action.
       button: Click for More!
       image: /images/Artboard – 6D@2x.jpg
-      url: /news/2022/6/
+      url: /experience/the-cjc-story/
   - infobar:
       url: '"></a><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
