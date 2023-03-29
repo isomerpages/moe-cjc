@@ -22,59 +22,36 @@ sections:
           description: ""
           url: /alumni/
   - resources:
-      title: Demonstration
-      subtitle: Resources section
-      button: View all resources
-  - infobar:
       title: News
-      subtitle: catholic junior college
-      description: CJC News
-      button: view all News
-      url: /news/
+      subtitle: News
+      button: View all resources
   - infopic:
-      title: Highlights
-      subtitle: catholic junior college
-      description: Highlights of CJC
-      button: view all highlights
-      url: /highlights/
-      image: /images/jumpshot.png
-      alt: Highlights
-  - infopic:
-      title: CJC's Education
-      subtitle: catholic junior college
-      description: Celebrating the launch of the Sister Deirdre O’Loan Centre for
-        Creativity, 24 May 2022
-      button: for more info
+      title: Ignite Your Learning
+      description: "The CJ Experience is not just holistic, it ignites a sense of
+        mission so that CJCians are true to themselves and their calling as
+        young adults. "
+      button: Click for More!
+      url: pass
       image: /images/infopic4.jpg
       alt: Image alt text
+  - infopic:
+      title: Illuminate Your Heart
+      subtitle: Student Development
+      description: We affirm and recognise the potential in everyone for growth
+        together as one CJ Family through our student development experiences.
+      button: Click for More!
+      url: /highlights/
+      image: /images/Artboard – 5D@2x.jpg
+      alt: Highlights
+  - infopic:
+      title: Inspire the community
+      subtitle: leaders with a heart
+      description: We pursue knowledge with a sense of purpose and discern the needs
+        of the college, community and society with heart. See CJCians’ servant
+        leadership in action.
+      button: Click for More!
+      image: /images/Artboard – 6D@2x.jpg
       url: /news/2022/6/
-  - infopic:
-      title: Our CJ Story
-      subtitle: catholic junior college
-      description: A CJC education prepares you for life. We want you to be a
-        generation that changes the world.
-      button: for more info
-      image: /images/infopic1.jpg
-      alt: Image alt text
-      url: /education/
-  - infopic:
-      title: Student Life
-      subtitle: catholic junior college
-      description: Taking place on the day after release of O-Level Results, 10am to 4pm!
-      button: for more info
-      image: /images/infopic5.png
-      alt: Image alt text
-      url: https://cjc.moe.edu.sg/eopenhouse
-  - infopic:
-      title: CJCares Fundraising
-      subtitle: catholic junior college
-      description: CJCares supports CJCians who require financial assistance during
-        these challenging times. Money raised will go to CJC Needy Students
-        Fund.
-      button: for more info
-      image: /images/infopic2.jpg
-      alt: Image alt text
-      url: https://www.giving.sg/catholic-junior-college
   - infobar:
       url: '"></a><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
