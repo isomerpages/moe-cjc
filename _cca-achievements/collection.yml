@@ -1,5 +1,5 @@
 collections:
-  achievements:
+  cca-achievements:
     output: true
     order:
       - CCA Achievements 2022.md
