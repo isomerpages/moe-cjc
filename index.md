@@ -31,13 +31,13 @@ sections:
         mission so that CJCians are true to themselves and their calling as
         young adults. "
       button: Click for More!
-      url: pass
+      url: /education/
       image: /images/infopic4.jpg
       alt: Image alt text
   - infopic:
       title: Illuminate Your Heart
       subtitle: Student Development
-      description: We affirm and recognise the potential in everyone for growth
+      description: We affirm and recognize the potential in everyone for growth
         together as one CJ Family through our student development experiences.
       button: Click for More!
       url: /highlights/
