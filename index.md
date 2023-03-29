@@ -52,6 +52,7 @@ sections:
       button: Click for More!
       image: /images/Artboard – 6D@2x.jpg
       url: /experience/the-cjc-story/
+      alt: TMLH
   - infobar:
       url: '"></a><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
