@@ -182,4 +182,10 @@ sections:
         href="https://www.facebook.com/CatholicJC/'
       title: Facebook
       button: " "
+  - infopic:
+      title: My CJ Stories
+      subtitle: "#whycj"
+      button: View stories
+      url: " "
+      alt: Image alt text
 ---
