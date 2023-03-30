@@ -2,19 +2,19 @@ title: Catholic Junior College
 url: https://www.cjc.edu.sg
 favicon: /images/cjclogo-btm1.png
 colors:
-  primary-color: "#283c84"
-  secondary-color: "#c3930b"
+  primary-color: "#06038d"
+  secondary-color: "#b58500"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#1e1a34"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#ffcd00"
     - title: media-color-three
-      color: "#00838f"
+      color: "#5bc2e7"
     - title: media-color-four
-      color: "#00838f"
+      color: "#cf4520"
     - title: media-color-five
-      color: "#00838f"
+      color: "#a4343a"
 description: ""
 permalink: none
 baseurl: ""
