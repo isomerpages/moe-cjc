@@ -22,9 +22,9 @@ sections:
           description: ""
           url: /alumni/
   - resources:
-      title: News
+      title: Happenings at CJC
       subtitle: News
-      button: View all resources
+      button: View all news
   - infopic:
       title: Ignite Your Learning
       description: "The CJ Experience is not just holistic, it ignites a sense of
