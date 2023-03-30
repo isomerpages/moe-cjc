@@ -7,7 +7,6 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/Landing Page Gif Carousel.gif
       key_highlights:
         - title: Students
           description: ""
