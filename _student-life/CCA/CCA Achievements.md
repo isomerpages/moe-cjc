@@ -58,3 +58,5 @@ third_nav_title: CCA
 | Oratorical Society | MOE Inter-collegiate Debate Competition | 8th Overall Best Speaker | Ryan Ng | 2T01 | M |
 | Oratorical Society | MOE Inter-collegiate Oratorical Competition - Orator’s Trophy | 2nd Runner Up | Mehreen Cecil Malik | 2T02 | F |
 |
+
+[Click here for CCA Achievements in earlier years.](/achievements/cca-achievements/2021/)
