@@ -54,7 +54,7 @@ sections:
       url: /experience/the-cjc-story/
       alt: TMLH
   - infobar:
-      url: '"></a><blockquote class="instagram-media"
+      url: '"></a><center><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
         data-instgrm-version="14" style=" background:#FFF; border:0;
         border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0
@@ -160,7 +160,7 @@ sections:
         style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px;
         font-style:normal; font-weight:normal; line-height:17px;
         text-decoration:none;" target="_blank">A post shared by Catholic Junior
-        College (@catholic.jc)</a></p></div></blockquote> <script async
+        College (@catholic.jc)</a></p></div></blockquote></center><script async
         src="//www.instagram.com/embed.js"></script><a
         href="https://www.instagram.com/catholic.jc/'
       button: Check our latest happenings
