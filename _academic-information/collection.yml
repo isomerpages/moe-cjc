@@ -2,7 +2,7 @@ collections:
   academic-information:
     output: true
     order:
-      - Education.md
+      - Education @ CJC.md
       - Ignite Programme.md
       - Knowledge Skills/Knowledge Skills.md
       - Knowledge Skills/General Paper.md
