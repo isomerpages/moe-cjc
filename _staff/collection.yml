@@ -2,5 +2,5 @@ collections:
   staff:
     output: true
     order:
-      - Identity Guidelines.md
       - Corporate Communications.md
+      - Identity Guidelines.md
