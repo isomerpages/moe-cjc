@@ -41,7 +41,7 @@ sections:
         together as one CJ Family through our student development experiences.
       button: Click for More!
       url: /education/cce/
-      image: /images/Artboard – 5D@2x.jpg
+      image: /images/illuminateyourheart_infopic.jpg
       alt: Highlights
   - infopic:
       title: Inspire the community
