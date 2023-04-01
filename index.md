@@ -32,7 +32,7 @@ sections:
         young adults. "
       button: Click for More!
       url: /education/
-      image: /images/infopic4.jpg
+      image: /images/igniteyourlearning_infopic.jpg
       alt: Image alt text
   - infopic:
       title: Illuminate Your Heart
