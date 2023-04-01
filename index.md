@@ -53,6 +53,12 @@ sections:
       image: /images/Artboard – 6D@2x.jpg
       url: /experience/the-cjc-story/
       alt: TMLH
+  - infopic:
+      title: My CJ Stories
+      subtitle: "#whycj"
+      button: View stories
+      url: " "
+      alt: Image alt text
   - infobar:
       url: '"></a><center><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
@@ -182,10 +188,4 @@ sections:
         href="https://www.facebook.com/CatholicJC/'
       title: Facebook
       button: " "
-  - infopic:
-      title: My CJ Stories
-      subtitle: "#whycj"
-      button: View stories
-      url: " "
-      alt: Image alt text
 ---
