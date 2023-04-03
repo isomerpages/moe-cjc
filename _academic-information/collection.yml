@@ -2,18 +2,12 @@ collections:
   academic-information:
     output: true
     order:
-      - Mathematics and Science/Physics.md
-      - Mathematics and Science/Chemistry.md
-      - Mathematics and Science/Biology.md
-      - Mathematics and Science/Mathematics.md
-      - Mathematics and Science/Mathematics and Science.md
-      - Mathematics and Science/.keep
       - Education @ CJC.md
       - Ignite Programme.md
+      - Knowledge Skills/.keep
       - Knowledge Skills/Knowledge Skills.md
       - Knowledge Skills/General Paper.md
       - Knowledge Skills/Project Work.md
-      - Knowledge Skills/.keep
       - Mother Tongue Languages.md
       - Humanities/.keep
       - Humanities/Humanities.md
@@ -22,8 +16,15 @@ collections:
       - Humanities/Geography.md
       - Humanities/History.md
       - Humanities/Literature in English.md
+      - Mathematics and Science/.keep
+      - Mathematics and Science/Physics.md
+      - Mathematics and Science/Chemistry.md
+      - Mathematics and Science/Biology.md
+      - Mathematics and Science/Mathematics.md
+      - Mathematics and Science/Mathematics and Science.md
       - Mathematics & Science/.keep
       - Academic Enrichment.md
+      - Character & Citizenship/.keep
       - Character & Citizenship/Character & Citizenship.md
       - Character & Citizenship/Student Development Curriculum.md
       - Character & Citizenship/Student Leadership Development.md
@@ -32,5 +33,4 @@ collections:
       - Character & Citizenship/Service Learning.md
       - Character & Citizenship/Sexuality Education.md
       - Character & Citizenship/eTeens.md
-      - Character & Citizenship/.keep
       - Physical Education.md
