@@ -27,7 +27,11 @@ Our students embark on a range of science activities, competitions and research 
 
 ---
 
-|![5 core areas 1](/images/Science/5%20core%20areas-1.jpg)|![5 core areas 2](/images/Science/5%20core%20areas-2.jpg)|
+| ![5 core areas 1](/images/Science/5%20core%20areas-1.jpg) | ![5 core areas 2](/images/Science/5%20core%20areas-2.jpg) |
+| -------- | -------- | 
+
+
+
 
 ![Winner of IPS Poster Award.jpg](/images/Science/winner%20of%20ips%20poster%20award.jpg)
 **Ignatius Choong, Winner of IPS Poster Award with Distinction and Elementz Research Competition (Silver award)**
