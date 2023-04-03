@@ -2,6 +2,7 @@ collections:
   academic-information:
     output: true
     order:
+      - Mathematics and Science/Chemistry.md
       - Mathematics and Science/Biology.md
       - Mathematics and Science/Mathematics.md
       - Mathematics and Science/Mathematics and Science.md
