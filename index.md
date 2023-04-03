@@ -57,7 +57,7 @@ sections:
       title: My CJ Stories
       subtitle: "#whycj"
       button: View stories
-      url: " "
+      url: " /news/2022/10/"
       alt: My CJ Stories
       image: /images/mycjstories_infopic.jpg
   - infobar:
