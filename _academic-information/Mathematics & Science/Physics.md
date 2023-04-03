@@ -5,6 +5,9 @@ description: ""
 third_nav_title: Mathematics &amp; Science
 ---
 ### **Physics**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/sWhEEqVMYkI" height="315" width="560"></iframe>
+
 #### **A Level Syllabus**
 ---
 Click the following links for an overview of the Physics syllabi as well as the assessment formats:
@@ -25,8 +28,6 @@ Click the following links for an overview of the Physics syllabi as well as the 
 
 #### **Student Testimonials**
 ---
-
-5
 
 ![](https://cjc.moe.edu.sg/qql/slot/catalog/pc66/.tn.4e10cca35_65814.jpg.jpg)
 
