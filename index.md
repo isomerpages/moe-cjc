@@ -58,7 +58,8 @@ sections:
       subtitle: "#whycj"
       button: View stories
       url: " "
-      alt: Image alt text
+      alt: My CJ Stories
+      image: /images/mycjstories_infopic.jpg
   - infobar:
       url: '"></a><center><blockquote class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/p/Cpo09MjvCKJ/?utm_source=ig_embed&amp;utm_campaign=loading"
