@@ -44,5 +44,5 @@ H3 Physics will be offered only to JC2 students. The H3 Physics syllabus is desi
 Students intending to offer H3 Physics should simultaneously offer H2 Physics and possess a strong passion in the area of specialisation. In addition, other factors for consideration include: consistently good academic performance, good learning attitude and behaviour, and teachers' recommendations.
 
 #### **Contact**
-**Head of Department**:&nbsp;[Mr Eugene Yeow](mailto:yeow_eugene_pancratius@moe.edu.sg)  
-**Lead Teacher**:&nbsp;[Ms Tay Su Lynn](mailto:tay_su_lynn@moe.edu.sg)
+**Head of Department**:  [Mr Eugene Yeow](mailto:yeow_eugene_pancratius@moe.edu.sg)  
+**Lead Teacher**:  [Ms Tay Su Lynn](mailto:tay_su_lynn@moe.edu.sg)
