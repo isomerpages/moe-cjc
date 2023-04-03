@@ -4,9 +4,9 @@ permalink: /education/mathematics-and-science/
 description: ""
 third_nav_title: Mathematics &amp; Science
 ---
-### **Science**
+## **Science**
 
-#### **CJC SCIENCE ENRICHMENT ACTIVITIES**
+### **CJC SCIENCE ENRICHMENT ACTIVITIES**
 ---
 Our students embark on a range of science activities, competitions and research programmes, on top of their core science H1 &amp; H2 subjects, to further equip themselves with essential skills and knowledge necessary for higher education. Some of these programme provide students with the rare opportunities to work with Research Institutes and universities so that they can make well informed decisions in their choice of study or career after junior college.
 
@@ -25,13 +25,9 @@ Our students embark on a range of science activities, competitions and research 
 ![Loh Ming Cheng and Nicholas Wee Bronze medallists at the 32nd Chemistry Olympiad.JPG](/images/Science/loh%20ming%20cheng%20and%20nicholas%20wee%20bronze%20medallists%20at%20the%2032nd%20chemistry%20olympiad.JPG)
 **Loh Ming Cheng and Nicholas Wee, Bronze medallists at the 32nd Chemistry Olympiad**   
 
----
-
-| ![5 core areas 1](/images/Science/5%20core%20areas-1.jpg) | ![5 core areas 2](/images/Science/5%20core%20areas-2.jpg) |
+| | |
 | -------- | -------- | 
-
-
-
+| ![5 core areas 1](/images/Science/5%20core%20areas-1.jpg) | ![5 core areas 2](/images/Science/5%20core%20areas-2.jpg) |
 
 ![Winner of IPS Poster Award.jpg](/images/Science/winner%20of%20ips%20poster%20award.jpg)
 **Ignatius Choong, Winner of IPS Poster Award with Distinction and Elementz Research Competition (Silver award)**
