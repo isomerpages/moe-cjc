@@ -2,6 +2,7 @@ collections:
   academic-information:
     output: true
     order:
+      - Mathematics and Science/.keep
       - Education @ CJC.md
       - Ignite Programme.md
       - Knowledge Skills/Knowledge Skills.md
