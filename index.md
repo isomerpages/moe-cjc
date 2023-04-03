@@ -50,7 +50,7 @@ sections:
         of the college, community and society with heart. See CJCians’ servant
         leadership in action.
       button: Click for More!
-      image: /images/Artboard – 6D@2x.jpg
+      image: /images/inspireyourcommunity_infopic.jpg
       url: /experience/the-cjc-story/
       alt: TMLH
   - infopic:
