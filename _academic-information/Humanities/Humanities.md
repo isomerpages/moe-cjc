@@ -17,4 +17,4 @@ The college offers the following Humanities subjects under the GCE A-Level Progr
 *   **[H2 / H1 Geography](/education/humanities/geography/)**
 *   **[H2 / H1 History](/education/humanities/history/)**
 *   **[H2 / H1 Literature in English](/education/humanities/literature-in-english/)**
-*   **[H1 General Studies in Chinese](https://cjc.moe.edu.sg/education/mother-tongue-languages-mtl)**
+*   **[H1 General Studies in Chinese](/education/mtl/)**
