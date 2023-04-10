@@ -58,28 +58,24 @@ Note that these H3 options are subject to student readiness
 
 #### Frequently Asked Questions
 
-**1\. Can I read Geography at H2 or H1 level if I have not done Pure or Combined Geography at ‘O’ Levels?**
-
+**1\. Can I read Geography at H2 or H1 level if I have not done Pure or Combined Geography at ‘O’ Levels?**<br>
 Yes. There are no pre-requisites to read Geography at 'A' Levels, though students who have taken Geography at 'O' Levels may be more familiar with a few topics. Lessons will start at a foundational level.
 
   
 
-**2\. What is the difference between H1 and H2 Geography?**
-
+**2\. What is the difference between H1 and H2 Geography?**<br>
 H2 Geography students study more topics than H1 students. Please see above for a breakdown.
 
 There are also 2 papers (3 hours each) for H2 Geography and 1 paper (3 hours) for H1 Geography.&nbsp;
 
   
 
-**3\. How do I qualify for H3 Geography?**
-
+**3\. How do I qualify for H3 Geography?**<br>
 Potential candidates for H3 Geography are selected after JC1 based on the level of interest of the students and their academic ability.
 
   
 
-**4\. What career options are available for Geography graduates?**
-
+**4\. What career options are available for Geography graduates?**<br>
 Geography equips students with a&nbsp;**wide range of useful skills for the marketplace**. Employers value&nbsp;**research, analytical skills and interdisciplinary thinking**&nbsp;that Geography students bring to work as employees.
 
 Some relevant jobs include business sustainable development strategists, urban planners, transport planners, tourism planners, cartographers, Geographic Information Systems (GIS) specialists, demographers and in fields such as community development and environmental management.
@@ -92,4 +88,3 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
 *   HOD / Ms Celestine Hang<br>
 [hang\_shu\_min\_celestine@schools.gov.sg](mailto:hang_shu_min_celestine@schools.gov.sg)
-
