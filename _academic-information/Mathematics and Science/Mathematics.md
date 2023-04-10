@@ -139,7 +139,7 @@ This is open to all students who are keen to challenge themselves in solving non
 
 #### H3 Mathematics
 
-**H3 Mathematics is suited for students who are interested and strong in mathematics and intend to study mathematics or mathematics-related university course. It is offered to students who do exceptionally well in JC1.  **
+**H3 Mathematics is suited for students who are interested and strong in mathematics and intend to study mathematics or mathematics-related university course. It is offered to students who do exceptionally well in JC1.**
 
   
 
