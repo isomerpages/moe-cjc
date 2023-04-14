@@ -45,7 +45,7 @@ sections:
       image: /images/illuminateyourheart_infopic.jpg
       alt: Highlights
   - infopic:
-      title: Inspire the community
+      title: Inspire The Community
       subtitle: leaders with a heart
       description: We pursue knowledge with a sense of purpose and discern the needs
         of the college, community and society with heart. See CJCians’ servant
