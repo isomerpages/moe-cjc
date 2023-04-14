@@ -34,6 +34,7 @@ sections:
       url: /education/
       image: /images/igniteyourlearning_infopic.jpg
       alt: Image alt text
+      subtitle: Thinkers with a mission
   - infopic:
       title: Illuminate Your Heart
       subtitle: Student Development
