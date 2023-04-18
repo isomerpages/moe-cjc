@@ -62,11 +62,11 @@ sections:
       alt: My CJ Stories
       image: /images/mycjstories_infopic.jpg
   - infobar:
-      url: " "
+      url: https://www.instagram.com/catholic.jc/https://www.instagram.com/catholic.jc/
       button: Check our latest happenings
       title: Instagram
   - infobar:
-      url: " "
+      url: "https://www.facebook.com/CatholicJC/ "
       title: Facebook
       button: " "
 ---
