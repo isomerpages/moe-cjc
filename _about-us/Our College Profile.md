@@ -5,12 +5,12 @@ description: ""
 ---
 ### **Our College Profile**
 
-<img align="left" style="width:25%;margin-right:5px;" src="/images/crest.jpg">
+<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
 
 <center>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
 129 Whitley Road, Singapore 297822, Republic of Singapore Tel: (65) 62524083 – Fax: (65) 62537267<br>
-Website: <a href="www.cjc.edu.sg">www.cjc.edu.sg</a> CEEB Code: 687204</center>
+Website: <a href="https://cjc.moe.edu.sg/">https://cjc.moe.edu.sg/</a> CEEB Code: 687204</center>
 
 #### **Overview**
 Catholic Junior College (CJC) is a co-educational government-aided school for post- secondary education at pre-university level. Students are admitted to the school through the national Joint Admissions Exercise (JAE) which takes place in January each year. Students are admitted to CJC based on the cumulative points achieved at the national GCE O-Level Examination. The basis of admission is selective based on merit.
@@ -273,7 +273,7 @@ Content
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
-<img align="right" style="width:40%;margin-left::55px;" src="/images/collegeprofile8.jpeg">
+<img src="/images/collegeprofile8.jpeg" style="width:40%;margin-left::55px;" align="right">
 
 Given the ongoing COVID-19 pandemic and the challenges faced by our students and their families, the College has decided that the donations received under our “CJ45 celebrations in 2020” will be used to support students who require financial assistance. The original aim of the CJ45 fundraising project, that is, to renovate the CJC hostel to develop a student learning hub, has been cancelled due to escalating construction costs which has rendered the project unfeasible.  
   
