@@ -9,6 +9,5 @@ At the centre of a CJC education are higher-order thinking skills, communication
   
 Students in the Humanities and Science courses offer H1 Project Work in JC1 and H1 General Paper over the course of both years. Both are compulsory subjects. Students reading H2 Knowledge & Inquiry are exempted from H1 General Paper.
 
-*   **[H1 General Paper](https://moe-cjc-staging.netlify.app/education/knowledge-skills/general-paper/)**
-*   **[H1 Project Work](https://moe-cjc-staging.netlify.app/education/knowledge-skills/project-work/)**
-
+*   **[H1 General Paper](/education/knowledge-skills/general-paper/)**
+*   **[H1 Project Work](/education/knowledge-skills/project-work/)**
