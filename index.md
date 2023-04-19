@@ -37,7 +37,7 @@ sections:
       subtitle: Thinkers with a mission
   - infopic:
       title: Illuminate Your Heart
-      subtitle: Student Development
+      subtitle: Leaders with a Heart
       description: We affirm and recognize the potential in everyone for growth
         together as one CJ Family through our student development experiences.
       button: Click for More!
@@ -46,7 +46,7 @@ sections:
       alt: Highlights
   - infopic:
       title: Inspire The Community
-      subtitle: leaders with a heart
+      subtitle: Our CJ Stories
       description: We pursue knowledge with a sense of purpose and discern the needs
         of the college, community and society with heart. See CJCians’ servant
         leadership in action.
