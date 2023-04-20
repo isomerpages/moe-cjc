@@ -27,9 +27,9 @@ sections:
       button: View all news
   - infopic:
       title: Ignite Your Learning
-      description: "The CJ Experience is not just holistic, it ignites a sense of
-        mission so that CJCians are true to themselves and their calling as
-        young adults. "
+      description: The holistic CJ experience ignites a sense of mission and passion
+        for learning, developing CJCians to be Thinkers with a Mission, Leaders
+        with a Heart.
       button: Click for More!
       url: /education/
       image: /images/igniteyourlearning_infopic.jpg
