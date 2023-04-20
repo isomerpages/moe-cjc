@@ -54,13 +54,6 @@ sections:
       image: /images/inspireyourcommunity_infopic.jpg
       url: /experience/the-cjc-story/
       alt: TMLH
-  - infopic:
-      title: My CJ Stories
-      subtitle: "#whycj"
-      button: View stories
-      url: " /news/2022/10/"
-      alt: My CJ Stories
-      image: /images/mycjstories_infopic.jpg
   - infobar:
       url: https://www.instagram.com/catholic.jc/https://www.instagram.com/catholic.jc/
       button: Check our latest happenings
