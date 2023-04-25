@@ -1,13 +1,14 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/CJC logo.png
 links:
+  - title: About Us
+    collection: about-us
+  - title: Admission
+    collection: admission
+  - title: Education
+    collection: academic-information
+  - title: Experience
+    collection: student-life
+  - title: E-Open House
+    url: https://cjc.moe.edu.sg/eopenhouse
   - title: Contact Us
     url: /contact-us/
-  - title: Example Page
-    url: /example-page/

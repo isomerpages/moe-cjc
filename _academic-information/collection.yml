@@ -1,0 +1,35 @@
+collections:
+  academic-information:
+    output: true
+    order:
+      - Education @ CJC.md
+      - Ignite Programme.md
+      - Knowledge Skills/.keep
+      - Knowledge Skills/Knowledge Skills.md
+      - Knowledge Skills/General Paper.md
+      - Knowledge Skills/Project Work.md
+      - Mother Tongue Languages.md
+      - Humanities/.keep
+      - Humanities/Humanities.md
+      - Humanities/English Language & Linguistics.md
+      - Humanities/Economics.md
+      - Humanities/Geography.md
+      - Humanities/History.md
+      - Humanities/Literature in English.md
+      - Mathematics and Science/.keep
+      - Mathematics and Science/Mathematics and Science.md
+      - Mathematics and Science/Mathematics.md
+      - Mathematics and Science/Biology.md
+      - Mathematics and Science/Chemistry.md
+      - Mathematics and Science/Physics.md
+      - Academic Enrichment.md
+      - Character & Citizenship/.keep
+      - Character & Citizenship/Character & Citizenship.md
+      - Character & Citizenship/Student Development Curriculum.md
+      - Character & Citizenship/Student Leadership Development.md
+      - Character & Citizenship/Potential Development.md
+      - Character & Citizenship/Pastoral Care.md
+      - Character & Citizenship/Service Learning.md
+      - Character & Citizenship/Sexuality Education.md
+      - Character & Citizenship/eTeens.md
+      - Physical Education.md
