@@ -38,8 +38,8 @@ sections:
   - infopic:
       title: Illuminate Your Heart
       subtitle: Leaders with a Heart
-      description: We affirm and recognize the potential in everyone for growth
-        together as one CJ Family through our student development experiences.
+      description: We affirm and develop the potential in every CJCian for growth and
+        leadership through our student development experiences
       button: Click for More!
       url: /education/cce/
       image: /images/illuminateyourheart_infopic.jpg
