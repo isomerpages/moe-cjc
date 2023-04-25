@@ -48,8 +48,7 @@ sections:
       title: Inspire The Community
       subtitle: Our CJ Stories
       description: We pursue knowledge with a sense of purpose, discern and serve the
-        needs of the college and community  with heart. See CJCians’ servant
-        leadership in action.
+        needs of the college and community  with heart.
       button: Click for More!
       image: /images/inspireyourcommunity_infopic.jpg
       url: /experience/the-cjc-story/
