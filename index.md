@@ -20,7 +20,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/
-      background: /images/landing page carousel 4.gif
+      background: /images/landing page carousel 5.gif
   - resources:
       title: Happenings at CJC
       subtitle: News
