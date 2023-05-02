@@ -77,6 +77,7 @@ description: ""
 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg)  |
 | Mary Goh  | [mary_goh@moe.edu.sg](mailto:mary_goh@moe.edu.sg)  |
 | Peh Beng Lee  | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
+| Shohib Bin Abdul Wahab Marican  | [shohib_abdul_wahab_marican@moe.edu.sg](mailto:[shohib_abdul_wahab_marican@moe.edu.sg)  |
 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
 | Tay Yi Qian Priscilla  | [tay_yi_qian_priscilla@moe.edu.sg](mailto:tay_yi_qian_priscilla@moe.edu.sg)  |
 | Wendy Ng | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg)  |
@@ -182,7 +183,6 @@ description: ""
 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg)  |
 | Cassidy Soh  | [soh_yi_xing_cassidy_a@moe.edu.sg](mailto:soh_yi_xing_cassidy_a@moe.edu.sg)  |
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
-| Prabhmeet Kaur | [prabhmeet_kaur_hundal@moe.edu.sg](mailto:prabhmeet_kaur_hundal@moe.edu.sg)  |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg)  |
 | Tan Han Wei Amos  | [tan_han_wei_amos@moe.edu.sg](mailto:tan_han_wei_amos@moe.edu.sg)  |
@@ -202,6 +202,7 @@ description: ""
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg)  |
 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg)  |
 | Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg)  |
+| Liu Yuci  | [liu_yuci@moe.edu.sg](mailto:liu_yuci@moe.edu.sg)  |
 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
 | Tan Ing Kiat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
 | Toh Ping Yong Jeffrey  | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg)  |
@@ -222,7 +223,6 @@ description: ""
 | Heng Yuqing Wendy  | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg)  |
 | Idzham Khalid Ithnin  | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg)  |
 | Lee Li-Shan  | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg)  |
-| Loo Kian Hin  | [loo_kian_hin@moe.edu.sg](mailto:loo_kian_hin@moe.edu.sg)  |
 | Peter Goh  | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg)  |
 | Tan Mei Qi  | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg)  |
 | Tan Pei Pei Sharon  | [tan_pei_pei_sharon@moe.edu.sg](mailto:tan_pei_pei_sharon@moe.edu.sg)  |
@@ -243,7 +243,7 @@ description: ""
 | 1T04 | Moo Zhe Hui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
 | 1T05 | Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
 | 1T06 | Soong Yin-yin Sharon | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin-yin_xiong_yingying@moe.edu.sg)  |
-| 1T06  | Shohib bin Abdul Wahab Marican |  |
+| 1T06  | Shohib bin Abdul Wahab Marican | [shohib_abdul_wahab_marican@moe.edu.sg](mailto:[shohib_abdul_wahab_marican@moe.edu.sg)  |
 | 1T07 | Lin Shilin Charlene | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg)  |
 | 1T07 | Ashton Tan Siang  | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg)  |
 | 1T08 | Idzham Khalid Lthnin | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg) |
@@ -261,7 +261,7 @@ description: ""
 | 1T16 | Peh Beng Lee | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
 | 1T17  | Ong Jun Jie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)   |
 | 1T18  | Leong Wee Tek | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
-| 1T18 | Ernest Lim Jingjie  |   |
+| 1T18 | Ernest Lim Jingjie  | [ernest_lim_jingjie@moe.edu.sg](mailto:ernest_lim_jingjie@moe.edu.sg)  |
 | 1T19  | Carolina Ng | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg)  |
 | 1T19 | Tan Han Wei Amos  | [tan_han_wei_amos@moe.edu.sg](mailto:tan_han_wei_amos@moe.edu.sg)  |
 | 1T20 | Tan Mei Qi | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg)  |
@@ -326,6 +326,7 @@ Father Justin Yip
 | Name / Designation | Email Address |
 |:---:|:---:|
 | Khairul Nizam Mohd Taha / Administrative Manager | [khairul_nizam_mohd_taha@moe.edu.sg](mailto:khairul_nizam_mohd_taha@moe.edu.sg) |
+| Liew Hui Lin / Administrative Manager | [liew_hui_lin@moe.edu.sg](mailto:liew_hui_lin@moe.edu.sg) |
 | Ravi Govindaram / Operations Manager  | [ravi_govindaram@moe.edu.sg](mailto:ravi_govindaram@moe.edu.sg)  |
 | See Song Pewe Gordon / Operations Manager  | [see_song_pewe@moe.edu.sg](mailto:see_song_pewe@moe.edu.sg)  |
 | Selvasegaran s/o Raman / Operations Manager | [selvasegaran_raman@moe.edu.sg](mailto:selvasegaran_raman@moe.edu.sg)  |
