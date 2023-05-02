@@ -4,45 +4,56 @@ permalink: /experience/ccas/niche/
 description: ""
 third_nav_title: CCA
 ---
-
 ### **Niche**
-#### **CJC Choir**
-**Recent achievements:**  
+**Recent achievements:**
+#### **Singapore Youth Festival (SYF) 2022**
 
-*   Singapore Youth Festival Arts Presentation - Distinction in 2019
-*   Harmonie Festival in 2011 in Limburg, Germany - 2nd prize for Folksong Category, 3rd prize in Youth Category
-*   3rd International Choir Competition "Antonio Vivaldi" 2013 held in Gabrovo, Bulgaria - 1st prize for Youth Category, 2nd prize for Folk Category, Master Conductor Award
+| Performing Arts CCAs | Achievements |
+|:---|:---|
+| **Drama** | Distinction |
+|
 
-Visit [https://www.facebook.com/cjchoir](https://www.facebook.com/cjchoir)
+#### **Sport CCAs - Team Results 2022**
 
-#### **CJC Dance**
-**Recent achievements**
-*   Singapore Youth Festival Arts Presentation - Distinction in 2019
-*   Gold in Singapore Youth Festival Central Judging - 2005, 2007, 2009 & 2011
+| CCA | Event | Achievements (if applicable) | Gender |
+|:---|:---|:---|:---|
+| Fencing | NSG, Boys A Div | 3rd Overall | Male |
+| Drama | SYF | Distinction |  |
+| Track and Field | NSG A Girls 4x400m | 7th | Female |
+| Floorball | NSG | 5th | Boys |
+| Floorball | NSG | 4th | Girls |
+| Basketball | NSG | Nil | Male |
+| Ultimate Frisbee | Inter-JC Competition | 2nd | Mixed |
+| Tennis | NSG | Top 8 | Boys |
+|
 
-#### **CJC Fencing**
-**Recent achievements**
-*   Top school at National Championships in 2008, 2009 & 2010
-*   Nationals 'A' Division Boys Champion in 2009
-*   Nationals 'A' Division Women's Champion in 2010
-*   Nationals 'A' Division Team 'Boys' - 3rd position in 2011
-*   Nationals 'A' Division Team 'Girls' - 3rd position in 2011
-*   Nationals 'A' Division Team 'Boys' - 4th position in 2012
-*   Nationals 'A' Division Team 'Girls' - 4th position in 2012
+#### **Sport CCAs - Individual Results 2022**
 
-#### **CJC Shooting**
-**Recent achievements**
-*   Produced 3 National shooters
-*   2 Silvers at Commonwealth Youth Games 2008
-*   Champion for Individual Women and Silver for Team at 'A' Division in 2009
-*   16th National Inter-School Shooting Championships 2012 (Air Pistol) - Boys - 3rd Position
-*   16th National Inter-School Shooting Championships 2012 (Air Pistol) - Girls - 3rd Position
+| CCA | Event | Achievements | Name | Class | Sex |
+|:---|:---|:---|:---|:---|:---|
+| Track and Field | NSG Track and &amp; Field, 1500m Boys | 3rd | DARRELL LEOW CHEN JEE | 2T19 | M |
+| Judo | NSG Judo, Under 52kg Category | 3rd | ADRIENNE CHUE | 2T25 | F |
+| Fencing | NSG Fencing, Boy's Foil | 1st | RAPHAEL TAN JUAN KANG | 1T28 | M |
+| Golf | NSG Golf | 3rd | Choo Jian Ying Jaclyn | 2T08 | F |
+| Trampoline | NSG Gymnastics (Trampoline) | 2nd | Hannah Loh | 1T22 | F |
+| Canoeing | NSG Canoeing K4 1000m Girls | 3rd | KELLY SHARDY KUSUMA<br>NICOLE LYN CHAN XIN RU<br>SOFIA LIM JIA LE<br>XAYNA KWEK | 2T03<br>2T03<br>1T17<br>2T19 | F |
+| Canoeing | NSG Canoeing K2 500m Boys | 3rd | ISAAC JOSHUA ANG KAI YI<br>JAMES TAN CHAO WEI | 1T19<br>1T12 | M |
+| Shooting | NSG Air Pistol Men Individual | 3rd | Goh Teng Lok, Audric | 1T29 | M |
+| Cross Country | NSG Cross Country Boys Individual | 8th | DARRELL LEOW CHEN JEE | 2T19 | M |
+|
 
-#### **CJC Symphonic Band**
-**Recent achievements**
+#### **Clubs and Societies CCAs - Team Results 2022**
 
-*   Singapore Youth Festival Arts Presentation - Distinction in 2019
-*   SYF Central Judging - Gold in 2003, 2005, 2007, 2011 & Gold with Honours in 2009
-*   Winter Band Festival 2010 @ Hong Kong Disneyland Resort
-	*   Top Band in open category
-	*   Awarded Gold
+| CCA | Event | Achievements (if applicable) | Gender |
+|:---|:---|:---|:---|
+| Oratorical Society | MOE Inter-collegiate Debate Competition | Quarter-Finalist | Mixed |
+|
+
+#### **Clubs and Societies CCAs - Individual Results 2022**
+
+| CCA | Event | Achievements | Name | Class | Sex |
+|:---|:---|:---|:---|:---|:---|
+| Oratorical Society | MOE Inter-collegiate Debate Competition | 4th Overall Best Speaker | Calista Tan | 2T01 | F |
+| Oratorical Society | MOE Inter-collegiate Debate Competition | 8th Overall Best Speaker | Ryan Ng | 2T01 | M |
+| Oratorical Society | MOE Inter-collegiate Oratorical Competition - Orator’s Trophy | 2nd Runner Up | Mehreen Cecil Malik | 2T02 | F |
+|

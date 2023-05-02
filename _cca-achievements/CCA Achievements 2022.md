@@ -29,7 +29,7 @@ description: ""
 
 | CCA | Event | Achievements | Name | Class | Sex |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| Track and Field | NSG Track and & Field, 1500m Boys | 3rd | DARRELL LEOW CHEN JEE | 2T19 | M |
+| Track and Field | NSG Track and Field, 1500m Boys | 3rd | DARRELL LEOW CHEN JEE | 2T19 | M |
 | Judo | NSG Judo, Under 52kg Category | 3rd | ADRIENNE CHUE | 2T25 | F |
 | Fencing | NSG Fencing, Boy's Foil | 1st | RAPHAEL TAN JUAN KANG | 1T28 | M |
 | Golf | NSG Golf | 3rd | Choo Jian Ying Jaclyn | 2T08 | F |
