@@ -34,20 +34,19 @@ We are looking for students who are outstanding in the following areas:
 Applicants are to focus on only&nbsp;**one&nbsp;area of expertise or talent**&nbsp;in their application.
 
 ##### **Application Procedures**
-1\.&nbsp; To apply, please register using&nbsp;[**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/).<br>
-2\.&nbsp; The following supporting documents are to be included in the online application:
-\- Sec 3 End-of-Year exam results slip or equivalent;<br>
-\- Sec 4 Term 1 &amp; 2 Continual Assessment / Mid-Year Examination results slip or equivalent;<br>
-\- CCA &amp; VIA records (for 2022 and 2023); and<br>
-\- Personal Statement.
+1. To apply, please register using [**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/).
+2. The following supporting documents are to be included in the online application:
+* Sec 3 End-of-Year exam results slip or equivalent;
+* Sec 4 Term 1 &amp; 2 Continual Assessment / Mid-Year Examination results slip or equivalent;
+* CCA &amp; VIA records (for 2022 and 2023); and
+* Personal Statement.
 
-&nbsp;**_Incomplete submissions will&nbsp;not&nbsp;be considered_**.
+**_Incomplete submissions will&nbsp;not&nbsp;be considered_**.
  
-3\.&nbsp; Application periods for the two phases are as follows:<br>
-_For DSA-JC (Phase 1)_<br>
-To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm, Monday,**&nbsp; **3 July**&nbsp;**2023**.<br>
-Applications submitted&nbsp;**after**&nbsp;**3 July**&nbsp;**2023**&nbsp;will be processed in Phase 2.
-
+3. Application periods for the two phases are as follows:<br>
+**_For DSA-JC (Phase 1)_<br>**
+To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm, Monday,** **3 July 2023**.<br>
+Applications submitted**after**&nbsp;**3 July**&nbsp;**2023**&nbsp;will be processed in Phase 2.<br>
 _For DSA-JC (Phase 2)_<br>
 To allow enough time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm,&nbsp; Monday,**&nbsp; **21**&nbsp;**August 2023**.
 
