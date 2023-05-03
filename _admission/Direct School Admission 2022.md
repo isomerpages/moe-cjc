@@ -3,8 +3,8 @@ title: Direct School Admission 2022
 permalink: /admission/direct-school-admission-2022/
 description: ""
 ---
-### **Direct School Admission 2022**
-#### **2022 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2023**
+### **Direct School Admission 2023**
+#### **2023 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2024**
 
 Please watch the DSA 2022 Introduction Video by Principal Mrs Phyllis Lim&nbsp;[here](https://www.youtube.com/watch?v=kTJnl17dxUU).
 
@@ -15,7 +15,7 @@ We are looking for students who are outstanding in the following areas:
 
 | Performing Arts | Selection Criteria |
 |---|---|
-| - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br><br>- Representation in international/ national competitions<br>- Achievement in music/ dance examinations |
+| - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br>- Representation in international/ national competitions<br>- Achievement in music/ dance examinations |
 |
 
 | Sports and Games | Selection Criteria |
