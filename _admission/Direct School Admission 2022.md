@@ -6,28 +6,27 @@ description: ""
 ### **Direct School Admission 2023**
 #### **2023 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2024**
 
-Please watch the DSA 2022 Introduction Video by Principal Mrs Phyllis Lim&nbsp;[here](https://www.youtube.com/watch?v=kTJnl17dxUU).
-
-CJC invites applications for direct admission to JC1 in 2023 from students who are outstanding in at least one area of talents / skills listed in the table below.  **Eligible applicants must sit for the GCE O-Level in 2022.** Successful applicants may be considered for one of the 10 [FLAME scholarships](/admission/scholarships/) available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
+CJC invites applications for direct admission to JC1 in 2023 from students who are outstanding in at least one area of talents / skills listed in the table below. Successful applicants may be considered for one of the 10 [FLAME scholarships](/admission/scholarships/) available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
 
 ##### **DSA Talent Areas**
 We are looking for students who are outstanding in the following areas:
 
 | Performing Arts | Selection Criteria |
 |---|---|
-| - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br>- Representation in international/ national competitions<br>- Achievement in music/ dance examinations |
+| - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br>- Representation in international / national competitions<br>- Achievement in music / dance examinations |
 |
 
 | Sports and Games | Selection Criteria |
 |---|---|
-| - Badminton<br>- Basketball (Boys)<br>- Bowling<br>- Canoeing<br>- Cross Country<br>- Fencing<br>- Floorball<br>- Football (Boys)<br>- Judo<br>- Netball (Girls)<br>- Shooting<br>- Swimming<br>- Tennis<br>- Track and Field<br>- Volleyball | - Achievement in National Schools/ international competitions <br>- Representation at National or Zonal schools competition |
+| - Badminton<br>- Basketball (Boys)<br>- Bowling<br>- Canoeing<br>- Cross Country<br>- Fencing<br>- Floorball<br>- Football (Boys)<br>- Frisbee<br>- Netball (Girls)<br>- Swimming<br>- Tennis<br>- Track and Field<br>- Volleyball | - Achievement in National Schools / international competitions <br>- Representation at National or Zonal schools competition |
 |
 
 | Others areas of expertise / talent | Selection Criteria |
 |---|---|
 | - Debating and Public Speaking | - Representation at National or Zonal schools competitions<br><br>- Records of achievement with CCA |
-| - Entrepreneurship | - Representation at National, Zonal or similar level inter-school competitions<br><br>- Records of achievements/ contributions with a CCA or a sustained programme in this area |
+| - Entrepreneurship | - Representation at National, Zonal or similar level inter-school competitions<br><br>- Records of achievements / contributions with a CCA or a sustained programme in this area |
 | - Film and Photography | - Representation at National or Zonal school competitions<br><br>- Records of achievement with CCA |
+| - Language Elective Programme - English | - Records of consistently good English Language grades in Secondary 3 and 4<br><br>- Records of achievements and school contributions that show evidence of strong interest and ability in the English Language<br><br>- Shortlisted applicants will be required to write an essay |
 | - Leadership | - Holding a key school-wide leadership position in Secondary 3 and 4 (e.g. Exco member of Student Council / Prefectorial Board or of similar leadership equivalent)<br><br>- Records of strong leadership capabilities |
 | - Science and Technology | - Representation at National, Zonal or similar level inter-school competitions<br><br>- Records of achievements/ contributions with a CCA or a sustained programme in the areas of STEM |
 |
@@ -39,46 +38,46 @@ Applicants are to focus on only&nbsp;**one&nbsp;area of expertise or talent**&nb
 2\.&nbsp; The following supporting documents are to be included in the online application:
 \- Sec 3 End-of-Year exam results slip or equivalent;<br>
 \- Sec 4 Term 1 &amp; 2 Continual Assessment / Mid-Year Examination results slip or equivalent;<br>
-\- CCA &amp; VIA records (for 2021 and 2022); and<br>
+\- CCA &amp; VIA records (for 2022 and 2023); and<br>
 \- Personal Statement.
 
 &nbsp;**_Incomplete submissions will&nbsp;not&nbsp;be considered_**.
  
 3\.&nbsp; Application periods for the two phases are as follows:<br>
 _For DSA-JC (Phase 1)_<br>
-To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**1pm, Friday,**&nbsp;**1 July**&nbsp;**2022**.<br>
-Applications submitted&nbsp;**after**&nbsp;**1 July**&nbsp;**2022**&nbsp;will be processed in Phase 2.
+To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm, Monday,**&nbsp; **3 July**&nbsp;**2023**.<br>
+Applications submitted&nbsp;**after**&nbsp;**3 July**&nbsp;**2023**&nbsp;will be processed in Phase 2.
 
 _For DSA-JC (Phase 2)_<br>
-To allow enough time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**1pm,&nbsp;Friday,**&nbsp;**19**&nbsp;**August 2022**.
+To allow enough time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm,&nbsp; Monday,**&nbsp; **21**&nbsp;**August 2023**.
 
 ##### **Trial/Audition Process**
 _For DSA-JC (Phase 1),_
-* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 23 May 2022**&nbsp;onwards.
+* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 22 May 2023**&nbsp;onwards.
 * Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.
 * Having granted a trial/audition does not mean that the DSA-JC application has been successful.
 
 _For DSA-JC (Phase 2),_
-* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 18 July 2022**&nbsp;onwards.
+* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 17 July 2023**&nbsp;onwards.
 * Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.&nbsp;
 * Having granted a trial/audition does not mean that the DSA-JC application has been successful.
 
 ##### **Selection Process**
 _For DSA-JC (Phase 1),_
-* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**8 July**&nbsp;and&nbsp;**11 August 2022**.
+* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**7 July**&nbsp;and&nbsp;**10 August 2023**.
 * More information will be provided to the applicants by email at least one week before the interview date.
 * Final decision will be made by the Interview Panel&nbsp;after&nbsp;the interview.
 
-Successful candidates will receive a Letter of Offer by&nbsp;**12 August 2022**. They are required to accept our offer by&nbsp;**3 pm, Tuesday, 16 August 2022.**&nbsp;Both students and their parents will be notified by email.
+Successful candidates will receive a Letter of Offer by&nbsp;**11 August 2023**. They are required to accept our offer by&nbsp;**3 pm, Tuesday, 15 August 2023.**&nbsp;Both students and their parents will be notified by email.
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 1) will be notified via email.
 
 _For DSA-JC (Phase 2),_
-* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**17 August**&nbsp;and&nbsp;**6 September 2022.**
+* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**18 August**&nbsp;and&nbsp;**5 September 2023.**
 * More information will be provided to the applicants by email at least one week before the interview date.
 * Final decision will be made by the Interview Panel&nbsp;after&nbsp;the interview.
 
-Successful candidates will receive a Letter of Offer by&nbsp;**7 September 2022**. They are required to accept our offer by&nbsp;**3 pm, Monday, 12 September 2022.**&nbsp;Both students and their parents will be notified by email.
+Successful candidates will receive a Letter of Offer by&nbsp;**6 September 2023**. They are required to accept our offer by&nbsp;**3 pm, Monday, 11 September 2023.**&nbsp;Both students and their parents will be notified by email.
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 2) will be notified via email.
 
