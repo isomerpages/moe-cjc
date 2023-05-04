@@ -31,7 +31,7 @@ We are looking for students who are outstanding in the following areas:
 | - Science and Technology | - Representation at National, Zonal or similar level inter-school competitions<br><br>- Records of achievements/ contributions with a CCA or a sustained programme in the areas of STEM |
 |
 
-Applicants are to focus on only&nbsp;**one&nbsp;area of expertise or talent**&nbsp;in their application.
+Applicants are to focus on only **one area of expertise or talent** in their application.
 
 ##### **Application Procedures**
 1. To apply, please register using [**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/).
@@ -41,7 +41,7 @@ Applicants are to focus on only&nbsp;**one&nbsp;area of expertise or talent**&nb
 * CCA &amp; VIA records (for 2022 and 2023); and
 * Personal Statement.
 
-**_Incomplete submissions will&nbsp;not&nbsp;be considered_**.
+**_Incomplete submissions will not be considered_**.
  
 3. Application periods for the two phases are as follows:<br>
 **_For DSA-JC (Phase 1)_<br>**
