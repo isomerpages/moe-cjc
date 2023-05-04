@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Identity Guidelines.md
       - Uniquely CJC.md
       - Principal's Message.md
       - Our Vision.md
@@ -15,3 +14,4 @@ collections:
       - Our Departments.md
       - Our College Profile.md
       - Our Publications.md
+      - Identity Guidelines.md
