@@ -13,6 +13,7 @@ We are looking for students who are outstanding in the following areas:
 
 | Performing Arts | Selection Criteria |
 |---|---|
+|<ul><li>Choir</li><li>Concert Band</li><li>English Drama</li><li>Guitar Ensemble</li><li>Modern Dance</li></ul>|<ul><li>Achievement in SYF presentations</li><li>Representation in international / national competitions</li><li>Achievement in music / dance examinations</li></ul>|
 | - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br>- Representation in international / national competitions<br>- Achievement in music / dance examinations |
 |
 
@@ -46,44 +47,44 @@ Applicants are to focus on only&nbsp;**one&nbsp;area of expertise or talent**&nb
 3. Application periods for the two phases are as follows:<br>
 **_For DSA-JC (Phase 1)_<br>**
 To allow sufficient time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm, Monday,** **3 July 2023**.<br>
-Applications submitted**after**&nbsp;**3 July**&nbsp;**2023**&nbsp;will be processed in Phase 2.<br>
+Applications submitted**after**&nbsp;**3 July**&nbsp;**2023**&nbsp;will be processed in Phase 2.<br><br>
 _For DSA-JC (Phase 2)_<br>
-To allow enough time for processing, it is strongly recommended that all applications are submitted online by&nbsp;**5pm,&nbsp; Monday,**&nbsp; **21**&nbsp;**August 2023**.
+To allow enough time for processing, it is strongly recommended that all applications are submitted online by **5pm, Monday, 21 August 2023**.
 
 ##### **Trial/Audition Process**
-_For DSA-JC (Phase 1),_
-* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 22 May 2023**&nbsp;onwards.
+**_For DSA-JC (Phase 1),_**
+* **Short-listed applicants** will be invited for in-person **auditions/trials from 22 May 2023**onwards.
 * Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.
 * Having granted a trial/audition does not mean that the DSA-JC application has been successful.
 
-_For DSA-JC (Phase 2),_
-* **Short-listed applicants**&nbsp;will be invited for in-person&nbsp;**auditions/trials**&nbsp;**from 17 July 2023**&nbsp;onwards.
-* Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.&nbsp;
+**_For DSA-JC (Phase 2),_**
+* **Short-listed applicants** will be invited for in-person **auditions/trials from 17 July 2023** onwards.
+* Students are reminded to be punctual for trials/auditions. Students are required to be in their Secondary School sports attire or school uniform.
 * Having granted a trial/audition does not mean that the DSA-JC application has been successful.
 
 ##### **Selection Process**
-_For DSA-JC (Phase 1),_
-* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**7 July**&nbsp;and&nbsp;**10 August 2023**.
+**_For DSA-JC (Phase 1),_**
+* Only short-listed candidates will be invited for an interview between **7 July** and **10 August 2023**.
 * More information will be provided to the applicants by email at least one week before the interview date.
-* Final decision will be made by the Interview Panel&nbsp;after&nbsp;the interview.
+* Final decision will be made by the Interview Panel after the interview.
 
-Successful candidates will receive a Letter of Offer by&nbsp;**11 August 2023**. They are required to accept our offer by&nbsp;**3 pm, Tuesday, 15 August 2023.**&nbsp;Both students and their parents will be notified by email.
+Successful candidates will receive a Letter of Offer by **11 August 2023**. They are required to accept our offer by **3 pm, Tuesday, 15 August 2023.** Both students and their parents will be notified by email.
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 1) will be notified via email.
 
-_For DSA-JC (Phase 2),_
-* Only short-listed candidates will be invited for&nbsp;an interview between&nbsp;**18 August**&nbsp;and&nbsp;**5 September 2023.**
+**_For DSA-JC (Phase 2),_**
+* Only short-listed candidates will be invited for an interview between **18 August** and **5 September 2023.**
 * More information will be provided to the applicants by email at least one week before the interview date.
-* Final decision will be made by the Interview Panel&nbsp;after&nbsp;the interview.
+* Final decision will be made by the Interview Panel after the interview.
 
-Successful candidates will receive a Letter of Offer by&nbsp;**6 September 2023**. They are required to accept our offer by&nbsp;**3 pm, Monday, 11 September 2023.**&nbsp;Both students and their parents will be notified by email.
+Successful candidates will receive a Letter of Offer by **6 September 2023**. They are required to accept our offer by **3 pm, Monday, 11 September 2023.** Both students and their parents will be notified by email.
 
 Short-listed applicants who are not offered a place in the DSA-JC (Phase 2) will be notified via email.
 
 ##### **Important Note**
-Successful DSA-JC candidates will&nbsp;**NOT**&nbsp;be allowed to participate in the Joint Admissions Exercise. They will also&nbsp;**NOT**&nbsp;be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
+Successful DSA-JC candidates will **NOT** be allowed to participate in the Joint Admissions Exercise. They will also **NOT** be allowed to transfer to another school after the release of the GCE O-Level examination results. They are expected to honour their commitment to the DSA-JC schools and to participate in activities related to the talent selected in, for the duration of the programme admitted to. Students who do not fulfill their DSA commitment without valid reason may be required to transfer out to another school.
 
 ##### **Enquiries**
-For more information, please visit the&nbsp;[Ministry of Education DSA-JC](https://www.moe.gov.sg/post-secondary/admissions/dsa)&nbsp;website.
+For more information, please visit the [Ministry of Education DSA-JC](https://www.moe.gov.sg/post-secondary/admissions/dsa) website.
 
 For further enquiries on the CJC DSA-JC exercise, please email us at [catholic\_jc@moe.edu.sg](mailto:catholic\_jc@moe.edu.sg)
