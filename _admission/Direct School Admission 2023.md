@@ -6,7 +6,7 @@ description: ""
 ### **Direct School Admission 2023**
 #### **2023 Direct School Admission - Junior Colleges (DSA-JC) For Admission To JC1 In 2024**
 
-CJC invites applications for direct admission to JC1 in 2023 from students who are outstanding in at least one area of talents / skills listed in the table below. Successful applicants may be considered for one of the 10 [FLAME scholarships](/admission/scholarships/) available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
+CJC invites applications for direct admission to JC1 in 2024 from students who are outstanding in at least one area of talents / skills listed in the table below. Successful applicants may be considered for one of the 10 [FLAME scholarships](/admission/scholarships/) available to JC1 students with exceptional strengths and/or abilities in leadership and CCA.
 
 ##### **DSA Talent Areas**
 We are looking for students who are outstanding in the following areas:
