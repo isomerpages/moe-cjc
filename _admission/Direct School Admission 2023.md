@@ -13,7 +13,6 @@ We are looking for students who are outstanding in the following areas:
 
 | Performing Arts | Selection Criteria |
 |---|---|
-|<ul><li>Choir</li><li>Concert Band</li><li>English Drama</li><li>Guitar Ensemble</li><li>Modern Dance</li></ul>|<ul><li>Achievement in SYF presentations</li><li>Representation in international / national competitions</li><li>Achievement in music / dance examinations</li></ul>|
 | - Choir<br>- Concert Band<br>- English Drama<br>- Guitar Ensemble<br>- Guzheng Ensemble<br>- Modern Dance | - Achievement in SYF presentations<br>- Representation in international / national competitions<br>- Achievement in music / dance examinations |
 |
 
