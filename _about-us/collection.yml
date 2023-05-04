@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - Identity Guidelines.md
       - Uniquely CJC.md
       - Principal's Message.md
       - Our Vision.md
