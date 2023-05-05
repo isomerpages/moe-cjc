@@ -48,10 +48,11 @@ An online archive of the CJC Yearbook.
 
 <img src="/images/publications3.jpg" style="width:40%;margin-left::55px;" align="right">
 
+* **[2022](https://issuu.com/catholicjc/docs/cjc_college_annual_2022)**
 *  **[2020-2021](https://issuu.com/catholicjc/docs/cjc_college_biennial_2020-2021_final)**
 *   **[2019](https://issuu.com/catholicjc/docs/cjc_annual_2019_for_issuu)**
 *   **[2018](https://issuu.com/catholicjc/docs/cjc_yearbook_2018)**
-*   **[2017](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1)&nbsp;(Part 1)**
+*   **[2017 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1))**
 *   **[2017 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part2)**
 *  **[2016](http://issuu.com/catholicjc/docs/cjc_annual_2016)**
 *   **[2015](https://issuu.com/catholicjc/docs/cjc_yearbook_2015)**
