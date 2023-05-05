@@ -5,12 +5,17 @@ description: ""
 ---
 ### **Publications**
 #### **Prospectus**
-<img src="/images/publications1.jpg" style="width:35%;margin-left::55px;" align="right">
+<img src="/images/2022%20prospectus%20cover.PNG" style="width:35%;margin-left::55px;" align="right">
 
 Read our prospectus&nbsp;**[online](https://issuu.com/catholicjc/docs/cjc_prospectus_jan_2023_-_final)**&nbsp;to find out more about our college's
 programmes and ethos.
 
 For prospective students and parents of prospective students.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### **The Flame**
 A newsletter by CJC's Editorial Club.
