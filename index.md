@@ -23,7 +23,7 @@ sections:
       background: /images/landing page carousel 5.gif
   - resources:
       title: Happenings at CJC
-      subtitle: News
+      subtitle: News & Highlights
       button: View all news
   - infopic:
       title: Ignite Your Learning
