@@ -34,7 +34,7 @@ We are looking for students who are outstanding in the following areas:
 Applicants are to focus on only **one area of expertise or talent** in their application.
 
 ##### **Application Procedures**
-1. To apply, please register using [**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/).
+1. To apply, please register using [**http://dsa.catholicjc.edu.sg**](http://dsa.catholicjc.edu.sg/) between 4 May to 21 August 2023.
 2. The following supporting documents are to be included in the online application:
 * Sec 3 End-of-Year exam results slip or equivalent;
 * Sec 4 Term 1 &amp; 2 Continual Assessment / Mid-Year Examination results slip or equivalent;
