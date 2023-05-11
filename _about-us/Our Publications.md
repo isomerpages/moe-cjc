@@ -5,12 +5,17 @@ description: ""
 ---
 ### **Publications**
 #### **Prospectus**
-<img src="/images/publications1.jpg" style="width:35%;margin-left::55px;" align="right">
+<img src="/images/2022%20prospectus%20cover.PNG" style="width:35%;margin-left::55px;" align="right">
 
 Read our prospectus&nbsp;**[online](https://issuu.com/catholicjc/docs/cjc_prospectus_jan_2023_-_final)**&nbsp;to find out more about our college's
 programmes and ethos.
 
 For prospective students and parents of prospective students.
+<br>
+<br>
+<br>
+<br>
+<br>
 
 #### **The Flame**
 A newsletter by CJC's Editorial Club.
@@ -48,10 +53,11 @@ An online archive of the CJC Yearbook.
 
 <img src="/images/publications3.jpg" style="width:40%;margin-left::55px;" align="right">
 
+* **[2022](https://issuu.com/catholicjc/docs/cjc_college_annual_2022)**
 *  **[2020-2021](https://issuu.com/catholicjc/docs/cjc_college_biennial_2020-2021_final)**
 *   **[2019](https://issuu.com/catholicjc/docs/cjc_annual_2019_for_issuu)**
 *   **[2018](https://issuu.com/catholicjc/docs/cjc_yearbook_2018)**
-*   **[2017](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1)&nbsp;(Part 1)**
+*   **[2017 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1))**
 *   **[2017 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part2)**
 *  **[2016](http://issuu.com/catholicjc/docs/cjc_annual_2016)**
 *   **[2015](https://issuu.com/catholicjc/docs/cjc_yearbook_2015)**

@@ -2,7 +2,7 @@
 title: Sexuality Education
 permalink: /education/cce/sex-edu/
 description: ""
-third_nav_title: Character &amp; Citizenship
+third_nav_title: Character and Citizenship
 ---
 ### Sexuality Education
 

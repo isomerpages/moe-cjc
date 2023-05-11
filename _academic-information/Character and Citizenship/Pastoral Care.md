@@ -2,7 +2,7 @@
 title: Pastoral Care
 permalink: /education/cce/pastoral-care/
 description: ""
-third_nav_title: Character & Citizenship
+third_nav_title: Character and Citizenship
 ---
 ### Pastoral Care
 

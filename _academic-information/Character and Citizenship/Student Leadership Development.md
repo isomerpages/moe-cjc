@@ -2,7 +2,7 @@
 title: Student Leadership Development
 permalink: /education/cce/student-leadership-development/
 description: ""
-third_nav_title: Character &amp; Citizenship
+third_nav_title: Character and Citizenship
 ---
 ### Student Leadership Development
 
