@@ -6,6 +6,13 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
+<img src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg" style="width:40%;margin-right:15px;" align="left">
+
+**[Rockafella XVII, 28 Apr](/news/2023/6/)**<br>
+Catholic Junior College’s (CJC) signature rock concert, Rockafella XVII, was held on 28 April to a full house.
+
+<br clear="left">
+
 <img src="/images/dsa%202023%20open.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[DSA Applications for 2024 are Open!, 11 May](/news/2023/5/)**<br>
