@@ -1,7 +1,7 @@
 ---
 title: DSA Applications for 2024 are Open!
-permalink: /news/2023/2023dsa/
-date: 2023-05-11
+permalink: /news/2023/7/
+date: 2023-05-15
 layout: post
 description: ""
 image: ""

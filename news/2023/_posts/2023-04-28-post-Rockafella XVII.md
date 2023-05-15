@@ -1,8 +1,10 @@
 ---
-title: Rockafella XVII, 28 Apr
-permalink: /news/2023/6/
+title: Rockafella XVII
+permalink: /news/2023/5/
+date: 2023-04-28
+layout: post
 description: ""
-third_nav_title: "2023"
+image: ""
 ---
 ![Rockafella XVII full house](/images/rockafella%20xvii%2028%20apr%20h%20website.jpg)
 
