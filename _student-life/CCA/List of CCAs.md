@@ -4,11 +4,10 @@ permalink: /experience/ccas/
 description: ""
 third_nav_title: CCA
 ---
-
-
 ### **CCAs**
 **Notice to all JC1 students selecting their CCAs for 2022/2023:**<br>
-For the latest information on the CCAs, click on [this link](https://docs.google.com/presentation/d/1iKzZrrKP9TpC182T72u44ogV3Re4b6qoRoyzJCxwWDY/edit#slide=id.g7d8fc49b24_73_63). <br>
+For the latest information on the CCAs, click on <a target="_blank" href="https://docs.google.com/presentation/d/1iKzZrrKP9TpC182T72u44ogV3Re4b6qoRoyzJCxwWDY/edit#slide=id.g7d8fc49b24_73_63">this link.</a>
+<br>
 These slides contain information on the trial/audition dates for the various CCAs.
 
 #### **Visual and Performing Arts**
@@ -40,6 +39,6 @@ These slides contain information on the trial/audition dates for the various CCA
 | Editorial Club | STE2M Club |
 | First Aid Club | Film, Sound, and Video Society |
 | Genesis (2nd CCA) | Interact Club |
-| Nexus Investment & Entrepreneurship Society |  Oratorical Society |
+| Nexus Investment &amp; Entrepreneurship Society |  Oratorical Society |
 | Strategy Games Club | Student Council |
 |

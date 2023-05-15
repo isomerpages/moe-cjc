@@ -3,11 +3,14 @@ collections:
     output: true
     order:
       - News.md
+      - 2023/.keep
+      - 2023/DSA Applications for 2024 are Open!.md
+      - 2023/CJC at the International Space Challenge 2022.md
+      - 2023/Rockafella XVII, 28 Apr.md
       - 2023/Annual Cross Country, 10 Mar.md
       - 2023/JC1 Commencement Mass and Ceremony, 20 Feb.md
       - 2023/CJC Celebrates with the Class of 2022.md
       - 2023/CJC Open House 2023.md
-      - 2023/.keep
       - 2022/Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July
         2022.md
       - 2022/Congratulations to National Day Award 2022 Recipients.md
