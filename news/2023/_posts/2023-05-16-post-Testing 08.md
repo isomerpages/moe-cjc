@@ -6,3 +6,5 @@ layout: post
 description: ""
 image: ""
 ---
+Testing
+This appears in the 3 boxes.
