@@ -1,6 +1,6 @@
 ---
 title: CJC at the International Space Challenge 2022
-permalink: /news/2023/4/
+permalink: /news/2023/06/
 description: ""
 third_nav_title: "2023"
 ---

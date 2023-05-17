@@ -1,6 +1,6 @@
 ---
 title: Rockafella XVII, 28 Apr
-permalink: /news/2023/6/
+permalink: /news/2023/05/
 description: ""
 third_nav_title: "2023"
 ---

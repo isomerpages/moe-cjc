@@ -1,6 +1,6 @@
 ---
 title: Rockafella XVII
-permalink: /news/2023/5/
+permalink: /news/2023/05/
 date: 2023-04-28
 layout: post
 description: ""

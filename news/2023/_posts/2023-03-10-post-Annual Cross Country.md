@@ -6,9 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
-
 ### **Annual Cross Country, 10 Mar**
 
 <iframe allowfullscreen="true" height="569" width="960" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vTb5FEkx_DPJZk2LYNQrbPoviR2O4balJxzzW_H7tLYdWptxNjKDPhRi-AT-zCXN2XTq7xMpLKwiX2r/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>

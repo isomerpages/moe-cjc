@@ -8,49 +8,49 @@ description: ""
 
 <img src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Rockafella XVII, 28 Apr](/news/2023/6/)**<br>
+**[Rockafella XVII, 28 Apr](/news/2023/05/)**<br>
 Catholic Junior College’s (CJC) signature rock concert, Rockafella XVII, was held on 28 April to a full house.
 
 <br clear="left">
 
 <img src="/images/dsa%202023%20open.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[DSA Applications for 2024 are Open!, 11 May](/news/2023/5/)**<br>
+**[DSA Applications for 2024 are Open!, 11 May](/news/2023/07/)**<br>
 Join our vibrant community of passionate and driven individuals, and unlock your full potential with us. Apply now to become part of the CJC family!
 
 <br clear="left">
 
 <img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC at the International Space Challenge 2022, 11 May](/news/2023/4/)**<br>
+**[CJC at the International Space Challenge 2022, 11 May](/news/2023/06/)**<br>
 One of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition.
 
 <br clear="left">
 
 <img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/3/)**<br>
+**[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/04/)**<br>
 CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give thanks to God for the good weather and being able to enjoy the day out with invited guests from SAVH.
 
 <br clear="left">
 
 <img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[JC1 Commencement Mass and Ceremony, 20 Feb](https://moe-cjc-staging.netlify.app/news/2023/2/)**<br>
+**[JC1 Commencement Mass and Ceremony, 20 Feb](https://moe-cjc-staging.netlify.app/news/2023/03/)**<br>
 The college extended a warm and meaningful welcome to the JC1s with the celebration of mass and the symbolic presentation of the collar pins on 20 Feb.
 
 <br clear="left">
 
 <img src="/images/news3.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Celebrates with the Class of 2022](https://moe-cjc-staging.netlify.app/news/2023/1/)**<br>
+**[CJC Celebrates with the Class of 2022](https://moe-cjc-staging.netlify.app/news/2023/02/)**<br>
 Our heartiest congratulations to the Class of 2022 for your outstanding results at the GCE A-Levels and embracing learning with a growth mindset!
 
 <br clear="left">
 
 <img src="/images/news4.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Open House 2023](https://moe-cjc-staging.netlify.app/news/2023/cjc-open-house/)**<br>
+**[CJC Open House 2023](https://moe-cjc-staging.netlify.app/news/2023/01/)**<br>
 On 13 January 2023, we will be hosting our Open House in person once again. All prospective students are warmly invited to visit us and learn more about our vibrant college programmes.
 
 <br clear="left">

@@ -1,6 +1,6 @@
 ---
 title: CJC Open House 2023
-permalink: /news/2023/cjc-open-house/
+permalink: /news/2023/01/
 description: ""
 third_nav_title: "2023"
 ---
@@ -11,13 +11,13 @@ This year, we’re back in person and excited to open our doors to some brand-ne
 
 <img src="/images/2023openhouse1.jpg" style="width:85%">
 
-This year, our Open House will be held on **Friday, 13th January, from 10am to 4pm!**
+This year, our Open House will be held on&nbsp;**Friday, 13th January, from 10am to 4pm!**
 
-**If you're looking for the Zoom links for our Academic Consultation sessions, scroll down to the bottom of this page.**  
+**If you're looking for the Zoom links for our&nbsp;Academic Consultation&nbsp;sessions, scroll down to the bottom of this page.**  
 
-We've also prepared a microsite to go along with our Open House - click [**here**](https://cjc.moe.edu.sg/eopenhouse) to visit it!
+We've also prepared a microsite to go along with our Open House - click&nbsp;[**here**](https://cjc.moe.edu.sg/eopenhouse)&nbsp;to visit it!
 
-You can find the full programme for Open House 2023 (as well as a helpful map) below. If you prefer the programme in pdf form, you can find it here: [CJC Open House 2023 Brochure](/files/OH2023%20Brochure.pdf)
+You can find the full programme for Open House 2023 (as well as a helpful map) below. If you prefer the programme in pdf form, you can find it here:&nbsp;[CJC Open House 2023 Brochure](/files/OH2023%20Brochure.pdf)
 
 <img src="/images/2023openhouse2.jpg" style="width:85%">
 <img src="/images/2023openhouse3.jpg" style="width:85%">
@@ -25,7 +25,7 @@ You can find the full programme for Open House 2023 (as well as a helpful map) b
 #### **Academic Consultation Zoom Links**
 Below are the links for the various departments' academic Zoom consultations, where you can find out more about each department's programmes.  
   
-Consultations will take place from **10am to 11am** on **13th January 2023**, and will be provided on a **first-come, first-served basis**.
+Consultations will take place from&nbsp;**10am to 11am**&nbsp;on&nbsp;**13th January 2023**, and will be provided on a&nbsp;**first-come, first-served basis**.
 
 | Department | Zoom Link | Zoom Meeting ID | Password  |
 |:---:|:---:|:---:|:---:|
@@ -42,5 +42,5 @@ Consultations will take place from **10am to 11am** on **13th January 2023**,
 |  Physics | [https://moe-singapore.zoom.us/j/88074031177](https://moe-singapore.zoom.us/j/88074031177)  | 880 7403 1177  |  2023.OHphy |
 |  Mother Tongue Language | [https://moe-singapore.zoom.us/j/89410544411](https://moe-singapore.zoom.us/j/89410544411) |  894 1054 4411 |  2023.OHMTL |
 | Talent Development Programme | [https://moe-singapore.zoom.us/j/83816886133](https://moe-singapore.zoom.us/j/83816886133)  | 838 1688 6133  |  OHTD |
-|  Education & Career Guidance | [https://moe-singapore.zoom.us/j/82321045852](https://moe-singapore.zoom.us/j/82321045852)  | 823 2104 5852  | OHECG  |
+|  Education &amp; Career Guidance | [https://moe-singapore.zoom.us/j/82321045852](https://moe-singapore.zoom.us/j/82321045852)  | 823 2104 5852  | OHECG  |
 |
