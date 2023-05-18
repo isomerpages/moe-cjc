@@ -8,6 +8,8 @@ image: ""
 ---
 We're proud to announce that one of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition, as well as the first time we have won an award. 
 
+![](/images/international%20space%20challenge%202022%20b.jpg)
+
 Our heartiest congratulations to Yuan Mengfei from 2T07, Han Rui from 2T10 and Steve Aureel from 2T28 for their excellent achievement. This achievement is the result of their dedication and hard work in the face of numerous challenges, and we applaud their resilience and efforts.
 
 \* \* \*
