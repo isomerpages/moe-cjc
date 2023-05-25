@@ -6,7 +6,15 @@ layout: post
 description: ""
 image: ""
 ---
-We're proud to announce that one of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition, as well as the first time we have won an award. 
+# CJC at the RoboCup Autonomous Driving Challenges
+This year, 2 teams from CJ participated in the RoboCup Asia-Pacific (RCAP) CoSpace Autonomous Driving Challenges, where they each programmed autonomous vehicles to navigate through a smart city in both real and virtual environments.  
+
+
+Congratulations to **Team Ignition** (Dang Vu Hai Dang and Max Liu Yufeng) and **Team Chromium** (Nicole Tan Ziyi, Neo Rui Feng Nigel and See Zhe An Bryan) for achieving 1st and 3rd place in the U19 category!
+
+# CJC at the International Space Challenge 2022
+
+Furthermore, we're proud to announce that one of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition, as well as the first time we have won an award. 
 
 ![](/images/international%20space%20challenge%202022%20b.jpg)
 
