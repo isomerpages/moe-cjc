@@ -9,7 +9,7 @@ description: ""
 <img src="/images/48th%20college%20day%20a.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[48th College Day, 5 May](/news/2023/09/)**<br>
-Congratulations to the Class of 2022 and all prize winners for all your successes and achievements! The College is proud to celebrate the journey with all CJCians as they embark on a new chapter of their academic pursuits.
+Congratulations to the Class of 2022 and prize winners for your successes and achievements! The College is proud to celebrate this important milestone with all CJCians as they embark on a new chapter of their academic pursuits.
 
 <br clear="left">
 
