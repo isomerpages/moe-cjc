@@ -6,6 +6,13 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
+<img src="/images/48th%20college%20day%20a.jpg" style="width:40%;margin-right:15px;" align="left">
+
+**[48th College Day, 5 May](/news/2023/09/)**<br>
+Congratulations to the Class of 2022 and all prize winners for all your successes and achievements! The College is proud to celebrate the journey with all CJCians as they embark on a new chapter of their academic pursuits.
+
+<br clear="left">
+
 <img src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[Rockafella XVII, 28 Apr](/news/2023/05/)**<br>
