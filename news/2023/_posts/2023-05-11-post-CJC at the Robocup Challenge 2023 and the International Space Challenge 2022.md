@@ -1,10 +1,10 @@
 ---
 title: CJC at the Robocup Challenge 2023 and the International Space Challenge 2022
-permalink: /news/2023/06/
+permalink: /news/2023/10/
 date: 2023-05-11
 layout: post
 description: ""
-image: ""
+image: /images/international space challenge 2022 b.jpg
 ---
 # CJC at the RoboCup Autonomous Driving Challenges
 This year, 2 teams from CJ participated in the RoboCup Asia-Pacific (RCAP) CoSpace Autonomous Driving Challenges, where they each programmed autonomous vehicles to navigate through a smart city in both real and virtual environments.  
