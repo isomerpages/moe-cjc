@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: /images/ell symposium c (1)-min.JPG
 ---
-    
-
 **CJC-NJC English Language and Linguistics Symposium**
 
 By Megan Ng (2T05)
