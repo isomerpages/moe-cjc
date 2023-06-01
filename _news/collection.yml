@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - News.md
+      - 2023/Example Title.md
       - 2023/48th College Day, 5 May.md
       - 2023/.keep
       - 2023/DSA Applications for 2024 are Open!.md
