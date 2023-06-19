@@ -13,6 +13,10 @@ description: ""
 
 <br clear="left">
 
+<img src="/images/sac%202023%20n%20website.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+**[Sports and Aesthetics Carnival, 26 May](/news/2023/10/)**<br>
+A perennial crowd favourite, the Sports and Aesthetics Carnival brought CJCians together for an exciting day of games and activities, ending Term 2 on a high note.
 
 <img src="/images/48th%20college%20day%20a.jpg" style="width:40%;margin-right:15px;" align="left">
 
