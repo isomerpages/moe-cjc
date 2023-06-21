@@ -6,7 +6,7 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
-<img src="images/ell%20symposium%20c%20(1)-min.JPG" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/elisym.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC-NJC English Language &amp; Linguistics Symposium 2023](/news/2023/10/)**<br>
 
@@ -20,6 +20,7 @@ The English Language and Linguistics symposium, held at Catholic Junior College 
 <br>
 A perennial crowd favourite, the Sports and Aesthetics Carnival brought CJCians together for an exciting day of games and activities, ending Term 2 on a high note.
 
+<br clear="left">
 
 <img src="/images/48th%20college%20day%20a.jpg" style="width:40%;margin-right:15px;" align="left">
 
