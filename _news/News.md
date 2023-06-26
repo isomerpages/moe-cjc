@@ -6,10 +6,11 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
-<img src="images/ell%20symposium%20c%20(1)-min.JPG" style="width:40%;margin-right:15px;" align="left">
+<br clear="left">
+<img src="/images/elisym.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC-NJC English Language &amp; Linguistics Symposium 2023](/news/2023/10/)**<br>
-         <!-- /\* Font Definitions \*/ @font-face {font-family:Latha; panose-1:2 0 4 0 0 0 0 0 0 0; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:1048579 0 0 0 1 0;} @font-face {font-family:"Cambria Math"; panose-1:2 4 5 3 5 4 6 3 2 4; mso-font-charset:0; mso-generic-font-family:roman; mso-font-pitch:variable; mso-font-signature:3 0 0 0 1 0;} @font-face {font-family:DengXian; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-alt:等线; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} @font-face {font-family:Calibri; panose-1:2 15 5 2 2 2 4 3 2 4; mso-font-charset:0; mso-generic-font-family:swiss; mso-font-pitch:variable; mso-font-signature:-469750017 -1073732485 9 0 511 0;} @font-face {font-family:"\\@DengXian"; panose-1:2 1 6 0 3 1 1 1 1 1; mso-font-charset:134; mso-generic-font-family:auto; mso-font-pitch:variable; mso-font-signature:-1610612033 953122042 22 0 262159 0;} /\* Style Definitions \*/ p.MsoNormal, li.MsoNormal, div.MsoNormal {mso-style-unhide:no; mso-style-qformat:yes; mso-style-parent:""; margin-top:0in; margin-right:0in; margin-bottom:8.0pt; margin-left:0in; line-height:107%; mso-pagination:widow-orphan; font-size:11.0pt; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-language:TA;} .MsoChpDefault {mso-style-type:export-only; mso-default-props:yes; font-family:"Calibri",sans-serif; mso-ascii-font-family:Calibri; mso-ascii-theme-font:minor-latin; mso-fareast-font-family:DengXian; mso-fareast-theme-font:minor-fareast; mso-hansi-font-family:Calibri; mso-hansi-theme-font:minor-latin; mso-bidi-font-family:Latha; mso-bidi-theme-font:minor-bidi; mso-bidi-language:TA;} .MsoPapDefault {mso-style-type:export-only; margin-bottom:8.0pt; line-height:107%;} @page WordSection1 {size:8.5in 11.0in; margin:1.0in 1.0in 1.0in 1.0in; mso-header-margin:.5in; mso-footer-margin:.5in; mso-paper-source:0;} div.WordSection1 {page:WordSection1;} --> The English Language and Linguistics symposium, held at Catholic Junior College on 12th May 2023, was jointly organised by Catholic Junior College and National Junior College.
+The English Language and Linguistics symposium, held at Catholic Junior College on 12th May 2023, was jointly organised by Catholic Junior College and National Junior College.
 
 <br clear="left">
 
@@ -17,6 +18,8 @@ description: ""
 
 **[Sports and Aesthetics Carnival, 26 May](/news/2023/10/)**<br>
 A perennial crowd favourite, the Sports and Aesthetics Carnival brought CJCians together for an exciting day of games and activities, ending Term 2 on a high note.
+
+<br clear="left">
 
 <img src="/images/48th%20college%20day%20a.jpg" style="width:40%;margin-right:15px;" align="left">
 
@@ -46,7 +49,7 @@ One of our JC2 teams achieved a Merit award at the International Space Challenge
 
 <br clear="left">
 
-<img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/04/)**<br>
 CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give thanks to God for the good weather and being able to enjoy the day out with invited guests from SAVH.
