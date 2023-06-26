@@ -6,10 +6,10 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
+<br clear="left">
 <img src="/images/elisym.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC-NJC English Language &amp; Linguistics Symposium 2023](/news/2023/10/)**<br>
-
 The English Language and Linguistics symposium, held at Catholic Junior College on 12th May 2023, was jointly organised by Catholic Junior College and National Junior College.
 
 <br clear="left">
