@@ -12,4 +12,4 @@ The LTC’s lessons on discipline, resilience and collaboration were imbued in i
 
 The Passing of the Flame marked the end of the camp, and a solid foundation had been laid for the JC1 Organisational Leaders. Equipped with the 7 TMLH attributes, they are poised to effect positive change within the school community and beyond.
 
-*Text by Chloe Pang (1T05)*
+*by Chloe Pang (1T05)*
