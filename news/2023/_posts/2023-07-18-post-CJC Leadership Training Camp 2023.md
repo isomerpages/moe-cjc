@@ -6,8 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-
-
 ![](/images/ltc%20large%20group%20shot.jpeg)
 
 Catholic Junior College held the "Build The Light'' transformative Leadership Training Camp (LTC), spanning two days and one night from May 26th to May 27th. Newly elected JC1 Organisational Leaders were participants of this camp, where they were given opportunities to empower them as Thinkers with a Mission and Leaders with a Heart (TMLH). Participants were organised into groups, strengthening networks and forging stronger bonds with their peers.
