@@ -2,10 +2,8 @@
 title: Congratulations to Gwyneth (class of 2022) for receiving the Edwin
   Thumboo prize!
 permalink: /news/2023/12/
-date: 2023-07-06
-layout: post
 description: ""
-image: ""
+third_nav_title: "2023"
 ---
 ![](/images/gwyneth%20-%20edwin%20thumboo%20prize%20cropped.jpg)
 *(L-R: Ms MacKenzie Schoon, Gwyneth Tan, and Mr David Fahy at the award ceremony at NUS FASS)*
