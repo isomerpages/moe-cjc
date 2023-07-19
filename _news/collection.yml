@@ -3,6 +3,8 @@ collections:
     output: true
     order:
       - News.md
+      - 2023/CJC at the Robocup Challenge 2023 and the International Space
+        Challenge 2022.md
       - 2023/.keep
       - 2023/CJC NJC English Language and Linguistics Symposium 2023.md
       - 2023/Sports and Aesthetics Carnival, 26 May.md
