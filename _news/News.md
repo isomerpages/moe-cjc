@@ -28,6 +28,11 @@ Congratulations to the Class of 2022 and prize winners for your successes and ac
 
 <br clear="left">
 
+**[CJCares Fundraising Campaign 2023](/news/2023/09/)**<br>
+The CJCares Fundraising Campaign has been ongoing since 5 August 2021 and will end on 30 June 2023.
+
+<br clear="left">
+
 <img src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[Rockafella XVII, 28 Apr](/news/2023/05/)**<br>
