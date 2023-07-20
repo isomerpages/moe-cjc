@@ -7,6 +7,17 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/ltc%20large%20group%20shot.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+**[CJC Leadership Training Camp 2023](/news/2023/13/)**<br>
+Catholic Junior College held the "Build The Light'' transformative Leadership Training Camp (LTC), spanning two days and one night from May 26th to May 27th. 
+
+<br clear="left">
+
+**[CJ Celebrates 2023](/news/2023/12/)**<br>
+This annual extravaganza is a showcase of the CCAs that earned Certificates of Merit and Distinction at this year’s Singapore Youth Festival (SYF). 
+
+<br clear="left">
 <img src="/images/gwyneth%20-%20edwin%20thumboo%20prize%20cropped.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[Edwin Thumboo prize 2023](/news/2023/11/)**<br>
