@@ -42,14 +42,12 @@ Join our vibrant community of passionate and driven individuals, and unlock your
 
 <br clear="left">
 
-<img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
-
 **[CJC at the International Space Challenge 2022, 11 May](/news/2023/06/)**<br>
 One of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition.
 
 <br clear="left">
 
-<img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/04/)**<br>
 CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give thanks to God for the good weather and being able to enjoy the day out with invited guests from SAVH.
