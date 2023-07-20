@@ -7,6 +7,12 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/gwyneth%20-%20edwin%20thumboo%20prize%20cropped.jpg" style="width:40%;margin-right:15px;" align="left">
+
+**[Edwin Thumboo prize 2023](/news/2023/11/)**<br>
+Congratulations to Gwyneth Tan (2T05, Class of 2022) for receiving the Merit Award for the 2023 Edwin Thumboo Prize. 
+
+<br clear="left">
 <img src="/images/elisym.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC-NJC English Language &amp; Linguistics Symposium 2023](/news/2023/10/)**<br>
@@ -28,7 +34,7 @@ Congratulations to the Class of 2022 and prize winners for your successes and ac
 
 <br clear="left">
 
-**[CJCares Fundraising Campaign 2023](/news/2023/09/)**<br>
+**[CJCares Fundraising Campaign 2023](/news/2023/08/)**<br>
 The CJCares Fundraising Campaign has been ongoing since 5 August 2021 and will end on 30 June 2023.
 
 <br clear="left">
