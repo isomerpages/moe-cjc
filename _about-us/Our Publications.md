@@ -22,6 +22,10 @@ A newsletter by CJC's Editorial Club.
 
 <img src="/images/publications2.jpg" style="width:40%;margin-left::55px;" align="right">
 
+*   **[2023 Issue 1](https://issuu.com/catholicjc/docs/cjc_newsletter_2023_v1)** - Light Up Your Path
+
+*   **[2022 Issue 2](https://issuu.com/catholicjc/docs/flame_grad_issue_2022_final)** - Looking Back, Moving Forward
+
 *   **[2022 Issue 1](https://issuu.com/catholicjc/docs/flame_issue_1_2022)**&nbsp;- On The Wings of Change&nbsp;  
     
 *   **[2021 Issue 2](https://issuu.com/catholicjc/docs/flame_grad_issue_2021)**&nbsp;\- One Flame One Family
