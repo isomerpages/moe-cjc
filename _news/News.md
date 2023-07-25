@@ -7,6 +7,15 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/photo1690268621.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+**[CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!](/news/2023/15/)**<br>
+All alumni are welcome to join us for a day of sports and games, food and fun!
+
+<br clear="left">
+
+
+<br clear="left">
 <img src="/images/ltc%20large%20group%20shot.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC Leadership Training Camp 2023](/news/2023/13/)**<br>
