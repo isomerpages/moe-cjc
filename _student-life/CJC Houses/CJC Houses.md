@@ -24,12 +24,13 @@ These six houses would be a symbol of the college's treasured legacy, giving stu
 #### **Four Houses, One CJC**
 <img src="/images/cjchouse2.jpg" style="width:65%">
 
-Reintroduced in 2012, the House system would maintain four existing names, taking on the colours of the college: **Albert (Yellow), Michael (Orange), Patrick (Red) and Joseph (Green)**. These names were chosen because they reflect our treasured legacy, taking on the names of our founders and principals. Each House is headed by a PE teacher as House Master / Mistress and led by a committee of JC2 students: a House Captain, Vice-House Captain, a House Secretary, a House Games Representative, House JC1 Level Representatives and various Sports Leaders.
+Reintroduced in 2012, the House system would maintain four existing names, taking on the colours of the college:&nbsp;**Albert (Yellow), Michael (Orange), Patrick (Red) and Joseph (Green)**. These names were chosen because they reflect our treasured legacy, taking on the names of our founders and principals. Each House is headed by a PE teacher as House Master / Mistress and led by a committee of JC2 students: a House Captain, Vice-House Captain, a House Secretary, a House Games Representative, House JC1 Level Representatives and various Sports Leaders.
 
 Our four houses are proud to have the leadership and service of the following House Captains and Vice-House Captains for their respective years:
 
-|  | Albert |  Joseph | Michael | Patrick |
+| | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Albert |  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Joseph | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Michael | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patrick |
 |:---:|:---:|:---:|:---:|:---:|
+| **2024** | Chan Chien Yin, Elysha, <br>Tay We Fu Asher|Shermaine Wong, <br>Er Guan Ting | Nandha Krishnan,<br>Shernice Sah Jia Yi|  Anielka Loo Cheok Weng,<br>Elliott Tan Ming Ler |
 | **2023** | Teh Xue Hui,<br>Kaisah Itqah Binte Ahmad Iskandar |  Tay Hui Xin Sharon, Khoo Kai Rui Ignatius | Pechetti Venkata Shashwath,<br>Mya Phone Myinnt Moh |  Nicodemus Lai Kye Juun,<br>Mikhael Sierud |
 | **2022** | Nurul Iman Syed Masood<br>Kyi Thanthar (Rebecca) |  Claudia Ng Hui Lin<br>Katerina Shu-Lian Cascapera | Nicole Lyn Chan<br>Xin Ru<br>Jiang Yit Fong | Carina Tay Wen Xi<br>Xayna Kwek |
 |  **2021** |  Maria Josephine Orell<br>Nur Sarahfina Binte Kamarudin |  Hannah Chiang Siew Hua<br>Jonathan Wui Jia Jun |  Patwardhan Dhruva Ramon Jitend<br>Yen Su Fei Megan |  Fang Heidi-Eeshin<br>Ashley Yaokasin Ong |

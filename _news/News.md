@@ -7,6 +7,32 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/photo1690268621.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+**[CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!](/news/2023/15/)**<br>
+All alumni are welcome to join us for a day of sports and games, food and fun!
+
+<br clear="left">
+
+
+<br clear="left">
+<img src="/images/ltc%20large%20group%20shot.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+**[CJC Leadership Training Camp 2023](/news/2023/13/)**<br>
+Catholic Junior College held the "Build The Light'' transformative Leadership Training Camp (LTC), spanning two days and one night from May 26th to May 27th. 
+
+<br clear="left">
+
+**[CJ Celebrates 2023](/news/2023/12/)**<br>
+This annual extravaganza is a showcase of the CCAs that earned Certificates of Merit and Distinction at this year’s Singapore Youth Festival (SYF). 
+
+<br clear="left">
+<img src="/images/gwyneth%20-%20edwin%20thumboo%20prize%20cropped.jpg" style="width:40%;margin-right:15px;" align="left">
+
+**[Edwin Thumboo prize 2023](/news/2023/11/)**<br>
+Congratulations to Gwyneth Tan (2T05, Class of 2022) for receiving the Merit Award for the 2023 Edwin Thumboo Prize. 
+
+<br clear="left">
 <img src="/images/elisym.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC-NJC English Language &amp; Linguistics Symposium 2023](/news/2023/10/)**<br>
@@ -28,6 +54,11 @@ Congratulations to the Class of 2022 and prize winners for your successes and ac
 
 <br clear="left">
 
+**[CJCares Fundraising Campaign 2023](/news/2023/08/)**<br>
+The CJCares Fundraising Campaign has been ongoing since 5 August 2021 and will end on 30 June 2023.
+
+<br clear="left">
+
 <img src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[Rockafella XVII, 28 Apr](/news/2023/05/)**<br>
@@ -42,14 +73,12 @@ Join our vibrant community of passionate and driven individuals, and unlock your
 
 <br clear="left">
 
-<img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
-
 **[CJC at the International Space Challenge 2022, 11 May](/news/2023/06/)**<br>
 One of our JC2 teams achieved a Merit award at the International Space Challenge (Starter Category), held from November-December 2022. This marks the 3rd year CJC has taken part in this competition.
 
 <br clear="left">
 
-<img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
 
 **[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/04/)**<br>
 CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give thanks to God for the good weather and being able to enjoy the day out with invited guests from SAVH.
