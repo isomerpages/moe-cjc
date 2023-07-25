@@ -6,7 +6,7 @@ layout: post
 description: ""
 image: /images/photo1690268621.jpeg
 ---
-The annual Alumni Sports Fiesta will be back again come Saturday, 29 July 2023! All alumni are welcome to join us for a day of sports and games, food and fun. The details of the event are:
+The annual Alumni Sports Fiesta will be back again come Saturday, 29 July 2023! All alumni are welcome to join us for a day of sports and games, food and fun! The details of the event are:
 
 Date: Saturday, 29 July 2023
 
