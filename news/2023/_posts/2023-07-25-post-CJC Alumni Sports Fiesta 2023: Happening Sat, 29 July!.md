@@ -12,6 +12,6 @@ Date: Saturday, 29 July 2023
 Time: 9am to 1.30pm
 Venue: CJC Field Area
 
-More details can be found [here].(https://docs.google.com/forms/d/e/1FAIpQLSflW-j7XM5J_1shC_8IK7YJzPvGWTKA0wCZoJRemGC4EgwvlA/viewform). 
+More details can be found [here](https://docs.google.com/forms/d/e/1FAIpQLSflW-j7XM5J_1shC_8IK7YJzPvGWTKA0wCZoJRemGC4EgwvlA/viewform). 
 
 Come keep those CJ memories alive!
