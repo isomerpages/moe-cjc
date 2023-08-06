@@ -6,6 +6,8 @@ third_nav_title: "2023"
 ---
 ![Rockafella XVII full house](/images/rockafella%20xvii%2028%20apr%20h%20website.jpg)
 
+Written by Saung La Wunn, 2T05
+
 Catholic Junior College’s (CJC) signature rock concert, Rockafella XVII, was held on 28 April to a full house. Rockafella is a much-beloved music fest that students look forward to and it is held annually on the last day of CJC's Mental Wellness Week. Put together by CJC’s own talents of student and teacher bands, this year's edition witnessed an auditorium full of rapturous cheers and applause for friends and teachers who performed on stage.
 
 ![](/images/rockafella%20xvii%2028%20apr%20c%20website.jpg)
