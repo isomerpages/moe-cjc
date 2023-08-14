@@ -22,11 +22,8 @@ We would like to invite applicants for any of the above food stalls.
 4.  Submit the completed application form and documents by closing date via email **OR** to the School's General Office.
 
 * Address: 129 Whitley Road Singapore 297822
-
 * Contact No.: 62524083
-
 * Email: [catholic\_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg)
-
 * Contact Person: Mr Gordon See / Mr Khairul Nizam
 
 #### **How to get there?**
@@ -47,9 +44,7 @@ We would like to invite applicants for any of the above food stalls.
 ##### Applicants should preferably fulfill the following criteria:
 
 * Successful applicant and stall assistant(s) must possess the WSQ Basic Food Hygiene Certificate.
-
 * Possess catering experience or experience operating in a school environment.
-
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
