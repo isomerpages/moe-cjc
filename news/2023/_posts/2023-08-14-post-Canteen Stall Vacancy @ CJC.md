@@ -12,7 +12,7 @@ We would like to invite applicants for any of the above food stalls.
 
 ### **Application Procedure**
 
-1.  Download and complete the [application form](https://www.fuhuasec.moe.edu.sg/files/application%20form%20for%20canteen%20stall.pdf). You may also request for a hard copy from the School's General Office
+1.  Download and complete the [application form](/files/General%20Office/application%20form%20for%20canteen%20stall.pdf). You may also request for a hard copy from the School's General Office
 2.  Attach the following documents together with the application form:
 
 *   Photocopy of the NRIC (front and back)
