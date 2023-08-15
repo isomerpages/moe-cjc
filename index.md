@@ -63,7 +63,8 @@ sections:
       button: Check our latest happenings
       title: Instagram
   - infobar:
-      url: '"><script async="" crossorigin="anonymous"
+      url: 'https://www.facebook.com/CatholicJC/"><script async=""
+        crossorigin="anonymous"
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         nonce="wi61oHEa"></script><div class="fb-page"
         data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
