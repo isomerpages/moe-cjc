@@ -67,7 +67,7 @@ sections:
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         nonce="wi61oHEa"></script><div class="fb-page"
         data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
-        data-width="500" data-height="" data-small-header="false"
+        data-width="600" data-height="" data-small-header="false"
         data-adapt-container-width="true" data-hide-cover="false"
         data-show-facepile="true"><blockquote
         cite="https://www.facebook.com/CatholicJC/"
