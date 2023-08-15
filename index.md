@@ -57,7 +57,7 @@ sections:
       url: https://www.instagram.com/catholic.jc/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
-        - 2px)" class="instagram-media" data-width="600"
+        - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
         data-instgrm-version="14"></blockquote></center>
       button: Check our latest happenings
