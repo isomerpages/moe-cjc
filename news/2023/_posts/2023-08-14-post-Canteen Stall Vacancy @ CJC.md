@@ -10,6 +10,8 @@ image: ""
 
 We would like to invite applicants for any of the above food stalls.
 
+Application closing date: 
+
 ### **Application Procedure**
 
 1.  Download and complete the [application form](/files/General%20Office/application%20form%20for%20canteen%20stall.pdf). You may also request for a hard copy from the School's General Office.
@@ -46,5 +48,3 @@ We would like to invite applicants for any of the above food stalls.
 * Successful applicant is required to apply for a food stall license from Singapore Food Agency (SFA).
 
 Shortlisted applicants will be notified for an interview and will be required to provide food sampling for the School Canteen Selection Committee at the applicant's own expense.
-
-Thank you.
