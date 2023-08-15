@@ -10,7 +10,7 @@ image: ""
 
 We would like to invite applicants for any of the above food stalls.
 
-Application closing date: 
+Application closing date: **29 August 2023**
 
 ### **Application Procedure**
 
