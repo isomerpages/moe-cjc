@@ -60,4 +60,6 @@ sections:
         - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
         data-instgrm-version="14"></blockquote></center>
+      title: Instagram
+      button: See our latest happenings
 ---
