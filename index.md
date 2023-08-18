@@ -62,4 +62,24 @@ sections:
         data-instgrm-version="14"></blockquote></center>
       title: Instagram
       button: See our latest happenings
+  - infobar:
+      title: Infobar Title
+      subtitle: Infobar Subtitle
+      description: Infobar description
+      button: Button Text
+      url: 'https://www.facebook.com/CatholicJC/"><script nonce=""
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
+        crossorigin="anonymous" async=""></script><div data-show-facepile="true"
+        data-hide-cover="false" data-adapt-container-width="true"
+        data-small-header="false" data-height="" data-width="500"
+        data-tabs="timeline" data-href="https://www.facebook.com/CatholicJC/"
+        class="fb-page"><a
+        href="https://www.facebook.com/CatholicJC/"></a><blockquote
+        class="fb-xfbml-parse-ignore"
+        cite="https://www.facebook.com/CatholicJC/"><a
+        href="https://www.facebook.com/CatholicJC/"></a><a
+        href="https://www.facebook.com/CatholicJC/">Catholic Junior
+        College</a></blockquote></div><style>img {   border-radius: 16px;
+        }   .bg-media-color-2 {   background-color:rgb(181,133,0);
+        }  .media-card-plain { border-radius: 16px; }</style>'
 ---
