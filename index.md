@@ -63,10 +63,8 @@ sections:
       title: Instagram
       button: See our latest happenings
   - infobar:
-      title: Infobar Title
-      subtitle: Infobar Subtitle
-      description: Infobar description
-      button: Button Text
+      title: Facebook
+      button: CJC Facebook
       url: 'https://www.facebook.com/CatholicJC/"><script nonce=""
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         crossorigin="anonymous" async=""></script><div data-show-facepile="true"
