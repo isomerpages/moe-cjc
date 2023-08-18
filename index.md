@@ -59,7 +59,7 @@ sections:
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
         - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
-        data-instgrm-version="14"></blockquote></center><a href=""></a>
+        data-instgrm-version="14"></blockquote></center>
       button: Check our latest happenings
       title: Instagram
   - infobar:
