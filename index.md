@@ -76,7 +76,7 @@ sections:
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><style>img {   border-radius: 16px;
         }   .bg-media-color-2 {   background-color:rgb(181,133,0);
-        }  .media-card-plain { border-radius: 16px; }</style>'
+        }  .media-card-plain { border-radius: 16px; }</style>< a href="'
       title: Facebook
       button: CJC Facebook Page
 ---
