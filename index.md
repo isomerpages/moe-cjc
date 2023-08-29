@@ -80,4 +80,13 @@ sections:
         College</a></blockquote></div><style>img {   border-radius: 16px;
         }   .bg-media-color-2 {   background-color:rgb(181,133,0);
         }  .media-card-plain { border-radius: 16px; }</style>'
+  - infobar:
+      title: Teachers' Day Wishlist
+      button: View on YouTube
+      url: https://www.youtube.com/watch?v=EkEPAj3DtDE"><iframe allowfullscreen=""
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media;
+        gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube
+        video player"
+        src="https://www.youtube.com/embed/EkEPAj3DtDE?si=0xX_C58jtTFqRb8Y"
+        height="315" width="560"></iframe>
 ---
