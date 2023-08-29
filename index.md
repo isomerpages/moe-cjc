@@ -31,7 +31,7 @@ sections:
       url: https://www.youtube.com/watch?v=EkEPAj3DtDE"><center><iframe
         allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="YouTube video player"
+        frameborder="0" title="Teachers' Day Wishlist 2023"
         src="https://www.youtube.com/embed/EkEPAj3DtDE?si=0xX_C58jtTFqRb8Y"
         height="315" width="560"></iframe></center>
   - infopic:
