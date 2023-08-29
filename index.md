@@ -25,6 +25,15 @@ sections:
       title: Happenings at CJC
       subtitle: News & Highlights
       button: View all news
+  - infobar:
+      title: Teachers' Day Wishlist
+      button: View on YouTube
+      url: https://www.youtube.com/watch?v=EkEPAj3DtDE"><center><iframe
+        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
+        encrypted-media; gyroscope; picture-in-picture; web-share"
+        frameborder="0" title="Teachers' Day Wishlist 2023"
+        src="https://www.youtube.com/embed/EkEPAj3DtDE?si=0xX_C58jtTFqRb8Y"
+        height="315" width="560"></iframe></center>
   - infopic:
       title: Ignite Your Learning
       description: The holistic CJ experience ignites a sense of mission and passion
@@ -54,29 +63,33 @@ sections:
       url: /experience/the-cjc-story/
       alt: TMLH
   - infobar:
-      url: https://www.instagram.com/catholic.jc/"></a><center><script async
+      url: https://www.instagram.com/catholic.jc/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
-        class="instagram-media"
+        style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
+        - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
-        data-instgrm-version="14"></blockquote></center><a
-        href="https://www.instagram.com/catholic.jc/
-      button: Check our latest happenings
+        data-instgrm-version="14"></blockquote></center><font
+        color="ffffff"></font>
       title: Instagram
+      button: See our latest happenings
   - infobar:
-      url: '"></a><script async defer crossorigin="anonymous"
+      title: Facebook
+      button: CJC Facebook
+      url: 'https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
+        class="bp-sec-button"><script nonce=""
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
-        nonce="wi61oHEa"></script><div class="fb-page"
-        data-href="https://www.facebook.com/CatholicJC/" data-tabs="timeline"
-        data-width="500" data-height="" data-small-header="false"
-        data-adapt-container-width="true" data-hide-cover="false"
-        data-show-facepile="true"><blockquote
-        cite="https://www.facebook.com/CatholicJC/"
-        class="fb-xfbml-parse-ignore"><a
+        crossorigin="anonymous" async=""></script><div data-show-facepile="true"
+        data-hide-cover="false" data-adapt-container-width="true"
+        data-small-header="false" data-height="" data-width="500"
+        data-tabs="timeline" data-href="https://www.facebook.com/CatholicJC/"
+        class="fb-page"><a
+        href="https://www.facebook.com/CatholicJC/"></a><blockquote
+        class="fb-xfbml-parse-ignore"
+        cite="https://www.facebook.com/CatholicJC/"><a
+        href="https://www.facebook.com/CatholicJC/"></a><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><style>img {   border-radius: 16px;
         }   .bg-media-color-2 {   background-color:rgb(181,133,0);
-        }  .media-card-plain { border-radius: 16px; }</style><a
-        href="https://www.facebook.com/CatholicJC/'
-      title: Facebook
-      button: CJC Facebook Page
+        }  .media-card-plain { border-radius: 16px; }</style><font
+        color="ffffff"></font>'
 ---
