@@ -68,7 +68,8 @@ sections:
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
         - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
-        data-instgrm-version="14"></blockquote></center>
+        data-instgrm-version="14"></blockquote></center><font
+        color="ffffff"></font>
       title: Instagram
       button: See our latest happenings
   - infobar:
@@ -88,5 +89,6 @@ sections:
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
         College</a></blockquote></div><style>img {   border-radius: 16px;
         }   .bg-media-color-2 {   background-color:rgb(181,133,0);
-        }  .media-card-plain { border-radius: 16px; }</style>'
+        }  .media-card-plain { border-radius: 16px; }</style><font
+        color="ffffff"></font>'
 ---
