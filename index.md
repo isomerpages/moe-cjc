@@ -75,7 +75,8 @@ sections:
   - infobar:
       title: Facebook
       button: CJC Facebook
-      url: 'https://www.facebook.com/CatholicJC/"><script nonce=""
+      url: 'https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
+        class="bp-sec-button"><script nonce=""
         src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
         crossorigin="anonymous" async=""></script><div data-show-facepile="true"
         data-hide-cover="false" data-adapt-container-width="true"
