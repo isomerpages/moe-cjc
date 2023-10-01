@@ -6,7 +6,13 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
+<br clear="left">
+<img src="images/News/2023/16wishlist.png" style="width:40%;margin-right:15px;" align="left">
 
+**[Teachers' Day Wishlist 2023](/news/2023/16/)**<br>
+Some of our teachers are featured in this YouTube video by MOE. 
+
+<br clear="left">
 
 <br clear="left">
 <img src="/images/photo1690268621.jpeg" style="width:40%;margin-right:15px;" align="left">
