@@ -6,10 +6,11 @@ description: ""
 <style> img {border-radius: 16px;}</style>
 ### **News**
 
-**[Canteen Stall Vacancy](/news/2023/16/)**<br>
-**Catholic Junior College** has an immediate vacancy for Japanese Stall / Korean Stall / Chinese Yong Tau Foo Stall / Chinese Cooked Food Stall.
-<br>We would like to invite applicants for any of the above food stalls.
-<br>Application closing date: **29 August 2023**
+<br clear="left">
+<img src="images/News/2023/16wishlist.png" style="width:40%;margin-right:15px;" align="left">
+
+**[Teachers' Day Wishlist 2023](/news/2023/16/)**<br>
+Some of our teachers are featured in this YouTube video by MOE. 
 
 <br clear="left">
 
