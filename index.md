@@ -25,15 +25,6 @@ sections:
       title: Happenings at CJC
       subtitle: News & Highlights
       button: View all news
-  - infobar:
-      title: Teachers' Day Wishlist
-      button: View on YouTube
-      url: https://www.youtube.com/watch?v=EkEPAj3DtDE"><center><iframe
-        allowfullscreen="" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture; web-share"
-        frameborder="0" title="Teachers' Day Wishlist 2023"
-        src="https://www.youtube.com/embed/EkEPAj3DtDE?si=0xX_C58jtTFqRb8Y"
-        height="315" width="560"></iframe></center>
   - infopic:
       title: Ignite Your Learning
       description: The holistic CJ experience ignites a sense of mission and passion
