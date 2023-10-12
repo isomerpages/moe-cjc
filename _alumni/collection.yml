@@ -2,6 +2,6 @@ collections:
   alumni:
     output: true
     order:
-      - Education and Career Guidance.md
-      - Alumni.md
       - What's On.md
+      - Alumni.md
+      - Education and Career Guidance.md
