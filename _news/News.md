@@ -7,7 +7,18 @@ description: ""
 ### **News**
 
 <br clear="left">
-<img src="images/News/2023/16wishlist.png" style="width:40%;margin-right:15px;" align="left">
+<img src="/images/pat%202024%20website%20publicity%20image.gif" style="width:40%;margin-right:15px;" align="left">
+
+**[President's Award for Teachers &amp; OYEA](/news/2023/17/)**<br>
+Nominations for the President’s Award for Teachers and the Outstanding Youth in Education Award. 
+
+<br clear="left">
+
+<br clear="left">
+<img src="/images/photo1690268621.jpeg" style="width:40%;margin-right:15px;" align="left">
+
+<br clear="left">
+<img src="/images/News/2023/16wishlist.png" style="width:40%;margin-right:15px;" align="left">
 
 **[Teachers' Day Wishlist 2023](/news/2023/16/)**<br>
 Some of our teachers are featured in this YouTube video by MOE. 
