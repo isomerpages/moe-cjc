@@ -2,7 +2,7 @@ collections:
   alumni:
     output: true
     order:
-      - Join Us.md
       - What's On.md
       - Our Alumni.md
       - Education and Career Guidance.md
+      - Join Us.md
