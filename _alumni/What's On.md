@@ -5,8 +5,14 @@ description: ""
 ---
 ### **What's On**
 
-<iframe width="684" height="385" src="https://www.youtube.com/embed/d5r9gebvgWc" title="7576 batch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/wRZg6G2UIxY?si=8WcV3WRQ1CJz8BBK" height="315" width="560"></iframe>
 
-<iframe width="684" height="385" src="https://www.youtube.com/embed/me-_B_kpBEA" title="CJC 1981 to 1985 Batches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+This year’s Alumni Sports Fiesta was an absolute blast, bringing together generations of our beloved college once more. 
 
-<iframe width="683" height="385" src="https://www.youtube.com/embed/9OQal89mR50" title="CJC 1983 to 1985 Batches" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+Our alumni gathered with great enthusiasm to take on six exciting sports -- tennis, football, frisbee, volleyball, soccer and basketball. This year also marked the debut of volleyball in our lineup. Our very own CJC sports teams joined in the action too! 
+
+Bonds were rekindled, new connections forged, and the college echoed with the joyful laughter of old friends and new.
+
+'Til next time!
+
+#inveritateetcaritate
