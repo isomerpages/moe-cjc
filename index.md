@@ -19,7 +19,7 @@ sections:
           url: /parents/
         - title: Alumni
           description: ""
-          url: /alumni/
+          url: /alumni/whatson
       background: /images/landing page carousel 5.gif
   - resources:
       title: Happenings at CJC
