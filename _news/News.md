@@ -7,15 +7,19 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG" style="width:40%;margin-right:15px;" align="left">
+
+**[JC2 Retreat 2023](/news/2023/18/)**<br>
+CJC resumed its 2D1N JC2 Retreat this year, the first since the pandemic struck.
+<br clear="left">
+
+<br clear="left">
 <img src="/images/pat%202024%20website%20publicity%20image.gif" style="width:40%;margin-right:15px;" align="left">
 
 **[President's Award for Teachers &amp; OYEA](/news/2023/17/)**<br>
 Nominations for the President’s Award for Teachers and the Outstanding Youth in Education Award. 
 
 <br clear="left">
-
-<br clear="left">
-<img src="/images/photo1690268621.jpeg" style="width:40%;margin-right:15px;" align="left">
 
 <br clear="left">
 <img src="/images/News/2023/16wishlist.png" style="width:40%;margin-right:15px;" align="left">
