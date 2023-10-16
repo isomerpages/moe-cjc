@@ -9,10 +9,16 @@ description: ""
 
 This year’s Alumni Sports Fiesta was an absolute blast, bringing together generations of our college community once more, and reigniting the spirit of camaraderie and sportsmanship.
 
+![](/images/cjc%20ase%2023-11-min.jpg)
+
 Our alumni gathered with great enthusiasm to take on six exciting sports -- tennis, football, frisbee, volleyball, soccer and basketball. This year also marked the debut of volleyball in our lineup. Our very own CJC sports teams joined in the action too! 
+
+![](/images/cjc%20ase%2023-162-min.jpg)
 
 Bonds were rekindled, new connections forged, and the college echoed with the joyful laughter of old friends and new.
 
 'Til next time!
+
+![](/images/cjc%20ase%2023-203-min.jpg)
 
 #inveritateetcaritate
