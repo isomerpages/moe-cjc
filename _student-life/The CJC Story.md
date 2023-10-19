@@ -33,10 +33,10 @@ Both Emma Lai Oi Yeng (2T26, Class of 2021), and Chua Ann Teng (2T05, Class of 2
 Nivetha d/o Senthil Kumar (2T13, Class of 2019) and Dawn Chueh (Class of 2015) stepped up to serve in difficult times. Their mindset towards volunteerism embodies the essence of being a Thinker with a Mission and a Leader with a Heart.
 
 **[Thinker with a Mission, Leader with a Heart series 2](/highlights/8/)<br>**
-Lee Chao Rui from 2T24 is one of those who have found their call in volunteering. 
+Ronan Siah, CJC’s 2019 Arts Valedictorian, received the Harvard Prize Book (Singapore) 2019/20 award in recognition of his altruistic spirit. Congratulations!
 
 **[Thinker with a Mission, Leader with a Heart series 1](/highlights/4a/)<br>**
-
+Lee Chao Rui from 2T24 is one of those who have found their call in volunteering. Chao Rui truly embodies our school motto, ‘In Veritate Et Caritate’ - In truth and love.
 
 **[Thinker with a Mission, Leader with a Heart series](/highlights/2/)<br>**
-Ng Yee Lin of 2T22, who received a Youth Community Leadership Award exemplifies her heart for service.
+Ng Yee Lin of 2T22, who received a Youth Community Leadership Award for her heart for service. Congratulations!
