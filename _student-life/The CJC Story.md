@@ -30,10 +30,13 @@ Our warmest congratulations to Dr Shaun Gerald Nathan, Class of 2007, for winnin
 Both Emma Lai Oi Yeng (2T26, Class of 2021), and Chua Ann Teng (2T05, Class of 2020), have exemplified the values of the college’s mission, leading to their nominations as two of Halogen Foundation’s Top 50 National Young Leader Awardees of 2020 in Singapore. Congratulations to them!
 
 **[Thinker with a Mission, Leader with a Heart series 3](/highlights/12/)<br>**
-
+Nivetha d/o Senthil Kumar (2T13, Class of 2019) and Dawn Chueh (Class of 2015) stepped up to serve in difficult times. Their mindset towards volunteerism embodies the essence of being a Thinker with a Mission and a Leader with a Heart.
 
 **[Thinker with a Mission, Leader with a Heart series 2](/highlights/8/)<br>**
 Lee Chao Rui from 2T24 is one of those who have found their call in volunteering. 
 
-**[Thinker with a Mission, Leader with a Heart series 1](/highlights/2/)<br>**
+**[Thinker with a Mission, Leader with a Heart series 1](/highlights/4a/)<br>**
+
+
+**[Thinker with a Mission, Leader with a Heart series](/highlights/2/)<br>**
 Ng Yee Lin of 2T22, who received a Youth Community Leadership Award exemplifies her heart for service.
