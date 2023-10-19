@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Experience.md
-      - The CJC Story.md
       - Spirituality.md
       - Community.md
       - Home Tutorial.md
