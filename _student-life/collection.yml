@@ -2,6 +2,7 @@ collections:
   student-life:
     output: true
     order:
+      - The CJC Story.md
       - Experience.md
       - Spirituality.md
       - Community.md
