@@ -31,6 +31,7 @@ Both Emma Lai Oi Yeng (2T26, Class of 2021), and Chua Ann Teng (2T05, Class of 2
 
 **[Thinker with a Mission, Leader with a Heart series 3](/highlights/12/)<br>**
 
+
 **[Thinker with a Mission, Leader with a Heart series 2](/highlights/8/)<br>**
 Lee Chao Rui from 2T24 is one of those who have found their call in volunteering. 
 
