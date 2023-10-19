@@ -1,0 +1,5 @@
+collections:
+  archive-pages:
+    output: true
+    order:
+      - The CJC Story.md
