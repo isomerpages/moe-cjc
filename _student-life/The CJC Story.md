@@ -3,3 +3,34 @@ title: The CJC Story
 permalink: /student-life/the-cjc-story/
 description: ""
 ---
+### **Thinker with a Mission, Leader with a Heart**
+
+**[Thinker with a Mission, Leader with a Heart series 11](/highlights/38/)**<br>
+Congratulations to Valsalan Nivish, class of 2022, for receiving the Harvard Prize Book (Singapore) award! This award is presented to promising students globally who go beyond the call of duty to show kindness and care to others.
+
+**[Thinker with a Mission, Leader with a Heart Series 10](/highlights/31/)<br>**
+Congratulations to Ms Grace Lee, Class of 2010, for receiving the prestigious Outstanding Youth in Education Award 2022! This Award, given by the Academy of Singapore Teachers, recognises young teachers who demonstrate a strong passion for teaching and nurturing students.
+
+**[Thinker with a Mission, Leader with a Heart series 9](/highlights/26/)<br>**
+Our warmest congratulations to Deirdre Ng, Class of 2020, for being recognised by President Halimah Yacob, for her selfless efforts for the community during the pandemic.
+
+**[Thinker with a Mission, Leader with a Heart series 8](/highlights/22/)<br>**
+'Be the change you want to see' - Warmest congratulations to Nazra Shahnaz, 2T19, for being recognised as one of the top five National Young Leader in Singapore! Read Nazra's reflection on her leadership journey and her thoughts on winning this accolade.
+
+**[Thinker with a Mission, Leader with a Heart series 7](/highlights/21/)<br>**
+Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
+
+**[Thinker with a Mission, Leader with a Heart series 6](/highlights/20/)<br>**
+Kim Yu Ling, Class of 2020, received the Harvard Book Prize (Singapore) 2020/2021 award, presented to promising students all around the world who go beyond the call of duty to show kindness and care to others. Congratulations Yu Ling!
+
+**[Thinker with a Mission, Leader with a Heart series 5](/highlights/19/)<br>**
+
+**[Thinker with a Mission, Leader with a Heart series 4](/highlights/15/)<br>**
+
+**[Thinker with a Mission, Leader with a Heart series 3](/highlights/12/)<br>**
+
+**[Thinker with a Mission, Leader with a Heart series 2](/highlights/8/)<br>**
+Lee Chao Rui from 2T24 is one of those who have found their call in volunteering. 
+
+**[Thinker with a Mission, Leader with a Heart series 1](/highlights/2/)<br>**
+Ng Yee Lin of 2T22, who received a Youth Community Leadership Award exemplifies her heart for service.
