@@ -2,17 +2,17 @@ collections:
   student-life:
     output: true
     order:
-      - The CJC Story.md
       - Experience.md
+      - The CJC Story.md
       - Spirituality.md
       - Community.md
       - Home Tutorial.md
+      - CJC Houses/.keep
       - CJC Houses/CJC Houses.md
       - CJC Houses/Albert.md
       - CJC Houses/Joseph.md
       - CJC Houses/Michael.md
       - CJC Houses/Patrick.md
-      - CJC Houses/.keep
       - CCA/.keep
       - CCA/List of CCAs.md
       - CCA/Niche.md
