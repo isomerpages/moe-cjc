@@ -29,7 +29,7 @@ Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singa
 **[Thinker with a Mission, Leader with a Heart series 6](/highlights/20/)<br>**
 Kim Yu Ling, Class of 2020, received the Harvard Book Prize (Singapore) 2020/2021 award, presented to promising students all around the world who go beyond the call of duty to show kindness and care to others. Congratulations Yu Ling!
 
-<br clear="left"><img src="/images/twm5.jpg" style="width:40%;margin-right:15px;border-radius:10px" align="left">
+<br clear="left"><img src="/images/twm5.jpg" style="width:35%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 5](/highlights/19/)<br>**
 Our warmest congratulations to Dr Shaun Gerald Nathan, Class of 2007, for winning the Singapore Health Quality Service Awards 2021 (SHQSA), Clinician category.
 <br>
