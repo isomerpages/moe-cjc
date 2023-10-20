@@ -5,9 +5,13 @@ description: ""
 ---
 ### **Thinker with a Mission, Leader with a Heart**
 
-**[Thinker with a Mission, Leader with a Heart series 11](/highlights/38/)**<br>
+<br clear="left"><img src="/images/twm11.jpg" style="width:40%;margin-right:15px;border-radius:10px" align="left">
+
+**[Thinker with a Mission, Leader with a Heart series 11](/highlights/38/)**
+<br>
 Congratulations to Valsalan Nivish, class of 2022, for receiving the Harvard Prize Book (Singapore) award! This award is presented to promising students globally who go beyond the call of duty to show kindness and care to others.
 
+<br>
 **[Thinker with a Mission, Leader with a Heart Series 10](/highlights/31/)<br>**
 Congratulations to Ms Grace Lee, Class of 2010, for receiving the prestigious Outstanding Youth in Education Award 2022! This Award, given by the Academy of Singapore Teachers, recognises young teachers who demonstrate a strong passion for teaching and nurturing students.
 
