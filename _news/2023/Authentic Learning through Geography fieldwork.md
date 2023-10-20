@@ -1,10 +1,8 @@
 ---
-title: Authentic Learning through CJC Geography fieldwork
+title: Authentic Learning through Geography fieldwork
 permalink: /news/2023/19/
-date: 2023-10-19
-layout: post
 description: ""
-image: ""
+third_nav_title: "2023"
 ---
 ![](/images/jc1%20lslp%20bedok%20centre%20g.jpg)
 

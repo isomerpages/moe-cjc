@@ -7,6 +7,13 @@ description: ""
 ### **News**
 
 <br clear="left">
+<img src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG" style="width:40%;margin-right:15px;" align="left">
+
+**[Authentic Learning through Geography fieldwork](/news/2023/19/)**<br>
+Students studying Geography participated in several out-of-school fieldwork as part of the inquiry-based learning experience this year.
+<br clear="left">
+
+<br clear="left">
 <img src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG" style="width:40%;margin-right:15px;" align="left">
 
 **[JC2 Retreat 2023](/news/2023/18/)**<br>
