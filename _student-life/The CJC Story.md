@@ -41,7 +41,7 @@ Both Emma Lai Oi Yeng (2T26, Class of 2021), and Chua Ann Teng (2T05, Class of 2
 **[Thinker with a Mission, Leader with a Heart series 3](/highlights/12/)<br>**
 Nivetha d/o Senthil Kumar (2T13, Class of 2019) and Dawn Chueh (Class of 2015) stepped up to serve in difficult times. Their mindset towards volunteerism embodies the essence of being a Thinker with a Mission and a Leader with a Heart.
 
-<br clear="left"><img src="/images/ronansiah1.jpg" style="width:40%;margin-right:15px;border-radius:10px" align="left">
+<br clear="left"><img src="/images/ronansiah1.jpg" style="width:30%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 2](/highlights/8/)<br>**
 Ronan Siah, CJC’s 2019 Arts Valedictorian, received the Harvard Prize Book (Singapore) 2019/20 award in recognition of his altruistic spirit. Congratulations!
 <br><br><br><br>
