@@ -26,11 +26,11 @@ Students who satisfy the eligibility criteria for the MOE FAS Scheme may submit 
 
 Students eligible for the Financial Assistance Scheme may apply for the CJC Needy Student Fund for subsidies on textbooks, curriculum material, school attire and other fees which are not covered by MOE FAS. 
 
-Click [here](https://drive.google.com/file/d/1-LmgBJLsqlyJrZTVoFezmLrUQAtjfGeP/view?usp=sharing) for the MOE FAS pamphlet.
+[Click here for the MOE FAS pamphlet.](/files/General%20Office/annex%20a_moe%20fas%20pamphlet%202024.pdf)
 
-Application for FAS is through the year, in order to qualify for FAS with effect from Jan 2023, please submit the completed application form with all required supporting documents to the General Office by 14 Feb 2023.
+Application for FAS is throughout the year, in order to qualify for FAS with effect from Jan 2024, please submit the completed e-application form with all required supporting documents.
 
-For submission of application form and approval after 14 Feb 2023, applicants will only receive the grant with effect from March 2023.
+For submission of application form and approval after 14 Feb 2024, applicants will only receive the grant with effect from March 2024.
 
 #### **Income Family Micro-Insurance and Savings Scheme (IFMISS)**
 For pupils attending a local Government or Government-aided primary school and is an MOE Financial Assistance Scheme (MOE-FAS) recipient: 
