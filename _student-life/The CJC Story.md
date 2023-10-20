@@ -25,7 +25,7 @@ Our warmest congratulations to Deirdre Ng, Class of 2020, for being recognised b
 **[Thinker with a Mission, Leader with a Heart series 7](/highlights/21/)<br>**
 Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
 <br><br><br>
-<br clear="left"><img src="/images/twm6.jpg" style="width:40%;margin-right:15px;border-radius:10px" align="left">
+<br clear="left"><img src="/images/twm6.jpg" style="width:35%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 6](/highlights/20/)<br>**
 Kim Yu Ling, Class of 2020, received the Harvard Book Prize (Singapore) 2020/2021 award, presented to promising students all around the world who go beyond the call of duty to show kindness and care to others. Congratulations Yu Ling!
 
