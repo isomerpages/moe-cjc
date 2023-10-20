@@ -16,11 +16,11 @@ Congratulations to Ms Grace Lee, Class of 2010, for receiving the prestigious Ou
 <br clear="left"><img src="/images/twm9.jpg" style="width:40%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 9](/highlights/26/)<br>**
 Our warmest congratulations to Deirdre Ng, Class of 2020, for being recognised by President Halimah Yacob, for her selfless efforts for the community during the pandemic.
-<br><br>
+<br><br><br>
 <br clear="left"><img src="/images/twm8.jpg" style="width:25%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 8](/highlights/22/)<br>**
 'Be the change you want to see' - Warmest congratulations to Nazra Shahnaz, 2T19, for being recognised as one of the top five National Young Leader in Singapore! Read Nazra's reflection on her leadership journey and her thoughts on winning this accolade.
-<br><br>
+<br><br><br>
 <br clear="left"><img src="/images/twm7.jpg" style="width:35%;margin-right:15px;border-radius:10px" align="left">
 **[Thinker with a Mission, Leader with a Heart series 7](/highlights/21/)<br>**
 Congrats Anthea Chua, 2T21, and Nur Sarahfina, 2T04, for being awarded the Singapore Olympic Foundation - Peter Lim Scholarship 2021!
