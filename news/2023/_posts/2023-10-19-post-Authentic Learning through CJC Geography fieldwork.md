@@ -6,6 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+
+
 Our JC1 students took part in several out-of-school activities this year to investigate the needs of the elderly in neighbourhoods of their choice. The students crafted research questions under the guidance of their teachers and spoke with members of the public to conduct authentic Geography fieldwork in areas ranging from a study of elderly loneliness to understanding barriers to walkability. Inspired by their projects, a group of students initiated a service learning project with the elderly at the Bedok Active Ageing Centre.
 
 Students went to City Square Mall, Singapore’s first eco-friendly mall, to interview patrons and survey the mall’s surroundings to better understand the community’s responses to climate change. In school, students also conducted bite-sized fieldwork to explore the feasibility of utilising solar energy in CJC.
