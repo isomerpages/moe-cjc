@@ -21,9 +21,11 @@ Write an essay in response to ONE of the following questions:
 4. To what extent is one’s thought determined by one’s milieu?
 5. ‘We will gain power over our fates.’ Wishful thinking or a plausible prospect? 
 
+
 Guidelines and requirements for writing your Philosophy Essay:  
 * Length of Essay: At least 800 to 1500 words (feel free to exceed if need be);
 * Your essay is an argumentative defense of your adopted Thesis – in which the central claim is clearly stated, explained and analyzed; arguments are rationally presented in support of the thesis; possible objections (counter-arguments) are fairly considered, objectively evaluated, and rationally refuted.
+
 
 Your philosophical essay thus has five component parts:
 
