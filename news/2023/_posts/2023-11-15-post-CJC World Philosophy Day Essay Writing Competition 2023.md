@@ -22,9 +22,11 @@ Write an essay in response to ONE of the following questions:
 4. To what extent is one’s thought determined by one’s milieu?
 5. ‘We will gain power over our fates.’ Wishful thinking or a plausible prospect? 
 
+
 Guidelines and requirements for writing your Philosophy Essay:  
 * Length of Essay: At least 800 to 1500 words (feel free to exceed if need be);
 * Your essay is an argumentative defense of your adopted Thesis – in which the central claim is clearly stated, explained and analyzed; arguments are rationally presented in support of the thesis; possible objections (counter-arguments) are fairly considered, objectively evaluated, and rationally refuted.
+
 
 Your philosophical essay thus has five component parts:
 
@@ -40,4 +42,4 @@ NOTE: Include, where appropriate, possible creative solutions. 
 Submit your essay in hard copy as a Word Document. (Times New Roman, font size 12) to Mr David Fahy's pigeon hole (C2)  
 Indicate on the cover page: Name in full; Identity Number, and Tutorial Group  
 Declaration – state: ‘This essay is my own work’ – and sign    
-Submission Date: Friday 12th January, 2024.
+Submission Date: Friday 12th January, 2024
