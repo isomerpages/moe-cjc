@@ -37,11 +37,7 @@ Your philosophical essay thus has five component parts:
 NOTE: Include, where appropriate, possible creative solutions. 
 
 
-Submit your essay in hard copy as a Word Document. (Times New Roman, font size 12)  
+Submit your essay in hard copy as a Word Document. (Times New Roman, font size 12) to Mr David Fahy's pigeon hole (C2)  
 Indicate on the cover page: Name in full; Identity Number, and Tutorial Group  
-Declaration – state: ‘This essay is my own work’ – and sign  
-Submit via email to david_laurence_fahy@moe.edu.sg  
-
+Declaration – state: ‘This essay is my own work’ – and sign    
 Submission Date: Friday 12th January, 2024.
-
-Teacher-in-Charge: Mr. David L Fahy, English Department, CJC
