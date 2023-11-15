@@ -2,9 +2,16 @@
 title: News
 permalink: /news/
 description: ""
+variant: markdown
 ---
 <style> img {border-radius: 16px;}</style>
 ### **News**
+
+<br clear="left">
+<img src="/images/IMG_9636.PNG" style="width:40%;margin-right:15px;" align="left">
+
+**[**CJC World Philosophy Day Essay Writing Competition 2023**](/news/2023/20/)** <br>
+Make your submissions from now until 12 Jan 2024 on <br clear="left">
 
 <br clear="left">
 <img src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG" style="width:40%;margin-right:15px;" align="left">

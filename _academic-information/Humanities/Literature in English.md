@@ -3,6 +3,7 @@ title: Literature in English
 permalink: /education/humanities/literature-in-english/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### Literature in English
 
@@ -31,6 +32,18 @@ H1 Literature:<br>
 
 H2 Literature:<br>
 [https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9509_y22_sy.pdf)
+
+
+#### Texts offered at Catholic JC
+
+| Paper 1: <br>Reading Literature | Paper 3: <br>Postcolonial Literature | Section C: <br>Pre-20th Century Writing|
+| -------- | -------- | -------- |
+| *Jane Eyre*<br> by Charlotte Brontë | *Wide Sargasso Sea*<br> by Jean Rhys    | *Heart of Darkness*<br> by Joseph Conrad |
+| *The Changeling*<br> by Thomas Middleton and William Rowley | *Remembering Babylon*<br> by David Malouf |   |
+
+
+
+
 
   
 
