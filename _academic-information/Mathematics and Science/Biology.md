@@ -33,7 +33,7 @@ Team of CJC Biology students participated in the Lee Kong Chian School of Medici
 
 Open to&nbsp;junior college students (Year 1 and 2), polytechnic students (all Grades), and international high school students (Grade 11-12 or equivalent), this anatomy competition puts students’ knowledge of the human body to the test through an individual quiz and inter-school team round.
 <br><br>
-![Medicine Anatomy Challenge](/images/Science/Medicine_Anatomy_Challenge.jpeg)
+<img src="/images/Science/Medicine_Anatomy_Challenge.jpeg" style="border-radius:15px;">
 
 #### **NUS STEP Brain Camp**
 Temasek Foundation NUS STEP Brain camp brings together students from Asian countries to discuss and share ideas on the latest innovation on AI and research on Brain sciences.&nbsp;
