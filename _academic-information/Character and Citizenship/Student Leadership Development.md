@@ -21,7 +21,8 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 1: 4M Leadership for SOAR Framework" src="/images/4m%20leadership%20for%20soar%20framework.png">  
+
+![](/images/Picture1b.png)
   
   
 <p style="text-align:center;"><u>Figure 1: 4M Leadership for SOAR Framework</u></p>
@@ -95,9 +96,10 @@ img {
   margin-right: auto;  
 }  
 </style>  
-<img style="width:70%;" alt="Figure 4: 70-20-10 Model for Learning and Development" src="/images/70-20-10%20model%20for%20learning%20and%20development.png">  
+
   
-  
+![](/images/Picture3.png)
+
 <p style="text-align:center;"><u>Figure 4: 70-20-10 Model for Learning and Development</u></p>
 
 #### **Milestone Events**
