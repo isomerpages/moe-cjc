@@ -4,18 +4,14 @@ permalink: /experience/spirituality/
 description: ""
 variant: markdown
 ---
-#### **Pastoral Care**
-In ensuring your total well-being and development, pastoral care is central to the ethos and identity of Catholic Junior College. Every CJCian’s emotional and academic well-being is of high priority to all teachers.
+![](/images/JC2_Retreat_30_Sept_Group_photo_a.JPG)
 
-Our unique Home Tutorial programme helps develop positive teacher-student relationship through the engagement of minds, via thought-provoking and stimulating student development lessons. CJCians stay in their home tutorial classes for their entire tenure at the college with their Home Tutors as mentors and guides. 
+There is a time for self, a time for friends and a time for God. Spirituality is important to the Catholic ethos and values of our college. We see prayer and reflection, within all faiths, as a way to grow not just as an individual but as a community. We begin every morning with a reflection and a prayer - reminders to be the best people we can be, regardless of religion.
 
-#### **Spirituality**
-![](/images/JC2_RETREAT_GROUP_PHOTO.JPG)
-There is a time for self, a time for friends and a time for God. Spirituality is important to the Catholic ethos and values of our college. We see prayer and reflection, within all faiths, as a way to grow not just as an individual but as a community.  We begin every morning with a reflection and a prayer - reminders to be the best people we can be, regardless of religion.
-
-The CJC Catholic Activities (CA) Wing of the Student Council is the student leadership body that drives Catholic activities in the college. The CA Wing creates opportunities for students in CJC to explore or deepen their faith during their journey in CJC through exciting projects such as Lenten and Easter projects, weekly Masses and other faith formation initiatives. It has an active presence on Instagram, and you can follow their updates on [@cj.veritas](https://www.instagram.com/cj.veritas/?hl=en). 
+The CJC Catholic Activities (CA) Wing of the Student Council is the student leadership body that drives Catholic activities in the college. The CA Wing creates opportunities for students in CJC to explore or deepen their faith during their journey in CJC through exciting projects such as Lenten and Easter projects, weekly Masses and other faith formation initiatives. It has an active presence on Instagram, and you can follow their updates on @cj.veritas.  
 
 Besides the CA Wing, students can also join the Genesis CCA as a 2nd CCA and be involved in its faith formation and music ministry. Students in Genesis contribute their musical talents to support our masses and other school-wide Catholic activities and build a community that enables students to live out their faith and journey together in meaningful ways through participation in praise and worship sessions and enriching outreach activities. The wide range of Catholic activities (e.g. Lenten reflections, Easter Celebrations, Catholic distinguished speakers, Emmaus evenings) serve to nourish, enrich and grow the Faith over the two years.
+
 
 #### **CJC Chaplain, Father Justin Yip**
 ![](/images/FATHER_JUSTIN_YIP.png)
@@ -31,13 +27,15 @@ Throughout the year, important days in the Catholic Calendar are observed and th
 
 The House of Prayer is open every weekday during school operating hours. All staff, students, alumni, and parents of CJCians who are looking for a conducive space to pray are welcome to spend some quiet time in this space.  
 
-#### **CJC Catholic Programme**
+#### **Religious Education Programme (REP)**
 ![](/images/GIRL_PRAYING.png)
-CJC’s Religion Programme (Non-catholics are welcome!) adopts an approach which takes CJCians on a road of discovery of the self, community and the world – challenging them to not just be of this world, but to believe that they are an integral part of shaping it. Anchored in core values of Truth and Love, the REP contains lessons and retreats containing guided reflection that encourage students to discern their mission in community.
+CJC’s Religious Education Programme (Non-catholics are welcome!) adopts an approach which takes CJCians on a road of discovery of the self, community and the world – challenging them to not just be of this world, but to believe that they are an integral part of shaping it. Anchored in core values of Truth and Love, the REP contains lessons and retreats containing guided reflection that encourage students to discern their mission in community.
 
 #### **JC1 and JC2 Retreats**
-The JC1 Retreat takes place at the start of the JC1 year. It introduces students to the spiritual formation programme at CJC and provides students with the opportunity to reflect on the changes that are happening as they make the transition to Junior College. The retreat also allows JC1s to begin an important step of discovering themselves and to build bonds with new friends. 
+The JC1 Retreat takes place at the start of the JC1 year. It introduces students to the spiritual formation programme at CJC and provides students with the opportunity to reflect on the changes that are happening as they make the transition to Junior College. The retreat also allows JC1s to begin an important step of discovering themselves and to build bonds with new friends.
 
 ![](/images/JC2_RETREAT_REP.png)
 
 The REP ends with the JC2 Retreat that takes place at the end of the JC2 year. This retreat is a significant milestone in the lives of students in the REP as it marks the end of their time here at CJC, and provides a space for them to reflect and recollect memories and times spent in the college. Looking forward, it challenges them to live the college’s values of Truth and Love when they move out into the real world.
+
+![](/images/Picture1c.png)
