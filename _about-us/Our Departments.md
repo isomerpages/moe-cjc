@@ -92,6 +92,7 @@ variant: markdown
 | Tan Weng Cheong Alex / Lead Teacher  | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg)  |
 | Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg) |
 | Tan Wei Jun / Subject Head/Student Development Curriculum  | [tan_wei_jun@moe.edu.sg](mailto:tan_wei_jun@moe.edu.sg)  |
+| Suriani Amran / Senior Teacher | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) |
 | Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
 | Lim Hui Min Janice | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
 |
