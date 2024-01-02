@@ -290,9 +290,9 @@ variant: markdown
 | 1T22 |  |
 | 1T23  |  |
 | 1T24 |  |
-| 2T25 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
-| 2T26 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
-| 2T27 | Wang Qiumei Stephanie | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
+| 1T25 |  |
+| 1T26 |  |
+| 1T27 |  |
 | 2T28 |
 | 2T29 | Hing Meow Cheng Wendy | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
 | 2T29 | Thiru Kotti  | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg)  |
