@@ -262,15 +262,15 @@ variant: markdown
 | 2T28 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
 | 2T29 | William Yeo Chin Leong | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg) |
 
-#### **JC2 Home Tutors List 2023**
+#### **JC1 Home Tutors List 2024**
 
 | Class | Home Tutor | Email Address |
 |:---|:---|:---|
-| 2T01 | Yeong Jia Xin | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg)  |
-| 2T02  |  |
-| 2T03 | Janice Lim | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
-| 2T04 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)   |
-| 2T05 | Tan Weng Cheong Alex | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg) |
+| 1T01 |   |
+| 1T02  |  |
+| 1T03 |  |
+| 1T04 |   |
+| 1T05 | |
 | 2T05 | MacKenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
 | 2T06 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
 | 2T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
