@@ -175,13 +175,13 @@ variant: markdown
 |:---|:---|
 | Sek Kok Chuan Mervyn/ Head of Department Project Work & Integrated Curriculum | [mervyn_sek@moe.edu.sg](mailto:mervyn_sek@moe.edu.sg) |
 | Lucas Anil D'Cruz / HOD/Student Development | [dcruz_lucas_anil@moe.edu.sg](mailto:dcruz_lucas_anil@moe.edu.sg) |
-| Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg)  |
-| Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg)  |
-| Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg)  |
+| Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg) |
+| Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg) |
+| Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
 | Lim Siow Fen |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
-| Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg)  |
+| Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg) |
 
 
 #### **Science (Biology and Physics)**
