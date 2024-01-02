@@ -241,11 +241,11 @@ variant: markdown
 | 2T08 | Idzham Khalid Lthnin | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg) |
 | 2T09 | Lim Kai Ming | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg)  |
 | 2T10 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
-| 1T11 | Heng Yuqing Wendy | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg)  |
-| 1T12 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
-| 1T13 | Peter Goh | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg)  |
-| 1T14 | Lee Jin Loong, Clarence | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
-| 1T15  | Mageswari R P  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg)  |
+| 2T11 | Heng Yuqing Wendy | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg)  |
+| 2T12 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
+| 2T13 | Peter Goh | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg)  |
+| 2T14 | Lee Jin Loong, Clarence | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
+| 2T15  | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg)  |
 | 1T15 | Tay Yi Qian Priscilla | [tay_yi_qian_priscilla@moe.edu.sg](mailto:tay_yi_qian_priscilla@moe.edu.sg)  |
 | 1T16 | Peh Beng Lee | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
 | 1T17  | Ong Jun Jie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)   |
