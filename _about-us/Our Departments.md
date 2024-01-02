@@ -279,13 +279,13 @@ variant: markdown
 | 1T11 |  |
 | 1T12 |  |
 | 1T13 |  |
-| 2T14 | Lee Li-Shan | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
-| 2T15 | Zachary Kok Zhi Hoe | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
-| 2T16 | Ng Chee Keong |  [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg) |
-| 2T17 | Goh Tor Heng |  [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
-| 2T18 | Alexandra Leanne Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg) |
-| 2T19 | Thia Peter | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
-| 2T20 | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
+| 1T14 | |
+| 1T15 |  |
+| 1T16 |  |
+| 1T17 |  |
+| 1T18 |  |
+| 1T19 |  |
+| 1T20 | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
 | 2T21 | Chua Chee Siang | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | 2T22 | Wee Siew Leng  | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg)  |
 | 2T23  | Benjamin Thong | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
