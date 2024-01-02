@@ -178,23 +178,23 @@ variant: markdown
 | Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg)  |
 | Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg)  |
 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg)  |
-| Cassidy Soh  | [soh_yi_xing_cassidy_a@moe.edu.sg](mailto:soh_yi_xing_cassidy_a@moe.edu.sg)  |
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
+| Lim Siow Fen |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg)  |
 
 
-#### **Science (Physics and Biology)**
+#### **Science (Biology and Physics)**
 
 | Name / Designation | Email Address |
 |:---|:---|
 | Eugene Yeow / Head of Department | [yeow_eugene_pancratius@moe.edu.sg](mailto:yeow_eugene_pancratius@moe.edu.sg) |
 | Tay Su Lynn / Lead Teacher/Physics | [tay_su_lynn@moe.edu.sg](mailto:tay_su_lynn@moe.edu.sg) |
+| Lin Yicheng Kelvin / Subject Head/Physics  | [lin_yicheng_kelvin@moe.edu.sg](mailto:lin_yicheng_kelvin@moe.edu.sg)  |
+| Cipto Hu / Asst Year Head JC1  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
+| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
 | Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg)  |
-| Lin Yicheng Kelvin / Subject Head  | [lin_yicheng_kelvin@moe.edu.sg](mailto:lin_yicheng_kelvin@moe.edu.sg)  |
 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg)  |
-| Cipto Hu  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
-| Leong Wee Tek Alvin  | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg)  |
 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg)  |
 | Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg)  |
