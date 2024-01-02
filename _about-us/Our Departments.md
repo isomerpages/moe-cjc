@@ -49,7 +49,6 @@ variant: markdown
 | Diana Long Hui Ping | [diana_long_hui_ping@moe.edu.sg](mailto:diana_long_hui_ping@moe.edu.sg)  |
 | Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg)  |
 | Gabriel Lee | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
-| Jacky Chua | [jacky_chua_jie_qi@moe.edu.sg](mailto:jacky_chua_jie_qi@moe.edu.sg) |
 | Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg)  |
 | Lynette La'Brooy | [yong_choon_yen_lynette@moe.edu.sg](mailto:yong_choon_yen_lynette@moe.edu.sg)  |
 | Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
