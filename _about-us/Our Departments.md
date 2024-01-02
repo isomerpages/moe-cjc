@@ -212,7 +212,7 @@ variant: markdown
 | Bernard Yeong / Head of Department | [yeong_kok_cheong_bernard@moe.edu.sg](mailto:yeong_kok_cheong_bernard@moe.edu.sg) |
 | Goh Jia Lei Jennifer / Level Head | [goh_jia_lei_jennifer@moe.edu.sg](mailto:goh_jia_lei_jennifer@moe.edu.sg) |
 | Yang Jiexiang / Level Head  | [yang_jiexiang@moe.edu.sg](mailto:yang_jiexiang@moe.edu.sg)  |
-| Chan Sok Yee / Asst Year Head JC1 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg)  |
+| Chan Sok Yee / Asst Year Head JC2 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg)  |
 | Angela Tie | [teh_yee_fung_angela@moe.edu.sg](mailto:teh_yee_fung_angela@moe.edu.sg) |
 | Chin Yen Jin  | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg) |
 | Heng Yuqing Wendy  | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg)  |
