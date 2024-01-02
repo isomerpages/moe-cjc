@@ -157,7 +157,8 @@ variant: markdown
 
 | Name / Designation | Email Address |
 |:---|:---|
-| Marimuthu Sandanam / Year Head JC1, Covering HOD/PE | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
+| Viknesvaran s/o Veeramuthu / Head of Department/PE & CCA | [viknesvaran_veeramuthu@moe.edu.sg](mailto:viknesvaran_veeramuthu@moe.edu.sg) |
+| Marimuthu Sandanam / Year Head JC2 | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
 | Chen Yuliang / Subject Head/PE & CCA | [chen_yuliang@moe.edu.sg](mailto:chen_yuliang@moe.edu.sg)  |
 | Dr Bernadette Ashley / Subject Head/Aesthestics & Partnership  | [bernadette_ashley@moe.edu.sg](mailto:bernadette_ashley@moe.edu.sg)  |
 | Austin Ong Wee Kiat  | [austin_ong_wee_kiat@moe.edu.sg](mailto:austin_ong_wee_kiat@moe.edu.sg)  |
