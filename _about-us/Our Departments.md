@@ -271,10 +271,9 @@ variant: markdown
 | 1T03 |  |
 | 1T04 |   |
 | 1T05 | |
-| 2T05 | MacKenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg)  |
-| 2T06 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
-| 2T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg)  |
-| 2T08 | Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg) |
+| 1T06 |  |
+| 1T07 |  |
+| 1T08 |  |
 | 2T09 | Lim Seow Thong | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
 | 2T10 | Ang Shiok Hoon | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
 | 2T11 |  |
