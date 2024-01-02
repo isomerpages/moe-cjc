@@ -257,11 +257,10 @@ variant: markdown
 | 2T23  | Sri Yuni Bte Mazlan | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
 | 2T24 | Natalie Lee Ying Rong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg)  |
 | 2T25 | Lee Kwok Chung Conrad  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg)  |
-| 1T26 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg)  |
-| 1T27 | Chin Yen Jin | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg)  |
-| 1T28 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
-| 1T29 | William Yeo Chin Leong | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg) |
-| 1T29 | Lee Yi Ting Joanne | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
+| 2T26 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg)  |
+| 2T27 | Chin Yen Jin | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg)  |
+| 2T28 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
+| 2T29 | William Yeo Chin Leong | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg) |
 
 #### **JC2 Home Tutors List 2023**
 
