@@ -293,9 +293,8 @@ variant: markdown
 | 1T25 |  |
 | 1T26 |  |
 | 1T27 |  |
-| 2T28 |
-| 2T29 | Hing Meow Cheng Wendy | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
-| 2T29 | Thiru Kotti  | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg)  |
+| 1T28 |  |
+| 1T29 |  |
 
 
 
