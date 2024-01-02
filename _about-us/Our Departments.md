@@ -130,6 +130,7 @@ variant: markdown
 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg)  |
 | Ong Junjie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)  |
 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg)  |
+| Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
 | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg) |
 |
