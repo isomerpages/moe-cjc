@@ -202,7 +202,6 @@ variant: markdown
 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
 | Tan Ing Kiat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
 | Toh Ping Yong Jeffrey  | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg)  |
-| Wee Wee Chau | [wee_wee_chau@moe.edu.sg](mailto:wee_wee_chau@moe.edu.sg)  |
 | Zachary Kok  | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg)  |
 |
 
