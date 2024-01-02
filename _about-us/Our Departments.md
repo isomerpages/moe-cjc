@@ -68,9 +68,9 @@ variant: markdown
 |:---|:---|
 | Venkatram Indra / Head of Department | [indra_venkatram@moe.edu.sg](mailto:indra_venkatram@moe.edu.sg) |
 | Li Wenqiang Mark / Year Head JC1 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
-| Alex Wong / Level Head/Economics | [alex_wong_yu_jie@moe.edu.sg](mailto:alex_wong_yu_jie@moe.edu.sg)  |
-| Dawn Ang Xi / Subject Head/Student Leadership Devt | [dawn_ang_xi@moe.edu.sg](mailto:dawn_ang_xi@moe.edu.sg)  |
-| Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg)  |
+| Alex Wong / Level Head/Economics | [alex_wong_yu_jie@moe.edu.sg](mailto:alex_wong_yu_jie@moe.edu.sg) |
+| Dawn Ang Xi / Subject Head/Student Leadership Devt | [dawn_ang_xi@moe.edu.sg](mailto:dawn_ang_xi@moe.edu.sg) |
+| Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg) |
 | Soong Yin-yin Sharon / Senior Teacher  | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin_yin_xiong_yingying@moe.edu.sg)  |
 | Yeo Chin Leong William / Acting Level Head/Economics | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg)  |
 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
