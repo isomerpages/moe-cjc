@@ -160,7 +160,7 @@ variant: markdown
 | Viknesvaran s/o Veeramuthu / Head of Department/PE & CCA | [viknesvaran_veeramuthu@moe.edu.sg](mailto:viknesvaran_veeramuthu@moe.edu.sg) |
 | Marimuthu Sandanam / Year Head JC2 | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
 | Chen Yuliang / Subject Head/PE & CCA | [chen_yuliang@moe.edu.sg](mailto:chen_yuliang@moe.edu.sg)  |
-| Dr Bernadette Ashley / Subject Head/Aesthestics & Partnership  | [bernadette_ashley@moe.edu.sg](mailto:bernadette_ashley@moe.edu.sg)  |
+| Bernadette Ashley / Subject Head/Aesthestics & Partnership  | [bernadette_ashley@moe.edu.sg](mailto:bernadette_ashley@moe.edu.sg)  |
 | Austin Ong Wee Kiat  | [austin_ong_wee_kiat@moe.edu.sg](mailto:austin_ong_wee_kiat@moe.edu.sg)  |
 | Foo Chee Tuang  | [foo_chee_tuang@moe.edu.sg](mailto:foo_chee_tuang@moe.edu.sg)  |
 | Ho Wei Leong Adrian  | [ho_wei_leong_adrian@moe.edu.sg](mailto:ho_wei_leong_adrian@moe.edu.sg)  |
