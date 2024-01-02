@@ -144,12 +144,12 @@ variant: markdown
 | Lee Ting Ting / Head of Department | [lee_ting_ting@moe.edu.sg](mailto:lee_ting_ting@moe.edu.sg) |
 | Tan Lye Huat / Subject Head/Chinese Language | [tan_lye_huat@moe.edu.sg](mailto:tan_lye_huat@moe.edu.sg) |
 | Luo Xiaojing / Senior Teacher | [luo_xiaojing_a@moe.edu.sg](mailto:luo_xiaojing_a@moe.edu.sg) |
-| Nor Hanisah / Senior Teacher  | [nor_hanisah_saphari@moe.edu.sg](mailto:nor_hanisah_saphari@moe.edu.sg)  |
+| Nor Hanisah / Senior Teacher  | [nor_hanisah_saphari@moe.edu.sg](mailto:nor_hanisah_saphari@moe.edu.sg) |
 | Ang Shiok Hoon  | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg)  |
-| Lee Jin Loong Clarence  | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg)  |
-| Peter Thia | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg)  |
+| Lee Jin Loong Clarence  | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
+| Peter Thia | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
 | Tan Seow Ling | [tan_seow_ling@moe.edu.sg](mailto:tan_seow_ling@moe.edu.sg) |
-| Thiru Kotti | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg)  |
+| Thiru Kotti | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg) |
 | Wee Siew Ling | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg) |
 |
 
