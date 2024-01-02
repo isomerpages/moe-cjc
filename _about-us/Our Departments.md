@@ -190,19 +190,19 @@ variant: markdown
 |:---|:---|
 | Eugene Yeow / Head of Department | [yeow_eugene_pancratius@moe.edu.sg](mailto:yeow_eugene_pancratius@moe.edu.sg) |
 | Tay Su Lynn / Lead Teacher/Physics | [tay_su_lynn@moe.edu.sg](mailto:tay_su_lynn@moe.edu.sg) |
-| Lin Yicheng Kelvin / Subject Head/Physics  | [lin_yicheng_kelvin@moe.edu.sg](mailto:lin_yicheng_kelvin@moe.edu.sg)  |
+| Lin Yicheng Kelvin / Subject Head/Physics  | [lin_yicheng_kelvin@moe.edu.sg](mailto:lin_yicheng_kelvin@moe.edu.sg) |
 | Cipto Hu / Asst Year Head JC1  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
-| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
-| Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg)  |
-| Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg)  |
-| Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg)  |
-| Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg)  |
-| Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg)  |
-| Liu Yuci  | [liu_yuci@moe.edu.sg](mailto:liu_yuci@moe.edu.sg)  |
+| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg) |
+| Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
+| Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
+| Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg) |
+| Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
+| Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg) |
+| Liu Yuci  | [liu_yuci@moe.edu.sg](mailto:liu_yuci@moe.edu.sg) |
 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
-| Tan Ing Kiat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
-| Toh Ping Yong Jeffrey  | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg)  |
-| Zachary Kok  | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg)  |
+| Tan Ing Kiat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg) |
+| Toh Ping Yong Jeffrey  | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg) |
+| Zachary Kok  | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
 |
 
 #### **Science (Chemistry)**
