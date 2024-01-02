@@ -46,14 +46,14 @@ variant: markdown
 | Annu Rai  | [annu_rai@moe.edu.sg](mailto:annu_rai@moe.edu.sg) |
 | Brinda Balasubramaniam | [brinda_balasubramaniam@moe.edu.sg](mailto:brinda_balasubramaniam@moe.edu.sg) |
 | Chia Yi Min Cheryl | [chia_yi_min_cheryl@moe.edu.sg](mailto:chia_yi_min_cheryl@moe.edu.sg) |
-| Diana Long Hui Ping | [diana_long_hui_ping@moe.edu.sg](mailto:diana_long_hui_ping@moe.edu.sg)  |
-| Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg)  |
+| Diana Long Hui Ping | [diana_long_hui_ping@moe.edu.sg](mailto:diana_long_hui_ping@moe.edu.sg) |
+| Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg) |
 | Gabriel Lee | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
 | Indrani N Krishnasamy | [indrani_n_krishnasamy@moe.edu.sg](mailto:indrani_n_krishnasamy@moe.edu.sg) |
-| Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg)  |
-| Lynette La'Brooy | [yong_choon_yen_lynette@moe.edu.sg](mailto:yong_choon_yen_lynette@moe.edu.sg)  |
+| Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg) |
+| Lynette La'Brooy | [yong_choon_yen_lynette@moe.edu.sg](mailto:yong_choon_yen_lynette@moe.edu.sg) |
 | Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
-| Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:nandabalan_panneerselvam@moe.edu.sg)  |
+| Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:nandabalan_panneerselvam@moe.edu.sg) |
 | Patricia Koh Seok Kwan  | [koh_seok_kwan_patricia@moe.edu.sg](mailto:koh_seok_kwan_patricia@moe.edu.sg) |
 | Quek Bufeng | [quek_bufeng@moe.edu.sg](mailto:quek_bufeng@moe.edu.sg) |
 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)  |
