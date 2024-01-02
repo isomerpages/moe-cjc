@@ -246,9 +246,9 @@ variant: markdown
 | 2T13 | Peter Goh | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg)  |
 | 2T14 | Lee Jin Loong, Clarence | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
 | 2T15  | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg)  |
-| 1T15 | Tay Yi Qian Priscilla | [tay_yi_qian_priscilla@moe.edu.sg](mailto:tay_yi_qian_priscilla@moe.edu.sg)  |
-| 1T16 | Peh Beng Lee | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
-| 1T17  | Ong Jun Jie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)   |
+| 2T16 | Peh Beng Lee | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
+| 2T17  | Ong Jun Jie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)   |
+| 2T17  | Lim Wei Ying | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg) |
 | 1T18  | Leong Wee Tek | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
 | 1T18 | Ernest Lim Jingjie  | [ernest_lim_jingjie@moe.edu.sg](mailto:ernest_lim_jingjie@moe.edu.sg)  |
 | 1T19  | Carolina Ng | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg)  |
@@ -297,7 +297,7 @@ variant: markdown
 | 2T25 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
 | 2T26 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
 | 2T27 | Wang Qiumei Stephanie | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
-| 2T28 | Lim Wei Ying | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg) |
+| 2T28 |
 | 2T29 | Hing Meow Cheng Wendy | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
 | 2T29 | Thiru Kotti  | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg)  |
 
