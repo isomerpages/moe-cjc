@@ -2,6 +2,7 @@
 title: Our Departments
 permalink: /about-us/our-departments/
 description: ""
+variant: markdown
 ---
 ### **Our Departments**
 #### **Student Development**
@@ -20,11 +21,12 @@ description: ""
 
 | Name / Designation | Email Address |
 |:---|:---|
-| Marimuthu Sandanam / Year Head JC1/Covering HOD PE & CCA | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
-| Chan Sok Yee / Asst Year Head JC1 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg) |
-| Li Wenqiang Mark / Year Head JC2 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg)  |
-| Cipto Hu / Asst Year Head JC2 | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
+| Marimuthu Sandanam / Year Head JC2 | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
+| Chan Sok Yee / Asst Year Head JC2 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg) |
+| Li Wenqiang Mark / Year Head JC1 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg)  |
+| Cipto Hu / Asst Year Head JC1 | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
 | Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg)  |
+| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
 | Amanda Goh Shiying / Learning Support Officer (SENO)  | [amanda_goh_shiying@moe.edu.sg](mailto:amanda_goh_shiying@moe.edu.sg) |
 | Woo Su Ling / School Counsellor  | [woo_su_ling@moe.edu.sg](mailto:woo_su_ling@moe.edu.sg) |
 |
