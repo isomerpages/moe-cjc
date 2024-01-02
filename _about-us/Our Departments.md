@@ -285,11 +285,11 @@ variant: markdown
 | 1T17 |  |
 | 1T18 |  |
 | 1T19 |  |
-| 1T20 | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
-| 2T21 | Chua Chee Siang | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
-| 2T22 | Wee Siew Leng  | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg)  |
-| 2T23  | Benjamin Thong | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
-| 2T24 | Pang Soon Kit Kelvin | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
+| 1T20 |  |
+| 1T21 |  |
+| 1T22 |  |
+| 1T23  |  |
+| 1T24 |  |
 | 2T25 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
 | 2T26 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
 | 2T27 | Wang Qiumei Stephanie | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
