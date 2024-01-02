@@ -110,7 +110,7 @@ variant: markdown
 | Name / Designation | Email Address |
 |:---|:---|
 | Sek Kok Chuan Mervyn / Head of Department/ Project Work & Integrated Curriculum | [mervyn_sek@moe.edu.sg](mailto:mervyn_sek@moe.edu.sg) |
-| Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg)  |
+| Jillian Cheng / Subject Head/Project Work & Integrated Curriculum | [cheng_shangrong_jillian@moe.edu.sg](mailto:cheng_shangrong_jillian@moe.edu.sg) |
 |
 
 #### **Mathematics**
@@ -119,19 +119,19 @@ variant: markdown
 |:---|:---|
 | Lim Chye Fook / Head of Department | [lim_chye_fook@moe.edu.sg](mailto:lim_chye_fook@moe.edu.sg) |
 | Lyncoln Lee / Head of Department/Infocomm Tech | [lee_lyncoln@moe.edu.sg](mailto:lee_lyncoln@moe.edu.sg) |
-| Chia Shing Li / Level Head  | [chia_shing_-li@moe.edu.sg](mailto:chia_shing_-li@moe.edu.sg)  |
-| Kam Wei Loon / Level Head  | [kam_wei_loon@moe.edu.sg](mailto:kam_wei_loon@moe.edu.sg)  |
-| Peh Ching Hui Rena / Subject Head/ICT | [peh_ching_hui_rena@moe.edu.sg](mailto:peh_ching_hui_rena@moe.edu.sg)  |
+| Chia Shing Li / Level Head  | [chia_shing_-li@moe.edu.sg](mailto:chia_shing_-li@moe.edu.sg) |
+| Kam Wei Loon / Level Head  | [kam_wei_loon@moe.edu.sg](mailto:kam_wei_loon@moe.edu.sg) |
+| Peh Ching Hui Rena / Subject Head/ICT | [peh_ching_hui_rena@moe.edu.sg](mailto:peh_ching_hui_rena@moe.edu.sg) |
 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg) |
 | Chia Siang Hwa Megan | [chia_siang_hwa_megan@moe.edu.sg](mailto:chia_siang_hwa_megan@moe.edu.sg) |
-| Leong-Chew Tyng Huey  | [chew_tyng_huey@moe.edu.sg](mailto:chew_tyng_huey@moe.edu.sg)  |
+| Leong-Chew Tyng Huey  | [chew_tyng_huey@moe.edu.sg](mailto:chew_tyng_huey@moe.edu.sg) |
 | Lim Wei Ying  | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg)   |
-| Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg)  |
-| Natalie Lee Yingrong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg)  |
+| Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
+| Natalie Lee Yingrong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg) |
 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg)  |
 | Ng Mei Ping Ruby | 
-| Ong Junjie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)  |
-| Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg)  |
+| Ong Junjie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg) |
+| Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
 | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg) |
