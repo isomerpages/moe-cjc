@@ -253,10 +253,10 @@ variant: markdown
 | 2T19  | Carolina Ng | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg)  |
 | 2T20 | Tan Mei Qi | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg)  |
 | 2T21 | Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg) |
-| 1T22  | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg)  |
-| 1T23  | Sri Yuni Bte Mazlan | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
-| 1T24 | Natalie Lee Ying Rong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg)  |
-| 1T25 | Tan Seow Ling | [tan_seow_ling@moe.edu.sg](mailto:tan_seow_ling@moe.edu.sg)  |
+| 2T22  | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg)  |
+| 2T23  | Sri Yuni Bte Mazlan | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
+| 2T24 | Natalie Lee Ying Rong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg)  |
+| 2T25 | Lee Kwok Chung Conrad  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg)  |
 | 1T26 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg)  |
 | 1T27 | Chin Yen Jin | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg)  |
 | 1T28 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
@@ -268,7 +268,7 @@ variant: markdown
 | Class | Home Tutor | Email Address |
 |:---|:---|:---|
 | 2T01 | Yeong Jia Xin | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg)  |
-| 2T02  | Lee Kwok Chung Conrad  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg) |
+| 2T02  |  |
 | 2T03 | Janice Lim | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
 | 2T04 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)   |
 | 2T05 | Tan Weng Cheong Alex | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg) |
