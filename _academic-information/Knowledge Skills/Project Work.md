@@ -3,27 +3,32 @@ title: Project Work
 permalink: /education/knowledge-skills/project-work/
 description: ""
 third_nav_title: Knowledge Skills
+variant: markdown
 ---
 ### **Project Work**
 #### **About the Programme**
-H1 Project Work (PW) is a subject that embodies MOE’s Framework for 21st Century Competencies and Student Outcomes. Competencies such as Critical and Inventive Thinking as well as Communication, Collaboration and Information Skills are taught through PW. The subject aims to provide students with the opportunity to synthesize knowledge from various disciplines and areas of learning, and critically and creatively apply it to authentic situations.
+Project Work (PW) has a unique value proposition which sets it apart from other subjects in the A-Level curriculum as it develops future-ready competencies and life skills in an authentic and applied manner. The nurturing of 21st Century Competencies (21CC) requires a combination of interdisciplinary knowledge and skills that build on one another. PW facilitates the dynamic interplay of 21CC as students make sense of a real-world issue, share and embrace multiple perspectives to build new understanding and solutions. Students also grow as individuals and responsible members of society as they collaborate and learn to manage relationships with others from diverse backgrounds.
 
-Project Work is a compulsory H1 subject taken only in the first year of JC. In a group of four or five, students are expected to select one task out of two and develop the task into a full project. Being a coursework subject, documents for Project Work are submitted at different stages throughout the academic year.
+By the end of the PW cycle, students will be able to:
+ - demonstrate critical and inventive thinking skills in gathering, analysing and evaluating information, and generating ideas that address real-world needs;
+ - communicate clearly, coherently and persuasively in collaborative discussion and in presenting ideas to a specific audience in both written and oral forms; and
+ - apply collaborative skills in managing the project effectively to achieve the group’s goals.
+ 
+Students are assigned to work in groups of four or five members within the class. The group works on a project to address a problem or tap an opportunity identified in a real-world context. Being a coursework subject completed for assessment within the first year of JC, students are to strictly follow the written submission deadlines and oral presentation examination date for the assessment of individual and group components of the following compulsory papers:
+ - Project Summary
+	- Each group submits a written Project Summary documenting the real-world problem or opportunity identified, and the proposed ideas to address the project aim.
+ - Individual Reflection
+	- Each student submits a written reflection of his/her analysis and evaluation of group ideas or his/her learning about self in the process of completing the project.
+  - Oral Presentation
+	- Each student presents a part of the project orally to the assessors as audience. This is followed by the group responding collectively to questions posed by the assessors.
 
-Students are expected to demonstrate the following skills while undertaking Project Work.
+From 2024, PW has been repositioned as a Pass/Fail subject to redirect the focus of students and encourages them to reap the full benefits of PW, by exercising greater agency and creativity in their areas of interest, rather than be driven by grades. A Pass is mandatory for Autonomous University admission.
 
-*   **Knowledge Application**<br>Students are required to make links across different areas of knowledge and to generate, develop and evaluate ideas and information so as to apply these skills to their project task.
-
-*   **Communication**<br>Students are required to demonstrate their ability to communicate effectively and to present ideas clearly and coherently to a specific audience in both the written and oral form.
-
-*   **Collaboration**<br>In addition, students are also expected to demonstrate their collaborative skills through working in a team to achieve common goals.
-
-*   **Independent Learning**<br>Students are to demonstrate ownership of their own learning process through an ability to learn independently, reflect on their learning and take appropriate actions to improve it. Students will be given support and guidance by their Project Work Supervising Tutors (ST) in the research, thinking and writing skills necessary for meeting the curriculum objectives of Project Work. This will be done in stages, according to the different documents.  
-Project Work has the same curriculum hours as any other H1 subject. However, as a coursework and team-based subject, it is not uncommon for students to spend time outside of the school curriculum brainstorming, researching, discussing and reviewing their project both individually and in their group.<br><br>It is the College’s mission for Every CJCian to be a ‘Thinker With A Mission and Leader With A Heart’. A core belief of the PW department at CJC is that students can improve under the right environment and approaches. Department teachers value students' insights and feedback and seek to guide and prepare them for life's challenges via the learning outcomes of Project Work. Students acquire skills in order to prepare them for lifelong learning and the complexities of future work life.
+With a greater focus on the learning experience and engendering the joy of learning, CJC strives to inspire and equip CJCians to be creators, connectors and contributors to address current and emerging real-world issues through an empathetic, purposeful and beneficial way that creates social impact.
 
 #### **A-Level Syllabus**
 Click the following link for an overview of the Project Work syllabus as well as the assessment format:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8808_y22_sy.pdf](/files/alevelsyllabus.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8882_y24_sy.pdf]
 
 #### **Student Testimonials**
 
