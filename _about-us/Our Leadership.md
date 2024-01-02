@@ -2,11 +2,12 @@
 title: Our Leadership
 permalink: /about-us/our-leadership/
 description: ""
+variant: markdown
 ---
 ### **Our Leadership**
 #### **School Leaders**
 **Principal**<br>
-[Mrs Phyllis Lim](mailto:catholic_jc@moe.edu.sg)
+[Mrs Woo Soo Min](mailto:catholic_jc@moe.edu.sg)
 
 **Vice-Principal (Student Development)**<br>
 [Mr Tan Jek Suan](mailto:catholic_jc@moe.edu.sg)
@@ -25,7 +26,7 @@ Mr Bernard Tan
 Assoc Prof Ivan Yeo
 
 **Secretary**<br>
-Mrs Phyllis Lim
+Mrs Woo Soo Min
 
 **Treasurer**<br>
 Ms Gwee Siew Ping

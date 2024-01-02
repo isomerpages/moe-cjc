@@ -2,6 +2,7 @@
 title: Our History
 permalink: /about-us/our-history/
 description: ""
+variant: markdown
 ---
 ### **Our History**
 Catholic Junior College was established in 1975 to unite the pre-university courses offered by various Catholic religious orders. The college represents the combined effort of the Roman Catholic Archdiocese of Singapore, the Singapore Government and local philanthropists, with Dr. Ee Peng Liang serving as the inaugural chairman of the management committee.
@@ -22,7 +23,8 @@ The college has been blessed with the dedicated service of seven principals sinc
 *   1995 - 2001: Sr. Maria Lau, IJ
 *   2002 - 2009: Bro. Paul A Rogers, FSC
 *   2010 - 2016: Mrs Christine Anne Kong
-*   2017 - Present: Mrs Phyllis Lim
+*   2017 - 2023: Mrs Phyllis Lim
+*   2023 - Present: Mrs Woo Soo Min
 
 #### **Affiliated Schools**
 We are affiliated to the following Catholic secondary schools:
