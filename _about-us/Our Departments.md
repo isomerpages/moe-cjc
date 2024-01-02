@@ -274,10 +274,9 @@ variant: markdown
 | 1T06 |  |
 | 1T07 |  |
 | 1T08 |  |
-| 2T09 | Lim Seow Thong | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
-| 2T10 | Ang Shiok Hoon | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
-| 2T11 |  |
-| 2T11  | Toh Ping Yong Jeffrey | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg)  |
+| 1T09 |  |
+| 1T10 |  |
+| 1T11 |  |
 | 2T12 | Jacky Chua | [jacky_chua_jie_qi@moe.edu.sg](mailto:jacky_chua_jie_qi@moe.edu.sg) |
 | 2T13 | Chia Chew Xian Valarie | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
 | 2T14 | Lee Li-Shan | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
