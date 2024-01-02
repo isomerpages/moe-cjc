@@ -277,8 +277,8 @@ variant: markdown
 | 1T09 |  |
 | 1T10 |  |
 | 1T11 |  |
-| 2T12 | Jacky Chua | [jacky_chua_jie_qi@moe.edu.sg](mailto:jacky_chua_jie_qi@moe.edu.sg) |
-| 2T13 | Chia Chew Xian Valarie | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
+| 1T12 |  |
+| 1T13 |  |
 | 2T14 | Lee Li-Shan | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
 | 2T15 | Zachary Kok Zhi Hoe | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
 | 2T16 | Ng Chee Keong |  [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg) |
