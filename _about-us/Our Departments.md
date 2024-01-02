@@ -10,7 +10,7 @@ variant: markdown
 | Name / Designation | Email Address |
 |:---|:---|
 | Lucas Anil D'Cruz/ Head of Department | [dcruz_lucas_anil@moe.edu.sg](mailto:dcruz_lucas_anil@moe.edu.sg) |
-| Dawn Ang / Subject Head/Student Leadership Development | [dawn_ang_xi@moe.edu.sg](mailto:dawn_ang_xi@moe.edu.sg)  |
+| Dawn Ang / Subject Head/Student Leadership Development | [dawn_ang_xi@moe.edu.sg](mailto:dawn_ang_xi@moe.edu.sg) |
 | Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg) |
 | Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg) |
 | Tan Wei Jun / Subject Head/Student Development Curriculum | [tan_wei_jun@moe.edu.sg](mailto:tan_wei_jun@moe.edu.sg) |
@@ -23,10 +23,10 @@ variant: markdown
 |:---|:---|
 | Marimuthu Sandanam / Year Head JC2 | [marimuthu_sandanam@moe.edu.sg](mailto:marimuthu_sandanam@moe.edu.sg) |
 | Chan Sok Yee / Asst Year Head JC2 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg) |
-| Li Wenqiang Mark / Year Head JC1 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg)  |
+| Li Wenqiang Mark / Year Head JC1 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
 | Cipto Hu / Asst Year Head JC1 | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
-| Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg)  |
-| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg)  |
+| Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg) |
+| Leong Wee Tek / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg) |
 | Amanda Goh Shiying / Learning Support Officer (SENO)  | [amanda_goh_shiying@moe.edu.sg](mailto:amanda_goh_shiying@moe.edu.sg) |
 | Woo Su Ling / School Counsellor  | [woo_su_ling@moe.edu.sg](mailto:woo_su_ling@moe.edu.sg) |
 |
