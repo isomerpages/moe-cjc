@@ -58,8 +58,8 @@ variant: markdown
 | Quek Bufeng | [quek_bufeng@moe.edu.sg](mailto:quek_bufeng@moe.edu.sg) |
 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)  |
 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) |
-| Wang Jiexin | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg)  |
-| Wong Yen Yee Angela | [wong_yen_yee_angela@moe.edu.sg](mailto:wong_yen_yee_angela@moe.edu.sg)|
+| Wang Jiexin | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
+| Wong Yen Yee Angela | [wong_yen_yee_angela@moe.edu.sg](mailto:wong_yen_yee_angela@moe.edu.sg) |
 |
 
 #### **Economics Department**
