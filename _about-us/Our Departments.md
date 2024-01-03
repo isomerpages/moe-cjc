@@ -41,8 +41,8 @@ variant: markdown
 | Thong Wan Ling Serene / Level Head | [thong_wan_ling_serene@moe.edu.sg](mailto:thong_wan_ling_serene@moe.edu.sg) |
 | Wendy Priscillia Wong / Subject Head/Corporate Communications | [wendy_priscillia_wong@moe.edu.sg](mailto:wendy_priscillia_wong@moe.edu.sg) |
 | Lee Kwok Chung Conrad / Senior Teacher  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg) |
-| Alexandra Hofbauer / Acting Subject Head/English Language & Linguistics | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
-| Mackenzie Rae Schoon / Acting Subject Head/Literature & Guidance | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
+| Alexandra Hofbauer / Covering Subject Head/English Language & Linguistics | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
+| Mackenzie Rae Schoon / Covering Subject Head/Literature & Guidance | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
 | Annu Rai  | [annu_rai@moe.edu.sg](mailto:annu_rai@moe.edu.sg) |
 | Brinda Balasubramaniam | [brinda_balasubramaniam@moe.edu.sg](mailto:brinda_balasubramaniam@moe.edu.sg) |
 | Chia Yi Min Cheryl | [chia_yi_min_cheryl@moe.edu.sg](mailto:chia_yi_min_cheryl@moe.edu.sg) |
