@@ -51,10 +51,10 @@ STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</ce
 <center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/Science/cjc_stem_picture_9.png">
 Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</center> 
 
-<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/Science/students_solve_puzzles_in_escape_room_during_pre_covid-19_years.JPG">
+<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/Science/students_solve_puzzles_in_escape_room_during_pre_covid_19_years.JPG">
 Students solve puzzles in Escape Room during pre Covid-19 years</center>
 
-<center><img style="width:100%" src="/images/Science/python_programming_workshops_in_pre_covid-19_years.JPG">
+<center><img style="width:100%" src="/images/Science/python_programming_workshops_in_pre_covid_19_years.JPG">
 Python Programming Workshops in pre Covid-19 years</center>
 
 <center><img style="width:70%;" src="/images/Science/STEM_Fest_2023_Pi_Day_Recitation.jpg">
