@@ -30,7 +30,7 @@ This committee oversees the selection, nomination and development of the STEM re
 
 #### **2\. STEM Fest**
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%203.png">
+<img style="width:100%" src="/images/Science/cjc_stem_picture_3.png">
 
 
 STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
@@ -41,29 +41,29 @@ STEM Fest is an annual collaboration between the Mathematics and the Science Dep
   
 From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
 
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%207.png">
+<center><img style="width:100%" src="/images/Science/cjc_stem_picture_7.png">
 STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</center>
 
 <center><img style="width:100%" src="/images/Science/2023_STEM_Fest_3D_prints.jpg">
 3D-printed student works on display at STEM Fest after attending workshops</center>
 
 
-<center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/cjc%20stem%20picture%209.png">
+<center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/Science/cjc_stem_picture_9.png">
 Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</center> 
 
-<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/students%20solve%20puzzles%20in%20escape%20room%20during%20pre%20covid-19%20years.JPG">
+<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/Science/students_solve_puzzles_in_escape_room_during_pre_covid-19_years.JPG">
 Students solve puzzles in Escape Room during pre Covid-19 years</center>
 
-<center><img style="width:100%" src="/images/python%20programming%20workshops%20in%20pre%20covid-19%20years.JPG">
+<center><img style="width:100%" src="/images/Science/python_programming_workshops_in_pre_covid-19_years.JPG">
 Python Programming Workshops in pre Covid-19 years</center>
 
 <center><img style="width:70%;" src="/images/Science/STEM_Fest_2023_Pi_Day_Recitation.jpg">
 	Pi Day Recitation Challenge</center>
 
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%2012.png">
+<center><img style="width:100%" src="/images/Science/cjc_stem_picture_12.png">
 <div style="line-height: 1.5;">Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</div></center>
 
-<center><img style="width:100%" src="/images/cjc%20stem%20picture%2013.png">
+<center><img style="width:100%" src="/images/Science/cjc_stem_picture_13.png">
 Students engaging in problem solving during STEMazing Race</center>
 
 #### **3\. CJC-Nara High School Global Exchange Programme**
@@ -103,7 +103,7 @@ Students are encouraged to participate in various competitions to display their 
 **(iii)** **International Sci-Teens Challenge**
  <br>International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
 
-<center><img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/cjc%20stem%20picture%2020.jpg">
+<center><img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/Science/cjc_stem_picture_20.jpg">
 	<div style="line-height:1.5;">Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department
 </div></center>
   
@@ -114,7 +114,7 @@ In this two-day online virtual research hackathon, students were introduced to&n
 
 Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
 
-<img style="width:90%" src="/images/cjc%20stem%20picture%2021.jpg">
+<img style="width:90%" src="/images/Science/cjc_stem_picture_21.jpg">
 
 **(v)** **Cyberthon**<br>
 CJC has been sending students who have strong interest in the field of cybersecurity to relevant competitions. This competition organized by MINDEF has been gaining interest amongst students and we have been steadily improving in our ranking over the years.**
@@ -125,7 +125,7 @@ The Singapore International Science Challenge (SISC) is a biennial international
 
 In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2022.png">
+<img style="width:100%" src="/images/Science/cjc_stem_picture_22.png">
 
 **(vii)** **Singapore International Space Challenge**<br>
 Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
@@ -149,14 +149,14 @@ Team Traffic Light was awarded the Silver Award. The team conducted a webinar to
 Access the video here:
 <br>[www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2023.png">
+<img style="width:100%" src="/images/Science/cjc_stem_picture_23.png">
 
 **Enrichment Module**<br>
 21 members of the STEM\-based CCA Environmental Science Society also participated in the NYUM Enrichment module where they created an upcycled product using the Design Thinking Framework and reflected on the process.
 
 Their reflections can be found at&nbsp;[https://padlet.com/drwylim/cjcess\_nyum](https://padlet.com/drwylim/cjcess_nyum).
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2024.jpg">
+<img style="width:100%" src="/images/Science/cjc_stem_picture_24.jpg">
 	
 **(ix)** **STEP Environment Camp (Renamed as NUS Youth Environment Camp)**<br>
 Selected JC1 students have been taking part in the STEP Environment Camp for youths from Singapore and Asia. Built around the overarching theme of Climate Change and Sustainability, the thematic-based programme nurtures young budding scientists in Asia, with an emphasis on environmental stewardship.&nbsp;
@@ -165,7 +165,7 @@ Participants have the opportunity to network with youth leaders across Asia thro
 
 ![](/images/Science/STEP_Environment_Camp.jpg)
 
-<img style="width:100%" src="/images/cjc%20stem%20picture%2025.png"><br><br>
+<img style="width:100%" src="/images/Science/cjc_stem_picture_25.png"><br><br>
 
 *   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
 *   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
