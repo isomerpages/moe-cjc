@@ -18,9 +18,9 @@ img {
 In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
 ![2024 STEM framework](/images/Science/2024_STEM_framework.jpg)
 
-![STEM Education overview 1](/images/cjc%20stem%20top%20picture%201.jpg)
+![STEM Education overview 1](/images/Science/cjc%20stem%20top%20picture%201.jpg)
 
-![STEM education overview 2](/images/cjc%20stem%20top%20picture%202.jpg)
+![STEM education overview 2](/images/Science/cjc%20stem%20top%20picture%202.jpg)
 
 #### **1\. Engineering Technology Programme Scholarships**
 
