@@ -1,6 +1,6 @@
 ---
-title: Subject Combinations 2023
-permalink: /admission/subject-combinations-2023/
+title: Subject Combinations 2024
+permalink: /admission/subject-combinations-2024/
 description: ""
 variant: tiptap
 ---

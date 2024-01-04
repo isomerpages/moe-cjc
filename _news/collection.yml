@@ -3,6 +3,9 @@ collections:
     output: true
     order:
       - News.md
+      - 2024/.keep
+      - 2024/CJ50 Anniversary Fundraising Campaign.md
+      - 2023/.keep
       - 2023/CJC World Philosophy Day Essay Writing Competition 2023.md
       - 2023/Authentic Learning through Geography fieldwork.md
       - 2023/JC2 Retreat 2023.md
@@ -14,7 +17,6 @@ collections:
       - 2023/CJ Celebrates 2023.md
       - 2023/Congratulations to Gwyneth (class of 2022) for receiving the Edwin
         Thumboo prize!.md
-      - 2023/.keep
       - 2023/CJC NJC English Language and Linguistics Symposium 2023.md
       - 2023/Sports and Aesthetics Carnival, 26 May.md
       - 2023/48th College Day, 5 May.md
@@ -27,6 +29,7 @@ collections:
       - 2023/JC1 Commencement Mass and Ceremony, 20 Feb.md
       - 2023/CJC Celebrates with the Class of 2022.md
       - 2023/CJC Open House 2023.md
+      - 2022/.keep
       - 2022/Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July
         2022.md
       - 2022/Congratulations to National Day Award 2022 Recipients.md
@@ -40,7 +43,7 @@ collections:
       - 2022/National Servicemen of the Year 2021 Award.md
       - 2022/Into the Cryptoverse.md
       - 2022/CJCares Virtual Cross Country 2022.md
-      - 2022/.keep
+      - 2021/.keep
       - 2021/Hearts Ablaze – Dream, Believe, Achieve.md
       - 2021/National Day Awards for CJC staff 2021.md
       - 2021/CJCares, CJ Celebrates online concert, and CJ Thanksgiving Mass.md
@@ -52,7 +55,7 @@ collections:
         1976.md
       - 2021/Ms Janet Ang, Class of 1977, Appointed as Nominated Member of
         Parliament.md
-      - 2021/.keep
+      - 2020/.keep
       - 2020/JC1 End of Year Ceremony.md
       - "2020/JC2 Graduation Ceremony: Hearts Ablaze, One Flame One Family.md"
       - 2020/Ms Janet Ang, Class of 1977, appointed Non Resident Ambassador to
@@ -71,7 +74,7 @@ collections:
       - 2020/A conversation with Mdm Dorothy Chua, Lead Teacher.md
       - 2020/Open House 2020.md
       - "2020/In Loving Memory: Mrs Yvangel Thio Ying Ying (1961 to 2020).md"
-      - 2020/.keep
+      - 2019/.keep
       - 2019/JC2 Graduation Ceremony.md
       - "2019/JC2 Retreat: The Journey Begins.md"
       - 2019/ASEAN Day Reception, 20 Aug.md
@@ -93,4 +96,3 @@ collections:
       - 2019/Reach Cambridge English Studies Trip, Mar 2019.md
       - 2019/CJC Congratulates the Class of 2018.md
       - "2019/Open House 2019: Ignite, Illuminate, Inspire!.md"
-      - 2019/.keep
