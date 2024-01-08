@@ -9,10 +9,10 @@ variant: markdown
 <div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
 <div style="float:left;width:25%;"><img src="/images/crest.jpg">
 	</div>
-<div style="float:left;width:75%;text-align:center">Catholic Junior College School Profile<br>
+<div style="float:left;width:75%;text-align:center"><p>Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
 129 Whitley Road, Singapore 297822, Republic of Singapore Tel: (65) 62524083 – Fax: (65) 62537267<br>
-	Website: <a href="https://cjc.moe.edu.sg/">https://cjc.moe.edu.sg/</a> CEEB Code: 687204</div>
+	Website: <a href="https://cjc.moe.edu.sg/">https://cjc.moe.edu.sg/</a> CEEB Code: 687204</p></div>
 </div>
 
 #### **Overview**
