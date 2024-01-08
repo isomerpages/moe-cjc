@@ -19,5 +19,5 @@ This year, our Open House will be held on&nbsp;**Friday, 12th January, from 10am
 We've also prepared a microsite to go along with our Open House - click&nbsp;[**here**](https://cjcopenhouse.moe.edu.sg/)&nbsp;to visit it!
 
 You can find the full programme for Open House 2024 (as well as a helpful map) below.
-![](/images/WhatsApp_Image_2024_01_04_at_3_27_51_PM.jpeg)
-![](/images/WhatsApp_Image_2024_01_04_at_3_28_00_PM.jpeg)
+![](/images/WhatsApp_Image_2024_01_08_at_5_49_07_PM.jpeg)
+![](/images/WhatsApp_Image_2024_01_08_at_5_49_09_PM.jpeg)
