@@ -31,8 +31,8 @@ In Veritate et Caritate carries St Paul's message, a call to love and live among
 
 <div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
 <div style="float:left;width:60%;text-align:left">
-The College Flag provides a setting for the College Crest - the two shades of blue that are used in the college uniform and blazer.<br><br>
-The Crest is placed at the intersection of Y or gamma which is the Greek letter for ‘c’ and is also taken as the form of the Christian Cross. The Flag provides a powerful rallying point for students and the broader College Community in the distinctive College colours.
+<p>The College Flag provides a setting for the College Crest - the two shades of blue that are used in the college uniform and blazer.<br><br>
+The Crest is placed at the intersection of Y or gamma which is the Greek letter for ‘c’ and is also taken as the form of the Christian Cross. The Flag provides a powerful rallying point for students and the broader College Community in the distinctive College colours.</p>
 	</div>
 	<div style="float:left;width:40%;"><img src="/images/flag.jpg"></div>
 </div>
