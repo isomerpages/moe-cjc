@@ -3,6 +3,7 @@ title: History
 permalink: /education/humanities/history/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### History
 
@@ -104,5 +105,5 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 
   
 
-*   SH / Nur Adhana Binte Mohamed Anwar<br>
-[nur\_adhana\_mohamed\_anwar@moe.edu.sg](mailto:nur_adhana_mohamed_anwar@moe.edu.sg)
+*   HOD / Ms Celestine Hang<br>
+[hang_shu_min_celestine@moe.edu.sg](mailto:hang_shu_min_celestine@moe.edu.sg)
