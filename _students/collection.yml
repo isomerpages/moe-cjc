@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Students.md
-      - Calender.md
+      - Calendar.md
       - College Daily Schedule.md
       - CCA Schedule.md
       - CJC Private Wifi User Education.md

@@ -3,10 +3,11 @@ title: Mathematics and Science
 permalink: /education/mathematics-and-science/
 description: ""
 third_nav_title: Mathematics and Science
+variant: markdown
 ---
 ### Mathematics &amp; Science
 
-<img style="width:80%" src="/images/mathscience.png">
+<img src="/images/Science/Chemistry_1.jpg" style="border-radius:15px;width:80%">
 
 The college offers the following Science-based subjects under the A-Level Programme.&nbsp;  
 
@@ -25,4 +26,4 @@ Students taking Humanities or hybridised courses may offer the following subject
 
   
 
-Please refer to our range of&nbsp;**[subject combinations](https://cjc.moe.edu.sg/admission/subject-combinations-2022)**&nbsp;for details.
+Please refer to our range of&nbsp;**[subject combinations](https://cjc.moe.edu.sg/admission/subject-combinations-2024)**&nbsp;for details.

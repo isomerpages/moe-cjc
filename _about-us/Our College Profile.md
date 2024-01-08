@@ -2,15 +2,18 @@
 title: Our College Profile
 permalink: /about-us/our-college-profile/
 description: ""
+variant: markdown
 ---
 ### **Our College Profile**
 
-<img src="/images/crest.jpg" style="width:25%;margin-right:5px;" align="left">
-
-<center>Catholic Junior College School Profile<br>
+<div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
+<div style="float:left;width:25%;"><img src="/images/crest.jpg">
+	</div>
+<div style="float:left;width:75%;text-align:center">Catholic Junior College School Profile<br>
 <b>Catholic Junior College</b><br>
 129 Whitley Road, Singapore 297822, Republic of Singapore Tel: (65) 62524083 – Fax: (65) 62537267<br>
-Website: <a href="https://cjc.moe.edu.sg/">https://cjc.moe.edu.sg/</a> CEEB Code: 687204</center>
+	Website: <a href="https://cjc.moe.edu.sg/">https://cjc.moe.edu.sg/</a> CEEB Code: 687204</div>
+</div>
 
 #### **Overview**
 Catholic Junior College (CJC) is a co-educational government-aided school for post- secondary education at pre-university level. Students are admitted to the school through the national Joint Admissions Exercise (JAE) which takes place in January each year. Students are admitted to CJC based on the cumulative points achieved at the national GCE O-Level Examination. The basis of admission is selective based on merit.
@@ -83,7 +86,7 @@ A signature global leadership development programme which enables JC1 students t
 
 #### **Our Co-Curricular Activities**
 ##### **Physical Sports**
-Badminton ▫ Basketball ▫ Canoeing ▫ Fencing ▫ Floorball ▫ Judo ▫ Netball ▫ Shooting ▫ Soccer ▫ Swimming ▫ Tennis ▫ Bowling ▫ Track &amp; Field ▫ Cross Country ▫ Volleyball ▫ Ultimate Frisbee
+Badminton ▫ Basketball ▫ Canoeing ▫ Fencing ▫ Floorball ▫ Netball ▫ Soccer ▫ Swimming ▫ Tennis ▫ Bowling ▫ Track &amp; Field ▫ Cross Country ▫ Volleyball ▫ Ultimate Frisbee
 
 ##### **Visual and Performing Arts**
 Choir ▫ Modern Dance ▫ English Drama ▫ Guitar ▫ Guzheng ▫ Concert Band
@@ -110,7 +113,7 @@ The academic year runs from January to December, comprising two semesters or fou
 
 Internal examinations are conducted across two years so that students and staff can monitor progress in learning:
 
-* JC1 (year 11): Mid-Year Examination, Promotional Examination
+* JC1 (year 11): Promotional Examination
 * JC2 (year 12): Mid-Year Examination, Preliminary Examination
 
 Estimated or predicted grades are based on the student’s progress across the two years and are sent to universities and college admissions boards if the GCE A-Level examination results are not yet available, due to the differences in college/ academic calendars.
@@ -137,14 +140,18 @@ These include scholarships by relevant government ministries and Statutory Board
 \- The President’s Scholarship<br>
 \- The Public Service Commission Scholarships<br>
 \- SAF Overseas &amp; Merit Scholarship<br>
-\- MOE (Ministry of Education) Overseas Merit Scholarship (Teaching) MOE Local Merit Scholarship (Teaching)<br>
+\- MOE (Ministry of Education) Overseas Merit Scholarship (Teaching)<br>
+\- MOE Local Merit Scholarship (Teaching)<br>
 \- MOE Teaching Scholarship<br>
 \- MOE Teaching Award<br>
-\- MOHH (Ministry of Health) Scholarship MOHH Healthcare Merit Award<br>
+\- MOHH (Ministry of Health) Scholarship<br>
+\- MOHH Healthcare Merit Award<br>
 \- SPH (Singapore Press Holdings) Scholarship SPRING Scholarship<br>
-\- SgIS- Healthcare Administration Scholarship (Mid-term)<br>
+\- SgIS Healthcare Administration Scholarship (Mid-term)<br>
+\- SgIS Singapore-Industry Scholarships<br>
 \- PUB (Public Utilities Board) Scholarship<br>
-IDA (Infocomm Development Authority) Scholarship NAC (National Arts Council) Scholarship
+\- IDA (Infocomm Development Authority) Scholarship<br>
+\- NAC (National Arts Council) Scholarship
 
 And scholarships by various Universities such as: <br>
 \- NUS (National University of Singapore)<br>
@@ -155,10 +162,13 @@ And scholarships by various Universities such as: <br>
 [This is an indicative list which is not exhaustive.]
 
 We also offer scholarships and awards at a college-level which our students are regular recipients of. These aim to reward students with a strong academic record, share a passion for sports and/or display strong character and service to the community. They include:<br>
-\- The CJC Archbishop’s Scholarship The CJC Flame Scholarship<br>
-\- Dr Ee Peng Liang Memorial Award Mr Bernard Chen Memorial Award<br>
+\- The CJC Archbishop’s Scholarship<br>
+\- The CJC Flame Scholarship<br>
+\- Dr Ee Peng Liang Memorial Award<br>
+\- Mr Bernard Chen Memorial Award<br>
 \- Father Gerard Keane Memorial Award<br>
 \- Sister Deirdre O’Loan Commendation Memorial Award<br>
+\- Caritate Award<br>
 \- Sportsperson of the Year Award<br>
 \- Lee Foundation Merit Award (Service)<br>
 \- Narindar K. Dhillion Award (Humanities)<br>
@@ -266,10 +276,7 @@ CJC offers students a rich learning programme which enables engaged and authenti
 ![](/images/collegeprofile7.jpg)
 
 #### **Financial Statement FY 2019**
-[2019 Financial Statements.pdf](/files/2019%20Financial%20Statements.pdf)
-
-#### **Title**
-Content
+[2019 Financial Statements can be found here.](/files/2019%20Financial%20Statements.pdf)
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
