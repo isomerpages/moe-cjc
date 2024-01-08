@@ -28,8 +28,8 @@ variant: markdown
 <img src="/images/students5.jpg" style="width:20%;margin-right:5px;" align="left">
 </a></p>
 
-<p><a href="https://www.flickr.com/photos/catholicjc/sets/">
-<img src="/images/students6.jpg" style="width:20%;margin-right:5px;" align="left">
+<p><a href="https://www.cjc.moe.edu.sg/about-us/publications/">
+<img src="/images/pubs_logo2.jpg" style="width:20%;margin-right:5px;" align="left">
 </a></p>
 
 <br clear="left">
