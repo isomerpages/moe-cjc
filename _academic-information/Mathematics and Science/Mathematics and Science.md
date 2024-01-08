@@ -26,4 +26,4 @@ Students taking Humanities or hybridised courses may offer the following subject
 
   
 
-Please refer to our range of&nbsp;**[subject combinations](https://cjc.moe.edu.sg/admission/subject-combinations-2022)**&nbsp;for details.
+Please refer to our range of&nbsp;**[subject combinations](https://cjc.moe.edu.sg/admission/subject-combinations-2024)**&nbsp;for details.
