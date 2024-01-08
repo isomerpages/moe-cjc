@@ -8,9 +8,9 @@ variant: markdown
 #### **College Crest**
 
 <div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
-<div style="float:left;width:70%;text-align:left;" class="content">
-	The principal symbol of Catholic Junior College (CJC) is the Holy Spirit. The <b>Spirit of God</b>, depicted by the dove, guides the College in every word, thought and deed.<br><br>
-The Spirit helps keep the Body of Christ - the Church, alive. Christ, symbolised by the cross, animates the CJC community so that we act ‘In Truth and Love’, in and beyond the College. 
+<div style="float:left;width:70%;text-align:left;">
+<p>	The principal symbol of Catholic Junior College (CJC) is the Holy Spirit. The <b>Spirit of God</b>, depicted by the dove, guides the College in every word, thought and deed.<br><br>
+The Spirit helps keep the Body of Christ - the Church, alive. Christ, symbolised by the cross, animates the CJC community so that we act ‘In Truth and Love’, in and beyond the College. </p>
 	</div>
 	<div style="float:left;width:30%;"><img src="/images/crest.jpg"></div>
 </div>
