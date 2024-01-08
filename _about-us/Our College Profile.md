@@ -140,15 +140,18 @@ These include scholarships by relevant government ministries and Statutory Board
 \- The President’s Scholarship<br>
 \- The Public Service Commission Scholarships<br>
 \- SAF Overseas &amp; Merit Scholarship<br>
-\- MOE (Ministry of Education) Overseas Merit Scholarship (Teaching) MOE Local Merit Scholarship (Teaching)<br>
+\- MOE (Ministry of Education) Overseas Merit Scholarship (Teaching)<br>
+\- MOE Local Merit Scholarship (Teaching)<br>
 \- MOE Teaching Scholarship<br>
 \- MOE Teaching Award<br>
-\- MOHH (Ministry of Health) Scholarship MOHH Healthcare Merit Award<br>
+\- MOHH (Ministry of Health) Scholarship<br>
+\- MOHH Healthcare Merit Award<br>
 \- SPH (Singapore Press Holdings) Scholarship SPRING Scholarship<br>
 \- SgIS Healthcare Administration Scholarship (Mid-term)<br>
 \- SgIS Singapore-Industry Scholarships<br>
 \- PUB (Public Utilities Board) Scholarship<br>
-IDA (Infocomm Development Authority) Scholarship NAC (National Arts Council) Scholarship
+\- IDA (Infocomm Development Authority) Scholarship<br>
+\- NAC (National Arts Council) Scholarship
 
 And scholarships by various Universities such as: <br>
 \- NUS (National University of Singapore)<br>
@@ -273,10 +276,7 @@ CJC offers students a rich learning programme which enables engaged and authenti
 ![](/images/collegeprofile7.jpg)
 
 #### **Financial Statement FY 2019**
-[2019 Financial Statements.pdf](/files/2019%20Financial%20Statements.pdf)
-
-#### **Title**
-Content
+[2019 Financial Statements can be found here.](/files/2019%20Financial%20Statements.pdf)
 
 #### **CJ45 donations to be used for supporting students who require financial assistance**
 
