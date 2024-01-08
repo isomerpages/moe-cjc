@@ -40,4 +40,4 @@ Live in Truth live in Faith and Love<br>
 Let our light spread and brighten the night<br>
 Let our flame warm all hearts and unite
 
-<audio controls="" src="https://github.com/km-printing/km-printing.github.io/blob/main/College%20Anthem.mp3" id="audio"></audio>
+<audio controls="" src="https://github.com/km-printing/km-printing.github.io/raw/main/College%20Anthem.mp3" id="audio"></audio>
