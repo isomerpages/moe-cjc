@@ -3,6 +3,7 @@ title: Geography
 permalink: /education/humanities/geography/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### Geography
 
@@ -18,15 +19,10 @@ It is a unique subject which bridges the social sciences with the natural scienc
 
 *   Click the following links for an overview of the Geography syllabi as well as the assessment formats:
     
-H1 Geography:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8813\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/8813_y22_sy.pdf)  
-      
+[H1 Geography 8834 (Revised syllabus, first examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)  
     
-H2 Geography:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9751\_y22\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2022syllabus/9751_y22_sy.pdf)
+[H2 Geography 9173 (Revised syllabus, first examination in 2024](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf)
     
-
-  
 
 #### Student Testimonials
 
