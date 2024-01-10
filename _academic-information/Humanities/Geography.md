@@ -17,11 +17,10 @@ It is a unique subject which bridges the social sciences with the natural scienc
 
 #### A-Level Syllabus
 
-*   Click the following links for an overview of the Geography syllabi as well as the assessment formats:
-    
-[H1 Geography 8834 (Revised syllabus, first examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)  
-    
-[H2 Geography 9173 (Revised syllabus, first examination in 2024](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf)
+Click the following links for an overview of the Geography syllabi as well as the assessment formats:
+<br>
+[H1 Geography 8834 (Revised syllabus, first examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)<br>
+[H2 Geography 9173 (Revised syllabus, first examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf)
     
 
 #### Student Testimonials
