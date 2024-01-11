@@ -5,9 +5,7 @@ description: ""
 third_nav_title: Humanities
 variant: markdown
 ---
-### History
-
-#### About the Programme
+### **About the Programme**
 
 History in CJ aims to develop their students into 21st Century Competent History Learners. Students will engage in sense making – making sense of the past in different contexts and periods and also making sense of and drawing connections to current and future global issues.&nbsp;
 
@@ -23,75 +21,57 @@ The CJ History department also aims to inculcate inquisitiveness, open-mindednes
 
 With all the knowledge, skills and values that CJ History has to offer, it is no wonder that CJ History remains a subject that is popular amongst the incoming J1 students! Guided by your teachers, we hope that you will develop appreciation of past human experiences, critical awareness of the nature of historical knowledge, and the ability to make connections between the past and present.
 
-#### A-Level Syllabus
+#### **A-Level Syllabus**
 
 Click the following links for an overview of the History syllabi as well as the assessment formats:  
 
-H1 History:<br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h1-history.ashx?la=en&amp;hash=417567BCE91E5F4FAFF182FBEE89EFAD5C4B7CD6)  
-  
+[H1 History 8838](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8838_y24_sy.pdf)  
 
-H2 History:<br>
-[https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC](https://www.moe.gov.sg/-/media/files/post-secondary/syllabuses/humanities/2023-h2-history.ashx?la=en&amp;hash=D79A7671BDDA08DB8963AE0CAFE7D31418A493AC)
+[H2 History 9174](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9174_y24_sy.pdf)  
 
-#### Prerequisites/Suitability
-
-There are no pre-requisites to take H1 / H2 History at the A-Level.&nbsp;
-
-  
-
-Students may find the Source-Based Case Study and essay writing components similar to those at O-Level History and Social Studies. Yet, A-Level History demands greater scope and depth of argumentation, and critical thinking skills that are much more advanced than that required at the O-Level.&nbsp;
-
-  
-
-To find out more, assess the earlier video that showcased the A-Level syllabuses.&nbsp;
-
-#### Prerequisites/Suitability
-
-There are no pre-requisites to take H1 / H2 History at the A-Level.&nbsp;
-
-  
-
-Students may find the Source-Based Case Study and essay writing components similar to those at O-Level History and Social Studies. Yet, A-Level History demands greater scope and depth of argumentation, and critical thinking skills that are much more advanced than that required at the O-Level.&nbsp;
-
-  
-
-To find out more, assess the earlier video that showcased the A-Level syllabuses.&nbsp;
-
-#### Prerequisites/Suitability
+#### **Prerequisites/Suitability**
 
 There are no pre-requisites to take H1 / H2 History at the A-Level.&nbsp;
 
 Students may find the Source-Based Case Study and essay writing components similar to those at O-Level History and Social Studies. Yet, A-Level History demands greater scope and depth of argumentation, and critical thinking skills that are much more advanced than that required at the O-Level.&nbsp;
 
-  
-
 To find out more, assess the earlier video that showcased the A-Level syllabuses.&nbsp;
 
+#### **Microlessons**
 
-#### Student Testimonial
+If you would like to have a taste of what History lessons will look like, do watch the following microlesson videos that have been curated especially for you!
 
-<img style="width:80%" src="/images/history1.png">
+Microlesson 1: [Analysing and Evaluating Primary Sources](https://drive.google.com/file/d/1vuq4-ZDBLJaB5a_eSZTLtaWTbO4Gr2Mi/view?usp=share_link)
 
-#### Enrichment
+Microlesson 2: [Delving Deeper into the Historical Concept of Causation](https://drive.google.com/file/d/1ZdLzx1C3wWxzcPvlWNFK_dBuO9skYwEH/view?usp=share_link)&nbsp;
 
-Students who have displayed a good learning attitude and aptitude by the end of JC1 will be invited to join various programmes as part of the History Stretch programme, which aims to broaden their horizons beyond the curriculum.
+#### **Student Testimonial**
 
-  
-<img style="width:80%" src="/images/history2.png">
-  
-<img style="width:80%" src="/images/history3.png">
-One of these key opportunities would be our Internationalisation Programme&nbsp;–&nbsp;an overseas exchange programme with Tran Phu High School&nbsp;–&nbsp;enabled by a partnership that has existed since 2018.
+![2023 History Info Microsite - Testimonial.jpg](/images/history1.png)
 
-  
+#### **Enrichment**
 
-Though the Covid-19 pandemic placed a halt to the overseas trips, it did not prove a sufficient obstacle to the continuing partnership between the two schools. In 2020 and 2021, our school exchange programme was held via Zoom amidst travel restrictions. For 2023, with the loosening of travel restrictions, we were privileged to host 31 students and staff from TPHS. The 3-day exchange programme was packed with engaging and meaningful activities, ranging from Amazing Race Adventure Trails, Sustainability Workshops and a campus tour of our world-renowned local university, the National University of Singapore.&nbsp;&nbsp;
+1.	External History-related competitions and workshops
 
-<img style="width:80%" src="/images/history4.png">
+ - Students will get the opportunity to represent the college in various History-related competitions and workshops. Students can look forward to attending the inaugural historiography workshop held by the National University of Singapore (NUS), and will also get opportunities to attend events such as Model Parliament or Model United Nations (MUN)
 
-We hope that in 2023, we will be able to reciprocate the visit with a fieldtrip to Vietnam! Keeping our fingers (and toes) crossed!
+![](/images/hist_Picture1.jpg)
+<br>
 
-#### H3 History
+2.	History Evening for showcasing student work and engagement with professor(s)
+
+![](/images/hist_Picture2.jpg)
+<br>
+
+3. Cultural immersion Trip to Vietnam
+ 
+ - One of these key opportunities would be our Internationalisation Programme&nbsp;–&nbsp;an overseas exchange programme with Tran Phu High School&nbsp;–&nbsp;enabled by a partnership that has existed since 2018, where selected students will get a chance to travel to Vietnam in alternate years to meet their Vietnamese counterparts, and learn about history from alternative perspectives. 
+
+![Posing in front of one of the many US Air Force Helicopters active during the War.jpeg](/images/history2.png)
+
+![One of the many traps that were created by the Viet Cong during the Vietnam War.jpeg](/images/history3.png)
+
+#### **H3 History**
 
 The H3 History syllabus is developed on the assumption that candidates have knowledge and understanding of History at H2 level. As such, you can only apply for H3 History after the JC1 Promotional Examinations and taking H3 History does not replace any of your existing subjects.
 
@@ -99,11 +79,11 @@ The H3 History syllabus is developed on the assumption that candidates have know
 
 H3 History is pitched at a level higher than that of the H2 History syllabus. It builds on the competencies acquired in H2 History and requires candidates to demonstrate historical knowledge in greater depth and breadth.
 
-#### Other Contact Details
+#### **Other Contact Details**
 
 Do you have a question that has not been addressed on this site? If so, feel free to write to me:
 
   
 
-*   HOD / Ms Celestine Hang<br>
-[hang_shu_min_celestine@moe.edu.sg](mailto:hang_shu_min_celestine@moe.edu.sg)
+*   HOD / Ms Celestine Hang
+    [hang_shu_min_celestine@schools.gov.sg](mailto:hang_shu_min
