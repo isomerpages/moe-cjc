@@ -65,7 +65,7 @@ sections:
       button: See our latest happenings
   - infobar:
       title: Facebook
-      button: Facebook
+      button: CJC Facebook
       url: https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
         class="link-button remove-after is-flex is-vh-centered flex-center">
         <div id="fb-root"></div> <script nonce="mkHj3XlA"
