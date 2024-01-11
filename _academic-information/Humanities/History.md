@@ -86,4 +86,4 @@ Do you have a question that has not been addressed on this site? If so, feel fre
   
 
 *   HOD / Ms Celestine Hang
-    [hang_shu_min_celestine@schools.gov.sg](mailto:hang_shu_min
+    [hang_shu_min_celestine@schools.gov.sg](mailto:hang_shu_min)
