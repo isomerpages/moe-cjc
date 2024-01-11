@@ -68,7 +68,7 @@ sections:
       button: CJC Facebook
       url: https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
         class="link-button remove-after is-flex is-vh-centered flex-center">
-        <div id="fb-root"></div> <script nonce="mkHj3XlA"
+        <div id="fb-root"></div><script nonce="mkHj3XlA"
         src="https://connect.facebook.net/en_GB/sdk.js" crossorigin="anonymous"
         async=""></script>
 ---
