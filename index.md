@@ -66,21 +66,17 @@ sections:
   - infobar:
       title: Facebook
       button: CJC Facebook
-      url: 'https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
-        class="bp-sec-button"><script nonce=""
-        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v16.0"
-        crossorigin="anonymous" async=""></script><div data-show-facepile="true"
-        data-hide-cover="false" data-adapt-container-width="true"
-        data-small-header="false" data-height="" data-width="500"
-        data-tabs="timeline" data-href="https://www.facebook.com/CatholicJC/"
-        class="fb-page"><a
-        href="https://www.facebook.com/CatholicJC/"></a><blockquote
-        class="fb-xfbml-parse-ignore"
+      url: '" target="_blank" rel="noreferrer" class="link-button remove-after is-flex
+        is-vh-centered flex-center"> <div id="fb-root"></div> <script
+        nonce="mkHj3XlA"
+        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v18.0"
+        crossorigin="anonymous" async=""></script> <div
+        data-show-facepile="false" data-hide-cover="false"
+        data-adapt-container-width="true" data-small-header="true"
+        data-height="800" data-width="500" data-tabs="timeline"
+        data-href="https://www.facebook.com/CatholicJC/"
+        class="fb-page"><blockquote class="fb-xfbml-parse-ignore"
         cite="https://www.facebook.com/CatholicJC/"><a
-        href="https://www.facebook.com/CatholicJC/"></a><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
-        College</a></blockquote></div><style>img {   border-radius: 16px;
-        }   .bg-media-color-2 {   background-color:rgb(181,133,0);
-        }  .media-card-plain { border-radius: 16px; }</style><font
-        color="ffffff"></font>'
+        College</a></blockquote></div>'
 ---
