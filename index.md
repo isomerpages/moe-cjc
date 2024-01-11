@@ -77,5 +77,6 @@ sections:
         class="fb-page"><blockquote class="fb-xfbml-parse-ignore"
         cite="https://www.facebook.com/CatholicJC/"><a
         href="https://www.facebook.com/CatholicJC/">Catholic Junior
-        College</a></blockquote></blockquote>
+        College</a></blockquote></blockquote><style>media-card-plain{
+        border-radius:15px;}</style>
 ---
