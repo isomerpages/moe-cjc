@@ -66,16 +66,9 @@ sections:
   - infobar:
       title: Facebook
       button: CJC Facebook
-      url: https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
+      url: 'https://www.facebook.com/CatholicJC/" target="_blank" rel="noreferrer"
         class="link-button remove-after is-flex is-vh-centered flex-center">
         <div id="fb-root"></div> <script nonce="mkHj3XlA"
-        src="https://connect.facebook.net/en_GB/sdk.js#xfbml=1&version=v18.0"
-        crossorigin="anonymous"></script> <div data-show-facepile="false"
-        data-hide-cover="false" data-adapt-container-width="true"
-        data-small-header="true" data-height="800" data-width="500"
-        data-tabs="timeline" data-href="https://www.facebook.com/CatholicJC/"
-        class="fb-page"><blockquote class="fb-xfbml-parse-ignore"
-        cite="https://www.facebook.com/CatholicJC/"><a
-        href="https://www.facebook.com/CatholicJC/">Catholic Junior
-        College</a></blockquote></div>
+        src="https://connect.facebook.net/en_GB/sdk.js" crossorigin="anonymous"
+        async=""></script> '
 ---
