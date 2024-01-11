@@ -74,6 +74,6 @@ sections:
         data-hide-cover="false" data-adapt-container-width="true"
         data-small-header="true" data-height="800" data-width="500"
         data-tabs="timeline" data-href="https://www.facebook.com/CatholicJC/"
-        class="fb-page"></blockquote><style>media-card-plain{
+        class="fb-page"></blockquote><style>.media-card-plain{
         border-radius:15px;}</style>
 ---
