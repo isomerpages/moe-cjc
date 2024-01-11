@@ -13,12 +13,6 @@ It is a unique subject which bridges the social sciences with the natural scienc
 
 The CJC Geography programme combines authentic learning opportunities with inquiry-based learning. We believe in applying learning to real-life contexts and learning in a community of passionate Geographers. You can look forward to interactive lectures, tutorials, research opportunities and fieldwork locally and overseas. 
 
-![](/images/Picture1_geog.png)
-![](/images/Picture2_geog.jpg)
-![](/images/Picture3_geog.jpg)
-![](/images/Picture4_geog.jpg)
-![](/images/Picture5_geog.jpg)
-
 #### **A-Level Syllabus**
 
 Click the following links for an overview of the Geography syllabi as well as the assessment formats:
