@@ -9,8 +9,8 @@ variant: markdown
 
 <div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
 <div style="float:left;width:70%;text-align:left;">
-	The principal symbol of Catholic Junior College (CJC) is the Holy Spirit. The <b>Spirit of God</b>, depicted by the dove, guides the College in every word, thought and deed.<br><br>
-The Spirit helps keep the Body of Christ - the Church, alive. Christ, symbolised by the cross, animates the CJC community so that we act ‘In Truth and Love’, in and beyond the College. 
+<p>	The principal symbol of Catholic Junior College (CJC) is the Holy Spirit. The <b>Spirit of God</b>, depicted by the dove, guides the College in every word, thought and deed.<br><br>
+The Spirit helps keep the Body of Christ - the Church, alive. Christ, symbolised by the cross, animates the CJC community so that we act ‘In Truth and Love’, in and beyond the College. </p>
 	</div>
 	<div style="float:left;width:30%;"><img src="/images/crest.jpg"></div>
 </div>
@@ -31,8 +31,8 @@ In Veritate et Caritate carries St Paul's message, a call to love and live among
 
 <div style="overflow:hidden;display: flex;flex-wrap: wrap;justify-content: center;align-items: center;">
 <div style="float:left;width:60%;text-align:left">
-The College Flag provides a setting for the College Crest - the two shades of blue that are used in the college uniform and blazer.<br><br>
-The Crest is placed at the intersection of Y or gamma which is the Greek letter for ‘c’ and is also taken as the form of the Christian Cross. The Flag provides a powerful rallying point for students and the broader College Community in the distinctive College colours.
+<p>The College Flag provides a setting for the College Crest - the two shades of blue that are used in the college uniform and blazer.<br><br>
+The Crest is placed at the intersection of Y or gamma which is the Greek letter for ‘c’ and is also taken as the form of the Christian Cross. The Flag provides a powerful rallying point for students and the broader College Community in the distinctive College colours.</p>
 	</div>
 	<div style="float:left;width:40%;"><img src="/images/flag.jpg"></div>
 </div>
