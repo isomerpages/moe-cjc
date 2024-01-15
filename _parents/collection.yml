@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Parents.md
-      - 2020.md
