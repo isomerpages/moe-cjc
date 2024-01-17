@@ -11,4 +11,4 @@ At the centre of a CJC education are higher-order thinking skills, communication
 Students in the Humanities and Science courses offer Project Work in JC1 and H1 General Paper over the course of both years. Both are compulsory subjects at the GCE A-level and required for local university admission. 
 
 *   **[H1 General Paper](/education/knowledge-skills/general-paper/)**
-*   **[H1 Project Work](/education/knowledge-skills/project-work/)**
+*   **[Project Work](/education/knowledge-skills/project-work/)**

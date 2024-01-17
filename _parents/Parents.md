@@ -2,15 +2,28 @@
 title: Parents
 permalink: /parents/
 description: ""
+variant: markdown
 ---
-### **Parents**
+### **Supporting Parents to Support Our Children**
 
-<p><a href="https://moe-cjc-staging.netlify.app/students/calender/">
-<img src="/images/calender.gif" style="width:20%;margin-right:5px;" align = "left">
-</a></p>
+The Family@CJ Parent Support Group (PSG) comprises parents who support the College’s mission and vision, and support other parents in our parenting journey. The motto of the PSG is ***‘To Love and to Serve'***.
+![](/images/psg_logo.png)
+The Family@CJ PSG logo was created by past PSG members. The logo is encircled by three hands encapsulating the strong tripartite partnership between the school, students and parents in promoting holistic education; one that develops every CJCian to be a *Thinker with a Mission and Leader with a Heart*. The three hands represented in the college colours of blue, red and yellow, highlight parents' fervent support in fulfilling the college’s mission and vision in Truth and in Love. 
 
-<br clear="left">
+### **PSG Exco 2024**
+![](/images/psg_2024_exco.jpg)
+![](/images/psg_2024_exco_list.png)
 
-#### **Useful Links**
-Parents' Gateway:  [Click Here](https://pg.moe.edu.sg/)<br>
-CJC Portal:  [Click Here](https://portal.catholicjc.edu.sg/)
+### **Key College Events Supported by the PSG**
+
+The PSG supports key college events through donations from parents and active participation.
+Refreshments on selected nights during the College’s Night Study Programme:
+![](/images/psg_nightstudy_1.png)
+Tokens of appreciation for staff at the College's Teachers' Day Celebrations:
+![](/images/psg_tday.png)
+Encouragement gifts for Jc2 students at the College's Graduation Ceremony:
+![](/images/psg_grad.png)
+
+### **Join the Family@CJ PSG**
+Come join us and support our CJC students and family! Scan the QR code or sign up at [http://tinyurl.com/CJCPSG](http://tinyurl.com/CJCPSG).
+![](/images/psg_qr.jpg)
