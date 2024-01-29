@@ -28,9 +28,7 @@ Students eligible for the Financial Assistance Scheme may apply for the CJC Need
 
 [Click here for the MOE FAS pamphlet.](/files/General%20Office/annex%20a_moe%20fas%20pamphlet%202024.pdf)
 
-Application for FAS is through the year, in order to qualify for FAS with effect from Jan 2024, please submit the completed application form with all required supporting documents to the General Office by 14 Nov 2023.
-
-For submission of application form and approval after 14 Nov 2023, applicants will only receive the grant with effect from March 2024.
+Application for FAS is through the year, in order to qualify for FAS with effect from April 2024, please submit the completed application form with all required supporting documents to the General Office by 16 February 2024.
 
 #### **Income Family Micro-Insurance and Savings Scheme (IFMISS)**
 For pupils attending a local Government or Government-aided primary school and is an MOE Financial Assistance Scheme (MOE-FAS) recipient: 
