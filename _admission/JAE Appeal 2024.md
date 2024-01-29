@@ -4,7 +4,7 @@ permalink: /admission/jae-appeal-2024/
 description: ""
 variant: markdown
 ---
-### **JAE Appeal 2023**
+### **JAE Appeal 2024**
 ![](/images/JAE.jpg)
 
 Appeal for admission to Catholic Junior College will be based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net L1R5 aggregate score of the lowest-ranked applicant for the course that he/she is appealing for. Eligible appeals will be given consideration, subject to available vacancies and college’s admission criteria.
