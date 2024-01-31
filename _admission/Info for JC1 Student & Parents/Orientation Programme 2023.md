@@ -36,23 +36,30 @@ Group Leaders (OGLs).
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Day / Date</strong></h4>
+<p><strong>Day / Date</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Start and End Time</strong></h4>
+<p><strong>Start and End Time</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4><strong>Key Events / Remarks</strong></h4>
+<p><strong>Key Events / Remarks</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Friday&nbsp;</strong><br><strong>2 Feb</strong></h4>
+<p><strong>Friday&nbsp;<br>2 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Reporting time: 7.30am</h4>
-<h4><br></h4>
-<h4>Dismissal time: 3.30pm</h4>
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 3.30pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -81,12 +88,16 @@ Programme at 3.30pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Monday&nbsp;</strong><br><strong>5 Feb</strong></h4>
+<p><strong>Monday&nbsp;<br>5 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Reporting time: 7.30am</h4>
-<h4><br></h4>
-<h4>Dismissal time: 3.00pm</h4>
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 3.00pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -110,12 +121,16 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tuesday</strong><br><strong>6 Feb</strong></h4>
+<p><strong>Tuesday<br>6 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Reporting time: 7.30am</h4>
-<h4><br></h4>
-<h4>Dismissal time: 5.15pm</h4>
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 5.15pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -133,12 +148,16 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Wednesday</strong><br><strong>7 Feb</strong></h4>
+<p><strong>Wednesday<br>7 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Reporting time: 7.30am</h4>
-<h4><br></h4>
-<h4>Dismissal time: 5pm</h4>
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 5pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
@@ -160,12 +179,16 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Thursday</strong><br><strong>8 Feb</strong></h4>
+<p><strong>Thursday<br>8 Feb</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<h4>Reporting time: 7.30am</h4>
-<h4><br></h4>
-<h4>Dismissal time: 5.45pm</h4>
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 5.45pm</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
