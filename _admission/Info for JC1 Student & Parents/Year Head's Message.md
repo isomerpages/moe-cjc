@@ -5,9 +5,7 @@ variant: markdown
 description: ""
 third_nav_title: Info for JC1 Student & Parents
 ---
-
-
-### Year Head’s Message
+## Year Head’s Message
 
 Dear JC1s,
 
@@ -26,4 +24,3 @@ Sincerely,
 Mr Mark Li
 <br>
 JC1 Year Head
-
