@@ -18,7 +18,7 @@ Interested students may apply through the following:
 *   General Appeal - Students who wish to appeal through academic results; Or
     
 
-  
+
 
 *   CCA Appeal - Students who wish to appeal through CCA must have represented school and achieved minimum top 4 in Zonal/National, SYF participation (accomplishment and distinction) or any other equivalent competitions (with equivalent results) for the CCA in 2022/2023. Please refer to Table 1 for the list of CCAs.
     
@@ -41,15 +41,15 @@ Complete the online application form via the Online Registration portal [HERE](h
 STEP 2:
 The following supporting documents are to be included in the online application:&nbsp;
 
-1) Form A (which was issued to you on the day of O-Level results release)
+* Form A (which was issued to you on the day of O-Level results release)
 
-2) O-Level, Sec 3, Sec 4 exam results
+* O-Level, Sec 3, Sec 4 exam results
 
-3) JAE Verification slip (showing 1st, 2nd, 3rd JC choices)
+* JAE Verification slip (showing 1st, 2nd, 3rd JC choices)
 
-4) Posting Results Slip (showing JC/Poly posted to)
+* Posting Results Slip (showing JC/Poly posted to)
 
-5) Co-Curriculum certificate
+* Co-Curriculum certificate
 
 \* Please do not upload additional supporting documents other than the 5 requested above. We will contact you to provide more if we need further verification.
 
