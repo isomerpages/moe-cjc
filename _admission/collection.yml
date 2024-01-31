@@ -3,8 +3,9 @@ collections:
     output: true
     order:
       - Join CJC.md
-      - Info for JC1 Student & Parents/Year Head's Message.md
+      - Info for JC1 Student & Parents/.keep
       - Info for JC1 Student & Parents/Principal's Welcome Message.md
+      - Info for JC1 Student & Parents/Year Head's Message.md
       - Info for JC1 Student & Parents/First Day of School for JC1.md
       - Info for JC1 Student & Parents/Orientation Programme 2023.md
       - Info for JC1 Student & Parents/Subject Combination Registration.md
@@ -17,7 +18,6 @@ collections:
       - Info for JC1 Student & Parents/Extension of Student Pass for
         International Students.md
       - Info for JC1 Student & Parents/Extension of Student Smartcard.md
-      - Info for JC1 Student & Parents/.keep
       - Direct School Admission 2023.md
       - JAE Appeal 2024.md
       - International and Returning Singaporean Students.md
