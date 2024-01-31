@@ -3,27 +3,193 @@ title: Orientation Programme 2023
 permalink: /admission/info-for-jc1-students-and-parents/orientation-programme-2023/
 description: ""
 third_nav_title: Info for JC1 Student & Parents
-variant: markdown
+variant: tiptap
 ---
-Orientation Programme 2024
-==========================
-
-### Orientation 2024 (2 to 8 February 2024) 
-
-###### In order to help our new students settle in, the college has specially organised an Orientation Programme for all JC1 students joining the school. JC1 students are expected to participate actively in the Orientation activities so that you will be able to familiarise yourself with the college’s academic and co-curricular programmes, interact and bond with your seniors and other JC1 students. We look forward to seeing you at Orientation. 
-Please take note of the following details:
+<h1>Orientation Programme 2024</h1>
+<h3>Orientation 2024 (2 to 8 February 2024)</h3>
+<h6>In order to help our new students settle in, the college has specially organised an Orientation Programme for all JC1 students joining the school. JC1 students are expected to participate actively in the Orientation activities so that you will be able to familiarise yourself with the college’s academic and co-curricular programmes, interact and bond with your seniors and other JC1 students. We look forward to seeing you at Orientation.</h6>
+<p>Please take note of the following details:
 <br>
-* The morning assembly begins at 7.40am daily during Orientation. Please report by 7.30am at the Auditorium. You are expected to be punctual for all activities and functions. 
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>The morning assembly begins at 7.40am daily during Orientation. Please
+report by 7.30am at the Auditorium. You are expected to be punctual for
+all activities and functions.
 <br>
-*   Attendance will be marked at the beginning and end of each day.
+</p>
+</li>
+<li>
+<p>Attendance will be marked at the beginning and end of each day.
 <br>
- *   Should you feel unwell, please inform the teacher-in-charge and your Orientation Group Leaders (OGLs).
-<br> <br>
-
-<table style="border:none;border-collapse:collapse;"><colgroup><col width="119"><col width="119"><col width="385"></colgroup><tbody><tr style="height:21.75pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Day / Date</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Start and End Time</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Key Events / Remarks</span></h1></td></tr><tr style="height:63pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Friday&nbsp;</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2 Feb</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting time: 7.30am</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismissal time: 3.30pm</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Principal’s Welcome Address</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">School College Tour</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OG Bonding Time &amp; Faction Time</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Subject Registration Briefing at 1.30pm, followed by Subject Consultations</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Briefing for Ignite Programme and English Language &amp; Linguistics (ELL) Programme at 3.30pm </span><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(where applicable)</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Subject Registration System @ CJC Portal opens at 3pm</span></h1></li></ul></td></tr><tr style="height:74.25pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Monday&nbsp;</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">5 Feb</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting time: 7.30am</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismissal time: 3.00pm</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Subject Registration System @ CJC Portal closes at 9am</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Uniform Sales for all students (please bring your own bag; payment by Cash or PayNow)</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OG Bonding Time &amp; Faction Games</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Selection Test for Ignite Programme and English Language &amp; Linguistics Programme at 3pm </span><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(where applicable)</span></h1></li></ul></td></tr><tr style="height:36pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Tuesday</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">6 Feb</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting time: 7.30am</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismissal time: 5.15pm</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Trials of the Matrix &amp; Picnic @ External Venue</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">House Amazing Race</span></h1></li></ul><br></td></tr><tr style="height:36pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Wednesday</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">7 Feb</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting time: 7.30am</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismissal time: 5pm</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">OG Bonding Time &amp; Faction Games</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Fully Alive: Introduction to the CJ Catholic Community at 1pm </span><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">(for all Catholics)</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">HOD PE/CCA Briefing: CCA Trials and Selection</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">CCA Bazaar for all students at 3pm</span></p></li></ul></td></tr><tr style="height:36pt"><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thursday</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">8 Feb</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Reporting time: 7.30am</span></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><br></h1><h1 style="line-height:1.44;margin-left: 8pt;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:10pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Dismi</span><span style="font-size:10pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ssal time: 5.45pm</span></h1></td><td style="border-left:solid #000000 0.99609pt;border-right:solid #000000 0.99609pt;border-bottom:solid #000000 0.99609pt;border-top:solid #000000 0.99609pt;vertical-align:top;padding:5pt 5pt 5pt 5pt;overflow:hidden;overflow-wrap:break-word;"><ul style="margin-top:0;margin-bottom:0;padding-inline-start:48px;"><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><h1 role="presentation" style="line-height:1.7999999999999998;margin-right: 8pt;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Mandala Activity &amp; Sharing</span></h1></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">ChronoSplash!</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Faction Finale</span></p></li><li aria-level="1" style="list-style-type:disc;font-size:11pt;font-family:Arial,sans-serif;color:#2a2a2a;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;margin-left: -13.5pt;" dir="ltr"><p role="presentation" style="line-height:1.7999999999999998;margin-top:0pt;margin-bottom:0pt;" dir="ltr"><span style="font-size:11pt;font-family:Arial,sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Briefing for CNY eve celebrations and Matriculation Week</span></p></li></ul></td></tr></tbody></table>
-
-  
-
-===
-
-**
+</p>
+</li>
+<li>
+<p>Should you feel unwell, please inform the teacher-in-charge and your Orientation
+Group Leaders (OGLs).
+<br>
+<br>
+</p>
+</li>
+</ul>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Day / Date</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Start and End Time</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4><strong>Key Events / Remarks</strong></h4>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Friday&nbsp;</strong></h4>
+<h4><strong>2 Feb</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Reporting time: 7.30am</h4>
+<h4><br></h4>
+<h4>Dismissal time: 3.30pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Principal’s Welcome Address</p>
+</li>
+<li>
+<p>School College Tour</p>
+</li>
+<li>
+<p>OG Bonding Time &amp; Faction Time</p>
+</li>
+<li>
+<p>Subject Registration Briefing at 1.30pm, followed by Subject Consultations</p>
+</li>
+<li>
+<p>Briefing for Ignite Programme and English Language &amp; Linguistics (ELL)
+Programme at 3.30pm <em>(where applicable)</em>
+</p>
+</li>
+<li>
+<p>Subject Registration System @ CJC Portal opens at 3pm</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Monday&nbsp;</strong></h4>
+<h4><strong>5 Feb</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Reporting time: 7.30am</h4>
+<h4><br></h4>
+<h4>Dismissal time: 3.00pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Subject Registration System @ CJC Portal closes at 9am</p>
+</li>
+<li>
+<p>Uniform Sales for all students (please bring your own bag; payment by
+Cash or PayNow)</p>
+</li>
+<li>
+<p>OG Bonding Time &amp; Faction Games</p>
+</li>
+<li>
+<p>Selection Test for Ignite Programme and English Language &amp; Linguistics
+Programme at 3pm <em>(where applicable)</em>
+</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Tuesday</strong></h4>
+<h4><strong>6 Feb</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Reporting time: 7.30am</h4>
+<h4><br></h4>
+<h4>Dismissal time: 5.15pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Trials of the Matrix &amp; Picnic @ External Venue</p>
+</li>
+<li>
+<p>House Amazing Race</p>
+</li>
+</ul>
+<p>
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Wednesday</strong></h4>
+<h4><strong>7 Feb</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Reporting time: 7.30am</h4>
+<h4><br></h4>
+<h4>Dismissal time: 5pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>OG Bonding Time &amp; Faction Games</p>
+</li>
+<li>
+<p>Fully Alive: Introduction to the CJ Catholic Community at 1pm <em>(for all Catholics)</em>
+</p>
+</li>
+<li>
+<p>HOD PE/CCA Briefing: CCA Trials and Selection</p>
+</li>
+<li>
+<p>CCA Bazaar for all students at 3pm</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h4><strong>Thursday</strong></h4>
+<h4><strong>8 Feb</strong></h4>
+</td>
+<td rowspan="1" colspan="1">
+<h4>Reporting time: 7.30am</h4>
+<h4><br></h4>
+<h4>Dismissal time: 5.45pm</h4>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Mandala Activity &amp; Sharing</p>
+</li>
+<li>
+<p>ChronoSplash!</p>
+</li>
+<li>
+<p>Faction Finale</p>
+</li>
+<li>
+<p>Briefing for CNY eve celebrations and Matriculation Week</p>
+</li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p>===</p>
+<p>**</p>
