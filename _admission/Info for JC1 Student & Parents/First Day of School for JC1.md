@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: markdown
 ---
-
-### Instructions for 1st Day of School:
+## Instructions for 1st Day of School:
 -----------------------------------
 
 Be appropriately and neatly attired in your secondary school uniform and bring along your water bottle. Please also ensure that your hair is neat and tidy. Dyed hair and multiple earrings are not allowed.
