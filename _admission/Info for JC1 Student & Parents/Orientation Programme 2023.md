@@ -47,8 +47,7 @@ Group Leaders (OGLs).
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Friday&nbsp;</strong></h4>
-<h4><strong>2 Feb</strong></h4>
+<h4><strong>Friday&nbsp;</strong><br><strong>2 Feb</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Reporting time: 7.30am</h4>
@@ -82,8 +81,7 @@ Programme at 3.30pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Monday&nbsp;</strong></h4>
-<h4><strong>5 Feb</strong></h4>
+<h4><strong>Monday&nbsp;</strong><br><strong>5 Feb</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Reporting time: 7.30am</h4>
@@ -112,8 +110,7 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Tuesday</strong></h4>
-<h4><strong>6 Feb</strong></h4>
+<h4><strong>Tuesday</strong><br><strong>6 Feb</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Reporting time: 7.30am</h4>
@@ -136,8 +133,7 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Wednesday</strong></h4>
-<h4><strong>7 Feb</strong></h4>
+<h4><strong>Wednesday</strong><br><strong>7 Feb</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Reporting time: 7.30am</h4>
@@ -164,8 +160,7 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h4><strong>Thursday</strong></h4>
-<h4><strong>8 Feb</strong></h4>
+<h4><strong>Thursday</strong><br><strong>8 Feb</strong></h4>
 </td>
 <td rowspan="1" colspan="1">
 <h4>Reporting time: 7.30am</h4>
@@ -191,5 +186,5 @@ Programme at 3pm <em>(where applicable)</em>
 </tr>
 </tbody>
 </table>
-<p>===</p>
+<p></p>
 <p>**</p>
