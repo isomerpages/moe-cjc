@@ -7,7 +7,7 @@ variant: markdown
 ### **JAE Appeal 2024**
 ![](/images/JAE.jpg)
 
-Appeal for admission to Catholic Junior College will be based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered only if the applicant meets the net L1R5 aggregate score of the lowest-ranked applicant for the course that he/she is appealing for. Eligible appeals will be given consideration, subject to available vacancies and college’s admission criteria.
+Appeal for admission to Catholic Junior College will be based on objective and transparent measures of academic merit, i.e. L1R5 aggregate score. Applications are considered **only if the applicant meets the net L1R5 aggregate score of the lowest-ranked applicant for the course that he/she is appealing for**. Eligible appeals will be given consideration, subject to available vacancies and college’s admission criteria.
 
   
 
@@ -29,18 +29,16 @@ Applications will be conducted online via the CJC Online Registration portal. St
 
   
 
-Application Procedures
+#### Application Procedures
 
   
 
 STEP 1:
-
 Complete the online application form via the Online Registration portal [HERE](http://jae.catholicjc.edu.sg). (Available only from 1 Feb 2024 8am)
 
   
 
 STEP 2:
-
 The following supporting documents are to be included in the online application:&nbsp;
 
 1) Form A (which was issued to you on the day of O-Level results release)
@@ -57,12 +55,12 @@ The following supporting documents are to be included in the online application:
 
   
 
-The JAE appeal period is strictly from 1 Feb 2024 (Thu), 8am to 7 Feb 2024 (Wed), 12noon. Late or incomplete submission will not be considered.
+**The JAE appeal period is strictly from 1 Feb 2024 (Thu), 8am to 7 Feb 2024 (Wed), 12noon. Late or incomplete submission will not be considered.**
 
   
   
 
-Appeal Process
+#### Appeal Process
 
   
 
@@ -78,7 +76,7 @@ Appeal Process
   
   
 
-Important Note
+#### Important Note
 
 1\. All applicants are required to report to the college that they are posted to by the Ministry of Education on 2 Feb 2024 (Fri), 7.30am, pending the outcome of their appeal application to CJC.
 
@@ -89,7 +87,7 @@ Important Note
   
   
 
-Table 1: Relevant CCAs
+*Table 1: Relevant CCAs*
 
   
 
