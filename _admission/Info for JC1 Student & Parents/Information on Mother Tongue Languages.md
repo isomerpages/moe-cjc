@@ -82,13 +82,10 @@ Please submit the following to the General Office by 7 Feb 2024:
 
   
 
-**(F) First-time applications for MTL Exemption / MTB**
+**(F) First-time applications for MTL Exemption / MT B**
 <br>
 Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:
-
+<br>
 *   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please state your name and contact number in the letter.
     
-*   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).
-    
-
-**</li></ul>
+*   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).</li></ul>
