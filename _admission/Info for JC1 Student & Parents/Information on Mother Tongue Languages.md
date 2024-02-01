@@ -78,7 +78,7 @@ Please submit the following to the General Office by 7 Feb 2024:
 
 <ul><li>You are expected to continue with or make the arrangement to study the approved language privately (e.g. private language centers or private tutors).&nbsp;</li>
     
-<li>You must provide the relevant details and evidence to the HOD/MTL (e.g. enrolment slip for the private language centre).</li></ul></li></ul>
+<li>You must provide the relevant details and evidence to the HOD/MTL (e.g. enrolment slip for the private language centre).</li></ul></li></ul></li></ul>
     
 
   
@@ -87,6 +87,6 @@ Please submit the following to the General Office by 7 Feb 2024:
 <br>
 Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:
 <br>
-*   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please state your name and contact number in the letter.
-    
-*   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).</li></ul>
+* Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please state your name and contact number in the letter.
+
+* Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).
