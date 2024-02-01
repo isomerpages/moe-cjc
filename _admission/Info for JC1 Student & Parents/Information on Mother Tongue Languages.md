@@ -63,9 +63,9 @@ Please submit the following to the General Office by 7 Feb 2024:
 <br>
 (b) registration will open from Fri 2 Feb to Tues 6 Feb (closes at 5pm sharp)
 
-<ul><li>Other FL students who wish to apply for a place in MOELC:&nbsp;
+<ul><li>Other FL students who wish to apply for a place in MOELC:&nbsp;</li>
 	
-* Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:
+<ul><li>Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:</li>
     
 
 *   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Include your name and contact number in the letter.
@@ -92,4 +92,4 @@ Application will be done through College. Please submit the following to the Gen
 *   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).
     
 
-**</li></ul>
+**</ul></ul>
