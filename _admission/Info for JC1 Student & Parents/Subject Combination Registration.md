@@ -26,7 +26,7 @@ In summary, do take into consideration the following when deciding on your subje
 
 ### Combination Choice
 
-The details of the subject combinations offered to all new students in 2024 are available on our college website: [CJC Academic Information](https://www.cjc.moe.edu.sg/admission/subject-combinations-2024/)&nbsp;
+The details of the subject combinations offered to all new students in 2024 are available on our college website: [CJC Academic Information](https://go.gov.sg/cjc-subject-combinations-2024)&nbsp;
 
   
 
