@@ -7,31 +7,28 @@ variant: tiptap
 ---
 <h1>Orientation Programme 2024</h1>
 <h3>Orientation 2024 (2 to 8 February 2024)</h3>
-<h6>In order to help our new students settle in, the college has specially organised an Orientation Programme for all JC1 students joining the school. JC1 students are expected to participate actively in the Orientation activities so that you will be able to familiarise yourself with the college’s academic and co-curricular programmes, interact and bond with your seniors and other JC1 students. We look forward to seeing you at Orientation.</h6>
+<p>In order to help our new students settle in, the college has specially
+organised an Orientation Programme for all JC1 students joining the school.
+JC1 students are expected to participate actively in the Orientation activities
+so that you will be able to familiarise yourself with the college’s academic
+and co-curricular programmes, interact and bond with your seniors and other
+JC1 students. We look forward to seeing you at Orientation.</p>
 <p>Please take note of the following details:
 <br>
 </p>
-<ul data-tight="true" class="tight">
-<li>
 <p>The morning assembly begins at 7.40am daily during Orientation. Please
 report by 7.30am at the Auditorium. You are expected to be punctual for
 all activities and functions.
 <br>
 </p>
-</li>
-<li>
 <p>Attendance will be marked at the beginning and end of each day.
 <br>
 </p>
-</li>
-<li>
 <p>Should you feel unwell, please inform the teacher-in-charge and your Orientation
 Group Leaders (OGLs).
 <br>
 <br>
 </p>
-</li>
-</ul>
 <table>
 <tbody>
 <tr>
