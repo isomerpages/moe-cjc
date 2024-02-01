@@ -25,7 +25,7 @@ Week.</p>
 </li>
 <li>
 <p>Students can continue to login and make changes to their choices within
-the registration period. No changes will be allowed after 6 Feb 2023 (Mon),
+the registration period. No changes will be allowed after 5 Feb 2024 (Mon),
 9am.</p>
 </li>
 </ul>
