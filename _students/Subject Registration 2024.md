@@ -36,8 +36,8 @@ the registration period. No changes will be allowed after 6 Feb 2023 (Mon),
 <p><strong>If you have any questions please contact us at the following address: <a href="mailto:catholicjcreg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">catholicjcreg@gmail.com</a></strong>
 </p>
 <p>User Guide for the Subject Registration System - Click on the briefing
-slides for information.
-<br><strong><a href="/files/2023subjectcombination.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Subject Registration Briefing 2 Feb.pdf</a></strong>
+slides for information.</p>
+<p><strong>2024 Subject Registration Briefing 2 Feb</strong>
 </p>
 <p><strong><a href="https://go.gov.sg/cjc-subject-combinations-2024" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
