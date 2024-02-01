@@ -70,11 +70,10 @@ Please submit the following to the General Office by 7 Feb 2024:
 
 *   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Include your name and contact number in the letter.
     
-*   Admission to MOELC is considered only if there is a vacancy and if students are selected to sit for the admission test. Admission will be based on test results due to the limited number of vacancies.
+*   Admission to MOELC is considered only if there is a vacancy and if students are selected to sit for the admission test. Admission will be based on test results due to the limited number of vacancies.</ul></ul>
     
 
-*   FL students who are not attending classes at MOELC or are waiting for MOELC registration outcome:
-    
+<ul><li>FL students who are not attending classes at MOELC or are waiting for MOELC registration outcome:
 
 *   You are expected to continue with or make the arrangement to study the approved language privately (e.g. private language centers or private tutors).&nbsp;
     
@@ -83,8 +82,8 @@ Please submit the following to the General Office by 7 Feb 2024:
 
   
 
-(F) First-time applications for MTL Exemption / MT B
-
+**(F) First-time applications for MTL Exemption / MTB**
+<br>
 Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:
 
 *   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please state your name and contact number in the letter.
@@ -92,4 +91,4 @@ Application will be done through College. Please submit the following to the Gen
 *   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).
     
 
-**</ul></ul>
+**</li></ul>
