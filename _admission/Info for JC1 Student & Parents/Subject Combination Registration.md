@@ -30,7 +30,7 @@ The details of the subject combinations offered to all new students in 2024 are 
 
   
 
-This microsite also provides details of
+This [microsite](https://go.gov.sg/cjc-oh-microsite) also provides details of
 
 *   College’s Signature Programmes
     
