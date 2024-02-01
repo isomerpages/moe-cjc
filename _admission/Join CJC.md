@@ -10,7 +10,7 @@ a reality. We believe you have the potential to make the world a better
 place.</p>
 </blockquote>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="ASEAN Day 2019 reception wt DS Peter Tan" src="/images/asean%20day%202019%20reception%20wt%20ds%20peter%20tan.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/admission2.jpg">
 </div>
 <p><em>CJCians attending an ASEAN reception in 2019. Deputy Secretary Mr Peter Tan (centre) is from the Class of 1984. Teacher-in-charge, Mr Lucas D’Cruz, is on the extreme right of the photo.</em>
 </p>
@@ -30,8 +30,9 @@ For prospective and current students, details on&nbsp;<a href="https://go.gov.sg
 <a href="https://sites.google.com/moe.edu.sg/subjectcombinationselection/jc1-subject-selection" rel="noopener noreferrer nofollow" target="_blank">higher education and career prospects</a>&nbsp;can be accessed here at
 our admissions site.</p>
 <h4><strong>Who We Are</strong></h4>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WhoWeAre2" src="/images/whoweare2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whoweare2.jpg">
 </div>
 <p><strong>The CJC student is at once bold, creative, inquisitive and not afraid to challenge his or her limits.</strong>&nbsp;We
 believe in the all-rounder who wants to excel in and beyond academic performance.
@@ -42,10 +43,9 @@ writers, scientists and soldiers amongst our proud alumni. Whatever your
 calling, our mission is to guide you to make your dream a reality.&nbsp;<strong>We believe you have the potential to make the world a better place.</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="WhoWeAre3" src="/images/whoweare%203.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/whoweare_3.jpg">
 </div>
 <blockquote>
-<p></p>
 <p>"We expect the highest academic performance and the most sensitive social
 and spiritual response from all of our students. What we do expect of you,
 whether you have 5 or 19 points, is that you be men and women who put service
