@@ -63,21 +63,22 @@ Please submit the following to the General Office by 7 Feb 2024:
 <br>
 (b) registration will open from Fri 2 Feb to Tues 6 Feb (closes at 5pm sharp)
 
-<ul><li>Other FL students who wish to apply for a place in MOELC:&nbsp;</li>
-	
-<ul><li>Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:</li>
+<ul>
+<li>Other FL students who wish to apply for a place in MOELC:
+
+<ul><li>Application will be done through College. Please submit the following to the General Office by 7 Feb 2024:
     
 
-*   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Include your name and contact number in the letter.
+<ul><li>Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Include your name and contact number in the letter.</li>
     
-*   Admission to MOELC is considered only if there is a vacancy and if students are selected to sit for the admission test. Admission will be based on test results due to the limited number of vacancies.</ul></ul>
+<li>Admission to MOELC is considered only if there is a vacancy and if students are selected to sit for the admission test. Admission will be based on test results due to the limited number of vacancies.</li></ul>
     
 
-<ul><li>FL students who are not attending classes at MOELC or are waiting for MOELC registration outcome:
+</li><li>FL students who are not attending classes at MOELC or are waiting for MOELC registration outcome:
 
-*   You are expected to continue with or make the arrangement to study the approved language privately (e.g. private language centers or private tutors).&nbsp;
+<ul><li>You are expected to continue with or make the arrangement to study the approved language privately (e.g. private language centers or private tutors).&nbsp;</li>
     
-*   You must provide the relevant details and evidence to the HOD/MTL (e.g. enrolment slip for the private language centre).<ul>
+<li>You must provide the relevant details and evidence to the HOD/MTL (e.g. enrolment slip for the private language centre).</li></ul></li></ul>
     
 
   
@@ -88,4 +89,4 @@ Application will be done through College. Please submit the following to the Gen
 <br>
 *   Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please state your name and contact number in the letter.
     
-*   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).</ul></li></ul>
+*   Copies of school results (Sec 3 and 4), PSLE and O-Level certificates and other relevant documents where applicable (e.g. medical report).</li></ul>
