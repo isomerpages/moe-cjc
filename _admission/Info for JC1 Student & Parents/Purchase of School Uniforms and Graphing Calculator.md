@@ -40,7 +40,7 @@ Please bring your own bags, as plastic bags would not be provided during the sal
 
 Graphing Calculator by Texas Instruments - TI-84 Plus CE Python
 
-![](https://lh7-us.googleusercontent.com/Dntrf_N9dwMPz-MUzJtfwQDMgylFjwJcInyNoasZMAlZ31e_o_YFSe38L972KcuuHjnyy6K3Nh74wrmsFhdrLbTQw4NpX5qWfThizJun8_YCVsxtUeZXylMLWWe1eG92CU_M_WNkr1B-8dVDcI3Q8ck)  
+**![](https://lh7-us.googleusercontent.com/Dntrf_N9dwMPz-MUzJtfwQDMgylFjwJcInyNoasZMAlZ31e_o_YFSe38L972KcuuHjnyy6K3Nh74wrmsFhdrLbTQw4NpX5qWfThizJun8_YCVsxtUeZXylMLWWe1eG92CU_M_WNkr1B-8dVDcI3Q8ck)**
 
 **Date &amp; Time: Tuesday, 14 Feb, 11.30am to 4.30pm**
 
