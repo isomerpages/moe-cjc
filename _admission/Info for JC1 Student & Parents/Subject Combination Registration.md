@@ -21,7 +21,7 @@ In summary, do take into consideration the following when deciding on your subje
     
 *   The University pre-requisites of your possible degree choices
     
-*   Understand more by listening to the senior’s recorded sharings on the website, speaking to your seniors and our Education &amp; Career Guidance Counselor, Ms Joys Lin. You are strongly encouraged to make an appointment with Ms Joys Lin via this link [https://go.gov.sg/ecgcjc](https://go.gov.sg/ecgcjc)&nbsp;&nbsp;
+*   Understand more by listening to the senior’s recorded sharings on the website, speaking to your seniors and our Education &amp; Career Guidance Counselor, Ms Joys Lin. You are **strongly encouraged** to make an appointment with Ms Joys Lin via this link [https://go.gov.sg/ecgcjc](https://go.gov.sg/ecgcjc)&nbsp;&nbsp;
 
 
 ### Combination Choice
@@ -54,7 +54,7 @@ Through these avenues, we hope that you will start your CJ experience with an ov
 
   
 
-Therefore, please consider your subject combination selection carefully in consultation with your parents. You need to register your subject combination choices using the CJC Portal from Friday 2 Feb to Monday, 5 Feb. More details will be provided during the “Subject Registration Briefing” on 2 Feb.
+Therefore, please consider your subject combination selection carefully in consultation with your parents. **You need to register your subject combination choices using the CJC Portal from Friday 2 Feb to Monday, 5 Feb**. More details will be provided during the “Subject Registration Briefing” on 2 Feb.
 
   
 
@@ -68,4 +68,3 @@ Following the subject selection exercise, students will begin attending lessons 
   
 
 The Matriculation Week Timetable will be shared with the J1 students upon the allocation of classes on 9 Feb.
-
