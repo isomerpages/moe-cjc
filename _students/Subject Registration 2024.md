@@ -37,7 +37,7 @@ the registration period. No changes will be allowed after 5 Feb 2024 (Mon),
 </p>
 <p>User Guide for the Subject Registration System - Click on the briefing
 slides for information.</p>
-<p><strong>2024 Subject Registration Briefing 2 Feb.pdf</strong>
+<p><strong><a href="/files/2024_Subject_Registration_Briefing__FINAL__pptx_compressed.pdf" rel="noopener noreferrer nofollow" target="_blank">2024 Subject Registration Briefing 2 Feb.pdf</a></strong>
 </p>
 <p><strong><a href="https://go.gov.sg/cjc-subject-combinations-2024" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
