@@ -75,6 +75,7 @@ variant: markdown
 | Yeo Chin Leong William / Acting Level Head/Economics | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg) |
 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
 | Carolina Ng  | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg) |
+| Chua Siew Hong | [chua_siew_hong@moe.edu.sg](mailto:chua_siew_hong@moe.edu.sg) |
 | Ernest Lim Jingjie  | [ernest_lim_jingjie@moe.edu.sg](mailto:ernest_lim_jingjie@moe.edu.sg) |
 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
 | Peh Beng Lee  | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg) |
@@ -165,7 +166,7 @@ variant: markdown
 | Foo Chee Tuang  | [foo_chee_tuang@moe.edu.sg](mailto:foo_chee_tuang@moe.edu.sg) |
 | Ho Wei Leong Adrian  | [ho_wei_leong_adrian@moe.edu.sg](mailto:ho_wei_leong_adrian@moe.edu.sg) |
 | James Oh  | [james_oh_chit_lim@moe.edu.sg](mailto:james_oh_chit_lim@moe.edu.sg) |
-| Loh Mun Cheun Rene |
+| Loh Mun Cheun Rene | 
 | Peter Loke Weng Oon  | [peter_loke_weng_onn@moe.edu.sg](mailto:peter_loke_weng_onn@moe.edu.sg) |
 |
 
@@ -181,6 +182,7 @@ variant: markdown
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
 | Lim Siow Fen |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
+| Samihani Binte Ali | [samihani_ali@moe.edu.sg](mailto:samihani_ali@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg) |
 
 
