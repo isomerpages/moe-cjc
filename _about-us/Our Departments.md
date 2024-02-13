@@ -166,7 +166,7 @@ variant: markdown
 | Foo Chee Tuang  | [foo_chee_tuang@moe.edu.sg](mailto:foo_chee_tuang@moe.edu.sg) |
 | Ho Wei Leong Adrian  | [ho_wei_leong_adrian@moe.edu.sg](mailto:ho_wei_leong_adrian@moe.edu.sg) |
 | James Oh  | [james_oh_chit_lim@moe.edu.sg](mailto:james_oh_chit_lim@moe.edu.sg) |
-| Loh Mun Cheun Rene | 
+| Loh Mun Cheun Rene | [loh_mun_cheun_rene_a@moe.edu.sg](mailto:loh_mun_cheun_rene_a@moe.edu.sg) |
 | Peter Loke Weng Oon  | [peter_loke_weng_onn@moe.edu.sg](mailto:peter_loke_weng_onn@moe.edu.sg) |
 |
 
@@ -196,6 +196,7 @@ variant: markdown
 | Cipto Hu / Asst Year Head JC1  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
 | Leong Wee Tek Alvin / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg) |
 | Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
+| Cheong Jin Hui Jillian | [cheong_jin_hui_jillian@moe.edu.sg](mailto:cheong_jin_hui_jillian@moe.edu.sg) |
 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg) |
 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
