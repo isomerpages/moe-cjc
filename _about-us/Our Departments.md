@@ -271,8 +271,9 @@ variant: markdown
 |:---|:---|:---|
 | 1T01 | Janice Lim Hui Min | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
 | 1T01 | Mackenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
-| 1T02  |  |
-| 1T03 |  |
+| 1T02 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) | 
+| 1T02 | Wong Yen Yee Angela | [wong_yen_yee_angela@moe.edu.sg](mailto:wong_yen_yee_angela@moe.edu.sg) |
+| 1T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
 | 1T04 |   |
 | 1T05 | |
 | 1T06 |  |
