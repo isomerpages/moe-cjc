@@ -275,10 +275,11 @@ variant: markdown
 | 1T02 | Wong Yen Yee Angela | [wong_yen_yee_angela@moe.edu.sg](mailto:wong_yen_yee_angela@moe.edu.sg) |
 | 1T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
 | 1T04 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) | 
-| 1T05 | |
-| 1T06 |  |
-| 1T07 |  |
-| 1T08 |  |
+| 1T05 | Suriani Amran / Senior Teacher | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) | 
+| 1T06 | Alexandra Hofbauer / Covering Subject Head/English Language & Linguistics | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
+| 1T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
+| 1T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
+| 1T08 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
 | 1T09 |  |
 | 1T10 |  |
 | 1T11 |  |
