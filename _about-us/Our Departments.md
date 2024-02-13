@@ -269,7 +269,8 @@ variant: markdown
 
 | Class | Home Tutor | Email Address |
 |:---|:---|:---|
-| 1T01 |   |
+| 1T01 | Janice Lim Hui Min | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
+| 1T01 | Mackenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
 | 1T02  |  |
 | 1T03 |  |
 | 1T04 |   |
