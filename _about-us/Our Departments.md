@@ -280,9 +280,9 @@ variant: markdown
 | 1T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
 | 1T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
 | 1T08 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
-| 1T09 |  |
-| 1T10 |  |
-| 1T11 |  |
+| 1T09 | Valarie Chia  | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
+| 1T10 | Ang Shiok Hoon  | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
+| 1T11 | Luo Xiaojing | [luo_xiaojing_a@moe.edu.sg](mailto:luo_xiaojing_a@moe.edu.sg) |
 | 1T12 |  |
 | 1T13 |  |
 | 1T14 | |
