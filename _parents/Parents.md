@@ -40,15 +40,15 @@ your parenting support for your children.</p>
 <h3><strong>Communications with Parents</strong></h3>
 <p>The College uses various communications channels to update parents.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents Gateway (PG)<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">Parents are encouraged to download and use the PG app, as this is the
+Parents are encouraged to download and use the PG app, as this is the
 primary platform to receive announcements from the College, including requests
 for parental consent. Parents may download the PG app from your respective
-app stores. FAQs are provided at</a><a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg</a>.</p>
+app stores. FAQs are provided at <a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg</a>.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CJC Portal<br></strong>
-<a rel="noopener noreferrer nofollow" target="_blank">Parents may access the CJC Portal at</a><a rel="noopener noreferrer nofollow" target="_blank">http://portal.catholicjc.edu.sg</a> to
+Parents may access the CJC Portal at <a rel="noopener noreferrer nofollow" target="_blank">http://portal.catholicjc.edu.sg</a> to
 view your child’s timetable, assessment schedule and progress reports,
-and to book your PTC slots <a rel="noopener noreferrer nofollow" target="_blank">with your child’s Subject Tutors</a>.
-<a rel="noopener noreferrer nofollow" target="_blank">Parents may refer to the</a><a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view" rel="noopener noreferrer nofollow" target="_blank">CJC Portal onboarding guide</a> to
+and to book your PTC slots with your child’s Subject Tutors.
+Parents may refer to the <a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view" rel="noopener noreferrer nofollow" target="_blank">CJC Portal onboarding guide</a> to
 create your account. Onboarded parents may click on “Reset it here” link
 on the CJC Portal if you have forgotten your password.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Principal’s Termly Letter to Parents<br></strong>Parents
