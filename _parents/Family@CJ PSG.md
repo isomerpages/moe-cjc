@@ -1,45 +1,56 @@
 ---
 title: Family@CJ PSG
 permalink: /parents/psg/
-variant: markdown
+variant: tiptap
 description: ""
 ---
-### **Parent Engagement Events in 2024**
-The College organises regular touchpoints with parents to provide timely updates on their children’s holistic development. Parents are encouraged to attend the **Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)** with your children.
-
-**For parents of JC1 students**
-- **PIE: 28 and 29 February, in-person** <br> Parents are invited to attend the JC1 introductory briefings on one evening, based on the class selection for each evening, before meeting your child’s Home Tutor.
-- **PTC 1: 23 May, online** <br> Parents are invited to meet your child’s Home Tutor.
-- **PTC 2: 15 August, online** <br> Parents of students who require additional support are invited to meet your child’s Subject Tutors.
-- **PTC 3: 15 November, online** <br> Parents of students who are advanced to JC2 are invited to meet your child’s Home Tutor.
-
-**For parents of JC2 students**
-- **PIE: 31 January, online** <br> Parents are invited to attend the JC2 introductory briefings before meeting your child’s Home Tutor.
-- **PTC 1: 4 April, online** <br> Parents of students who require additional support are invited to meet your child’s Subject Tutors.
-- **PTC 2: 1 August, online** <br> Parents are invited to meet your child’s Subject Tutors, with priority given to parents of students who require additional support.
-
-In addition to these events, the College partners the Family@CJ Parent Support Group to organise **Parent Education Seminars**. Parents are invited to attend these seminars to strengthen your parenting support for your children.
-
-### **Communications with Parents**
-The College uses various communications channels to update parents.
-
-  - **Parents Gateway (PG)** <br>
-Parents are encouraged to download and use the PG app, as this is the primary platform to receive announcements from the College, including requests for parental consent. Parents may download the PG app from their respective app stores. FAQs are provided at [http://pg.moe.edu.sg](http://pg.moe.edu.sg). 
-
- - **CJC Portal** <br>
-Parents may access the CJC Portal at [http://portal.catholicjc.edu.sg](http://portal.catholicjc.edu.sg) to view your child’s timetable and progress reports, and to book their PTC slots with your child’s Subject Tutors. Parents may refer to the [CJC Portal onboarding guide](https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view), to create your account. Onboarded parents may click on “Reset it here” link on the CJC Portal if you have forgotten your password.
- 
- - **Principal’s Termly Letter to Parents** <br>
-Parents are encouraged to read the Principal’s updates in her termly letter to parents. The letters are sent to parents via the PG app.
-
-Should parents require any assistance and/or wish to provide feedback, please contact your child’s Home Tutor and Subject Tutors or the College at 62524083/4 or [catholic_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg).
-
-### **Parenting Resources**
-
-Parents may refer to the following MOE resources to strengthen their parenting support for your children.
-
- - [‘Parenting with MOE’ Instagram account](https://www.instagram.com/parentingwith.moesg/)<br>Receive bite-sized parenting tips via Instagram 
-
- - [‘Parenting with MOE’ resources](https://linktr.ee/parentingwith.moesg)<br>Access an extensive list of resources including cyber-wellness support  
-  
- - [Schoolbag](https://www.schoolbag.edu.sg/)<br>Be updated on education news, school features and tips
+<h3><strong>Supporting Parents to Support Our Children</strong></h3>
+<p>The Family@CJ Parent Support Group (PSG) comprises parents who support
+the College’s mission and vision, and support other parents in our parenting
+journey. The motto of the PSG is <strong><em>‘To Love and to Serve’</em></strong>.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/psg_logo.png">
+</div>
+<p>The Family@CJ PSG logo was created by past PSG members. The logo is encircled
+by three hands encapsulating the strong tripartite partnership between
+the school, students and parents in promoting holistic education; one that
+develops every CJCian to be a <em>Thinker with a Mission and Leader with a Heart</em>.
+The three hands represented in the college colours of blue, red and yellow,
+highlight parents' fervent support in fulfilling the college’s mission
+and vision <em>in Truth and in Love</em>.</p>
+<h3><strong>PSG Exco 2024</strong></h3>
+<div class="isomer-image-wrapper">
+<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+</div>
+<p><em>(From left: Ms Fatima Mustafa, Mrs Maria Hee, Mrs Joyce Chong, Mr Joseph Hee, Ms Brigid Lim, Mr Gordon Lim, Ms Janice Cho)</em>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/psg_2024_exco_list.png">
+</div>
+<h3><strong>Key College Events Supported by the PSG</strong></h3>
+<p>The PSG supports key college events through parents’ support and active
+participation.</p>
+<p>Refreshments on selected nights during the College’s Night Study Programme:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture4.png">
+</div>
+<p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture5.png">
+</div>
+<p>Encouragement gifts for JC2 students at the College’s Graduation Ceremony:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
+</div>
+<h3><strong>Join the Family@CJ PSG</strong></h3>
+<p>Come join us and support our CJC students and family! Scan the QR code
+or sign up at<a href="https://go.gov.sg/cjcpsg" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="https://go.gov.sg/cjcpsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cjcpsg</a>.</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+</div>
+<p>
+<br>
+<br>
+</p>
