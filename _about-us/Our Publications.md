@@ -66,7 +66,7 @@ An online archive of the CJC Yearbook.
 *   **[2018](https://issuu.com/catholicjc/docs/cjc_yearbook_2018)**
 *   **[2017 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part1))**
 *   **[2017 (Part 2)](https://issuu.com/catholicjc/docs/cjc_yearbook_2017-reduced_part2)**
-*  **[2016](http://issuu.com/catholicjc/docs/cjc_annual_2016)**
+*  **[2016](https://issuu.com/catholicjc/docs/cjc_yearbook_2016_edited)**
 *   **[2015](https://issuu.com/catholicjc/docs/cjc_yearbook_2015)**
 *   **[2014](https://issuu.com/catholicjc/docs/cjc_yearbook_2014)**
 *   **[2013](https://issuu.com/catholicjc/docs/2013)**
