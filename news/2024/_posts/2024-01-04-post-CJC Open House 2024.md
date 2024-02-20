@@ -1,6 +1,6 @@
 ---
 title: CJC Open House 2024
-permalink: /news/2024/permalink/
+permalink: /news/2024/02/
 date: 2024-01-04
 layout: post
 description: ""
