@@ -55,10 +55,8 @@ There is no need to submit a hard copy of their GCE A-Level certificates.
 More information on the AUs’ admissions processes can be found on their
 respective websites, and applicants can approach the AUs directly for further
 clarifications.&nbsp;&nbsp;</p>
-<p>&nbsp;</p>
 <p><strong>All 6 Autonomous Universities will also be setting up booths in the College Canteen from 1pm to provide information and answer queries on applications to the AUs.</strong>
 </p>
-<p>&nbsp;</p>
 <p><strong>Education and Career Guidance (ECG)&nbsp;</strong>
 </p>
 <p>Candidates who would like guidance on their education pathways can approach
