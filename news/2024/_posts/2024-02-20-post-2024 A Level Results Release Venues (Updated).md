@@ -301,6 +301,4 @@ classrooms as follows:</p>
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>
-</p>
 <p>&nbsp;</p>
