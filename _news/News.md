@@ -117,140 +117,140 @@ One of our JC2 teams achieved a Merit award at the International Space Challenge
 
 <img src="/images/news1.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Annual Cross Country, 10 Mar](https://moe-cjc-staging.netlify.app/news/2023/04/)**<br>
+**[CJC Annual Cross Country, 10 Mar](/news/2023/04/)**<br>
 CJC held its annual cross country at Pasir Ris Park this year on 10 Mar. We give thanks to God for the good weather and being able to enjoy the day out with invited guests from SAVH.
 
 <br clear="left">
 
 <img src="/images/news2.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[JC1 Commencement Mass and Ceremony, 20 Feb](https://moe-cjc-staging.netlify.app/news/2023/03/)**<br>
+**[JC1 Commencement Mass and Ceremony, 20 Feb](/news/2023/03/)**<br>
 The college extended a warm and meaningful welcome to the JC1s with the celebration of mass and the symbolic presentation of the collar pins on 20 Feb.
 
 <br clear="left">
 
 <img src="/images/news3.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Celebrates with the Class of 2022](https://moe-cjc-staging.netlify.app/news/2023/02/)**<br>
+**[CJC Celebrates with the Class of 2022](/news/2023/02/)**<br>
 Our heartiest congratulations to the Class of 2022 for your outstanding results at the GCE A-Levels and embracing learning with a growth mindset!
 
 <br clear="left">
 
 <img src="/images/news4.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Open House 2023](https://moe-cjc-staging.netlify.app/news/2023/01/)**<br>
+**[CJC Open House 2023](/news/2023/01/)**<br>
 On 13 January 2023, we will be hosting our Open House in person once again. All prospective students are warmly invited to visit us and learn more about our vibrant college programmes.
 
 <br clear="left">
 
 <img src="/images/news5.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022](https://moe-cjc-staging.netlify.app/news/2022/10/)**<br>
+**[Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022](/news/2022/10/)**<br>
 After a two-year hiatus, our alumni were in the highest of spirits for this year’s Alumni Sports Fiesta. A glorious Saturday morning saw teams from a range of graduating batches coming together and battling it out in five different sporting events.
 
 <br clear="left">
 
 <img src="/images/news6.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Congratulations to National Day Award 2022 Recipients](https://moe-cjc-staging.netlify.app/news/2022/9/)**<br>
+**[Congratulations to National Day Award 2022 Recipients](/news/2022/9/)**<br>
 Our warmest congratulations to all recipients of the National Day Awards this year. We are grateful for the many years of dedicated service and contributions by our staff, members of the CJ School Management Committee (SMC) and CJ alumni.
 
 <br clear="left">
 
 <img src="/images/news7.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Student Leaders Appreciation and Installation Ceremony, 12 July](https://moe-cjc-staging.netlify.app/news/2022/8/)**<br>
+**[Student Leaders Appreciation and Installation Ceremony, 12 July](/news/2022/8/)**<br>
 On 12 July, CJC held its first combined Student Leaders Appreciation and Installation Ceremony since the streamlining of COVID-19 national Safe Management Measures this year.
 
 <br clear="left">
 
 <img src="/images/news8.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Sports and Aesthetics Carnival – One Flame, One Family, 26 &amp; 27 May 2022](https://moe-cjc-staging.netlify.app/news/2022/7/)**<br>
+**[Sports and Aesthetics Carnival – One Flame, One Family, 26 &amp; 27 May 2022](/news/2022/7/)**<br>
 With the theme, ‘One Flame, One Family’, the event brought the sports and performing arts programmes together so that all CJCians were able to participate in and celebrate the many talents we have in CJC
 
 <br clear="left">
 
 <img src="/images/news9.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Celebrating the launch of the Sister Deirdre O’Loan Centre for Creativity, 24 May 2022](https://moe-cjc-staging.netlify.app/news/2022/6/)**<br>
+**[Celebrating the launch of the Sister Deirdre O’Loan Centre for Creativity, 24 May 2022](/news/2022/6/)**<br>
 The CJC Sister Deirdre O’Loan Centre for Creativity was launched on 24 May 2022 by Mr Ong Kong Hong, Zonal Director of Schools (South).
 
 <br clear="left">
 
 <img src="/images/news10.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC’s 47th Annual Awards Ceremony, 8 April 2022](https://moe-cjc-staging.netlify.app/news/2022/5/)**<br>
+**[CJC’s 47th Annual Awards Ceremony, 8 April 2022](/news/2022/5/)**<br>
 The 47th Annual Awards Ceremony at Catholic Junior College (CJC) on 8 April this year was truly a homecoming for students and staff in more ways than one. The College came together to celebrate the achievements and tenacity of the Class of 2021.
 
 <br clear="left">
 
 <img src="/images/news11.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Congratulates the Class of 2021](https://moe-cjc-staging.netlify.app/news/2022/4/)**<br>
+**[CJC Congratulates the Class of 2021](/news/2022/4/)**<br>
 Congratulations CJC Class of 2021 for achieving another important academic milestone! The College is delighted to have many CJCians realise their aspirations and qualify for institutes of higher learning.
 
 <br clear="left">
 
 <img src="/images/news12.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[National Servicemen of the Year 2021 Award](https://moe-cjc-staging.netlify.app/news/2022/3/)**<br>
+**[National Servicemen of the Year 2021 Award](/news/2022/3/)**<br>
 Heartiest congratulations to Lim Shao Zhe, Lenson (Class of 2018), and William Rachmadi (Class of 2019), for clinching the National Servicemen of the Year 2021 Award!
 
 <br clear="left">
 
 <img src="/images/news13.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Into the Cryptoverse](https://moe-cjc-staging.netlify.app/news/2022/2/)**<br>
+**[Into the Cryptoverse](/news/2022/2/)**<br>
 Go on a journey Into the Cryptoverse with Nexians, members of CJC's Nexus Investment and Entrepreneurship Society, and find out about emerging opportunities and risks of financial technology.
 
 <br clear="left">
 
 <img src="/images/news14.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJCares Virtual Cross Country 2022](https://moe-cjc-staging.netlify.app/news/2022/1/)**<br>
+**[CJCares Virtual Cross Country 2022](/news/2022/1/)**<br>
 To celebrate the indomitable CJ spirit of leadership and service, CJC will be embarking on our first CJCares Virtual Cross Country this year.
 
 <br clear="left">
 
 <img src="/images/news15.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[JC2 Graduation Ceremony - 8 Oct 2021](https://moe-cjc-staging.netlify.app/news/2021/8/)**<br>
+**[JC2 Graduation Ceremony - 8 Oct 2021](/news/2021/8/)**<br>
 The JC2 Graduation Ceremony on 8 Oct was a fitting close to the two-year journey of our Class of 2021. We celebrated their resilience and achievements that exemplified them as Thinkers with a Mission, Leaders with a Heart.
 
 <br clear="left">
 
 <img src="/images/news16.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[National Day Awards for CJC staff 2021](https://moe-cjc-staging.netlify.app/news/2021/7/)**<br>
+**[National Day Awards for CJC staff 2021](/news/2021/7/)**<br>
 Congratulations to Dr Nor Hanisah, Mrs Phyllis Lim, Mr Lim Chye Fook, and Dr Choe Kee Cheng, on being conferred National Day Awards for 2021.
 
 <br clear="left">
 
 <img src="/images/news17.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass](https://moe-cjc-staging.netlify.app/news/2021/6/)**<br>
+**[CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass](/news/2021/6/)**<br>
 The college comes together to celebrate and give thanks to God for His blessings upon our college and nation in a week of commemorative events - CJCares fundraising project, CJ Celebrates, and a thanksgiving mass.
 
 <br clear="left">
 
 <img src="/images/news18.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020](https://moe-cjc-staging.netlify.app/news/2021/5/)**<br>
+**[Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020](/news/2021/5/)**<br>
 Congratulations to Nathan Lim, Class of 2013, who graduated from NTU's School of Materials Science and Engineering (MSE) with Honours (Highest Distinction) in the NTU-MSE Convocation for the Class of 2020!
 
 <br clear="left">
 
 <img src="/images/news19.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[Commemorating Lent and Easter as One CJC Community](https://moe-cjc-staging.netlify.app/news/2021/4/)**<br>
+**[Commemorating Lent and Easter as One CJC Community](/news/2021/4/)**<br>
 We marked the seasons of Lent and Easter with a series of meaningful events organised by the Student Council's Catholic Activities wing
 
 <br clear="left">
 
 <img src="/images/news20.jpg" style="width:40%;margin-right:15px;" align="left">
 
-**[CJC Celebrates the A-Level Results of the Class of 2020](https://moe-cjc-staging.netlify.app/news/2021/3/)**<br>
+**[CJC Celebrates the A-Level Results of the Class of 2020](/news/2021/3/)**<br>
 Congratulations to the Class of 2020 on your good 2020 GCE A-Level examination results!
 
 <br clear="left">
