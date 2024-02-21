@@ -32,5 +32,5 @@ All students must be in college trousers or skirt, approved college T-shirt, cle
 **Co-Curricular Activities (CCA)**   
 CCA sessions begins at 4.00 p.m. on Wednesdays and at 3.00 p.m. on Fridays.  
 CCA sessions begins at 5.00 p.m. on Mondays, Tuesdays and Thursdays. (Only during competitons period/Semester 1).<br>
-Some CCAs operate on Saturdays to accommodate coaching schedules and access to facilities. Please refer to the **[CCA Schedule](https://moe-cjc-staging.netlify.app/students/cca-schedule/)** for more details on each CCA. <br> 
+Some CCAs operate on Saturdays to accommodate coaching schedules and access to facilities. Please refer to the **[CCA Schedule](/students/cca-schedule/)** for more details on each CCA. <br> 
 Official CCA Competition attire must comply with the guidelines for this apparel, and have the approval of the HOD, PE/CCA. Regular attendance is needed to have the CCA recognised and reflected in the student's holistic achievement certificate.
