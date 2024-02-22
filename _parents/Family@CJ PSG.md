@@ -20,7 +20,7 @@ highlight parents' fervent support in fulfilling the college’s mission
 and vision <em>in Truth and in Love</em>.</p>
 <h3><strong>PSG Exco 2024</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 75%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Picture2.jpg">
 </div>
 <p><em>(From left: Ms Fatima Mustafa, Mrs Maria Hee, Mrs Joyce Chong, Mr Joseph Hee, Ms Brigid Lim, Mr Gordon Lim, Ms Janice Cho)</em>
 </p>
