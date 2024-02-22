@@ -33,7 +33,7 @@ Subject Tutors.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 2: 1 August, online<br></strong>Parents
 are invited to meet your child’s Subject Tutors, with priority given to
 parents of students who require additional support.</p>
-<p>Further to these events, the College partners the <a href="https://www.cjc.moe.edu.sg/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a> to
+<p>Further to these events, the College partners the <a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a> to
 organise <strong>Parent Education Seminars</strong>. Parents are invited
 to attend the seminars on <strong>23 March and 6 July</strong> to strengthen
 your parenting support for your children.</p>
@@ -71,6 +71,6 @@ updated on education news, school features and tips</p>
 your child in making informed education and career choices
 <br>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cjc.moe.edu.sg/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a><strong><br></strong>Join
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a><strong><br></strong>Join
 fellow parents in the journey of supporting children in CJC</p>
 <p></p>
