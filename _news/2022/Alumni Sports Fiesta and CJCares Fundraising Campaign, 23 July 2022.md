@@ -38,4 +38,4 @@ A big thank you to our alumni also for supporting our CJCares fundraising effort
 _In Veritate et Caritate_
 
 Click&nbsp;[here](https://www.giving.sg/web/catholic-junior-college)&nbsp;to make a contribution to the CJCares fundraising initiative.<br>
-For more on CJC Alumni events and initiatives, click&nbsp;[here](https://moe-cjc-staging.netlify.app/alumni/)
+For more on CJC Alumni events and initiatives, click&nbsp;[here](/alumni/)

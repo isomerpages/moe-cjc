@@ -171,7 +171,7 @@ In addition, the following items which constitute a threat to the physical/moral
 **4.4** Science Laboratories:  Students must observe the safety regulations at all times.
 
 #### **5. College Daily Schedule / General Matters**
-**5.1** Please refer to [College Daily Schedule](https://moe-cjc-staging.netlify.app/students/college-daily-schedule/).
+**5.1** Please refer to [College Daily Schedule](/students/college-daily-schedule/).
 
 **5.2** Computers have been provided for student use in the Learning Resource Centre and at specific Seminar Rooms. Computers are made available to aid learning and for personal organization. Students must be aware that to misuse a computer is an offence. Therefore they must not:  
 
