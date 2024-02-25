@@ -53,5 +53,33 @@ grace and wisdom as they take flight and soar.</p>
 <p><em>In Veritate et Caritate.</em>
 </p>
 <p></p>
-<p></p>
+<hr>
+<h4><strong>Tan Wei Fei</strong></h4>
+<div class="isomer-image-wrapper">
+<img style="width: 35%;" height="auto" width="100%" alt="" src="/images/74_CCS_7434.jpg">
+</div>
+<p>Wan Fei is an exemplary individual who demonstrates self-discipline and
+resilience. Wan Fei overcame many personal obstacles throughout her journey
+to achieving academic success at the A-Level examinations. She has a medical
+condition which impedes her mobility; however, she remained steadfast in
+her commitment to academic excellence, making her an inspiration to her
+peers and tutors. Wan Fei possesses maturity of thought, criticality and
+a keen sensitivity to language — dispositions that stood her in good stead
+as a student in the arts faculty.&nbsp;</p>
+<p>Beyond her academic commitments, Wan Fei was actively involved in the
+Nexus Investment and Entrepreneurship Society, her co-curricular activity
+(CCA). Her participation in this CCA provided her with a platform to express
+her passion for financial literacy, business, and entrepreneurship. Despite
+not holding an official leadership role, Wan Fei made significant contributions
+to various college events. Wan Fei took an active role in events like the
+CCA Open House and CCA Bazaar, which enabled her to hone her communication
+skills and master the art of effective pitching. Stepping out of her comfort
+zone, she assumed the role of a facilitator during the CJC Nexus Experience
+Day. In addition, participating in CCA-related competitions, including
+the CJC Nexus FinLit Week in 2023, offered Wan Fei insights into leadership
+responsibilities. She coordinated logistics, motivated team members, and
+ensured project deadlines were met.</p>
+<p>
+<br>
+</p>
 <p></p>
