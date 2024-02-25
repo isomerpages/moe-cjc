@@ -54,7 +54,8 @@ grace and wisdom as they take flight and soar.</p>
 </p>
 <p></p>
 <hr>
-<h4><strong>Tan Wei Fei</strong></h4>
+<h4>Tan Wei Fei</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/74_CCS_7434.jpg">
 </div>
@@ -80,6 +81,7 @@ the CJC Nexus FinLit Week in 2023, offered Wan Fei insights into leadership
 responsibilities. She coordinated logistics, motivated team members, and
 ensured project deadlines were met.</p>
 <h4>Tay Hui Xin Sharon</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/75_CCS_7435.jpg">
 </div>
@@ -107,7 +109,8 @@ which was stressful at times, but also rewarding and character defining.
 Sharon motivated her fellow choir members, and they worked together to
 achieve a Certificate of Distinction for the college at the Singapore Youth
 Festival Arts Presentation 2023.</p>
-<h4><strong>Wong Jian Cheng, Herman</strong></h4>
+<h4>Wong Jian Cheng, Herman</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/94_CCS_7475.jpg">
 </div>
@@ -130,7 +133,8 @@ account and promoting events organised by Nexus. He collaborated effectively
 with his peers to plan and facilitate schoolwide events such as BizWeek;
 in addition, he also took up the challenge of being a presenter during
 those events to educate his schoolmates on financial literacy.&nbsp;</p>
-<h4><strong>Odelia Lim Wanjing</strong></h4>
+<h4>Odelia Lim Wanjing</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/81_CCS_7450.jpg">
 </div>
@@ -154,7 +158,8 @@ event—a role she performed with great aplomb. She was also involved in
 weekly Friday masses and Lenten Evening. Her faith kept her afloat in trying
 times; it is truly a testament to both her tenacity as well as her exceptional
 leadership qualities that she was offered the CJC Flame Scholarship.&nbsp;</p>
-<h4><strong>Kieran Chang</strong></h4>
+<h4>Kieran Chang</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/76_CCS_7438.jpg">
 </div>
@@ -173,7 +178,8 @@ for the 2023 JC1 Orientation and invested much effort into making his incoming
 juniors feel welcome in the college. In addition to being an OGL, Kieran
 was also chosen to be a faction head which required him to take charge
 of the coordination of his fellow OGLs.&nbsp;</p>
-<h4><strong>Koh Bevan</strong></h4>
+<h4>Koh Bevan</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/83_CCS_7454.jpg">
 </div>
@@ -200,7 +206,8 @@ of Singapore and other schools. Bevan worked hard to prepare for this rare
 opportunity to facilitate the discussions between the speakers and the
 audience. Quick-witted and adaptable, he was able to think on his feet
 and improvise solutions to technical difficulties when they arose.&nbsp;</p>
-<h4><strong>Yang Liquan Adam</strong></h4>
+<h4>Yang Liquan Adam</h4>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/93_CCS_7473.jpg">
 </div>
@@ -222,7 +229,11 @@ his leadership skills. He instilled confidence in his team members by encouragin
 them whenever they encountered obstacles, and was an ever-present source
 of help to them. In 2022, Adam represented the college at Hwa Chong Institution's
 Bridge Cup.</p>
-<h4><strong>Deirdre Phua Yi Ting</strong></h4>
+<h4>Deirdre Phua Yi Ting</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/92_CCS_7471.jpg">
+</div>
 <p>Deirdre's empathy for others served her well in her role as the Home Tutorial
 Councillor (HTC) of her class. A natural leader who exudes warmth and sincerity,
 Deirdre was well-liked by her classmates.&nbsp;</p>
@@ -241,7 +252,11 @@ Stretch Programme; Deirdre was also selected to attend the Singapore Perspective
 Conference and was attached to the National Council of Social Services
 for an internship which was a requirement of the English Language Elective
 Scholarship (ELES) that Deirdre was a recipient of.&nbsp;</p>
-<h4><strong>Siti Sarah Binte Muhammad Burhan</strong></h4>
+<h4>Siti Sarah Binte Muhammad Burhan</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/89_CCS_7465.jpg">
+</div>
 <p>Diligent and conscientious, Sarah set high standards for herself, and
 worked tirelessly towards achieving them. She listened attentively during
 lessons, applied feedback thoughtfully, and offered intelligent ideas during
@@ -256,7 +271,11 @@ led the Student Council in advocating for student needs, and working towards
 a better learning environment for the students in the College. Throughout
 her leadership journey, Sarah honed her organisational skills and problem-solving
 capabilities, and emerged a more well-rounded and poised individual.</p>
-<h4><strong>Hayden Lee</strong></h4>
+<h4>Hayden Lee</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/85_CCS_7458.jpg">
+</div>
 <p>During his time in Catholic Junior College, Hayden took on several leadership
 roles. He was the Sports Leader for his class—a role which required him
 to plan multiple school events as well as Physical Education sessions.
@@ -271,7 +290,11 @@ the smooth running of the CCA. An inspiring leader, he organised early
 morning runs for his CCA members to improve their stamina. Throughout his
 stint as a CCA leader, Hayden has developed a strong, personal voice which
 he will continue to use to inspire others.&nbsp;&nbsp;</p>
-<h4><strong>Jacholas Gay</strong></h4>
+<h4>Jacholas Gay</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/95_CCS_7477.jpg">
+</div>
 <p>Known for his critical thinking skills and diligence, Jacholas consistently
 achieved commendable results, showcasing strong motivation and drive that
 made him a role model for his peers. His intellectual acuity is complemented
@@ -286,7 +309,11 @@ the boundaries of the classroom: He participated in a Service Learning
 Project in collaboration with CodeSpark, where he worked with young children
 to teach them the basics of coding, reflecting a desire to make a difference
 in the larger community.&nbsp;</p>
-<h4><strong>Ong Zhi Rong</strong></h4>
+<h4>Ong Zhi Rong</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/80_CCS_7447.jpg">
+</div>
 <p>Although Zhi Rong already demonstrated an aptitude for mathematics and
 the sciences from the start of his journey in CJC, he continued to pursue
 opportunities to extend his learning beyond the classroom. He participated
@@ -299,7 +326,11 @@ his photography and videography skills, but also developed the ability
 to cooperate with various stakeholders during school events. Despite the
 pressures he faced as a CCA leader, Zhi Rong remained steadfast and unwavering
 in his commitment to excelling in his duties.&nbsp;</p>
-<h4><strong>Branson Yong</strong></h4>
+<h4>Branson Yong</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/79_CCS_7445.jpg">
+</div>
 <p>Branson's academic interests lay in the sciences, with Chemistry being
 his favourite subject. He would raise insightful questions and ideas during
 lessons, demonstrating his strong analytical and critical thinking skills.
@@ -319,7 +350,7 @@ for themselves. Besides performing at college events such as CJ Celebrates,
 Branson also put in long hours of practice, together with his bandmates,
 to prepare for the Singapore Youth Festival (SYF) Arts Presentation in
 2023.</p>
-<h4><strong>Aqil Aufa Bin Muhammad Taufik</strong></h4>
+<h4>Aqil Aufa Bin Muhammad Taufik</h4>
 <p>Aqil demonstrated an exceptional ability to lead and inspire his peers
 as the President of the Student Council. His tenure was marked by a strong
 desire to serve others and to improve the college’s environment. He spearheaded
