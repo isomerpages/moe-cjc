@@ -5,7 +5,6 @@ variant: tiptap
 description: CJC Celebrates with the Class of 2023, A Level Results
 ---
 <h2>CJC Celebrates with the Class of 2023</h2>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
 </div>
