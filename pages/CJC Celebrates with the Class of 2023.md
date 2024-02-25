@@ -460,7 +460,11 @@ Physics Olympiad. He also represented the school in the International Mathematic
 Modelling Challenge (Singapore) 2023 where he and his team members derived
 a deterministic model as a decision metric to make the best use of a land
 parcel, achieving a Distinction for their solution paper.&nbsp;</p>
-<h4><strong>Genevieve Joelle Pang Shan-Wei</strong></h4>
+<h4>Genevieve Joelle Pang Shan-Wei</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/90_CCS_7467.jpg">
+</div>
 <p>A recipient of various prestigious scholarships, including the Ministry
 of Education English Language Elective Scholarship and the CJC Archbishop’s
 Scholarship, Genevieve demonstrates a strong commitment to academic excellence.
@@ -481,10 +485,11 @@ Council, Genevieve was able to contribute to the school community in a
 meaningful way. She planned and executed events that brought students of
 the Catholic faith together. She took this role seriously, and made the
 most of it to strengthen the faith of her Catholic peers.&nbsp;</p>
-<p>
-<br>
-</p>
-<h4><strong>Sammi Goh Wan Yee</strong></h4>
+<h4>Sammi Goh Wan Yee</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/86_CCS_7459.jpg">
+</div>
 <p>As the<strong> </strong>President of the CJC STE2M Club, Sammi was a capable
 leader who demonstrated an undeniable love for the sciences. As the head
 of her CCA, Sammi was able to inspire and motivate her peers. She spearheaded
@@ -506,7 +511,11 @@ CJC Conceptualise Space to key personnel from the Ministry of Education.</p>
 to make a positive impact on the environment. While working on her various
 projects, she has not only deepened her understanding of the global complexities
 of environmental issues, but also strengthened her problem-solving skills.&nbsp;</p>
-<h4><strong>Khanatip Chok-Oon-Kit</strong></h4>
+<h4>Khanatip Chok-Oon-Kit</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/91_CCS_7469.jpg">
+</div>
 <p>Khanatip is an inquisitive and keen learner who&nbsp; did consistently
 well in College examinations. He was on the Principal’s Honour Roll for
 the JC1 Mid-Year Examination and the JC1 Promotional Examination in 2022.
