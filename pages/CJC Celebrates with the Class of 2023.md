@@ -351,6 +351,10 @@ Branson also put in long hours of practice, together with his bandmates,
 to prepare for the Singapore Youth Festival (SYF) Arts Presentation in
 2023.</p>
 <h4>Aqil Aufa Bin Muhammad Taufik</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/82_CCS_7452.jpg">
+</div>
 <p>Aqil demonstrated an exceptional ability to lead and inspire his peers
 as the President of the Student Council. His tenure was marked by a strong
 desire to serve others and to improve the college’s environment. He spearheaded
@@ -365,7 +369,11 @@ guidance on how to make the most of his future career and was taught to
 empower young people like himself to reach their potential. Due to his
 eloquence and poise, Aqil was selected to be a moderator for a school dialogue
 session with Dr Maliki Osman where he further honed his communication skills.&nbsp;</p>
-<h4><strong>Isabel Desiree Sivanesan</strong></h4>
+<h4>Isabel Desiree Sivanesan</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/87_CCS_7460.jpg">
+</div>
 <p>A civic-minded and compassionate individual, Isabel was an active member
 of the Interact Club. As the Vice-President of the CCA, a role which she
 performed competently, Isabel planned numerous service learning projects
@@ -386,7 +394,11 @@ conversation with the Cambodian girls. Isabel also devoted her time and
 efforts to a service learning project in collaboration with the Bone Marrow
 Donor Programme. Isabel designed an awareness campaign to educate her peers
 about the challenges faced by patients who need bone marrow transplants.&nbsp;</p>
-<h4><strong>Lauren Hannah Augustin</strong></h4>
+<h4>Lauren Hannah Augustin</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/78_CCS_7444.jpg">
+</div>
 <p>As a member of CJC’s Ignite Programme, designed for critical thinkers
 and future-oriented leaders, Lauren demonstrated effective communication,
 adaptability, and tenacity, positioning her as a promising individual ready
@@ -401,7 +413,11 @@ sport, adeptly managing her time between her academic and co-curricular
 commitments. An active member of Floorball, Lauren played a vital role
 in contributing to her team's remarkable fourth position in the National
 School Games 2023 ‘A’ Division.&nbsp;</p>
-<h4><strong>Tran Trung Kien</strong></h4>
+<h4>Tran Trung Kien</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/84_CCS_7456.jpg">
+</div>
 <p>Kien distinguished himself as an exemplary student in CJC, showcasing
 exceptional discipline and leadership in his role as an administrator for
 the Student Council. Spearheading the organisation of various school events,
@@ -416,7 +432,11 @@ Service Learning Project, Project Food Fighters, aimed at promoting awareness
 of food sustainability and social responsibility. He worked with his peers
 to plant crops within the school compound and created a digital platform
 to disseminate information and educate peers about urban farming.&nbsp;</p>
-<h4><strong>Nguyen Thai Binh</strong></h4>
+<h4>Nguyen Thai Binh</h4>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/88_CCS_7463.jpg">
+</div>
 <p>Binh is a highly motivated and independent learner who demonstrated exceptional
 academic abilities during his two years in the College. His commitment
 to excellence was evident through his consistent placements on the Principal’s
