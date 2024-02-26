@@ -61,10 +61,6 @@ grace and wisdom as they take flight and soar.</p>
 <p><em>In Veritate et Caritate.</em>
 </p>
 <p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_CCS_7260.jpg">
-</div>
-<p></p>
 <hr>
 <h4>Tan Wei Fei</h4>
 <p></p>
