@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
 </div>
 <p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
 <br>Catholic Junior College takes great pride in celebrating the academic
