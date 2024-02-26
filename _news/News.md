@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
 </div>
-<p><strong><a href="/news/2024/02/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong>
+<p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
 <br>Catholic Junior College takes great pride in celebrating the academic
 achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <p></p>
@@ -26,7 +26,7 @@ achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG">
 </div>
-<p><strong><a href="/news/2023/19/" rel="noopener noreferrer nofollow" target="_blank">Authentic Learning through Geography fieldwork</a></strong>
+<p><strong><a href="/news/2023/19/" rel="noopener noreferrer nofollow" target="_blank">Authentic Learning through Geography fieldwork</a></strong> 
 <br>Students studying Geography participated in several out-of-school fieldwork
 as part of the inquiry-based learning experience this year.
 <br>
@@ -37,7 +37,7 @@ as part of the inquiry-based learning experience this year.
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG">
 </div>
-<p><strong><a href="/news/2023/18/" rel="noopener noreferrer nofollow" target="_blank">JC2 Retreat 2023</a></strong>
+<p><strong><a href="/news/2023/18/" rel="noopener noreferrer nofollow" target="_blank">JC2 Retreat 2023</a></strong> 
 <br>CJC resumed its 2D1N JC2 Retreat this year, the first since the pandemic
 struck.
 <br>
@@ -48,7 +48,7 @@ struck.
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/pat%202024%20website%20publicity%20image.gif">
 </div>
-<p><strong><a href="/news/2023/17/" rel="noopener noreferrer nofollow" target="_blank">President's Award for Teachers &amp; OYEA</a></strong>
+<p><strong><a href="/news/2023/17/" rel="noopener noreferrer nofollow" target="_blank">President's Award for Teachers &amp; OYEA</a></strong> 
 <br>Nominations for the President’s Award for Teachers and the Outstanding
 Youth in Education Award.</p>
 <p>
@@ -58,7 +58,7 @@ Youth in Education Award.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/News/2023/16wishlist.png">
 </div>
-<p><strong><a href="/news/2023/16/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Wishlist 2023</a></strong>
+<p><strong><a href="/news/2023/16/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Wishlist 2023</a></strong> 
 <br>Some of our teachers are featured in this YouTube video by MOE.</p>
 <p>
 <br>
@@ -67,7 +67,7 @@ Youth in Education Award.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/photo1690268621.jpeg">
 </div>
-<p><strong><a href="/news/2023/15/" rel="noopener noreferrer nofollow" target="_blank">CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!</a></strong>
+<p><strong><a href="/news/2023/15/" rel="noopener noreferrer nofollow" target="_blank">CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!</a></strong> 
 <br>All alumni are welcome to join us for a day of sports and games, food
 and fun!</p>
 <p>
@@ -77,14 +77,14 @@ and fun!</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/ltc%20large%20group%20shot.jpeg">
 </div>
-<p><strong><a href="/news/2023/13/" rel="noopener noreferrer nofollow" target="_blank">CJC Leadership Training Camp 2023</a></strong>
+<p><strong><a href="/news/2023/13/" rel="noopener noreferrer nofollow" target="_blank">CJC Leadership Training Camp 2023</a></strong> 
 <br>Catholic Junior College held the "Build The Light'' transformative Leadership
 Training Camp (LTC), spanning two days and one night from May 26th to May
 27th.</p>
 <p>
 <br>
 </p>
-<p><strong><a href="/news/2023/12/" rel="noopener noreferrer nofollow" target="_blank">CJ Celebrates 2023</a></strong>
+<p><strong><a href="/news/2023/12/" rel="noopener noreferrer nofollow" target="_blank">CJ Celebrates 2023</a></strong> 
 <br>This annual extravaganza is a showcase of the CCAs that earned Certificates
 of Merit and Distinction at this year’s Singapore Youth Festival (SYF).</p>
 <p>
@@ -93,7 +93,7 @@ of Merit and Distinction at this year’s Singapore Youth Festival (SYF).</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/gwyneth%20-%20edwin%20thumboo%20prize%20cropped.jpg">
 </div>
-<p><strong><a href="/news/2023/11/" rel="noopener noreferrer nofollow" target="_blank">Edwin Thumboo prize 2023</a></strong>
+<p><strong><a href="/news/2023/11/" rel="noopener noreferrer nofollow" target="_blank">Edwin Thumboo prize 2023</a></strong> 
 <br>Congratulations to Gwyneth Tan (2T05, Class of 2022) for receiving the
 Merit Award for the 2023 Edwin Thumboo Prize.</p>
 <p>
@@ -102,7 +102,7 @@ Merit Award for the 2023 Edwin Thumboo Prize.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/elisym.jpeg">
 </div>
-<p><strong><a href="/news/2023/10/" rel="noopener noreferrer nofollow" target="_blank">CJC-NJC English Language &amp; Linguistics Symposium 2023</a></strong>
+<p><strong><a href="/news/2023/10/" rel="noopener noreferrer nofollow" target="_blank">CJC-NJC English Language &amp; Linguistics Symposium 2023</a></strong> 
 <br>The English Language and Linguistics symposium, held at Catholic Junior
 College on 12th May 2023, was jointly organised by Catholic Junior College
 and National Junior College.</p>
@@ -112,7 +112,7 @@ and National Junior College.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/sac%202023%20n%20website.jpeg">
 </div>
-<p><strong><a href="/news/2023/10/" rel="noopener noreferrer nofollow" target="_blank">Sports and Aesthetics Carnival, 26 May</a></strong>
+<p><strong><a href="/news/2023/10/" rel="noopener noreferrer nofollow" target="_blank">Sports and Aesthetics Carnival, 26 May</a></strong> 
 <br>A perennial crowd favourite, the Sports and Aesthetics Carnival brought
 CJCians together for an exciting day of games and activities, ending Term
 2 on a high note.</p>
@@ -122,14 +122,14 @@ CJCians together for an exciting day of games and activities, ending Term
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/48th%20college%20day%20a.jpg">
 </div>
-<p><strong><a href="/news/2023/09/" rel="noopener noreferrer nofollow" target="_blank">48th College Day, 5 May</a></strong>
+<p><strong><a href="/news/2023/09/" rel="noopener noreferrer nofollow" target="_blank">48th College Day, 5 May</a></strong> 
 <br>Congratulations to the Class of 2022 and prize winners for your successes
 and achievements! The College is proud to celebrate this important milestone
 with all CJCians as they embark on a new chapter of their academic pursuits.</p>
 <p>
 <br>
 </p>
-<p><strong><a href="/news/2023/08/" rel="noopener noreferrer nofollow" target="_blank">CJCares Fundraising Campaign 2023</a></strong>
+<p><strong><a href="/news/2023/08/" rel="noopener noreferrer nofollow" target="_blank">CJCares Fundraising Campaign 2023</a></strong> 
 <br>The CJCares Fundraising Campaign has been ongoing since 5 August 2021
 and will end on 30 June 2023.</p>
 <p>
@@ -138,7 +138,7 @@ and will end on 30 June 2023.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/rockafella%20xvii%2028%20apr%20j%20website.jpg">
 </div>
-<p><strong><a href="/news/2023/05/" rel="noopener noreferrer nofollow" target="_blank">Rockafella XVII, 28 Apr</a></strong>
+<p><strong><a href="/news/2023/05/" rel="noopener noreferrer nofollow" target="_blank">Rockafella XVII, 28 Apr</a></strong> 
 <br>Catholic Junior College’s (CJC) signature rock concert, Rockafella XVII,
 was held on 28 April to a full house.</p>
 <p>
@@ -147,13 +147,13 @@ was held on 28 April to a full house.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/dsa%202023%20open.jpg">
 </div>
-<p><strong><a href="/news/2023/07/" rel="noopener noreferrer nofollow" target="_blank">DSA Applications for 2024 are Open!, 11 May</a></strong>
+<p><strong><a href="/news/2023/07/" rel="noopener noreferrer nofollow" target="_blank">DSA Applications for 2024 are Open!, 11 May</a></strong> 
 <br>Join our vibrant community of passionate and driven individuals, and unlock
 your full potential with us. Apply now to become part of the CJC family!</p>
 <p>
 <br>
 </p>
-<p><strong><a href="/news/2023/06/" rel="noopener noreferrer nofollow" target="_blank">CJC at the International Space Challenge 2022, 11 May</a></strong>
+<p><strong><a href="/news/2023/06/" rel="noopener noreferrer nofollow" target="_blank">CJC at the International Space Challenge 2022, 11 May</a></strong> 
 <br>One of our JC2 teams achieved a Merit award at the International Space
 Challenge (Starter Category), held from November-December 2022. This marks
 the 3rd year CJC has taken part in this competition.</p>
@@ -163,7 +163,7 @@ the 3rd year CJC has taken part in this competition.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news1.jpg">
 </div>
-<p><strong><a href="/news/2023/04/" rel="noopener noreferrer nofollow" target="_blank">CJC Annual Cross Country, 10 Mar</a></strong>
+<p><strong><a href="/news/2023/04/" rel="noopener noreferrer nofollow" target="_blank">CJC Annual Cross Country, 10 Mar</a></strong> 
 <br>CJC held its annual cross country at Pasir Ris Park this year on 10 Mar.
 We give thanks to God for the good weather and being able to enjoy the
 day out with invited guests from SAVH.</p>
@@ -173,7 +173,7 @@ day out with invited guests from SAVH.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news2.jpg">
 </div>
-<p><strong><a href="/news/2023/03/" rel="noopener noreferrer nofollow" target="_blank">JC1 Commencement Mass and Ceremony, 20 Feb</a></strong>
+<p><strong><a href="/news/2023/03/" rel="noopener noreferrer nofollow" target="_blank">JC1 Commencement Mass and Ceremony, 20 Feb</a></strong> 
 <br>The college extended a warm and meaningful welcome to the JC1s with the
 celebration of mass and the symbolic presentation of the collar pins on
 20 Feb.</p>
@@ -183,7 +183,7 @@ celebration of mass and the symbolic presentation of the collar pins on
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news3.jpg">
 </div>
-<p><strong><a href="/news/2023/02/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2022</a></strong>
+<p><strong><a href="/news/2023/02/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2022</a></strong> 
 <br>Our heartiest congratulations to the Class of 2022 for your outstanding
 results at the GCE A-Levels and embracing learning with a growth mindset!</p>
 <p>
@@ -192,7 +192,7 @@ results at the GCE A-Levels and embracing learning with a growth mindset!</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news4.jpg">
 </div>
-<p><strong><a href="/news/2023/01/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2023</a></strong>
+<p><strong><a href="/news/2023/01/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2023</a></strong> 
 <br>On 13 January 2023, we will be hosting our Open House in person once again.
 All prospective students are warmly invited to visit us and learn more
 about our vibrant college programmes.</p>
@@ -202,7 +202,7 @@ about our vibrant college programmes.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news5.jpg">
 </div>
-<p><strong><a href="/news/2022/10/" rel="noopener noreferrer nofollow" target="_blank">Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022</a></strong>
+<p><strong><a href="/news/2022/10/" rel="noopener noreferrer nofollow" target="_blank">Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022</a></strong> 
 <br>After a two-year hiatus, our alumni were in the highest of spirits for
 this year’s Alumni Sports Fiesta. A glorious Saturday morning saw teams
 from a range of graduating batches coming together and battling it out
@@ -213,7 +213,7 @@ in five different sporting events.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news6.jpg">
 </div>
-<p><strong><a href="/news/2022/9/" rel="noopener noreferrer nofollow" target="_blank">Congratulations to National Day Award 2022 Recipients</a></strong>
+<p><strong><a href="/news/2022/9/" rel="noopener noreferrer nofollow" target="_blank">Congratulations to National Day Award 2022 Recipients</a></strong> 
 <br>Our warmest congratulations to all recipients of the National Day Awards
 this year. We are grateful for the many years of dedicated service and
 contributions by our staff, members of the CJ School Management Committee
@@ -224,7 +224,7 @@ contributions by our staff, members of the CJ School Management Committee
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news7.jpg">
 </div>
-<p><strong><a href="/news/2022/8/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders Appreciation and Installation Ceremony, 12 July</a></strong>
+<p><strong><a href="/news/2022/8/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders Appreciation and Installation Ceremony, 12 July</a></strong> 
 <br>On 12 July, CJC held its first combined Student Leaders Appreciation and
 Installation Ceremony since the streamlining of COVID-19 national Safe
 Management Measures this year.</p>
@@ -234,7 +234,7 @@ Management Measures this year.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news8.jpg">
 </div>
-<p><strong><a href="/news/2022/7/" rel="noopener noreferrer nofollow" target="_blank">Sports and Aesthetics Carnival – One Flame, One Family, 26 &amp; 27 May 2022</a></strong>
+<p><strong><a href="/news/2022/7/" rel="noopener noreferrer nofollow" target="_blank">Sports and Aesthetics Carnival – One Flame, One Family, 26 &amp; 27 May 2022</a></strong> 
 <br>With the theme, ‘One Flame, One Family’, the event brought the sports
 and performing arts programmes together so that all CJCians were able to
 participate in and celebrate the many talents we have in CJC</p>
@@ -244,7 +244,7 @@ participate in and celebrate the many talents we have in CJC</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news9.jpg">
 </div>
-<p><strong><a href="/news/2022/6/" rel="noopener noreferrer nofollow" target="_blank">Celebrating the launch of the Sister Deirdre O’Loan Centre for Creativity, 24 May 2022</a></strong>
+<p><strong><a href="/news/2022/6/" rel="noopener noreferrer nofollow" target="_blank">Celebrating the launch of the Sister Deirdre O’Loan Centre for Creativity, 24 May 2022</a></strong> 
 <br>The CJC Sister Deirdre O’Loan Centre for Creativity was launched on 24
 May 2022 by Mr Ong Kong Hong, Zonal Director of Schools (South).</p>
 <p>
@@ -253,7 +253,7 @@ May 2022 by Mr Ong Kong Hong, Zonal Director of Schools (South).</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news10.jpg">
 </div>
-<p><strong><a href="/news/2022/5/" rel="noopener noreferrer nofollow" target="_blank">CJC’s 47th Annual Awards Ceremony, 8 April 2022</a></strong>
+<p><strong><a href="/news/2022/5/" rel="noopener noreferrer nofollow" target="_blank">CJC’s 47th Annual Awards Ceremony, 8 April 2022</a></strong> 
 <br>The 47th Annual Awards Ceremony at Catholic Junior College (CJC) on 8
 April this year was truly a homecoming for students and staff in more ways
 than one. The College came together to celebrate the achievements and tenacity
@@ -264,7 +264,7 @@ of the Class of 2021.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news11.jpg">
 </div>
-<p><strong><a href="/news/2022/4/" rel="noopener noreferrer nofollow" target="_blank">CJC Congratulates the Class of 2021</a></strong>
+<p><strong><a href="/news/2022/4/" rel="noopener noreferrer nofollow" target="_blank">CJC Congratulates the Class of 2021</a></strong> 
 <br>Congratulations CJC Class of 2021 for achieving another important academic
 milestone! The College is delighted to have many CJCians realise their
 aspirations and qualify for institutes of higher learning.</p>
@@ -274,7 +274,7 @@ aspirations and qualify for institutes of higher learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news12.jpg">
 </div>
-<p><strong><a href="/news/2022/3/" rel="noopener noreferrer nofollow" target="_blank">National Servicemen of the Year 2021 Award</a></strong>
+<p><strong><a href="/news/2022/3/" rel="noopener noreferrer nofollow" target="_blank">National Servicemen of the Year 2021 Award</a></strong> 
 <br>Heartiest congratulations to Lim Shao Zhe, Lenson (Class of 2018), and
 William Rachmadi (Class of 2019), for clinching the National Servicemen
 of the Year 2021 Award!</p>
@@ -284,7 +284,7 @@ of the Year 2021 Award!</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news13.jpg">
 </div>
-<p><strong><a href="/news/2022/2/" rel="noopener noreferrer nofollow" target="_blank">Into the Cryptoverse</a></strong>
+<p><strong><a href="/news/2022/2/" rel="noopener noreferrer nofollow" target="_blank">Into the Cryptoverse</a></strong> 
 <br>Go on a journey Into the Cryptoverse with Nexians, members of CJC's Nexus
 Investment and Entrepreneurship Society, and find out about emerging opportunities
 and risks of financial technology.</p>
@@ -294,7 +294,7 @@ and risks of financial technology.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news14.jpg">
 </div>
-<p><strong><a href="/news/2022/1/" rel="noopener noreferrer nofollow" target="_blank">CJCares Virtual Cross Country 2022</a></strong>
+<p><strong><a href="/news/2022/1/" rel="noopener noreferrer nofollow" target="_blank">CJCares Virtual Cross Country 2022</a></strong> 
 <br>To celebrate the indomitable CJ spirit of leadership and service, CJC
 will be embarking on our first CJCares Virtual Cross Country this year.</p>
 <p>
@@ -303,7 +303,7 @@ will be embarking on our first CJCares Virtual Cross Country this year.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news15.jpg">
 </div>
-<p><strong><a href="/news/2021/8/" rel="noopener noreferrer nofollow" target="_blank">JC2 Graduation Ceremony - 8 Oct 2021</a></strong>
+<p><strong><a href="/news/2021/8/" rel="noopener noreferrer nofollow" target="_blank">JC2 Graduation Ceremony - 8 Oct 2021</a></strong> 
 <br>The JC2 Graduation Ceremony on 8 Oct was a fitting close to the two-year
 journey of our Class of 2021. We celebrated their resilience and achievements
 that exemplified them as Thinkers with a Mission, Leaders with a Heart.</p>
@@ -313,7 +313,7 @@ that exemplified them as Thinkers with a Mission, Leaders with a Heart.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news16.jpg">
 </div>
-<p><strong><a href="/news/2021/7/" rel="noopener noreferrer nofollow" target="_blank">National Day Awards for CJC staff 2021</a></strong>
+<p><strong><a href="/news/2021/7/" rel="noopener noreferrer nofollow" target="_blank">National Day Awards for CJC staff 2021</a></strong> 
 <br>Congratulations to Dr Nor Hanisah, Mrs Phyllis Lim, Mr Lim Chye Fook,
 and Dr Choe Kee Cheng, on being conferred National Day Awards for 2021.</p>
 <p>
@@ -322,7 +322,7 @@ and Dr Choe Kee Cheng, on being conferred National Day Awards for 2021.</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news17.jpg">
 </div>
-<p><strong><a href="/news/2021/6/" rel="noopener noreferrer nofollow" target="_blank">CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass</a></strong>
+<p><strong><a href="/news/2021/6/" rel="noopener noreferrer nofollow" target="_blank">CJCares, CJ Celebrates online concert, CJ Thanksgiving Mass</a></strong> 
 <br>The college comes together to celebrate and give thanks to God for His
 blessings upon our college and nation in a week of commemorative events
 - CJCares fundraising project, CJ Celebrates, and a thanksgiving mass.</p>
@@ -332,7 +332,7 @@ blessings upon our college and nation in a week of commemorative events
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news18.jpg">
 </div>
-<p><strong><a href="/news/2021/5/" rel="noopener noreferrer nofollow" target="_blank">Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020</a></strong>
+<p><strong><a href="/news/2021/5/" rel="noopener noreferrer nofollow" target="_blank">Nathan Lim, Class of 2013, graduates from NTU with Honours (Highest Distinction) 2020</a></strong> 
 <br>Congratulations to Nathan Lim, Class of 2013, who graduated from NTU's
 School of Materials Science and Engineering (MSE) with Honours (Highest
 Distinction) in the NTU-MSE Convocation for the Class of 2020!</p>
@@ -342,7 +342,7 @@ Distinction) in the NTU-MSE Convocation for the Class of 2020!</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news19.jpg">
 </div>
-<p><strong><a href="/news/2021/4/" rel="noopener noreferrer nofollow" target="_blank">Commemorating Lent and Easter as One CJC Community</a></strong>
+<p><strong><a href="/news/2021/4/" rel="noopener noreferrer nofollow" target="_blank">Commemorating Lent and Easter as One CJC Community</a></strong> 
 <br>We marked the seasons of Lent and Easter with a series of meaningful events
 organised by the Student Council's Catholic Activities wing</p>
 <p>
@@ -351,7 +351,7 @@ organised by the Student Council's Catholic Activities wing</p>
 <div class="isomer-image-wrapper">
 <img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/news20.jpg">
 </div>
-<p><strong><a href="/news/2021/3/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates the A-Level Results of the Class of 2020</a></strong>
+<p><strong><a href="/news/2021/3/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates the A-Level Results of the Class of 2020</a></strong> 
 <br>Congratulations to the Class of 2020 on your good 2020 GCE A-Level examination
 results!</p>
 <p>
