@@ -46,7 +46,7 @@ lap of your journey of chasing your dreams. Remember your personal mission
 and where your passion drives you towards, and also be cognisant of the
 community around you. Remember that the true calling of a CJCian is to
 make a difference in the lives of others around us. Wishing you all the
-best in your future endeavors!”</p>
+best in your future endeavours!”</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/33_CCS_7307.jpg">
