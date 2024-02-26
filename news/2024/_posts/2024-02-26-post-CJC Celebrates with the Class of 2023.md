@@ -1,9 +1,11 @@
 ---
 title: CJC Celebrates with the Class of 2023
 permalink: /news/2024/05/
+date: 2024-02-26
+layout: post
+description: ""
+image: ""
 variant: tiptap
-description: CJC Celebrates with the Class of 2023, A Level Results
-third_nav_title: "2024"
 ---
 <h2>CJC Celebrates with the Class of 2023</h2>
 <div class="isomer-image-wrapper">
