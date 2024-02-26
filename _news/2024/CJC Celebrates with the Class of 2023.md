@@ -62,7 +62,7 @@ grace and wisdom as they take flight and soar.</p>
 </p>
 <p></p>
 <hr>
-<h4>Tan Wei Fei</h4>
+<h4>Tan Wan Fei</h4>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/74_CCS_7434.jpg">
