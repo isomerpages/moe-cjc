@@ -15,6 +15,10 @@ our students’ academic results are a testament to their determination and
 dedication to their academic pursuits. The Class of 2023 is well positioned
 to qualify for reputable local and overseas institutes of higher learning
 and to realise their dreams and aspirations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/41_CCS_7318.jpg">
+</div>
 <p>Mrs Woo Soo Min, the Principal of CJC, extends her heartfelt congratulations
 to the Class of 2023. “Our class of 2023 has achieved very good results,
 which bear testimony to their hard work, grit, and commitment, as well
@@ -40,6 +44,10 @@ and where your passion drives you towards, and also be cognisant of the
 community around you. Remember that the true calling of a CJCian is to
 make a difference in the lives of others around us. Wishing you all the
 best in your future endeavors!”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/33_CCS_7307.jpg">
+</div>
 <p>As we celebrate the success of the Class of 2023, the College would like
 to thank our dedicated teachers, administrative staff, parents, the School
 Management Committee (SMC), and alumni for their steadfast support. Together,
@@ -51,6 +59,10 @@ a Mission and Leader with a Heart. May God bless the Class of 2023 with
 grace and wisdom as they take flight and soar.</p>
 <p><em>In Veritate et Caritate.</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/02_CCS_7260.jpg">
+</div>
 <p></p>
 <hr>
 <h4>Tan Wei Fei</h4>
@@ -538,7 +550,1970 @@ of the Co-Curricular Activity (CCA), the CJC Nexus Investment and Entrepreneursh
 Society. A caring and nurturing leader, he tapped on the strengths of his
 CCA members to plan and execute several events successfully. He also represented
 the College in several competitions such as the Young Founders Summit 2022
-where his team obtained the top ten placing.
-<br>
+where his team obtained the top ten placing.</p>
+<hr>
+<p>The college congratulates the following students on their commendable
+performance at the 2023 GCE A-Level examinations.</p>
+<h4>Representing the Arts faculty, we have:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
 </p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ANG HUI TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BOK JING-YI NAELA ELISABETH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CASSIE JANE LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIU YUTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN WAN FEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY HUI XIN SHARON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AW KER YUEH ARIELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAYLA NATHANIA PRASETYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAM QIAN YING, HAZEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ODELIA LIM WANJING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SANDOR LIM SI-XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG JIAN CHENG, HERMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AW HWI WUEN MEGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANG KIERAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHE HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHYE HWEE CHING, ANDREA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOW EE TONG BELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG YAN KAI JOVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YING YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AYE DETHAR MYO LWIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAI JIAYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EMMA CHAI SI QING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KRISHTA SINGH SOHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ADA YSABELLE LLANORA SUNER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARADANA RAJ KHEMLANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KELLY HO KAR LENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU YAN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LUKE XAVIER CROSS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEO HAI TANG, CHARLENE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YANG LIQUAN ADAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHARMAINE KHOR SHI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEIRDRE PHUA YI TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH BEVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATHANIEL LAU YI-JEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NEE WEI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SITI SARAH BINTE MUHAMMAD BURHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN JIA XUAN, JAMIE CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Representing the Science faculty, we have:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANIEO LOW TIANYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DAYLON CHUA MING FENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE HAYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MALCOLM TAN IAIN TSE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T07</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHIN JIN YANG ETHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MA ENHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICKLAUS GOH YI'EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICOLE WONG CAI MIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PHAN BACH VIET</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TANG SHI RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TING WEY JAY GERARD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T08</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CAPPI PUTRA SANJAYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG HAO YANG, HAGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PEK ISAAC</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REYES CHEAH UI-AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRAN THANH NAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WONG LIANG CONG BRANDON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ZHANG YIFAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T09</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN CHUN YONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHRISTOPHER TAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KESHAAN MANAMOHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH JI YANG BRANDON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN KADEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>XU JIACHEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T10</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISAAC KOH LE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JACHOLAS GAY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAVIER LIM WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JUNG SEHYUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T11</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DHIRAVIDACHELVAN DEEPAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH JUN DE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONATHAN GRAZIANO YANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEE JING XIANG, NICHOLAS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MARCUS CHUA EE IAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PARTHIBAN SIDDHARTHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SINGH SHARDUL PRAMOD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T12</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAVIER ANG JIA ZE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM RUI JIE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM ZHENG FENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESTELLE CHAN WAI YAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH KAI JOON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEITH NEO SHAN WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAM JIAN XIN, IVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE FAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YU FEI (LIN YUFEI)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WEE HOW FENG TREFFERT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA WEI DA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHOO KAI RUI IGNATIUS</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOUIS GOU ZI AN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI RONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>REAGAN MOSES WIDJAJA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T15</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISAAC ELIJAH NG YIMIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JERALD YEOH XUAN QI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KAM JAY EU, AYDEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YEO WEI LE CAVAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T16</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRANSON YONG YIP CONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHLOE LEONG WEE TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>WANG YUEXUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CALEB LIM JIN YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHRISTIAN TIMOTHY KONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE ZI JIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RYAN KOO YI ZHE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GEHNA KAUR DHILLON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAMES LIM ZI JIAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN WEI ZHI, TRISTAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABEL DESIREE SIVANESAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JOANNE LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONAS CHEN HONG EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LENG ZHI YING CRYSTAL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NAN MYAT NOE HAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>OO HENG YIN, KIMBERLEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ARISTA LEOW CHUAN HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HANNAH LOH XIN ERN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SEAH JIA XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>THAM HOI FUNG, EDMUND</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T22</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHELLIAH ETHAN NATHANIEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELYSE LIM YI XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG WAN WEI RACHEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN GIN HERN GERALD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T23</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVERYL LOW YING SUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHANG FA ZHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T24</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG XIN YI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GAN XIN WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAZEL NGO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PAN BINGAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T25</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH ZHI YU, ANNA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEVIN CHUA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RUSSELL LYE RUI SHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T26</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMBER BOEY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH ZHUNG YENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LAUREN HANNAH AUGUSTIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIKHAEL SIERUD</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NEO RUI HENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NIRMAL BABU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN LEE WEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAN ZI JIE JARED</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRAN TRUNG KIEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BUI NGUYEN BAO KHANH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GENEVIEVE JOELLE PANG SHAN-WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JARRETT LEE CHANGXUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHANATIP CHOK-OON-KIT</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM WEI XUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATHAN THIAM SHI HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN THAI BINH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN THI NGOC MAI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RAYNER WAN YU HOY</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAMMI GOH WAN YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEVE JAN AUREEL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>EVAN TAY JUNWEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T29</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Student Leaders who have done well:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="2">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+<td rowspan="1" colspan="5">
+<p><strong>CCA&nbsp;Leader</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>CASSIE JANE LEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>SHOOTING (Vice-Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>LIU YUTONG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STUDENT COUNCIL (Head of Department)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>TAY HUI XIN SHARON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>HOUSE EXCO (House Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>AW KER YUEH ARIELLE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>KAYLA NATHANIA PRASETYA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>CONCERT BAND ((EXCO) Secretary / Treasurer)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ODELIA LIM WANJING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>SANDOR LIM SI-XUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>FLOORBALL (Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>WONG JIAN CHENG, HERMAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>NEXUS (Vice-President)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>NG YAN KAI JOVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T03</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STRATEGY GAMES ((EXCO) Secretary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>AYE DETHAR MYO LWIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>TENNIS ((EXCO) Secretary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>CAI JIAYING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>ORATORICAL SOCIETY ((EXCO) Secretary)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>ARADANA RAJ KHEMLANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>GUITAR ENSEMBLE (Section Leader)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>KELLY HO KAR LENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STE2M CLUB (SCIENCE AND TECHNOLOGY) (Vice-President)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>YANG LIQUAN ADAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STRATEGY GAMES (President)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>SITI SARAH BINTE MUHAMMAD BURHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>STUDENT COUNCIL (Vice-President)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>TAN JIA XUAN, JAMIE CLAIRE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>CONCERT BAND (Quartermaster)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>DANIEO LOW TIANYOU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T07</p>
+</td>
+<td rowspan="1" colspan="5">
+<p>BADMINTON (Vice-Captain)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEE HAYDEN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T07</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FOOTBALL (Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>PEK ISAAC</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T09</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GUITAR ENSEMBLE (Section Leader)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KOH JI YANG BRANDON</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FLOORBALL (Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISAAC KOH LE</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>FLOORBALL (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GOH JUN DE</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BASKETBALL (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONATHAN GRAZIANO YANG</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ESTELLE CHAN WAI YAN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>TENNIS (Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM YU FEI (LIN YUFEI)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA WEI DA</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T15</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHOO KAI RUI IGNATIUS</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T15</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>HOUSE EXCO (House Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LOUIS GOU ZI AN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T15</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>STUDENT COUNCIL (Member)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ONG ZHI RONG</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T15</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>FILM,SOUND &amp; VIDEO SOCIETY (Vice-President)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BRANSON YONG YIP CONG</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T17</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>CONCERT BAND (Vice-President)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JAMES LIM ZI JIAN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T19</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>FIRST AID CLUB ((EXCO) Logistic IC)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ISABEL DESIREE SIVANESAN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T20</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>INTERACT CLUB (Vice-President)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JONAS CHEN HONG EN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T20</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>FLOORBALL (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELYSE LIM YI XUAN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T23</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>COMMUNITY SERVICE (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="2">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NG WAN WEI RACHEL</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T23</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>NETBALL ((EXCO) Team Manager)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AVERYL LOW YING SUAN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T24</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>NETBALL (Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HAZEL NGO</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T25</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>STRATEGY GAMES (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>RUSSELL LYE RUI SHENG</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T26</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>HOUSE EXCO (House Secy)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMBER BOEY</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T27</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>TENNIS (Vice-President), FAITH-BASED CCA (Vice-President)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MIKHAEL SIERUD</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T27</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>HOUSE EXCO (House Vice-Captain)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NIRMAL BABU</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T27</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>STE2M CLUB (SCIENCE AND TECHNOLOGY) (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TRAN TRUNG KIEN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T27</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>STUDENT COUNCIL (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>BUI NGUYEN BAO KHANH</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>GUITAR ENSEMBLE (Student Conductor (Performing Arts))</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GENEVIEVE JOELLE PANG SHAN-WEI</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>STUDENT COUNCIL (Head of Department)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KHANATIP CHOK-OON-KIT</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>NEXUS (President)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LIM WEI XUN</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>NEXUS (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN THAI BINH</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>NEXUS (ASSISTANT VICE-PRESIDENT)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN THI NGOC MAI</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>MODERN DANCE (EXCO Member)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SAMMI GOH WAN YEE</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>STE2M CLUB (SCIENCE AND TECHNOLOGY) (President)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>STEVE JAN AUREEL</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>2T28</p>
+</td>
+<td rowspan="1" colspan="3">
+<p>ORATORICAL SOCIETY (Vice-President)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+</tbody>
+</table>
+<h4>Our Archbishop, ELL and Flame Scholars who have done well:</h4>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Class</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GENEVIEVE JOELLE PANG SHAN-WEI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TAY HUI XIN SHARON</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ODELIA LIM WANJING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>TEH XUE HUI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>YANG LIQUAN ADAM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SITI SARAH BINTE MUHAMMAD BURHAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AQIL AUFA BIN MUHAMMAD TAUFIK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KELLY HO KAR LENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LU YAN YING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>V S SAMYUHKTHA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEIRDRE PHUA YI TING</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
 <p></p>
