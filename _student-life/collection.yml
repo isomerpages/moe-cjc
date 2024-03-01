@@ -1,0 +1,22 @@
+collections:
+  student-life:
+    output: true
+    order:
+      - Experience.md
+      - The CJC Story.md
+      - Spirituality.md
+      - Community.md
+      - Home Tutorial.md
+      - CJC Houses/.keep
+      - CJC Houses/CJC Houses.md
+      - CJC Houses/Albert.md
+      - CJC Houses/Joseph.md
+      - CJC Houses/Michael.md
+      - CJC Houses/Patrick.md
+      - CCA/.keep
+      - CCA/List of CCAs.md
+      - CCA/Niche.md
+      - CCA/Visual & Performing Arts.md
+      - CCA/Physical Sports.md
+      - CCA/Clubs & Societies.md
+      - CCA/CCA Achievements.md

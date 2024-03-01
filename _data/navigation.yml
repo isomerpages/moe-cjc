@@ -1,0 +1,16 @@
+logo: /images/CJC logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Admission
+    collection: admission
+  - title: Education
+    collection: academic-information
+  - title: Experience
+    collection: student-life
+  - title: E-Open House
+    url: https://cjcopenhouse.moe.edu.sg
+  - title: Contact Us
+    url: /contact-us/
+  - title: Have a <br>question?
+    url: https://ask.gov.sg/cjc

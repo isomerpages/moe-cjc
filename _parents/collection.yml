@@ -1,0 +1,6 @@
+collections:
+  parents:
+    output: true
+    order:
+      - Parents.md
+      - Family@CJ PSG.md

@@ -1,0 +1,17 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - Uniquely CJC.md
+      - Principal's Message.md
+      - Our Vision.md
+      - Our Identity.md
+      - Our Faith.md
+      - Our History.md
+      - Our College Theme.md
+      - Our Campus.md
+      - Our Leadership.md
+      - Our Departments.md
+      - Our College Profile.md
+      - Our Publications.md
+      - Identity Guidelines.md

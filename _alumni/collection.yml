@@ -1,0 +1,8 @@
+collections:
+  alumni:
+    output: true
+    order:
+      - What's On.md
+      - Our Alumni.md
+      - Education and Career Guidance.md
+      - Join Us.md
