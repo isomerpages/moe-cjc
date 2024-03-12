@@ -90,6 +90,10 @@ Day. In addition, participating in CCA-related competitions, including
 the CJC Nexus FinLit Week in 2023, offered Wan Fei insights into leadership
 responsibilities. She coordinated logistics, motivated team members, and
 ensured project deadlines were met.</p>
+<blockquote>
+<p><em>"I would like to thank my family and friends as they provided the unwavering emotional support that I needed when I was going through the tough A-Level journey. I would also like to thank my teachers for being very accommodating and understanding, and for providing me with the support I needed to do my best at the A-Level examinations, such as taking the time from their busy schedules to have consultations with me and my friends to address our queries."</em>
+</p>
+</blockquote>
 <h4>Tay Hui Xin Sharon</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -119,6 +123,10 @@ which was stressful at times, but also rewarding and character defining.
 Sharon motivated her fellow choir members, and they worked together to
 achieve a Certificate of Distinction for the college at the Singapore Youth
 Festival Arts Presentation 2023.</p>
+<blockquote>
+<p><em>"My role as a House Captain forced me out of my comfort zone in ways that have moulded me into a more confident presenter. Overall, I believe my experiences have shaped me to be an individual who values sincerity and dedication, who understands the need to lead through service, and who believes firmly that persistent hard work to improve oneself will always pay off."</em>
+</p>
+</blockquote>
 <h4>Wong Jian Cheng, Herman</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -143,6 +151,10 @@ account and promoting events organised by Nexus. He collaborated effectively
 with his peers to plan and facilitate schoolwide events such as BizWeek;
 in addition, he also took up the challenge of being a presenter during
 those events to educate his schoolmates on financial literacy.&nbsp;</p>
+<blockquote>
+<p><em>"As the Head of Publicity of the Nexus CCA, I had to collaborate and connect with a large number of people. My time in Nexus has helped me develop both soft and hard skills, and I will forever be grateful for such an opportunity."</em>
+</p>
+</blockquote>
 <h4>Odelia Lim Wanjing</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -168,6 +180,10 @@ event—a role she performed with great aplomb. She was also involved in
 weekly Friday masses and Lenten Evening. Her faith kept her afloat in trying
 times; it is truly a testament to both her tenacity as well as her exceptional
 leadership qualities that she was offered the CJC Flame Scholarship.&nbsp;</p>
+<blockquote>
+<p><em>"The Catholic programmes and events that CJC regularly organised throughout my two years gave me access to a supportive and close-knit community, which is something I am immensely grateful for. Not only did the family-like nature of the community allow me to form long-lasting friendships; this community was also one of my strongest pillars of support during my time in CJC, especially during the A-Level preparation period. One particularly impactful event which I attended was our College’s Lenten Evening where I learnt the importance of having faith during difficult times."</em>
+</p>
+</blockquote>
 <h4>Kieran Chang</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -188,6 +204,10 @@ for the 2023 JC1 Orientation and invested much effort into making his incoming
 juniors feel welcome in the college. In addition to being an OGL, Kieran
 was also chosen to be a faction head which required him to take charge
 of the coordination of his fellow OGLs.&nbsp;</p>
+<blockquote>
+<p><em>"I enjoyed the bonding I experienced with my fellow Orientation Group Leaders (OGLs) since we had to work together in order to carry out a successful Orientation programme. We had to put aside our differences and utilise each of our strengths. I also enjoyed interacting with the incoming J1s as I got the opportunity to learn about each of them beyond a superficial level."</em>
+</p>
+</blockquote>
 <h4>Koh Bevan</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -216,6 +236,10 @@ of Singapore and other schools. Bevan worked hard to prepare for this rare
 opportunity to facilitate the discussions between the speakers and the
 audience. Quick-witted and adaptable, he was able to think on his feet
 and improvise solutions to technical difficulties when they arose.&nbsp;</p>
+<blockquote>
+<p><em>"CJC’s Ignite programme has enabled me to meet classmates who share common interests in areas like philosophy, literature, language and politics. I found the learning fun as I enjoyed listening to diverse opinions on contentious and challenging issues."</em>
+</p>
+</blockquote>
 <h4>Yang Liquan Adam</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -239,6 +263,10 @@ his leadership skills. He instilled confidence in his team members by encouragin
 them whenever they encountered obstacles, and was an ever-present source
 of help to them. In 2022, Adam represented the college at Hwa Chong Institution's
 Bridge Cup.</p>
+<blockquote>
+<p><em>"Serving as the President of the Strategy Games Club has definitely honed my leadership skills. My favourite memory during my time as President of the Strategy Games Club is definitely organising CJC’s very own Inter-College Chinese Chess Competition. Despite having to face many different challenges during the planning phase, my fellow EXCO members and I eventually pulled through, and even managed to earn praise from both the students and teachers from other colleges."</em>
+</p>
+</blockquote>
 <h4>Deirdre Phua Yi Ting</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -262,6 +290,10 @@ Stretch Programme; Deirdre was also selected to attend the Singapore Perspective
 Conference and was attached to the National Council of Social Services
 for an internship which was a requirement of the English Language Elective
 Scholarship (ELES) that Deirdre was a recipient of.&nbsp;</p>
+<blockquote>
+<p><em>"CJC’s Ignite programme allowed me and other like-minded students to study together in a conducive environment. As some of our class sizes were small, we had the privilege of engaging in meaningful discussions. Finally, several events such as the Ignite Symposium enabled us to broaden our knowledge."</em>
+</p>
+</blockquote>
 <h4>Siti Sarah Binte Muhammad Burhan</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -281,6 +313,10 @@ led the Student Council in advocating for student needs, and working towards
 a better learning environment for the students in the College. Throughout
 her leadership journey, Sarah honed her organisational skills and problem-solving
 capabilities, and emerged a more well-rounded and poised individual.</p>
+<blockquote>
+<p><em>"Serving as the Vice-President of the Student Council was definitely a defining experience. One of the most fulfilling things about my role was the privilege of overseeing projects and the welfare of my peers. Every one of my fellow student councillors in my wing has taught me something, and I'm so immensely proud of what we accomplished together."</em>
+</p>
+</blockquote>
 <h4>Hayden Lee</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -299,7 +335,11 @@ and assisted his teachers-in-charge with key administrative duties to ensure
 the smooth running of the CCA. An inspiring leader, he organised early
 morning runs for his CCA members to improve their stamina. Throughout his
 stint as a CCA leader, Hayden has developed a strong, personal voice which
-he will continue to use to inspire others.&nbsp;&nbsp;</p>
+he will continue to use to inspire others.</p>
+<blockquote>
+<p><em>"As the Vice-Captain of the Football CCA, I felt the responsibility to lead the team by example and to ensure that every member felt included. This helped me improve my communication skills. To be able to serve as the Vice Captain itself was already fulfilling; to be the Vice-Captain of a sport I love was a bonus."</em>
+</p>
+</blockquote>
 <h4>Jacholas Gay</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -318,7 +358,11 @@ dedication to making a positive impact on those around him extends beyond
 the boundaries of the classroom: He participated in a Service Learning
 Project in collaboration with CodeSpark, where he worked with young children
 to teach them the basics of coding, reflecting a desire to make a difference
-in the larger community.&nbsp;</p>
+in the larger community.</p>
+<blockquote>
+<p><em>"The College provided useful notes and conducted additional lectures to reinforce key ideas which can be extremely helpful especially for clarifying common misconceptions. Furthermore, my tutor checked on the well-being of my class during Character and Citizenship (CCE) lessons; these lessons helped me realise that I was not alone, and that the emotions I was feeling were normal."</em>
+</p>
+</blockquote>
 <h4>Ong Zhi Rong</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -336,6 +380,10 @@ his photography and videography skills, but also developed the ability
 to cooperate with various stakeholders during school events. Despite the
 pressures he faced as a CCA leader, Zhi Rong remained steadfast and unwavering
 in his commitment to excelling in his duties.&nbsp;</p>
+<blockquote>
+<p><em>"The Film, Sound and Video (FSV) Society is a special CCA as it is a CCA where students learn new skills, and also serve the College. Being the Vice-President of the FSV Society was not an easy job; however, it taught me a lot. I felt fulfilled whenever our photos and videos turned out the way we wanted them to, and also when the school events we were involved in ran smoothly."</em>
+</p>
+</blockquote>
 <h4>Branson Yong</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -360,6 +408,10 @@ for themselves. Besides performing at college events such as CJ Celebrates,
 Branson also put in long hours of practice, together with his bandmates,
 to prepare for the Singapore Youth Festival (SYF) Arts Presentation in
 2023.</p>
+<blockquote>
+<p><em>"When I first took on the role of Vice-President of the Band, I thought it would be straightforward and manageable, but I soon came to realise that there were many more aspects and challenges to leading a band than I had anticipated. I would say that it was an extremely worthwhile experience as I was able to learn numerous valuable lessons about leadership and collaboration. Serving as the Vice-President also brought me the most joy and fulfillment when I saw how hard each band member worked and how proud they were after each performance or competition."</em>
+</p>
+</blockquote>
 <h4>Aqil Aufa Bin Muhammad Taufik</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -379,6 +431,10 @@ guidance on how to make the most of his future career and was taught to
 empower young people like himself to reach their potential. Due to his
 eloquence and poise, Aqil was selected to be a moderator for a school dialogue
 session with Dr Maliki Osman where he further honed his communication skills.&nbsp;</p>
+<blockquote>
+<p><em>"My role as the President of the Student Council helped me grow as a leader and individual. Through the many ordeals and blessings of my Student Council journey, I gained clarity on how I led my peers, how I presented myself and how others viewed me. I also learnt to be more transparent with my peers, became more determined to stand my ground and also developed greater appreciation of those around me."</em>
+</p>
+</blockquote>
 <h4>Isabel Desiree Sivanesan</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -404,6 +460,10 @@ conversation with the Cambodian girls. Isabel also devoted her time and
 efforts to a service learning project in collaboration with the Bone Marrow
 Donor Programme. Isabel designed an awareness campaign to educate her peers
 about the challenges faced by patients who need bone marrow transplants.&nbsp;</p>
+<blockquote>
+<p><em>"Being the Vice-President of the Interact Club has helped me develop my leadership abilities and also allowed me to cultivate many other qualities. I have learnt to become more adaptable and patient when dealing with different situations and different types of people. I remember starting out as a timid individual as I did not have prior leadership experience; through my role as the Vice-President, I became more confident in my leadership abilities and more comfortable with voicing my opinions."</em>
+</p>
+</blockquote>
 <h4>Lauren Hannah Augustin</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -423,6 +483,10 @@ sport, adeptly managing her time between her academic and co-curricular
 commitments. An active member of Floorball, Lauren played a vital role
 in contributing to her team's remarkable fourth position in the National
 School Games 2023 ‘A’ Division.&nbsp;</p>
+<blockquote>
+<p><em>"I joined Floorball in CJC without any prior experience, so it took a lot of effort for me to improve. Learning how to juggle the rigorous demands of a sports CCA with my academic commitments is one of the most important lessons I learnt in CJC. During the National School Games, my J2 Mid-Year examinations were approaching, and I had to set time aside to prepare for both sufficiently. I learnt how to manage my time while ensuring that I was not overexerting myself. I also learnt the importance of consistent practice and drawing support from my teammates."</em>
+</p>
+</blockquote>
 <h4>Tran Trung Kien</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -442,6 +506,10 @@ Service Learning Project, Project Food Fighters, aimed at promoting awareness
 of food sustainability and social responsibility. He worked with his peers
 to plant crops within the school compound and created a digital platform
 to disseminate information and educate peers about urban farming.&nbsp;</p>
+<blockquote>
+<p><em>"CJC’s Ignite Programme has provided me with unique learning experiences such as the Ignite Conference. I had a chance to visit an NTU lab that breeds black-soldier flies and learned how they contributed to Singapore’s food security. Moreover, I was exposed to new teaching and learning styles after joining the programme.The teachers also constantly stretched us with questions that required higher-order thinking, encouraging us to think outside of the box."</em>
+</p>
+</blockquote>
 <h4>Nguyen Thai Binh</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -470,6 +538,10 @@ Physics Olympiad. He also represented the school in the International Mathematic
 Modelling Challenge (Singapore) 2023 where he and his team members derived
 a deterministic model as a decision metric to make the best use of a land
 parcel, achieving a Distinction for their solution paper.&nbsp;</p>
+<blockquote>
+<p><em>"As an Ignite student, I was offered many opportunities to widen my learning beyond the classroom. I acquired knowledge about important issues such as climate change, and also learnt skills such as research skills, presentation skills and teamwork."</em>
+</p>
+</blockquote>
 <h4>Genevieve Joelle Pang Shan-Wei</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -495,6 +567,10 @@ Council, Genevieve was able to contribute to the school community in a
 meaningful way. She planned and executed events that brought students of
 the Catholic faith together. She took this role seriously, and made the
 most of it to strengthen the faith of her Catholic peers.&nbsp;</p>
+<blockquote>
+<p><em>"Through the College’s Catholic events, I was able to meet other Catholic students and form a community here in CJC. I was also able to make friends outside my class and CCA. Some of the lessons that were more focused on how to live a faith-led life while juggling one’s academics gave me new insights, and taught me how to incorporate faith into my day-to-day life."</em>
+</p>
+</blockquote>
 <h4>Sammi Goh Wan Yee</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -521,6 +597,10 @@ CJC Conceptualise Space to key personnel from the Ministry of Education.</p>
 to make a positive impact on the environment. While working on her various
 projects, she has not only deepened her understanding of the global complexities
 of environmental issues, but also strengthened her problem-solving skills.&nbsp;</p>
+<blockquote>
+<p><em>"My leadership journey as STE2M Club President has made me a more proactive and empathetic person. STE2M Club opened my eyes to new things and made me realise that there is so much more for me to learn and explore. This became a driving force for me whenever I initiated STEM-related workshops. For example, we conducted a 3D modelling workshop where my peers had the opportunity to print their own designs with the 3D printing machine in our College. Beyond the mastery of hard skills, being the President allowed me to hone my soft skills through active collaboration with my fellow committees as we planned and executed activities.Overall, my journey as the STE2M Club President has made me a more confident communicator, equipping me with invaluable skills for the future."</em>
+</p>
+</blockquote>
 <h4>Khanatip Chok-Oon-Kit</h4>
 <p></p>
 <div class="isomer-image-wrapper">
@@ -550,6 +630,10 @@ Society. A caring and nurturing leader, he tapped on the strengths of his
 CCA members to plan and execute several events successfully. He also represented
 the College in several competitions such as the Young Founders Summit 2022
 where his team obtained the top ten placing.</p>
+<blockquote>
+<p><em>"The STEM competitions I took part in required significantly more advanced knowledge than what is typically tested for the A-Level examinations. However, the knowledge I learnt during lessons was foundational to my understanding of the knowledge I needed to do well in those competitions; hence, I had to frequently revisit and revise the topics that are in the A-Level syllabus. This helped reinforce my understanding of STEM concepts and gave me more opportunities to put it into practice."</em>
+</p>
+</blockquote>
 <hr>
 <p>The college congratulates the following students on their commendable
 performance at the 2023 GCE A-Level examinations.</p>

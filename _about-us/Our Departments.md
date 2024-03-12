@@ -180,7 +180,6 @@ variant: markdown
 | Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg) |
 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
-| Lim Siow Fen |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | Samihani Binte Ali | [samihani_ali@moe.edu.sg](mailto:samihani_ali@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg) |
