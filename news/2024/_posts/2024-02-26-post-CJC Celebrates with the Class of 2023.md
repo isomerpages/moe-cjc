@@ -124,7 +124,7 @@ Sharon motivated her fellow choir members, and they worked together to
 achieve a Certificate of Distinction for the college at the Singapore Youth
 Festival Arts Presentation 2023.</p>
 <blockquote>
-<p><em>My role as a House Captain forced me out of my comfort zone in ways that have moulded me into a more confident presenter. Overall, I believe my experiences have shaped me to be an individual who values sincerity and dedication, who understands the need to lead through service, and who believes firmly that persistent hard work to improve oneself will always pay off.  </em>
+<p><em>My role as a House Captain forced me out of my comfort zone in ways that have moulded me into a more confident presenter. Overall, I believe my experiences have shaped me to be an individual who values sincerity and dedication, who understands the need to lead through service, and who believes firmly that persistent hard work to improve oneself will always pay off.</em>
 </p>
 </blockquote>
 <h4>Wong Jian Cheng, Herman</h4>
@@ -237,7 +237,7 @@ opportunity to facilitate the discussions between the speakers and the
 audience. Quick-witted and adaptable, he was able to think on his feet
 and improvise solutions to technical difficulties when they arose.&nbsp;</p>
 <blockquote>
-<p><em>CJC’s Ignite programme has enabled me to meet classmates who share common interests in areas like philosophy, literature, language and politics. I found the learning fun as I enjoyed listening to diverse opinions on contentious and challenging issues. </em>
+<p><em>CJC’s Ignite programme has enabled me to meet classmates who share common interests in areas like philosophy, literature, language and politics. I found the learning fun as I enjoyed listening to diverse opinions on contentious and challenging issues.</em>
 </p>
 </blockquote>
 <h4>Yang Liquan Adam</h4>
@@ -291,7 +291,7 @@ Conference and was attached to the National Council of Social Services
 for an internship which was a requirement of the English Language Elective
 Scholarship (ELES) that Deirdre was a recipient of.&nbsp;</p>
 <blockquote>
-<p><em>CJC’s Ignite programme allowed me and other like-minded students to study together in a conducive environment. As some of our class sizes were small, we had the privilege of engaging in meaningful discussions. Finally, several events such as the Ignite Symposium enabled us to broaden our knowledge. </em>
+<p><em>CJC’s Ignite programme allowed me and other like-minded students to study together in a conducive environment. As some of our class sizes were small, we had the privilege of engaging in meaningful discussions. Finally, several events such as the Ignite Symposium enabled us to broaden our knowledge.</em>
 </p>
 </blockquote>
 <h4>Siti Sarah Binte Muhammad Burhan</h4>
@@ -314,7 +314,7 @@ a better learning environment for the students in the College. Throughout
 her leadership journey, Sarah honed her organisational skills and problem-solving
 capabilities, and emerged a more well-rounded and poised individual.</p>
 <blockquote>
-<p><em>Serving as the Vice-President of the Student Council was definitely a defining experience. One of the most fulfilling things about my role was the privilege of overseeing projects and the welfare of my peers. Every one of my fellow student councillors in my wing has taught me something, and I'm so immensely proud of what we accomplished together. </em>
+<p><em>Serving as the Vice-President of the Student Council was definitely a defining experience. One of the most fulfilling things about my role was the privilege of overseeing projects and the welfare of my peers. Every one of my fellow student councillors in my wing has taught me something, and I'm so immensely proud of what we accomplished together.</em>
 </p>
 </blockquote>
 <h4>Hayden Lee</h4>
