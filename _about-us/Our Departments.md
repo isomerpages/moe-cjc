@@ -93,7 +93,6 @@ variant: markdown
 | Hang Shu Min Celestine / Head of Department | [hang_shu_min_celestine@moe.edu.sg](mailto:hang_shu_min_celestine@moe.edu.sg) |
 | Angeline Sim Guanli / School Staff Developer | [sim_guanli_angeline@moe.edu.sg](mailto:sim_guanli_angeline@moe.edu.sg) |
 | Tan Wei Jun / Subject Head/Student Development Curriculum  | [tan_wei_jun@moe.edu.sg](mailto:tan_wei_jun@moe.edu.sg) |
-| Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg) |
 | Tan Weng Cheong Alex / Lead Teacher  | [tan_weng_cheong_alex@moe.edu.sg](mailto:tan_weng_cheong_alex@moe.edu.sg) |
 | Suriani Amran / Senior Teacher | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) |
 | Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
