@@ -25,10 +25,11 @@ variant: markdown
 | Chan Sok Yee / Asst Year Head JC2 | [chan_sok_yee@moe.edu.sg](mailto:chan_sok_yee@moe.edu.sg) |
 | Li Wenqiang Mark / Year Head JC1 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
 | Cipto Hu / Asst Year Head JC1 | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
-| Yang Shijie Amos / Subject Head/Student Guidance | [yang_shijie@moe.edu.sg](mailto:yang_shijie@moe.edu.sg) |
 | Leong Wee Tek Alvin / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg) |
+| Mackenzie Rae Schoon / Covering Subject Head/Literature & Guidance | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
 | Amanda Goh Shiying / Learning Support Officer (SENO)  | [amanda_goh_shiying@moe.edu.sg](mailto:amanda_goh_shiying@moe.edu.sg) |
 | Woo Su Ling / School Counsellor  | [woo_su_ling@moe.edu.sg](mailto:woo_su_ling@moe.edu.sg) |
+
 |
 
 #### **English Department**
@@ -54,6 +55,7 @@ variant: markdown
 | Lynette La'Brooy | [yong_choon_yen_lynette@moe.edu.sg](mailto:yong_choon_yen_lynette@moe.edu.sg) |
 | Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
 | Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:nandabalan_panneerselvam@moe.edu.sg) |
+| Ng Jing Mei, Jodi | [ng_jing_mei_jodi@moe.edu.sg](mailto:ng_jing_mei_jodi@moe.edu.sg) |
 | Patricia Koh Seok Kwan  | [koh_seok_kwan_patricia@moe.edu.sg](mailto:koh_seok_kwan_patricia@moe.edu.sg) |
 | Quek Bufeng | [quek_bufeng@moe.edu.sg](mailto:quek_bufeng@moe.edu.sg) |
 | Suzie Yanti | [suzie_yanti_jumadi@moe.edu.sg](mailto:suzie_yanti_jumadi@moe.edu.sg)  |
