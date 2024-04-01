@@ -196,7 +196,6 @@ variant: markdown
 | Cipto Hu / Asst Year Head JC1  | [cipto_hu@moe.edu.sg](mailto:cipto_hu@moe.edu.sg) |
 | Leong Wee Tek Alvin / Subject Head/Student Management | [leong_wee_tek@moe.edu.sg](mailto:leong_wee_tek@moe.edu.sg) |
 | Goh Tor Heng / Senior Teacher  | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
-| Cheong Jin Hui Jillian | [cheong_jin_hui_jillian@moe.edu.sg](mailto:cheong_jin_hui_jillian@moe.edu.sg) |
 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg) |
 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
@@ -224,7 +223,6 @@ variant: markdown
 | Peter Goh  | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg) |
 | Tan Mei Qi  | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg) |
 | Tan Pei Pei Sharon  | [tan_pei_pei_sharon@moe.edu.sg](mailto:tan_pei_pei_sharon@moe.edu.sg) |
-| Toh Yoke Fan  | [fong_yoke_fan@moe.edu.sg](mailto:fong_yoke_fan@moe.edu.sg) |
 | Valarie Chia  | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
 | Wang Qiumei Stephanie  | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
 | Yee Meng Wai  | [yee_meng_wai@moe.edu.sg](mailto:yee_meng_wai@moe.edu.sg) |
