@@ -311,5 +311,4 @@ Father Justin Yip
 |:---|:---|
 | Khairul Nizam Mohd Taha / Administrative Manager | [khairul_nizam_mohd_taha@moe.edu.sg](mailto:khairul_nizam_mohd_taha@moe.edu.sg) |
 | Liew Hui Lin / Administrative Manager | [liew_hui_lin@moe.edu.sg](mailto:liew_hui_lin@moe.edu.sg) |
-| Ravi Govindaram / Operations Manager  | [ravi_govindaram@moe.edu.sg](mailto:ravi_govindaram@moe.edu.sg)  |
 | See Song Pewe Gordon / Operations Manager  | [see_song_pewe@moe.edu.sg](mailto:see_song_pewe@moe.edu.sg)  |
