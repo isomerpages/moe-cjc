@@ -172,7 +172,7 @@ in the areas of STEM</p>
 </table>
 <p>Applicants are to focus on only <strong>one area of expertise or talent</strong> in
 their application.</p>
-<h5><strong>Application Procedures</strong></h5>
+<h5><strong>Application Procedures</strong> (will be updated in May 2024)</h5>
 <ol data-tight="true" class="tight">
 <li>
 <p>To apply, please register using <strong><a href="http://dsa.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">http://dsa.catholicjc.edu.sg</a></strong> between
@@ -207,7 +207,7 @@ submitted online by&nbsp;<strong>5pm, Monday,</strong>  <strong>3 July 2023</str
 <br>Applications submitted<strong>after</strong>&nbsp;<strong>3 July</strong>&nbsp;<strong>2023</strong>&nbsp;will
 be processed in Phase 2.
 <br>
-<br><em>For DSA-JC (Phase 2)</em>
+<br><em>For DSA-JC (Phase 2)</em> 
 <br>To allow enough time for processing, it is strongly recommended that all
 applications are submitted online by <strong>5pm, Monday, 21 August 2023</strong>.</p>
 </li>
