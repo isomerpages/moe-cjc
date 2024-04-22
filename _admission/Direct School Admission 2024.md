@@ -66,9 +66,7 @@ and CCA.</p>
 <br>- Canoeing
 <br>- Cross Country
 <br>- Fencing
-<br>- Floorball
-<br>
-</p>
+<br>- Floorball</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Football (Boys)
