@@ -105,9 +105,7 @@ and CCA.</p>
 <p>- Debating and Public Speaking</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Representation at National or Zonal schools competitions
-<br>
-<br>- Records of achievement with CCA</p>
+<p>- Language Elective Programme - English</p>
 </td>
 </tr>
 <tr>
@@ -115,47 +113,15 @@ and CCA.</p>
 <p>- Entrepreneurship</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Representation at National, Zonal or similar level inter-school competitions
-<br>
-<br>- Records of achievements / contributions with a CCA or a sustained programme
-in this area</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>- Language Elective Programme - English</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Records of consistently good English Language grades in Secondary 3
-and 4
-<br>
-<br>- Records of achievements and school contributions that show evidence
-of strong interest and ability in the English Language
-<br>
-<br>- Shortlisted applicants will be required to write an essay</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>- Leadership</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>- Holding a key school-wide leadership position in Secondary 3 and 4 (e.g.
-Exco member of Student Council / Prefectorial Board or of similar leadership
-equivalent)
-<br>
-<br>- Records of strong leadership capabilities</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>- Science and Technology</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Representation at National, Zonal or similar level inter-school competitions
-<br>
-<br>- Records of achievements/ contributions with a CCA or a sustained programme
-in the areas of STEM</p>
+<p>- Science and Technology</p>
 </td>
 </tr>
 <tr>
