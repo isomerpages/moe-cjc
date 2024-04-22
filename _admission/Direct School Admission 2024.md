@@ -12,8 +12,8 @@ the table below. Successful applicants may be considered for one of the
 10 <a href="/admission/scholarships/" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a> available
 to JC1 students with exceptional strengths and/or abilities in leadership
 and CCA.</p>
-<h5><strong>DSA Talent Areas</strong></h5>
-<p>We are looking for students who are outstanding in the following areas:</p>
+<p>The following talent areas are open for DSA applications in CJC. Do check
+back in May for application details.</p>
 <table>
 <tbody>
 <tr>
