@@ -21,7 +21,7 @@ and CCA.</p>
 <p>Performing Arts</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Selection Criteria</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -29,15 +29,13 @@ and CCA.</p>
 <p>- Choir
 <br>- Concert Band
 <br>- English Drama
-<br>- Guitar Ensemble
-<br>- Guzheng Ensemble
-<br>- Modern Dance</p>
+<br>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>- Achievement in SYF presentations
-<br>- Representation in international / national competitions
-<br>- Achievement in music / dance examinations</p>
-<p>- Participation in local and international performances/recitals</p>
+<p>- Guitar Ensemble
+<br>- Guzheng Ensemble
+<br>- Modern Dance</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +55,7 @@ and CCA.</p>
 <p>Sports and Games</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Selection Criteria</p>
+<p></p>
 </th>
 </tr>
 <tr>
@@ -69,17 +67,17 @@ and CCA.</p>
 <br>- Cross Country
 <br>- Fencing
 <br>- Floorball
-<br>- Football (Boys)
-<br>- Frisbee
-<br>- Netball (Girls)
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>- Football (Boys)
+<br>- Frisbee</p>
+<p>- Netball (Girls)
 <br>- Swimming
 <br>- Tennis
 <br>- Track and Field
 <br>- Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>- Achievement in National Schools / international competitions
-<br>- Representation at National or Zonal schools competition</p>
 </td>
 </tr>
 <tr>
@@ -99,7 +97,7 @@ and CCA.</p>
 <p>Others areas of expertise / talent</p>
 </th>
 <th rowspan="1" colspan="1">
-<p>Selection Criteria</p>
+<p></p>
 </th>
 </tr>
 <tr>
