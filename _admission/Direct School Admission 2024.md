@@ -132,6 +132,5 @@ back in May for application details.</p>
 </tr>
 </tbody>
 </table>
-<p>Applicants are to focus on only <strong>one area of expertise or talent</strong> in
-their application.</p>
+<p></p>
 <p></p>
