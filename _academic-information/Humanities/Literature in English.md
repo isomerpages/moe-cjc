@@ -39,7 +39,7 @@ H2 Literature:<br>
 | Paper 1: <br>Reading Literature | Paper 3: <br>Postcolonial Literature | Section C: <br>Pre-20th Century Writing|
 | -------- | -------- | -------- |
 | *Jane Eyre*<br> by Charlotte Brontë | *Wide Sargasso Sea*<br> by Jean Rhys    | *Heart of Darkness*<br> by Joseph Conrad |
-| *The Changeling*<br> by Thomas Middleton and William Rowley | *Remembering Babylon*<br> by David Malouf |   |
+| *The Changeling*<br> by Thomas Middleton and William Rowley | *Anthills of the Savannah*<br> by Chinua Achebe |   |
 
 
 

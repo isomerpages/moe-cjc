@@ -2,7 +2,7 @@
 title: Direct School Admission 2024
 permalink: /admission/direct-school-admission/
 description: ""
-variant: tiptap
+variant: markdown
 ---
 <h3><strong>Direct School Admission 2024</strong></h3>
 <h4><strong>2024 Direct School Admission - Junior Colleges (DSA-JC) for admission to JC1 in 2025</strong></h4>
@@ -70,8 +70,8 @@ back in May for application details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Football (Boys)
-<br>- Frisbee</p>
-<p>- Netball (Girls)
+<br>- Frisbee
+<br>- Netball (Girls)
 <br>- Swimming
 <br>- Tennis
 <br>- Track and Field
