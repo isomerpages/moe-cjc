@@ -70,8 +70,8 @@ back in May for application details.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>- Football (Boys)
-<br>- Frisbee</p>
-<p>- Netball (Girls)
+<br>- Frisbee
+<br>- Netball (Girls)
 <br>- Swimming
 <br>- Tennis
 <br>- Track and Field
