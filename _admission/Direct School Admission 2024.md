@@ -314,7 +314,7 @@ be processed in Phase 2.&nbsp;
 it is strongly recommended that all applications are submitted online by <strong>5pm, Monday, 19 August 2024</strong>&nbsp;
 <br>
 </p>
-<h4><strong>Trial/Audition Process</strong></h4>
+<h4><strong>Trial/ Audition Process</strong></h4>
 <p><u>For DSA-JC (Phase 1),</u>
 </p>
 <ul>
@@ -360,7 +360,6 @@ one week before the interview date.&nbsp;</p>
 <p>Final decision will be made by the Interview Panel <u>after</u> the interview.</p>
 </li>
 </ul>
-<p></p>
 <p>Successful candidates will receive a Letter of Offer by <strong>12 August 2024</strong>.
 They are required to accept our offer by <strong>3 pm, Tuesday, 14 August 2024.</strong> Both
 students and their parents will be notified by email.</p>
