@@ -305,7 +305,7 @@ or equivalent;</p>
 </li>
 </ol>
 <p><u>For DSA-JC (Phase 1)<br></u>To allow sufficient time for processing,
-it is strongly recommended that all applications are submitted online by&nbsp;<strong>5pm, Monday, 15 July 2024.</strong>
+it is strongly recommended that all applications are submitted online by&nbsp;<strong>5pm, Monday, 15 July 2024.</strong> 
 <br>
 <br>Applications submitted&nbsp;<strong>after 15 July 2024</strong>&nbsp;will
 be processed in Phase 2.&nbsp;
@@ -400,7 +400,7 @@ out to another school.</p>
 <h4><strong>Enquiries</strong></h4>
 <p>For more information, please visit the&nbsp;<strong><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>Ministry of Education DSA-JC</u></a></strong>&nbsp;website.</p>
 <p>For further enquiries on the CJC DSA-JC exercise, please email us at
-<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>catholic_jc@moe.edu.sg</u>
+<a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank"><u>catholic_jc@moe.edu.sg</u> 
 </a><u>.</u>
 </p>
 <p>
