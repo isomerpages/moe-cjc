@@ -10,7 +10,7 @@ variant: tiptap
 <p>CJC invites applications for direct admission to JC1 in 2025 from students
 who are outstanding in at least one area of talents / skills listed in
 the table below. Successful applicants may be considered for one of the
-10 <a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank"><u>FLAME scholarships</u></a> available
+10 <a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a> available
 to JC1 students with exceptional strengths and/or abilities in leadership
 and CCA.</p>
 <p></p>
