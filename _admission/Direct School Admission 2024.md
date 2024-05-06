@@ -272,8 +272,8 @@ their application.&nbsp;</p>
 <h4><strong>Application Procedures</strong></h4>
 <ol data-tight="true" class="tight">
 <li>
-<p>To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
-7&nbsp; May to 19&nbsp; August 2024.</p>
+<p>To apply, please register via the <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
+7&nbsp;May to 19&nbsp; August 2024.</p>
 <p></p>
 </li>
 <li>
