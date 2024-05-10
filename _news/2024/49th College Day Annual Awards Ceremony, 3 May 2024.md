@@ -26,6 +26,11 @@ Dr. Radha encouraged our students to embrace curiosity and to always remember
 the power of a smile, emphasizing the importance of these qualities in
 their personal and professional journeys.</p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Token_of_Apprec_to_Dr_Radha_Nagarajan.jpg">
+</div>
+<p>Token of appreciation to our Guest of Honour, Dr. Radha Nagarajan, Class
+of 1980</p>
 <p>From academic excellence to outstanding contributions in co-curricular
 activities, the event celebrated our students for their commitment to excellence
 and their ability to overcome challenges. Their achievements serve as a
