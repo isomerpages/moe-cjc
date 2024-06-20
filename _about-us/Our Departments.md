@@ -123,7 +123,6 @@ variant: markdown
 | Lim Chye Fook / Head of Department | [lim_chye_fook@moe.edu.sg](mailto:lim_chye_fook@moe.edu.sg) |
 | Lyncoln Lee / Head of Department/Infocomm Tech | [lee_lyncoln@moe.edu.sg](mailto:lee_lyncoln@moe.edu.sg) |
 | Chia Shing Li / Level Head  | [chia_shing_-li@moe.edu.sg](mailto:chia_shing_-li@moe.edu.sg) |
-| Kam Wei Loon / Level Head  | [kam_wei_loon@moe.edu.sg](mailto:kam_wei_loon@moe.edu.sg) |
 | Peh Ching Hui Rena / Subject Head/ICT | [peh_ching_hui_rena@moe.edu.sg](mailto:peh_ching_hui_rena@moe.edu.sg) |
 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg) |
 | Chia Siang Hwa Megan | [chia_siang_hwa_megan@moe.edu.sg](mailto:chia_siang_hwa_megan@moe.edu.sg) |
@@ -136,6 +135,7 @@ variant: markdown
 | Ong Junjie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg) |
 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
+| Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
 | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg) |
 |
