@@ -29,7 +29,6 @@ variant: markdown
 | Mackenzie Rae Schoon / Covering Subject Head/Literature & Guidance | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
 | Amanda Goh Shiying / Learning Support Officer (SENO)  | [amanda_goh_shiying@moe.edu.sg](mailto:amanda_goh_shiying@moe.edu.sg) |
 | Woo Su Ling / School Counsellor  | [woo_su_ling@moe.edu.sg](mailto:woo_su_ling@moe.edu.sg) |
-
 |
 
 #### **English Department**
