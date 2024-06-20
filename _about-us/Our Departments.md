@@ -126,13 +126,11 @@ variant: markdown
 | Peh Ching Hui Rena / Subject Head/ICT | [peh_ching_hui_rena@moe.edu.sg](mailto:peh_ching_hui_rena@moe.edu.sg) |
 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg) |
 | Chia Siang Hwa Megan | [chia_siang_hwa_megan@moe.edu.sg](mailto:chia_siang_hwa_megan@moe.edu.sg) |
-| Leong-Chew Tyng Huey  | [chew_tyng_huey@moe.edu.sg](mailto:chew_tyng_huey@moe.edu.sg) |
 | Lim Wei Ying  | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg)   |
 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
 | Natalie Lee Yingrong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg) |
 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg)  |
 | Ng Mei Ping Ruby | 
-| Ong Junjie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg) |
 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
 | Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
