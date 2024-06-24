@@ -280,7 +280,7 @@ variant: markdown
 | 1T13 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
 | 1T14 | Tan Seow Ling | [tan_seow_ling@moe.edu.sg](mailto:tan_seow_ling@moe.edu.sg) |
 | 1T15 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
-| 1T16 | Toh Ping Yong Jeffrey  | [toh_ping_yong_jeffrey@moe.edu.sg](mailto:toh_ping_yong_jeffrey@moe.edu.sg) |
+| 1T16 | Chong Phow Loong  | [chong_phow_loong@moe.edu.sg](mailto:chong_phow_loong@moe.edu.sg) |
 | 1T17 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
 | 1T18 | Goh Tor Heng | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
 | 1T19 | Peter Thia | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
