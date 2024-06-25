@@ -1,13 +1,14 @@
 ---
 title: Privacy Statement
 permalink: /privacy/
+variant: markdown
 ---
 ### **Privacy Statement**
 **CATHOLIC JUNIOR COLLEGE WEBSITE PRIVACY STATEMENT**
 
-1\. This is a Catholic Junior College website. Thank you for examining our privacy statement.
+1\. This is Catholic Junior College’s Website. Thank you for examining our privacy statement.
 
-2\. If you are only browsing this website, we do not capture data that allows us to identify you individually.
+2\. If you are only browsing this Website, we do not capture data that allows us to identify you individually.
 
 3\. If you choose to make an application or send us an e-mail for which you provide us with personally identifiable data, we may share necessary data with other Government agencies, so as to serve you in a most efficient and effective way, unless such sharing is prohibited by legislation. We will NOT share your personal data with non-Government entities, except where such entities have been authorised to carry out specific Government services.
 
@@ -15,4 +16,4 @@ permalink: /privacy/
 
 5\. To safeguard your personal data, all electronic storage and transmission of personal data are secured with appropriate security technologies.
 
-6\. This site may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
+6\. This Website may contain links to non-Government sites whose data protection and privacy practices may differ from ours. We are not responsible for the content and privacy practices of these other websites and encourage you to consult the privacy notices of those sites.
