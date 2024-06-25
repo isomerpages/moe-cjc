@@ -21,7 +21,7 @@ Click the following link for an overview of the H1 Economics syllabus as well as
 
 Click the following link for an overview of the H2 Economics syllabus as well as the assessment format:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sy.pdf)&nbsp;
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf)&nbsp;
 
 #### H3 Economics
 
