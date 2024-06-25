@@ -63,4 +63,4 @@ GCE A-Level holders who are interested in applying for admission to any diploma 
 
 **Singapore Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.sp.edu.sg/sp/admissions/admissions-exercises/direct-admissions-exercise-(dae)](https://www.sp.edu.sg/sp/admissions/admissions-exercises/direct-admissions-exercise-(dae))
 
-**Temasek Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local](http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local)
+**Temasek Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.tp.edu.sg/admissions-and-finance/application-guide-for-prospective-students/a-level-graduates-jae-dae.html](https://www.tp.edu.sg/admissions-and-finance/application-guide-for-prospective-students/a-level-graduates-jae-dae.html)
