@@ -3,6 +3,7 @@ title: CJCares Virtual Cross Country 2022
 permalink: /news/2022/1/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
 ### **CJCares Virtual Cross Country 2022**
 
@@ -14,13 +15,13 @@ The recent Covid-19 pandemic and its challenges have not dampened our CJ spirit 
 
 To celebrate the indomitable CJ spirit of leadership and service, CJC will be embarking on our first&nbsp;**CJCares Virtual Cross Country**&nbsp;this year. The cross country will have CJCians, staff, alumni and parent representatives covering a distance of&nbsp;**40,500km**&nbsp;– the circumference of the world. &nbsp;&nbsp;The theme:&nbsp;**_“Run for our World, Run for CJ! – One Flame, One Family”_**&nbsp;symbolises CJ’s commitment to build a world without borders, a world of hope. Every step we take is a step of hope, based on our belief that we can, as one CJ Family, overcome all challenges with resilience, in Truth and in Love.
 
-The funds raised from our virtual cross country will go towards the&nbsp;**CJCares Fundraising Campaign**&nbsp;to&nbsp;**support CJCians who need financial assistance in these challenging times**. If you would like to make a&nbsp;**donation**, click on&nbsp;[this link](https://www.giving.sg/catholic-junior-college)&nbsp;or scan the QR code at the bottom of the page.
+The funds raised from our virtual cross country will go towards the&nbsp;**CJCares Fundraising Campaign**&nbsp;to&nbsp;**support CJCians who need financial assistance in these challenging times**. If you would like to make a&nbsp;**donation**, click on&nbsp;[this link](https://www.giving.sg/catholic-junior-college).
 
 Join us as we let our light spread and brighten the night,
 
 Let our CJ Flame warm all hearts and unite!
 
-<img align="left" style="width:25%" src="/images/2022cjcxcountry2.jpg">
+
 
 <br clear="left">
 
