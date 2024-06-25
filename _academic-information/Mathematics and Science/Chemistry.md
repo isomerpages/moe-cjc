@@ -30,7 +30,7 @@ H1 Chemistry:<br>
   
 
 H2 Chemistry:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9729_y23_sy.pdf)
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf)
 
 #### Prerequisites/Suitability
 
