@@ -17,7 +17,7 @@ The CJC Geography programme combines authentic learning opportunities with inqui
 
 Click the following links for an overview of the Geography syllabi as well as the assessment formats:
 
-[H1 Geography 8834 (Revised syllabus, 1st Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy.pdf)  
+[H1 Geography 8834 (Revised syllabus, 1st Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8834_y24_sy_final.pdf)  
 
 [H2 Geography 9173 (Revised syllabus, 1st Examination in 2024)](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9173_y24_sy.pdf)  
 
