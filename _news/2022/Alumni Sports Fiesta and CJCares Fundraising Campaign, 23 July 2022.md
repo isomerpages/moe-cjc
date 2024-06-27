@@ -3,6 +3,7 @@ title: Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022
 permalink: /news/2022/10/
 description: ""
 third_nav_title: "2022"
+variant: markdown
 ---
 ### **Alumni Sports Fiesta and CJCares Fundraising Campaign, 23 July 2022**
 After a two-year hiatus, our alumni were in the highest of spirits for this year’s Alumni Sports Fiesta. A glorious Saturday morning saw teams from a range of graduating batches coming together and battling it out in five different sporting events – Captain’s Ball, Football, Frisbee, Rugby and Tennis. Students from our CJC sports CCAs also gathered to join in the fun! (Watch the video highlights&nbsp;[here](https://www.youtube.com/watch?v=ZbPdqsrPYB0).)
@@ -37,5 +38,5 @@ A big thank you to our alumni also for supporting our CJCares fundraising effort
 
 _In Veritate et Caritate_
 
-Click&nbsp;[here](https://www.giving.sg/web/catholic-junior-college)&nbsp;to make a contribution to the CJCares fundraising initiative.<br>
+Click&nbsp;[here](https://www.giving.sg/organisation/profile/961a755e-ec67-417c-94a8-a3d28089dc5c)&nbsp;to make a contribution to the CJCares fundraising initiative.<br>
 For more on CJC Alumni events and initiatives, click&nbsp;[here](/alumni/)

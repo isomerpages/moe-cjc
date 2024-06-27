@@ -269,8 +269,10 @@ variant: markdown
 | 1T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
 | 1T04 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) | 
 | 1T05 | Suriani Amran | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) | 
+| 1T05 | Ng Jing Mei, Jodi | [ng_jing_mei_jodi@moe.edu.sg](mailto:ng_jing_mei_jodi@moe.edu.sg) | 
 | 1T06 | Alexandra Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
 | 1T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
+| 1T07 | Lai Ern Chuen | [lai_ern_chuen@moe.edu.sg](mailto:lai_ern_chuen@moe.edu.sg) |
 | 1T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
 | 1T08 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
 | 1T09 | Valarie Chia  | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
@@ -287,6 +289,7 @@ variant: markdown
 | 1T20 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | 1T21 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | 1T22 | Wee Siew Ling | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg) |
+| 1T22 | Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
 | 1T23 | Lee Li-Shan  | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
 | 1T24 | Wendy Ng | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
 | 1T25 | Diana Long Hui Ping | [diana_long_hui_ping@moe.edu.sg](mailto:diana_long_hui_ping@moe.edu.sg) |
@@ -306,4 +309,5 @@ Father Justin Yip
 |:---|:---|
 | Khairul Nizam Mohd Taha / Administrative Manager | [khairul_nizam_mohd_taha@moe.edu.sg](mailto:khairul_nizam_mohd_taha@moe.edu.sg) |
 | Liew Hui Lin / Administrative Manager | [liew_hui_lin@moe.edu.sg](mailto:liew_hui_lin@moe.edu.sg) |
+| Abdul Rahim / Operations Manager  | [haji_abdul_rahim@moe.edu.sg](mailto:haji_abdul_rahim@moe.edu.sg)  |
 | See Song Pewe Gordon / Operations Manager  | [see_song_pewe@moe.edu.sg](mailto:see_song_pewe@moe.edu.sg)  |

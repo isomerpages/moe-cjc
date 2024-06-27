@@ -3,6 +3,7 @@ title: Economics
 permalink: /education/humanities/economics/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### Economics
 
@@ -14,13 +15,13 @@ Through the learning and application of economic concepts, theories and principl
 
 Click the following link for an overview of the H1 Economics syllabus as well as the assessment format:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/8843_y23_sy.pdf)&nbsp;
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8843_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8843_y24_sy.pdf)&nbsp;
 
   
 
 Click the following link for an overview of the H2 Economics syllabus as well as the assessment format:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9570_y23_sy.pdf)&nbsp;
+[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9570_y24_sy.pdf)&nbsp;
 
 #### H3 Economics
 

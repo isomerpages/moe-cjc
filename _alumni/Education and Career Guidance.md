@@ -2,6 +2,7 @@
 title: Education and Career Guidance
 permalink: /alumni/ecg/
 description: ""
+variant: markdown
 ---
 #### **Useful Links and Information for Alumni**
 **1\) Potential Development in CJC**<br>
@@ -52,14 +53,14 @@ Courses are also available for ‘A’ Level holders at the following institutes
 For more information on further education options that are available in Singapore, you may also refer to the&nbsp;[Council for Private Education](http://www.cpe.gov.sg/), a statutory board regulating the private education sector in Singapore.
 
 **6) &nbsp;Direct Admissions Exercise (DAE)**<br>
-GCE ‘A’ Level holders who are interested in applying for admission to any diploma course should do so directly to the relevant polytechnic through the Direct Admissions Exercise (DAE). More information on the DAE can be found on the websites of the respective polytechnics. &nbsp;The links are appended in the links below:
+GCE A-Level holders who are interested in applying for admission to any diploma course should do so directly to the relevant polytechnic through the Direct Admissions Exercise (DAE). More information on the DAE can be found on the websites of the respective polytechnics. &nbsp;The links are appended in the links below:
 
 **Nanyang Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.nyp.edu.sg/future-students/when-and-how-do-i-apply/gce-a-level/direct-admissions-exercise-dae](http://www.nyp.edu.sg/future-students/when-and-how-do-i-apply/gce-a-level/direct-admissions-exercise-dae)
 
-**Ngee Ann Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.np.edu.sg/admissions/apply/Pages/dae.aspx](http://www.np.edu.sg/admissions/apply/Pages/dae.aspx)
+**Ngee Ann Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/a-level-students](https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/a-level-students)
 
 **Republic Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.rp.edu.sg/DAE\_A-Level.aspx](http://www.rp.edu.sg/DAE_A-Level.aspx)
 
-**Singapore Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.sp.edu.sg/wps/portal/vp-spws/spws.fsu.admexe.dae](http://www.sp.edu.sg/wps/portal/vp-spws/spws.fsu.admexe.dae)
+**Singapore Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.sp.edu.sg/sp/admissions/admissions-exercises/direct-admissions-exercise-(dae)](https://www.sp.edu.sg/sp/admissions/admissions-exercises/direct-admissions-exercise-(dae))
 
-**Temasek Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local](http://www.tp.edu.sg/admissions/admissionexercises/direct-admissions-exercise-local)
+**Temasek Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.tp.edu.sg/admissions-and-finance/application-guide-for-prospective-students/a-level-graduates-jae-dae.html](https://www.tp.edu.sg/admissions-and-finance/application-guide-for-prospective-students/a-level-graduates-jae-dae.html)

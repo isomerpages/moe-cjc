@@ -27,4 +27,4 @@ From 2024, PW has been repositioned as a Pass/Fail subject to redirect the focus
 *With a greater focus on the learning experience and engendering the joy of learning, CJC strives to **inspire and equip CJCians to be creators, connectors and contributors** to address current and emerging real-world issues through an **empathetic, purposeful and beneficial way that creates social impact.***
 
 #### **A-Level Syllabus**
-Click [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8882_y24_sy.pdf) for an overview of the Project Work syllabus as well as the assessment format:<br>
+Click [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/2024-project-work-(8882)-examination-syllabus_feb-2024.pdf) for an overview of the Project Work syllabus as well as the assessment format:<br>
