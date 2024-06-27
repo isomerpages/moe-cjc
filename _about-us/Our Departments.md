@@ -269,6 +269,7 @@ variant: markdown
 | 1T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
 | 1T04 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) | 
 | 1T05 | Suriani Amran | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) | 
+| 1T05 | Ng Jing Mei, Jodi | [ng_jing_mei_jodi@moe.edu.sg](mailto:ng_jing_mei_jodi@moe.edu.sg) | 
 | 1T06 | Alexandra Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
 | 1T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
 | 1T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
