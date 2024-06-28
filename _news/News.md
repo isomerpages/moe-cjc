@@ -12,9 +12,8 @@ variant: markdown
 <img style="height:40%;width: 40%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg" align="left">
 </div>
 
-<p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
-<br>Catholic Junior College takes great pride in celebrating the academic
-achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
+<p><strong><a href="/celebrating-sharon-tay-winner-of-the-harvard-prize-book-2024/" rel="noopener noreferrer nofollow" target="_blank">Celebrating Sharon Tay, Winner of the Harvard Prize Book 2024</a></strong> 
+<br>As the House Captain of Joseph House (2022/2023), Sharon was known for her exceptional leadership and dedication to her peers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;margin-right:15px;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg" align="left">
