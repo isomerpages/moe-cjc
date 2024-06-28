@@ -4,17 +4,27 @@ permalink: /news/
 description: ""
 variant: markdown
 ---
+<style> img {border-radius:16px;} </style>
 <h3><strong>News</strong></h3>
+
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
+<img style="height:40%;width: 40%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg" align="left">
+</div>
+
+<p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
+<br>Catholic Junior College takes great pride in celebrating the academic
+achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;margin-right:15px;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg" align="left">
 </div>
 <p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
 <br>Catholic Junior College takes great pride in celebrating the academic
 achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/IMG_9636.PNG">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/IMG_9636.PNG" align="left">
 </div>
 <p><strong><a href="/news/2023/20/" rel="noopener noreferrer nofollow" target="_blank">CJC World Philosophy Day Essay Writing Competition 2023</a></strong> 
 <br>Make your submissions from now until 12 Jan 2024 on
@@ -24,7 +34,7 @@ achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG" align="left">
 </div>
 <p><strong><a href="/news/2023/19/" rel="noopener noreferrer nofollow" target="_blank">Authentic Learning through Geography fieldwork</a></strong> 
 <br>Students studying Geography participated in several out-of-school fieldwork
@@ -35,7 +45,7 @@ as part of the inquiry-based learning experience this year.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG" align="left">
 </div>
 <p><strong><a href="/news/2023/18/" rel="noopener noreferrer nofollow" target="_blank">JC2 Retreat 2023</a></strong> 
 <br>CJC resumed its 2D1N JC2 Retreat this year, the first since the pandemic
@@ -46,7 +56,7 @@ struck.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/pat%202024%20website%20publicity%20image.gif">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/pat%202024%20website%20publicity%20image.gif" align="left">
 </div>
 <p><strong><a href="/news/2023/17/" rel="noopener noreferrer nofollow" target="_blank">President's Award for Teachers &amp; OYEA</a></strong> 
 <br>Nominations for the President’s Award for Teachers and the Outstanding
@@ -56,7 +66,7 @@ Youth in Education Award.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/News/2023/16wishlist.png">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/News/2023/16wishlist.png" align="left">
 </div>
 <p><strong><a href="/news/2023/16/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Wishlist 2023</a></strong> 
 <br>Some of our teachers are featured in this YouTube video by MOE.</p>
@@ -65,7 +75,7 @@ Youth in Education Award.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/photo1690268621.jpeg">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/photo1690268621.jpeg" align="left">
 </div>
 <p><strong><a href="/news/2023/15/" rel="noopener noreferrer nofollow" target="_blank">CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!</a></strong> 
 <br>All alumni are welcome to join us for a day of sports and games, food
