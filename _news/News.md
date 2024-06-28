@@ -18,6 +18,7 @@ variant: markdown
 <div class="isomer-image-wrapper">
 <img style="width: 40%;margin-right:15px;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg" align="left">
 </div>
+
 <p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
 <br>Catholic Junior College takes great pride in celebrating the academic
 achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
