@@ -9,7 +9,7 @@ variant: markdown
 
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="height:40%;width: 40%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg" align="left">
+<img style="width: 25%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg" align="left">
 </div>
 
 <p><strong><a href="/celebrating-sharon-tay-winner-of-the-harvard-prize-book-2024/" rel="noopener noreferrer nofollow" target="_blank">Celebrating Sharon Tay, Winner of the Harvard Prize Book 2024</a></strong> 
