@@ -201,3 +201,5 @@ various arenas!</p>
 </tbody>
 </table>
 <p></p>
+<p><em>In Veritate et Caritate</em>
+</p>
