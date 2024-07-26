@@ -34,9 +34,9 @@ various arenas!</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>National School Games – Canoeing K1</p>
-<p>a) C100M Boys</p>
-<p>b) C1000M Boys</p>
+<p>National School Games – Canoeing C1</p>
+<p>a) 500M Boys</p>
+<p>b) 1000M Boys</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
