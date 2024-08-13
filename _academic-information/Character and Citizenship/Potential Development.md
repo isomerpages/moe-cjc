@@ -13,7 +13,6 @@ Catholic Junior College offers a structured Potential Development Programme as p
 
 The Education and Career Guidance Team provides our students with the required support for them to gain a deeper self-awareness of their unique interests, talents and aspirations, and to explore viable education and career options through the provision of accurate and comprehensive information. The team is active in establishing and maintaining viable relationships with CJC’s various partners, such as the local Autonomous Universities (AUs), foreign universities, scholarship boards, and industry professionals. Through our various initiatives, students are inculcated with an appreciation for the value of all education and career pathways, and to reflect on how they themselves can contribute to the well-functioning of society beyond Junior College.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTeaKKkpWEk3vqCobJIkuVCmvQEHZ__U0cMi7utslc_j1OR4FJQOGQgBnUgOz7QwsZjNtVul_wl1pdb/embed?start=false&amp;loop=false&amp;delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true"></iframe>
 
 #### **The ECG Journey at CJC**
 
@@ -55,21 +54,9 @@ ECG counselling services are available to all students who require personalised 
 
   
 
-Students may make an appointment with the college’s ECG Counsellor via the following link:&nbsp;[https://go.gov.sg/ecgcjc22](https://go.gov.sg/ecgcjc22)
+Students may make an appointment with the college’s ECG Counsellor via the following link:&nbsp;[https://go.gov.sg/ecgcjc22](https://go.gov.sg/ecgcjc)
 
 
-**Potential Development Portal**
+**ECG Microsite**
 
-Students may also access the college’s Potential Development Portal, which provides a one-stop resource for information on local and overseas universities, scholarship opportunities, as well as work attachments and internships:&nbsp;[https://go.gov.sg/cjc-potentialdevt](https://go.gov.sg/cjc-potentialdevt)
-
-#### Useful Links
-
-**Education and Career Guidance Counselling**
-
-ECG counselling services are available to all students who require personalised guidance in terms of subject selection, university and career pathways, as well as scholarship options.
-
-Students may make an appointment with the college’s ECG Counsellor via the following link:&nbsp;[https://go.gov.sg/ecgcjc22](https://go.gov.sg/ecgcjc22)
-
-**Potential Development Portal**
-
-Students may also access the college’s Potential Development Portal, which provides a one-stop resource for information on local and overseas universities, scholarship opportunities, as well as work attachments and internships:&nbsp;[https://go.gov.sg/cjc-potentialdevt](https://go.gov.sg/cjc-potentialdevt)
+Students may also access the college’s ECG Microsite, which provides a one-stop resource for information on local and overseas universities, scholarship opportunities, as well as work attachments and internships:&nbsp;[https://go.gov.sg/ecgsite-cjc](https://go.gov.sg/ecgsite-cjc)
