@@ -54,7 +54,7 @@ ECG counselling services are available to all students who require personalised 
 
   
 
-Students may make an appointment with the college’s ECG Counsellor via the following link:&nbsp;[https://go.gov.sg/ecgcjc22](https://go.gov.sg/ecgcjc)
+Students may make an appointment with the college’s ECG Counsellor via the following link:&nbsp;[https://go.gov.sg/ecgcjc](https://go.gov.sg/ecgcjc)
 
 
 **ECG Microsite**
