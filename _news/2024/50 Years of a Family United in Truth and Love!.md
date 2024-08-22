@@ -25,7 +25,7 @@ Sheldon Ng, Captain, Albert House.</p>
 <h4><strong>Join us in our CJ50 Celebrations! &nbsp;</strong></h4>
 <p>Mark these dates in your calendar and join us for a fun and exciting celebration!</p>
 <p>1) Open House 2025, day after release of O-Level results - open to students
-keen to join the CJ Family *</p>
+who are keen to join the CJ Family *</p>
 <p>2) CJ50 Commencement &amp; Thanksgiving Mass, Feb 2025 - open to staff
 &amp; students only *</p>
 <p>3) Official Opening of CJC Heritage Gallery, Feb 2025 *</p>
