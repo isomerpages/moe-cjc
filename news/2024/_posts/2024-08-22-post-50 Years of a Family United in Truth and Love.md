@@ -45,7 +45,7 @@ May 2025 - open to staff, invited guests &amp; students only</p>
 </div>
 <p>Support us in our <strong>CJ50 Anniversary Fundraising Campaign </strong>to
 raise $524,000 to develop a <strong><em>Student Learning and Recreational Hub and a Heritage Gallery</em></strong>!</p>
-<p>Donate today by scanning this QR code or send a crossed cheque addressed
+<p>Donate today by scanning the QR code below or send a crossed cheque addressed
 to “Catholic Junior College” (with name, contact details and “CJ50 Anniversary
 Fundraising Campaign” on the back of the cheque) to the College at 129
 Whitley Road, Singapore 297822.</p>
