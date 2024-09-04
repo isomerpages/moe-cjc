@@ -32,9 +32,9 @@ Mrs Woo Soo Min
 Ms Gwee Siew Ping
 
 **Members**<br>
-Dr Francis Oen<br>
 Ms Gopi Mirchandani<br>
 Mr Darrell Low<br>
 Dr Reuben Ng<br>
 Ms Jacqueline Chua<br>
-Mr Martino Tan
+Mr Martino Tan <br>
+Mr Nicholas Lee
