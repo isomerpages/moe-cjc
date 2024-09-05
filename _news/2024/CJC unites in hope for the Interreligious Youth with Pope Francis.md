@@ -12,8 +12,9 @@ third_nav_title: "2024"
 </div>
 <p>Catholic Junior College (CJC) is privileged to be the host venue for the
 Interreligious Youth with Pope Francis organised by the Ministry of Community,
-Culture and Youth and the Catholic Archdiocese, to be attended by youths
-from various institutions and of different faiths, on 13 September.</p>
+Culture and Youth and the Roman Catholic Archdiocese of Singapore, to be
+attended by youths from various institutions and of different faiths, on
+13 September.</p>
 <p>In the preparation for this encounter, students from CJC were encouraged
 to reflect on their roles as champions of interreligious harmony, building
 unity and hope in solidarity with others outside their own religion. Students
@@ -60,12 +61,11 @@ in peace and mutual respect.”</p>
 </div>
 <p>The final art installation with an exhibition on the major religions in
 Singapore</p>
-<p>&nbsp;Ng Pei Ling, a Buddhist and one of the students who put up the dove
-installation artwork, said that she would “engage in respectful dialogue
-with peoples of different faiths, participate in interreligious events
-in school, and encourage understanding within my family and community.”
-She hopes to build stronger and more inclusive relationships through dialogue
-and collaboration.&nbsp;</p>
+<p>Ng Pei Ling, a Buddhist and one of the students who put up the dove installation
+artwork, said that she would “engage in respectful dialogue with peoples
+of different faiths, participate in interreligious events in school, and
+encourage understanding within my family and community.” She hopes to build
+stronger and more inclusive relationships through dialogue and collaboration.&nbsp;</p>
 <p>The CJ Community came together to paint a batik art piece depicting the
 major religions in Singapore. His Holiness, Pope Francis, will paint the
 final strokes with four students from Catholic Junior College and two others
@@ -80,7 +80,7 @@ of “encountering one’s own faith and understanding of others’.”</p>
 <p>From left to right: Isaac Tan, Mr Tan Jek Suan (VP Student Devt), Rev
 Fr Shaun Lim, Rev Fr Justin Yip (College Chaplain), Mrs Woo Soo Min (Principal,
 CJC), Mrs Poon Wai Chin (VP Academic), staff and students</p>
-<p>&nbsp;Jeremiah Ng, a Catholic student, said that “with all the anticipation
+<p>Jeremiah Ng, a Catholic student, said that “with all the anticipation
 and curiosity, I would like to see what Pope Francis has to say about the
 state of the world's inter-religious harmony and how I can promote such
 harmony in action and thought in school and the world.”</p>
@@ -108,11 +108,11 @@ harmony in action and thought in school and the world.”</p>
 </div>
 <p>The almost complete batik art piece, awaiting the final strokes from His
 Holiness</p>
-<p>&nbsp;Echoing the thoughts of many, Isaac Tan, a student who professes
-a belief in Taoism, said that “contributing to the batik painting allows
-me to contribute to something much larger. It is an honour to be part of
-something that not only celebrates our differences but also brings us together
-in a shared vision of peace and humanity.”&nbsp;</p>
+<p>Echoing the thoughts of many, Isaac Tan, a student who professes a belief
+in Taoism, said that “contributing to the batik painting allows me to contribute
+to something much larger. It is an honour to be part of something that
+not only celebrates our differences but also brings us together in a shared
+vision of peace and humanity.”&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>In Veritate et Caritate</em>
 </p>
