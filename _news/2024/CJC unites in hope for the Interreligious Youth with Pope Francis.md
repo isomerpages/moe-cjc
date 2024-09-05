@@ -13,7 +13,7 @@ third_nav_title: "2024"
 <p>Catholic Junior College (CJC) is privileged to be the host venue for the
 Interreligious Youth with Pope Francis organised by the Ministry of Community,
 Culture and Youth and the Catholic Archdiocese, to be attended by youths
-from various instiutions and of different faiths, on 13 September.</p>
+from various institutions and of different faiths, on 13 September.</p>
 <p>In the preparation for this encounter, students from CJC were encouraged
 to reflect on their roles as champions of interreligious harmony, building
 unity and hope in solidarity with others outside their own religion. Students
