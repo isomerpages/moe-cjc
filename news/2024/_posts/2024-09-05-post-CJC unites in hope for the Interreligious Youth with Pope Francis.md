@@ -13,8 +13,8 @@ variant: tiptap
 </div>
 <p>Catholic Junior College is privileged to be the host venue for the Interreligious
 Youth with Pope Francis organised by the Ministry of Community, Culture
-and Youth and the Catholic Archdiocese, to be attended by youths from various
-institutions and of different faiths, on 13 September.</p>
+and Youth and the Roman Catholic Archdiocese of Singapore, to be attended
+by youths from various institutions and of different faiths, on 13 September.</p>
 <p>In the preparation for this encounter, students from Catholic Junior College
 (CJC) were encouraged to reflect on their roles as champions of interreligious
 harmony, building unity and hope in solidarity with others outside their
@@ -80,7 +80,7 @@ of “encountering one’s own faith and understanding of others’.”</p>
 <p>From left to right: Isaac Tan, Mr Tan Jek Suan (VP Student Devt), Rev
 Fr Shaun Lim, Rev Fr Justin Yip (College Chaplain), Mrs Woo Soo Min (Principal,
 CJC), Mrs Poon Wai Chin (VP Academic), staff and students</p>
-<p>&nbsp;Jeremiah Ng, a Catholic student, said that “with all the anticipation
+<p>Jeremiah Ng, a Catholic student, said that “with all the anticipation
 and curiosity, I would like to see what Pope Francis has to say about the
 state of the world's inter-religious harmony and how I can promote such
 harmony in action and thought in school and the world.”</p>
@@ -97,7 +97,6 @@ harmony in action and thought in school and the world.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Staff_painting_batik_website.jpg">
 </div>
-<p></p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Contract_staff_and_Jalikha_painting_batik_website.jpg">
