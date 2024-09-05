@@ -25,11 +25,11 @@ installation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_discussion_for_inter_religious_meeting_website.jpg">
 </div>
 <p>Teachers facilitating a discussion on interreligious issues amongst CJCians</p>
-<p>Commenting on the discussions, Noor Aaliyah Ford, a Muslim student from
-1T05, said that it was a platform for her to delve deeper into her faith
-and challenge herself to find out why she believes in her faith so much.
-She added that in a multi-religious and multi-cultural society like Singapore’s,
-it is important to have a sense of respect when interacting with each other.</p>
+<p>Commenting on the discussions, Noor Aaliyah Ford, a Muslim student, said
+that it was a platform for her to delve deeper into her faith and challenge
+herself to find out why she believes in her faith so much. She added that
+in a multi-religious and multi-cultural society like Singapore’s, it is
+important to have a sense of respect when interacting with each other.</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Emcees_for_batik_painting_website.jpg">
@@ -37,14 +37,14 @@ it is important to have a sense of respect when interacting with each other.</p>
 <p>Student emcees introducing the communal batik art piece to the college.
 From left to right: Noor Aaliyah Ford, Sophie O’Hara, Hayley Adelyna Binte
 Haslizal</p>
-<p>Kavenesh Manivannan, a Hindu student from 2T03, shared that “it is a great
-opportunity to learn from various viewpoints and connect with people from
-different faiths. Events like these can help build understanding and respect,
-which are crucial for promoting harmony.” He added that the communal batik
-piece and the art installation ‘Wings of Unity and Hope’ created by CJCians
-will show the Pope our commitment towards unity and “it is an important
-part that the Singaporean youth will play in building a future that is
-grounded in peace and mutual respect.”</p>
+<p>Kavenesh Manivannan, a Hindu student, shared that “it is a great opportunity
+to learn from various viewpoints and connect with people from different
+faiths. Events like these can help build understanding and respect, which
+are crucial for promoting harmony.” He added that the communal batik piece
+and the art installation ‘Wings of Unity and Hope’ created by CJCians will
+show the Pope our commitment towards unity and “it is an important part
+that the Singaporean youth will play in building a future that is grounded
+in peace and mutual respect.”</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Putting_up_dove_installation_website.jpg">
@@ -60,10 +60,10 @@ grounded in peace and mutual respect.”</p>
 </div>
 <p>The final art installation with an exhibition on the major religions in
 Singapore</p>
-<p>&nbsp;Ng Pei Ling, a Buddhist student from 1T04 and one of the students
-who put up the dove installation artwork, said that she would “engage in
-respectful dialogue with peoples of different faiths, participate in interreligious
-events in school, and encourage understanding within my family and community.”
+<p>&nbsp;Ng Pei Ling, a Buddhist and one of the students who put up the dove
+installation artwork, said that she would “engage in respectful dialogue
+with peoples of different faiths, participate in interreligious events
+in school, and encourage understanding within my family and community.”
 She hopes to build stronger and more inclusive relationships through dialogue
 and collaboration.&nbsp;</p>
 <p>The CJ Community came together to paint a batik art piece depicting the
@@ -80,7 +80,7 @@ of “encountering one’s own faith and understanding of others’.”</p>
 <p>From left to right: Isaac Tan, Mr Tan Jek Suan (VP Student Devt), Rev
 Fr Shaun Lim, Rev Fr Justin Yip (College Chaplain), Mrs Woo Soo Min (Principal,
 CJC), Mrs Poon Wai Chin (VP Academic), staff and students</p>
-<p>&nbsp;Jeremiah Ng, a Catholic student, 2T01, said that “with all the anticipation
+<p>&nbsp;Jeremiah Ng, a Catholic student, said that “with all the anticipation
 and curiosity, I would like to see what Pope Francis has to say about the
 state of the world's inter-religious harmony and how I can promote such
 harmony in action and thought in school and the world.”</p>
@@ -108,11 +108,11 @@ harmony in action and thought in school and the world.”</p>
 </div>
 <p>The almost complete batik art piece, awaiting the final strokes from His
 Holiness</p>
-<p>&nbsp;Echoing the thoughts of many, Isaac Tan, a student from 2T15 who
-professes a belief in Taoism, said that “contributing to the batik painting
-allows me to contribute to something much larger. It is an honour to be
-part of something that not only celebrates our differences but also brings
-us together in a shared vision of peace and humanity.”&nbsp;</p>
+<p>&nbsp;Echoing the thoughts of many, Isaac Tan, a student who professes
+a belief in Taoism, said that “contributing to the batik painting allows
+me to contribute to something much larger. It is an honour to be part of
+something that not only celebrates our differences but also brings us together
+in a shared vision of peace and humanity.”&nbsp;</p>
 <p>&nbsp;</p>
 <p><em>In Veritate et Caritate</em>
 </p>
