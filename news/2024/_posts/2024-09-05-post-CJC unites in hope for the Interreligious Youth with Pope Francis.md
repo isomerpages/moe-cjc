@@ -23,7 +23,7 @@ folded doves and wrote their pledge of commitment to interreligious harmony
 as part of an art installation.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_discussion_for_inter_religious_meeting_website.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SD_discussion_for_inter_religious_meeting_website_a.jpg">
 </div>
 <p>Teachers facilitating a discussion on interreligious issues amongst CJCians</p>
 <p>Commenting on the discussions, Noor Aaliyah Ford, a Muslim student, said
