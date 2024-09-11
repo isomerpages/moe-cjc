@@ -22,10 +22,10 @@ your purpose.</p>
 regardless of your background. Attendance at Catholic activities is not
 compulsory. We believe in being open to different perspectives and opinions
 - this is the spirit of a CJC education.</p>
-<p>Here you will find information on how to enroll via the&nbsp;Joint Admissions
-Exercise&nbsp;/&nbsp;<a href="https://go.gov.sg/cjc-jae-appeal-2024" rel="noopener noreferrer nofollow" target="_blank">Appeals </a>(JAE),&nbsp;
-<a href="https://go.gov.sg/cjc-dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission exercise</a>&nbsp;(DSA) and application criteria.
-For prospective and current students, details on&nbsp;<a href="https://go.gov.sg/cjc-subject-combinations-2024" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a>,&nbsp;
+<p>Here you will find information on how to enroll via the&nbsp;<a href="https://www.moe.gov.sg/post-secondary/admissions/jae" rel="noopener nofollow" target="_blank">Joint Admissions Exercise</a>&nbsp;/&nbsp;
+<a href="https://go.gov.sg/cjc-jae-appeal-2024" rel="noopener noreferrer nofollow" target="_blank">Appeals</a>(JAE),&nbsp; <a href="https://go.gov.sg/cjc-dsa" rel="noopener noreferrer nofollow" target="_blank">Direct School Admission exercise</a>&nbsp;(DSA)
+and application criteria. For prospective and current students, details
+on&nbsp;<a href="https://go.gov.sg/cjc-subject-combinations-2024" rel="noopener noreferrer nofollow" target="_blank">subject combinations</a>,&nbsp;
 <a href="https://go.gov.sg/cjc-scholarships" rel="noopener noreferrer nofollow" target="_blank">scholarships</a>,&nbsp;<a href="https://go.gov.sg/cjc-financial-assistance" rel="noopener noreferrer nofollow" target="_blank">financial assistance</a>,
 <a href="https://sites.google.com/moe.edu.sg/subjectcombinationselection/jc1-subject-selection" rel="noopener noreferrer nofollow" target="_blank">higher education and career prospects</a>&nbsp;can be accessed here at
 our admissions site.</p>
