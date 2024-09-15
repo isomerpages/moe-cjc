@@ -94,6 +94,10 @@ experienced in different ways, a personal encounter with God through the
 Holy Father. Inspired by the words shared by the Holy Father, may we live
 our lives promoting the human dignity of all for the common good of society,
 in solidarity with all in our midst.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Student_helpers_for_the_batik_painting_website.jpg">
+</div>
 <p>Thank you, Papa Francesco. We will pray for you!</p>
 <p><em>In Veritate et Caritate</em>
 </p>
