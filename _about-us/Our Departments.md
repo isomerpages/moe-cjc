@@ -269,7 +269,7 @@ variant: markdown
 
 #### **College Chaplain**
 
-Father Justin Yip
+Reverend Father Shaun Lim
 
 #### **Executive and Administrative Staff**
 
