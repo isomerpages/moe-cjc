@@ -18,7 +18,7 @@ make responsible decisions and to contribute constructively towards their
 communities.</p>
 <h4><strong>A Level Syllabus</strong></h4>
 <p>Click the following link for an overview of the General Paper syllabus
-as well as the assessment format: <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8881_y24_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank">General Paper (Syllabus 8881) - First year of examination in 2024</a>
+as well as the assessment format: <a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2025-a-level-syllabus/8881_y25_sy-pdf_(updated).pdf" rel="noopener noreferrer nofollow" target="_blank">General Paper (Syllabus 8881)</a>
 </p>
 <h4><strong>Prerequisites/Suitability</strong></h4>
 <p>It is compulsory for all JC students to offer General Paper at the A-Levels.</p>
@@ -44,15 +44,7 @@ may also be part of the mentorship programme, during which they are personally
 mentored by an established writer over the course of 9 months.</p>
 <p>Each year, an average of four-five CJC students are accepted into the
 programme.</p>
-<p><strong>2. World Philosophy Day Essay Writing Competition</strong>
-<br>An annual philosophy essay writing competition organised in celebration
-of World Philosophy Day (21 November 2024).</p>
-<p>The contemporary philosopher, Anthony Grayling, believes that philosophy
-should play a useful role in society and public policy (not just in academia).
-This essay writing competition challenges students to use critical thinking,
-logical reasoning and rational argumentation – characteristic methods of
-philosophical inquiry and analysis.</p>
-<p><strong>3. Opportunities to Engage Industry Practitioners</strong>
+<p><strong>2. Opportunities to Engage Industry Practitioners</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -60,6 +52,9 @@ philosophical inquiry and analysis.</p>
 </li>
 <li>
 <p>Economics-General Paper Stretch Programme</p>
+</li>
+<li>
+<p>Nara High School-CJC STEAM Exchange Programme</p>
 </li>
 </ul>
 <p>Every year, CJC will partner CPDD and external agencies to invite representatives
@@ -76,7 +71,7 @@ Language and A-Level General Paper?
 feel free to write to one of us:</p>
 <p><strong>HOD/ Ms Pauline Chua</strong>
 <br>chua_sook_lan_pauline@moe.edu.sg
-<br><strong>LH (JC1 2024)/ Ms Cara Chew-Lommen</strong> chew_heng_suan_cara@moe.edu.sg
-<br><strong>LH (JC2 2024)/ Ms Serene Thong</strong>  <a href="mailto:thong_wan_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_wan_ling_serene@moe.edu.sg</a> 
+<br><strong>LH (JC2 2025)/ Ms Cara Chew-Lommen</strong> chew_heng_suan_cara@moe.edu.sg
+<br><strong>LH (JC1 2025)/ Ms Serene Thong</strong>  <a href="mailto:thong_wan_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_wan_ling_serene@moe.edu.sg</a> 
 <br>
 </p>
