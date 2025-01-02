@@ -16,7 +16,7 @@ variant: markdown
 [Mrs Poon Wai Chin](mailto:catholic_jc@moe.edu.sg)
 
 **Vice-Principal (Administration)**<br>
-[Mr Philip Alvar](mailto:catholic_jc@moe.edu.sg)
+[Ms Ng Lee Yong](mailto:catholic_jc@moe.edu.sg)
 
 #### **School Management Committee**
 **Chairman**<br>
