@@ -10,7 +10,6 @@ variant: markdown
 | Name / Designation | Email Address |
 |:---|:---|
 | Lucas Anil D'Cruz/ Head of Department | [dcruz_lucas_anil@moe.edu.sg](mailto:dcruz_lucas_anil@moe.edu.sg) |
-| Subject Head/Student Leadership Development | [catholic_jc@moe.edu.sg](mailto:catholic_jc@moe.edu.sg) |
 | Melissa Olsen / Subject Head/Potential Development (ECG) | [olsen_melissa_louise@moe.edu.sg](mailto:olsen_melissa_louise@moe.edu.sg) |
 | Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg) |
 | Wong Phui Yeng Daphne / Subject Head/Student Development Curriculum | [wong_phui_yeng@moe.edu.sg](mailto:wong_phui_yeng@moe.edu.sg) |
@@ -229,77 +228,44 @@ variant: markdown
 
 | Class | Home Tutor | Email Address |
 |:---|:---|:---|
-| 1T01 | Janice Lim Hui Min | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
-| 1T01 | Mackenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
-| 1T02 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) | 
-| 1T02 | Wong Yen Yee Angela | [wong_yen_yee_angela@moe.edu.sg](mailto:wong_yen_yee_angela@moe.edu.sg) |
-| 1T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
-| 1T04 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) | 
-| 1T05 | Suriani Amran | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) | 
-| 1T05 | Ng Jing Mei, Jodi | [ng_jing_mei_jodi@moe.edu.sg](mailto:ng_jing_mei_jodi@moe.edu.sg) | 
-| 1T06 | Alexandra Hofbauer | [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)  |
-| 1T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
-| 1T07 | Lai Ern Chuen | [lai_ern_chuen@moe.edu.sg](mailto:lai_ern_chuen@moe.edu.sg) |
-| 1T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
-| 1T08 | Ashton Tan Siang | [ashton_tan_siang@moe.edu.sg](mailto:ashton_tan_siang@moe.edu.sg) |
-| 1T09 | Valarie Chia  | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
-| 1T10 | Ang Shiok Hoon  | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
-| 1T11 | Luo Xiaojing | [luo_xiaojing_a@moe.edu.sg](mailto:luo_xiaojing_a@moe.edu.sg) |
-| 1T12 | Zachary Kok  | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
-| 1T13 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
-| 1T14 | Tan Seow Ling | [tan_seow_ling@moe.edu.sg](mailto:tan_seow_ling@moe.edu.sg) |
-| 1T15 | Lim Seow Thong  | [lim_seow_thong@moe.edu.sg](mailto:lim_seow_thong@moe.edu.sg) |
-| 1T16 | Chong Phow Loong  | [chong_phow_loong@moe.edu.sg](mailto:chong_phow_loong@moe.edu.sg) |
-| 1T17 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
-| 1T18 | Goh Tor Heng | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
-| 1T19 | Peter Thia | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
-| 1T20 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
-| 1T21 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
-| 1T22 | Wee Siew Ling | [wee_siew_ling@moe.edu.sg](mailto:wee_siew_ling@moe.edu.sg) |
-| 1T22 | Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
-| 1T23 | Lee Li-Shan  | [lee_li_shan@moe.edu.sg](mailto:lee_li_shan@moe.edu.sg) |
-| 1T24 | Wendy Ng | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
-| 1T25 | Diana Long Hui Ping | [diana_long_hui_ping@moe.edu.sg](mailto:diana_long_hui_ping@moe.edu.sg) |
-| 1T26 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg) |
-| 1T27 | Wang Qiumei Stephanie  | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
-| 1T28 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
-| 1T29 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
-| 1T29 | Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg) |
+| 2T01 | Janice Lim Hui Min | [janice_lim_hui_min@moe.edu.sg](mailto:janice_lim_hui_min@moe.edu.sg) |
+| 2T01 | Mackenzie Rae Schoon | [mackenzie_rae_schoon@moe.edu.sg](mailto:mackenzie_rae_schoon@moe.edu.sg) |
+| 2T02 | Lee Kwok Chung Conrad  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg)  |
+| 2T03 | Tan Jie Jun Lester | [tan_jie_jun_lester@moe.edu.sg](mailto:tan_jie_jun_lester@moe.edu.sg) | 
+| 2T04 | Brinda Balasubramaniam  | [brinda_balasubramaniam@moe.edu.sg](mailto:brinda_balasubramaniam@moe.edu.sg)  |
+| 2T05 | Suriani Amran | [suriani_amran@moe.edu.sg](mailto:suriani_amran@moe.edu.sg) | 
+| 2T06 | Soong Yin-yin Sharon | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin_yin_xiong_yingying@moe.edu.sg) |
+| 2T07 | Soh Yan Shan Serena | [soh_yan_shan_serena@moe.edu.sg](mailto:soh_yan_shan_serena@moe.edu.sg) |
+| 2T08 | Yeong Jia Xin  | [yeong_jia_xin@moe.edu.sg](mailto:yeong_jia_xin@moe.edu.sg) |
+| 2T09 | Valarie Chia  | [chia_chiew_xian_valarie@moe.edu.sg](mailto:chia_chiew_xian_valarie@moe.edu.sg) |
+| 2T10 | Ang Shiok Hoon  | [ang_shiok_hoon@moe.edu.sg](mailto:ang_shiok_hoon@moe.edu.sg) |
+| 2T11 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg) |
+| 2T12 | Zachary Kok  | [zachary_kok_zhi_hoe@moe.edu.sg](mailto:zachary_kok_zhi_hoe@moe.edu.sg) |
+| 2T13 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg) |
+| 2T14 | Tan Seow Ling | [tan_seow_ling@moe.edu.sg](mailto:tan_seow_ling@moe.edu.sg) |
+| 2T15 | Moo Zhehui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
+| 2T16 | Chong Phow Loong  | [chong_phow_loong@moe.edu.sg](mailto:chong_phow_loong@moe.edu.sg) |
+| 2T16 | Chua Siew Hong | [chua_siew_hong@moe.edu.sg](mailto:chua_siew_hong@moe.edu.sg) |
+| 2T17 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
+| 2T18 | Goh Tor Heng | [goh_tor_heng@moe.edu.sg](mailto:goh_tor_heng@moe.edu.sg) |
+| 2T18 | Thiru Kotti | [kotti_thirumuruganandam@moe.edu.sg](mailto:kotti_thirumuruganandam@moe.edu.sg) |
+| 2T19 | Carolina Ng  | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg) |
+| 2T20 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
+| 2T21 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
+| 2T22 | Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
+| 2T23 | Idzham Khalid Ithnin  | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg) |
+| 2T24 | Wendy Ng | [hing_meow_cheng_wendy@moe.edu.sg](mailto:hing_meow_cheng_wendy@moe.edu.sg) |
+| 2T25 | Gabriel Lee | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg) |
+| 2T26 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg) |
+| 2T27 | Wang Qiumei Stephanie  | [wang_qiumei_stephanie@moe.edu.sg](mailto:wang_qiumei_stephanie@moe.edu.sg) |
+| 2T28 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
+| 2T29 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
+| 2T29 | Eugene Tan Ker Wen | [tan_ker_wen_eugene@moe.edu.sg](mailto:tan_ker_wen_eugene@moe.edu.sg) |
 
 #### **JC1 Home Tutors List 2025**
 
 | Class | Home Tutor | Email Address |
 |:---|:---|:---|
-| 2T01 | Chia Yi Min, Cheryl | [chia_yi_min_cheryl@moe.edu.sg](mailto:chia_yi_min_cheryl@moe.edu.sg) |
-| 2T02 | Brinda Balasubramaniam  | [brinda_balasubramaniam@moe.edu.sg](mailto:brinda_balasubramaniam@moe.edu.sg)  |
-| 2T03 | Nandabalan Panneerselvam | [nandabalan_panneerselvam@moe.edu.sg](mailto:andabalan_panneerselvam@moe.edu.sg) |
-| 2T04 | Moo Zhe Hui  | [moo_zhehui@moe.edu.sg](mailto:moo_zhehui@moe.edu.sg) |
-| 2T05 | Charmaine Miranda | [charmaine_miranda@moe.edu.sg](mailto:charmaine_miranda@moe.edu.sg) |
-| 2T06 | Soong Yin-yin Sharon | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin-yin_xiong_yingying@moe.edu.sg)  |
-| 2T07 | Lin Shilin Charlene | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg)  |
-| 2T08 | Idzham Khalid Lthnin | [idzham_khalid_ithnin@moe.edu.sg](mailto:idzham_khalid_ithnin@moe.edu.sg) |
-| 2T09 | Lim Kai Ming | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg)  |
-| 2T10 | Wang Jiexin  | [wang_jiexin@moe.edu.sg](mailto:wang_jiexin@moe.edu.sg) |
-| 2T11 | Heng Yuqing Wendy | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg)  |
-| 2T12 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg)  |
-| 2T13 | Peter Goh | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg)  |
-| 2T14 | Lee Jin Loong, Clarence | [lee_jin_loong_clarence@moe.edu.sg](mailto:lee_jin_loong_clarence@moe.edu.sg) |
-| 2T15  | Gabriel Lee Kong Meng | [lee_kong_meng_gabriel@moe.edu.sg](mailto:lee_kong_meng_gabriel@moe.edu.sg)  |
-| 2T16 | Peh Beng Lee | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg)  |
-| 2T17  | Ong Jun Jie  | [ong_junjie@moe.edu.sg](mailto:ong_junjie@moe.edu.sg)   |
-| 2T17  | Lim Wei Ying | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg) |
-| 2T18 | Ernest Lim Jingjie  | [ernest_lim_jingjie@moe.edu.sg](mailto:ernest_lim_jingjie@moe.edu.sg)  |
-| 2T19  | Carolina Ng | [ng_ka_lok_carolina@moe.edu.sg](mailto:ng_ka_lok_carolina@moe.edu.sg)  |
-| 2T20 | Tan Mei Qi | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg)  |
-| 2T21 | Joshua Koh | [joshua_koh_jun_xiang@moe.edu.sg](mailto:joshua_koh_jun_xiang@moe.edu.sg) |
-| 2T22  | Yoong Lian Teen  | [yoong_lian_teen@moe.edu.sg](mailto:yoong_lian_teen@moe.edu.sg)  |
-| 2T23  | Sri Yuni Bte Mazlan | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
-| 2T24 | Natalie Lee Ying Rong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg)  |
-| 2T25 | Lee Kwok Chung Conrad  | [lee_kwok_chung_conrad@moe.edu.sg](mailto:lee_kwok_chung_conrad@moe.edu.sg)  |
-| 2T26 | Ang Hui Hun | [ang_hui_hun@moe.edu.sg](mailto:ang_hui_hun@moe.edu.sg)  |
-| 2T27 | Chin Yen Jin | [chin_yen_jin@moe.edu.sg](mailto:chin_yen_jin@moe.edu.sg)  |
-| 2T28 | Wong Xinyi | [wong_xinyi@moe.edu.sg](mailto:wong_xinyi@moe.edu.sg) |
-| 2T29 | William Yeo Chin Leong | [yeo_chin_leong@moe.edu.sg](mailto:yeo_chin_leong@moe.edu.sg) |
 
 #### **College Chaplain**
 
