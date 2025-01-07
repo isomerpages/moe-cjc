@@ -26,11 +26,10 @@ Click the following links for an overview of the Chemistry syllabi as well as th
   
 
 H1 Chemistry:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8873_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8873_y24_sy.pdf)  
-  
+*Not available on SEAB website as of 7 January 2025, 8am  
 
 H2 Chemistry:<br>
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9729_y24_sy.pdf)
+[https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf)
 
 #### Prerequisites/Suitability
 
@@ -76,7 +75,7 @@ _"My Chemistry Tutor has overall been very helpful in the tutorial as well as pr
 
 The syllabus and assessment criteria for H3 Chemistry can be found here:
 
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9813\_y23\_sy.pdf](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2023syllabus/9813_y23_sy.pdf)
+* [https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf)
 
   
 
@@ -113,13 +112,13 @@ In addition to the lack of Practical Exams for H1 Chemistry, the assessment for 
 |:---:|:---:|:---:|
 | 1 | 30 MCQs (15%) | 30 MCQs (33%) |
 | 2 | Structured Qns<br>[including Data-Based] (30%) | Section A: Structured Qns<br>[including Data Response Qn(s)]<br>Section B: Free Response Qns<br>(67%) |
-| 3 | Free Response Qns (35%) | - |
+| 3 | Structured Qns (35%) | - |
 | 4 | Practical Paper (20%) | - |
 
 |  | Assessment Objectives | H2 | H1 |
 |:---:|:---:|:---:|:---:|
-| A | Knowledge with understanding | 32% | 40% |
-| B | Handling, applying and evaluating information | 48% | 60% |
+| A | Knowledge with understanding | 36% | 40% |
+| B | Handling, applying and evaluating information | 44% | 60% |
 | C | Experimental skills and investigations | 20% | - |
 
 **What is the assessment format for H3 Chemistry?**<br>
