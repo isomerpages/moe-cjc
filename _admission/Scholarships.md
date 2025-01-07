@@ -28,7 +28,7 @@ The Flame Scholarship, valued at $750.00 per annum, is available to JC1 CJC stud
 
 &nbsp;Applicants must be Singapore Citizens or Permanent Residents / Non-Citizens with at least one parent who is Singaporean. The Flame Scholar may hold another scholarship from CJC (e.g. MOE English Language and Linguistics Scholarship).&nbsp;
 
-The scholarship is renewable in JC2 if the student has sustained his/her contribution to the identified CCA or leadership area during JC1 and&nbsp;achieved A-Level university indicative grade profile of 43.75 rank points (out of 70)&nbsp;**or**&nbsp;attain 75th percentile within the student’s respective streams for the JC1 overall results.
+The scholarship is renewable in JC2 if the student has sustained his/her contribution to the identified CCA or leadership area during JC1 and&nbsp;achieved A-Level university indicative grade profile of 43.75 rank points (out of 70)&nbsp;**or**&nbsp;attained 75th percentile within the student’s respective streams for the JC1 overall results.
 
 **Application Process**
 
