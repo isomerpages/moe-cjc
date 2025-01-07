@@ -15,7 +15,7 @@ The CJC Archbishop’s Scholarship is given in recognition of a student’s stro
 
 The Archbishop’s Scholarship, valued at $2000.00 per annum, is available to students who possess a good academic track record in secondary school with proven leadership qualities and commitment to serve the community. Students must attain **L1R5 of 10 points or less (raw score)**, and at least a B for Mother Tongue or a Pass in Higher Mother Tongue at the GCE O-Level examinations. They should also demonstrate strong leadership qualities and commitment to serve the community through leadership positions held in school and/or involvement in relevant projects. Applicants must be Singapore Citizens or Permanent Residents / Non-Citizens with at least one parent who is Singaporean.
 
-The Archbishop’s Scholar may hold another external scholarship for which they might be successful after entry to CJC (e.g. English Language and Linguistics Scholarship). The scholarship is renewable in JC2 if the student achieves an A-Level university indicative grade profile of 70 points (excluding Project Work) or top 20th percentile within the student’s respective streams and passes in all subjects in the JC1 Promotional Examinations with good CCA involvement.
+The Archbishop’s Scholar may hold another external scholarship for which they might be successful after entry to CJC (e.g. MOE English Language and Linguistics Scholarship). The scholarship is renewable in JC2 if the student achieves an A-Level university indicative grade profile of 61.25 rank points (out of 70) or attain 80th percentile within the student’s respective streams in the JC1 overall results.
 
 The Scholarship is open for application **until Term 1 Week 9** for JC1 CJC students. The online application form requires a scanned copy of your O-Level examination results slip, and Preliminary examination results slip and other supporting documents, e.g., CCA certificates, certificates of awards and achievements and school testimonial should also be attached. You will receive an email indicating receipt of your documents.
 
@@ -26,9 +26,9 @@ Please click&nbsp;[here](https://form.gov.sg/61f39d421603b90012dfb587)&nbsp;for 
 **B. THE FLAME SCHOLARSHIP (CCA)**<br>
 The Flame Scholarship, valued at $750.00 per annum, is available to JC1 CJC students with exceptional strengths and/or abilities in leadership and co-curricular areas such as the performing arts and sports track record in secondary school. They should also display a commitment to serve the community.&nbsp;Applicants should be elected to leadership positions (e.g. Student Council, House Exco, CCA Exco, CMC, Sports Leaders) in JC1, and/or show strengths and active involvement at national level (e.g. sports and games / performing arts).
 
-&nbsp;Applicants must be Singapore Citizens or Permanent Residents / Non-Citizens with at least one parent who is Singaporean. The Flame Scholar may hold another scholarship from CJC (e.g. English Language and Linguistics Scholarship).&nbsp;
+&nbsp;Applicants must be Singapore Citizens or Permanent Residents / Non-Citizens with at least one parent who is Singaporean. The Flame Scholar may hold another scholarship from CJC (e.g. MOE English Language and Linguistics Scholarship).&nbsp;
 
-The scholarship is renewable in JC2 if the student has sustained his/her contribution to the identified CCA or leadership area during JC1 and&nbsp;achieved A-Level University rank points of 50 points (excluding Project Work)&nbsp;**or**&nbsp;top 75th percentile within the student’s respective streams.
+The scholarship is renewable in JC2 if the student has sustained his/her contribution to the identified CCA or leadership area during JC1 and&nbsp;achieved A-Level university indicative grade profile of 43.75 rank points (out of 70)&nbsp;**or**&nbsp;attain 75th percentile within the student’s respective streams for the JC1 overall results.
 
 **Application Process**
 
