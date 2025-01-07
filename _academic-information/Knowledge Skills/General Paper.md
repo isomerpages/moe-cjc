@@ -54,7 +54,7 @@ programme.</p>
 <p>Economics-General Paper Stretch Programme</p>
 </li>
 <li>
-<p>Nara High School-CJC STEAM Exchange Programme</p>
+<p>CJC-Nara High School STEAM Exchange Programme</p>
 </li>
 </ul>
 <p>Every year, CJC will partner CPDD and external agencies to invite representatives
