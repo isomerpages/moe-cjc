@@ -9,11 +9,9 @@ variant: markdown
 
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/CJCStudentLeadersAppreciationandInstallationCeremony_135_min.jpg" align="left">
-</div>
-
-<p><strong><a href="/cjc-open-house-2025/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2025</a></strong> 
-<br>The Student Leaders Appreciation and Installation ceremony was a heartwarming transition as the JC2 students passed the baton to the incoming JC1 leaders.</p>
+<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/OH2025_Banner_Final_Large.png" align="left">
+</div><strong><a href="/cjc-open-house-2025/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2025</a></strong> 
+<br>Join us at Catholic Junior College this Saturday, 11 January 2025 from 10am to 3pm for our exciting Open House!<p></p>
 
 
 <p></p>
