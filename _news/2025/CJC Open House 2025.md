@@ -6,7 +6,9 @@ description: ""
 image: /images/Chua_En_Ya_1T14_and_Jayden_Khoo_1T09_rallying_students_at_Piazza.jpg
 third_nav_title: "2025"
 ---
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/OH2025_Banner_Final_Large.png">
+</div>
 <p><strong>Calling all O-Level graduates and prospective students!</strong>
 </p>
 <p>Join us at Catholic Junior College this Saturday, 11 January 2025 from
@@ -20,4 +22,5 @@ chapter of excellence in living and learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%;" height="auto" width="100%" alt="" src="/images/OH25_Passport___3.png">
 </div>
+<p></p>
 <p></p>
