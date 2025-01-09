@@ -7,8 +7,7 @@ variant: markdown
 <h3><strong>Parent Engagement Events in 2024</strong></h3>
 <p>The College organises regular touchpoints with parents to provide timely
 updates on your children’s holistic development. Parents are encouraged
-to attend the <strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong> with
-your children.</p>
+to attend the <strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong> with your children.</p>
 <p><strong>For parents of JC1 students</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PIE: 28 February, in-person<br></strong>Parents
