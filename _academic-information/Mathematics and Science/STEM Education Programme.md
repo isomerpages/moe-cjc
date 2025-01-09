@@ -15,7 +15,10 @@ img {
 </style>  
 #### **STEM Education Programme**
 
-In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
+In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives. Sr Deidre O’ Loan Centre for Creativity houses a shared maker space that supports STEM programmes.
+
+
+
 ![2024 STEM framework](/images/Science/2024_STEM_framework.jpg)
 
 ![STEM Education overview 1](/images/Science/cjc_stem_top_picture_1.jpg)
