@@ -102,8 +102,8 @@ and vision <em>in Truth and in Love</em>.</p>
 <h3><strong>Key College Events Supported by the PSG</strong></h3>
 <p>The PSG supports key college events through parents’ support and active
 participation.</p>
-<p>Refreshments on selected nights during the College’s Night Study Programme:</p>
 <p></p>
+<p>Refreshments on selected nights during the College’s Night Study Programme:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/C.jpg">
 </div>
@@ -117,7 +117,6 @@ participation.</p>
 </div>
 <p></p>
 <p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/F.jpg">
 </div>
@@ -128,7 +127,6 @@ participation.</p>
 <p></p>
 <p>Encouragement cards and rosaries for JC2 students (especially blessed
 by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/H.jpg">
 </div>
@@ -141,7 +139,6 @@ by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p
 <p>Come join us and support our CJC students and family! Scan the QR code
 or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/J.jpg">
 </div>
