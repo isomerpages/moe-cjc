@@ -102,5 +102,20 @@ The team members (from left) are
 
 ![](/images/Science/STEM/17.jpg)
 
+![](/images/Science/STEM/21.jpg)
+
+<b>(v) End of Year Local Leadership STEM Programme</b><br> Based on the theme: A more Secure and Sustainable Singapore through STEM, the 5-day stretch programme saw 25 JC1 science students went on learning journeys to NUS School of Design and Environment, NTU School of Material Science and Engineering, Institute of Micro-Electronics (Semi-Conductor Research), AntsInnovate (Science of Alternate Food) and SkyGreens (Urban Farm). They also learnt through talks on Climate Modelling, Artificial Intelligence and Sustainability and perform laboratory work to create fabrics to understand the science behind fashion and sustainability. This culminated in the final presentation in which they applied their learning to make CJC a more sustainable place to live and learn.
+
+![](/images/Science/STEM/19.jpg)
+
+<b>vi) Singapore International Space Challenge</b><br> Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
+
+![](/images/Science/STEM/20.jpg)
+
+
+<br>
+<br>
+<br>
+
 *   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
 *   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
