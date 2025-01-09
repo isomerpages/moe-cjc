@@ -50,11 +50,35 @@ This stretch programme is an annual twinning programme with the Super Science Sc
 
 ![](/images/Science/STEM/10.jpg)
 
-#### **1\. Engineering Technology Programme Scholarships**
+#### **3\. STEAM Achievements**
 
-This committee oversees the selection, nomination and development of the STEM related scholarship applicants. There are 7 recipients of the award in 2023.
+Students are encouraged to participate in various competitions to display their talents and skills in different disciplines. 
 
-![2023 ETPS Investiture](/images/Science/2023_STEM_ETPS.jpg)
+<b>(i) ETPS Scholarship</b><br> The Engineering and Technology Programme Scholarship is awarded to deserving JC1 students who demonstrated passion and aptitude for STEM.
+
+![](/images/Science/STEM/11.jpg)
+
+About 200 students (Singapore citizens only) will be selected for the scholarship each year. 
+
+For more information, please visit this link: https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship
+
+<b>(ii) NTU Materials Innovation Challenge</b><br> 4 JC1 students who called themselves Team Masons took part in the annual Material Engineering Challenge oragnised by NTU School of Material Engineering this June. 
+
+The Challenge involved developing an innovative alternative to current-day cement building blocks to be used in construction as we move towards greener and more sustainable urban environments. 
+
+Each team is to design and present a green and cement-free brick prototype. The team will need to justify the choice of materials selection in their design/prototype and its morphology, articulate their design-thought processes and showcase the potential impact of their green concrete solution on sustainability in the built environment. The prototype must also demonstrate its ability to withstand mechanical loading under various conditions. 
+
+Team Masons did the school proud by clinching runner up in the competition!
+
+The team members (from left) are
+<br>1. Eoghan Mulyadi (1T27) 
+<br>2. Darren Tay Yu Jun (1T08)
+<br>3. Veeramahendran Amirtha (1T20) 
+<br>4. Lim Wei Qing (1T27)
+
+![](/images/Science/STEM/12.jpg)
+
+![](/images/Science/STEM/13.jpg)
 
 #### **4\. STEM Local Leadership Stretch Programme**
 
