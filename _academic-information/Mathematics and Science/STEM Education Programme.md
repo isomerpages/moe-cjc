@@ -15,157 +15,107 @@ img {
 </style>  
 #### **STEM Education Programme**
 
-In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives.
+In line with MOE’s strategic thrusts and college focus in providing differentiated support for students’ diverse interest and learning opportunities beyond the classroom, the college STEM Steering committee was set up to drive the STEM education programmes. Since 2022, we are fortunate to have Dr Timothy Hu Xiao Ming&nbsp;–&nbsp;an Artificial Intelligence expert from A\*STAR&nbsp;–&nbsp;to be supporting the college in STEM education initiatives. Sr Deidre O’ Loan Centre for Creativity houses a shared maker space that supports STEM programmes.
+
+![](/images/Science/STEM/1.jpg)
+
+![](/images/Science/STEM/2.jpg)
+
+The CJC STEM Programme is based on the following framework:
 ![2024 STEM framework](/images/Science/2024_STEM_framework.jpg)
 
+The programme is tiered according to the ability and interest of students.
 ![STEM Education overview 1](/images/Science/cjc_stem_top_picture_1.jpg)
 
-![STEM education overview 2](/images/Science/cjc_stem_top_picture_2.jpg)
+![](/images/Science/STEM/5.jpg)
 
-#### **1\. Engineering Technology Programme Scholarships**
 
-This committee oversees the selection, nomination and development of the STEM related scholarship applicants. There are 7 recipients of the award in 2023.
 
-![2023 ETPS Investiture](/images/Science/2023_STEM_ETPS.jpg)
-
-#### **2\. STEM Fest**
+#### **1\. STEM Fest**
 
 <img style="width:100%" src="/images/Science/cjc_stem_picture_3.png">
 
+An annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event allows students to acquire and apply their knowledge and skills from H2 subjects and allows Mathematics and Science student leaders to hone their organisation and leadership skills.
 
-STEM Fest is an annual collaboration between the Mathematics and the Science Departments to help all students recognize the importance of STEM (Science, Technology, Engineering &amp; Mathematics) and appreciate its use in addressing real-world problems. The week-long event serves as an important platform to provide learning experiences for science students to acquire and apply their knowledge and skills from H2 subjects on STEM. It also allows Mathematics and Science student leaders to hone their organisation and leadership skills.
+![](/images/Science/STEM/7.jpg)
 
-<center>Our Principal, Mrs Lim, launching STEM Fest during pre Covid-19 years<br>
-<img src="/images/Science/STEM_Fest_2023.jpg">
-</center>
-  
-From STEMazing Race and Escape Room to Pi Day commemoration and interest-based workshops conducted by various STEM partners, several activities are held to cater to students’ different interest in Mathematics and Science.&nbsp; House points are also awarded to inject an element of fun and competition.
-
-<center><img style="width:100%" src="/images/Science/cjc_stem_picture_7.png">
-STEM Fest Publicity Boards 2018 and 2019 encouraging students' participation</center>
-
-<center><img style="width:100%" src="/images/Science/2023_STEM_Fest_3D_prints.jpg">
-3D-printed student works on display at STEM Fest after attending workshops</center>
+![](/images/Science/STEM/8.jpg)
 
 
-<center><img style="width:60%;" alt="Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years" src="/images/Science/cjc_stem_picture_9.png">
-Joy of learning at Balmer Series Workshop by CRADLE of Science Centre Singapore during pre Covid-19 years</center> 
+#### **2\. CJC-Nara High School Global Exchange Programme**
 
-<center><img src="/images/Science/STEM_Fest_2023_Escape_Room.png"><img style="width:100%" src="/images/Science/students_solve_puzzles_in_escape_room_during_pre_covid_19_years.JPG">
-Students solve puzzles in Escape Room during pre Covid-19 years</center>
+This stretch programme is an annual twinning programme with the Super Science School from Japan. Based on the theme on UN Sustainability Development Goals, the students representing the two schools did research, learnt about each other’s culture, hone communication and critical thinking skills, the respective countries journey of sustainability and culminated in a joint presentation on the final day to share their findings. Nara High School visited CJC in 2023 while CJC visited Nara Senior High School in 2024.
 
-<center><img style="width:100%" src="/images/Science/python_programming_workshops_in_pre_covid_19_years.JPG">
-Python Programming Workshops in pre Covid-19 years</center>
+![](/images/Science/STEM/9.jpg)
 
-<center><img style="width:70%;" src="/images/Science/STEM_Fest_2023_Pi_Day_Recitation.jpg">
-	Pi Day Recitation Challenge</center>
+![](/images/Science/STEM/10.jpg)
 
-<center><img style="width:100%" src="/images/Science/cjc_stem_picture_12.png">
-<div style="line-height: 1.5;">Students taking part in Escape Room on board Labs on Wheels digital literacy programme by IMDA on Cybersecurity and Artificial Intelligence</div></center>
+#### **3\. STEAM Achievements**
 
-<center><img style="width:100%" src="/images/Science/cjc_stem_picture_13.png">
-Students engaging in problem solving during STEMazing Race</center>
+Students are encouraged to participate in various competitions to display their talents and skills in different disciplines. 
 
-#### **3\. CJC-Nara High School Global Exchange Programme**
+<b>(i) ETPS Scholarship</b><br> The Engineering and Technology Programme Scholarship is awarded to deserving JC1 students who demonstrated passion and aptitude for STEM.
 
-This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint presentation on the final day where students shared their findings.
+![](/images/Science/STEM/11.jpg)
 
-![](/images/Science/Nara_High_School.jpg)
+About 200 students (Singapore citizens only) will be selected for the scholarship each year. 
 
-#### **4\. STEM Local Leadership Stretch Programme**
+For more information, please visit this link: https://www.moe.gov.sg/financial-matters/awards-scholarships/programme-scholarships-pre-u/engineering-and-tech-programme-scholarship
 
-The college has been organizing a Local Leadership Programme known as CJC.STEM.SG to replace overseas academic trips for selected JC1 students since 2021. The 5-day programme is based on the theme “A More Secure and Sustainable Singapore through STEM”.&nbsp;Conceptualised based on the Practices of Science,&nbsp;the programme&nbsp;provided a rich and rigorous learning experience ranging from keynote lectures by STEM experts in the fields of sustainability to workshops on topics such as Cryptography, Mathematical Modelling, Vaccine Development, and Balloon Satellite course by Spacecraft engineers. There are also tours of the NTU Satellite Research Centre and local High Tech Farm and ASTAR laboratory experiences. The programme caters to both the Physics and Biology students.
+<b>(ii) NTU Materials Innovation Challenge</b><br> 4 JC1 students who called themselves Team Masons took part in the annual Material Engineering Challenge oragnised by NTU School of Material Engineering this June. 
 
-<center><img style="width:100%" src="/images/Science/STEM_2023_Learning_Journeys.jpg">
+The Challenge involved developing an innovative alternative to current-day cement building blocks to be used in construction as we move towards greener and more sustainable urban environments. 
 
-<div style="line-height:normal;">Learning Journeys to NTU Schools of Material Science and Engineering, Institute of Microelectronics and Alternate Meat startup company.</div></center>
+Each team is to design and present a green and cement-free brick prototype. The team will need to justify the choice of materials selection in their design/prototype and its morphology, articulate their design-thought processes and showcase the potential impact of their green concrete solution on sustainability in the built environment. The prototype must also demonstrate its ability to withstand mechanical loading under various conditions. 
 
-Participants also had opportunities to do research, presented on challenges facing Singapore, and&nbsp;proposed&nbsp;innovative STEM-based solutions to a panel of judges which included an A\*star scientist.&nbsp;
+Team Masons did the school proud by clinching runner up in the competition!
 
-Participants were also challenged to assume various leadership roles, including designing their own ZOOM virtual background as part of the programme.
+The team members (from left) are
+<br>1. Eoghan Mulyadi (1T27) 
+<br>2. Darren Tay Yu Jun (1T08)
+<br>3. Veeramahendran Amirtha (1T20) 
+<br>4. Lim Wei Qing (1T27)
 
-![](/images/Science/STEM_2023_Zoom.jpg)
+![](/images/Science/STEM/12.jpg)
 
-More information of the programme can be found via this link: [https://padlet.com/drwylim/CJC\_STEM\_SG](https://padlet.com/drwylim/CJC_STEM_SG)
+![](/images/Science/STEM/13.jpg)
 
-#### **5\. STEM Competitions and Achievements**
+<b>(iii) Horizon Hydrogen Grand Prix 2024 </b><br>
+This is sponsored by Chevron that focuses on renewable energy, particularly hydrogen fuel cells. The highlight is an exciting radio-controlled car race in which teams design, engineer and race hydrogen-powered cars. 
 
-Students are encouraged to participate in various competitions to display their talents and skills in different STEM disciplines. This includes Cyberthon, International Space Challenge, Robotics competition amongst others.
+The programme includes a compulsory educational curriculum in which students learn about clean energy and hydrogen technology, as well as receive hands-on technical practice in design and engineering.
 
-**(i)** **Computing@SMU Award**
-<br>The award is given to JC2 students who have outstanding academic&nbsp;achievement, show an interest in computing and excellent co-curricular&nbsp;achievement or leadership. The 2023 award goes to Javier Lim of 2T11.
+5 JC1 students who called themselves Team Hydronauts represented CJC in the Singapore finals on 3 – 4 August 2024 where participating teams competed with one another in a 4-hour endurance race. Despite a competitive field, Team Hydronauts managed to come in 7th out of 20 cars and did the school proud by clinching the Best Promo award Category!
 
-<img style="width:70%" src="/images/Science/2023_Computing_SMU_Award.jpg">
+The team members (from left) are
+<br>1. Lau Cheok Yan Jennis (1T09) 
+<br>2. Genevie Lee Si En (1T19)
+<br>3. Wayne Chua Cheng Xun (1T09) 
+<br>4. Neilson Li Yanxi (1T14) - Team Captain
+<br>4. Ngo Hoang Minh (1T28)
 
-**(ii)** **Robotics Competitions**<br>
-<img style="width:49%; display:inline;" src="/images/Science/Robocup_2023.jpg"><img style="width:49%;display:inline;" src="/images/Science/RoboClash_2022.jpg">
+![](/images/Science/STEM/15.jpg)
 
-**(iii)** **International Sci-Teens Challenge**
- <br>International Sci-Teens Challenge 2021 was organised by ACJC. To participate in this competition, students had to develop videos that explain a phenomenon in the disciplines of Biology, Chemistry, Physics, Mathematics or Computing. CJC sent two teams for the senior category of the competition and one team’s video on Enzymes clinched the&nbsp;Bronze Award.
+![](/images/Science/STEM/16.jpg)
 
-<center><img style="width:70%;" alt="Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department" src="/images/Science/cjc_stem_picture_20.jpg">
-	<div style="line-height:1.5;">Participants pictured with their teacher mentor, Mr Chua Chee Siang from the Biology Department
-</div></center>
-  
+<b>(iv) Green Wave Competition 2023-24</b><br> Ng Ern Nyee of 2T15 represented CJC in the annual Green Wave Competition. For her project in the Category: Marine Environment, in which she designed a prototype of a robotic truck to remove microplastics from beaches, she won the Encouragement Award.
+
+![](/images/Science/STEM/17.jpg)
+
+![](/images/Science/STEM/21.jpg)
+
+<b>(v) End of Year Local Leadership STEM Programme</b><br> Based on the theme: A more Secure and Sustainable Singapore through STEM, the 5-day stretch programme saw 25 JC1 science students went on learning journeys to NUS School of Design and Environment, NTU School of Material Science and Engineering, Institute of Micro-Electronics (Semi-Conductor Research), AntsInnovate (Science of Alternate Food) and SkyGreens (Urban Farm). They also learnt through talks on Climate Modelling, Artificial Intelligence and Sustainability and perform laboratory work to create fabrics to understand the science behind fashion and sustainability. This culminated in the final presentation in which they applied their learning to make CJC a more sustainable place to live and learn.
+
+![](/images/Science/STEM/19.jpg)
+
+<b>vi) Singapore International Space Challenge</b><br> Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
+
+![](/images/Science/STEM/20.jpg)
 
 
-**(iv)** **SUTD Virtual Research Hackathon**<br>
-In this two-day online virtual research hackathon, students were introduced to&nbsp;the Monte Carlo Simulation to model the probability of different outcomes in a&nbsp;process that cannot easily be predicted due to the intervention of random variables. They had to utilize the simulation to model traffic and work in groups&nbsp;to propose and test different solutions to improve traffic conditions.
-
-Rayan Wong of 2T08 took part in this event in 2021 and his group, which consisted of students from other schools, emerged as the champion.
-
-<img style="width:90%" src="/images/Science/cjc_stem_picture_21.jpg">
-
-**(v)** **Cyberthon**<br>
-CJC has been sending students who have strong interest in the field of cybersecurity to relevant competitions. This competition organized by MINDEF has been gaining interest amongst students and we have been steadily improving in our ranking over the years.**
-![](/images/Science/Cyberthon_203.jpg)
-
-**(vi)** **Singapore International Science Challenge**<br>
-The Singapore International Science Challenge (SISC) is a biennial international event that brings together students of ages 15 to 18 from around the world to compete, collaborate and innovate in the Sciences. The multi-disciplinary foci and integrated nature of the challenges provide an authentic backdrop for students to apply scientific and technical knowledge to solving problems and&nbsp;innovate impactful solutions. In previous SISC events, students across the globe came together for five days to stay onsite at NJC to communicate their research, collaborate in multi-national teams, and to innovate well-designed solutions to science challenges.
-
-In 2021, SISC became an online event and brought together students from around the world to collaborate and learn both asynchronously and synchronously. The theme for SISC 2021 is Altruistic Thinkers, Global Citizens (ATGC). CJC sent a team of 3 JC2 students for the challenge and one of our students, PL Raamanathan, clinched the Thinker Award in the Field Challenge while another student, Lokav Srikanth, clinched the Creative Award in the Design and Build Challenge.
-
-<img style="width:100%" src="/images/Science/cjc_stem_picture_22.png">
-
-**(vii)** **Singapore International Space Challenge**<br>
-Organized by Singapore Space and Technology Ltd, the International Space Challenge (ISC) is open to youths around the world. Since 2020, we have CJC students with a keen interest in space technology representing the college in this competition. Our students receive mentoring from CJC alumni who are involved in the space industry. By taking part in this challenge, our students also receive global exposure by attending various seminars and workshops helmed by experts from around the world.
-![](/images/Science/Singapore_International_Space_Challenge_2023.jpg)
-
-**(viii)** **National Youth Advocacy Movement (NYUM)**
-
-NYUM is organized by Crescent Girls’ School, with the support of the Ministry of Education and S2 Cluster Schools. The movement is aligned with the national drive towards environmental education and focuses on preparing students to be responsible global citizens.
-
-NYUM aims to educate youths on the threats facing the natural environment and inspire youths to take action in promoting a culture of sustainability through upcycling and green consumerism.
-
-**Advocacy Module** <br>
-Two teams of three members represented CJC in NYUM Advocacy 2021.
-
-The theme for this year’s NYUM is ‘Food Packaging: Don’t Throw It, Upcycle It’. Through its ‘By Youths, For All’ approach, NYUM empowers each team to design and create upcycled household items using waste materials, with guidance from experts and consultants in the industry.
-
-From May to September this year, each team had to go through three phases, namely, ‘Learn, Create and Advocate’,&nbsp;which culminated in a final written report to be submitted for judging by industry experts.
-
-Team Traffic Light was awarded the Silver Award. The team conducted a webinar to raise awareness of upcycling on 5 September. They created a video to demonstrate how they made use of existing food packaging to make a personalized notebook.
-
-Access the video here:
-<br>[www.instagram.com/tv/CTjagVinlgF/?utm\_medium=copy\_link](https://drive.google.com/file/d/1AH3eMTeqc2xO-MUwoQCrRd51vI9S4k7u/view?usp=sharing)
-
-<img style="width:100%" src="/images/Science/cjc_stem_picture_23.png">
-
-**Enrichment Module**<br>
-21 members of the STEM\-based CCA Environmental Science Society also participated in the NYUM Enrichment module where they created an upcycled product using the Design Thinking Framework and reflected on the process.
-
-Their reflections can be found at&nbsp;[https://padlet.com/drwylim/cjcess\_nyum](https://padlet.com/drwylim/cjcess_nyum).
-
-<img style="width:100%" src="/images/Science/cjc_stem_picture_24.jpg">
-	
-**(ix)** **STEP Environment Camp (Renamed as NUS Youth Environment Camp)**<br>
-Selected JC1 students have been taking part in the STEP Environment Camp for youths from Singapore and Asia. Built around the overarching theme of Climate Change and Sustainability, the thematic-based programme nurtures young budding scientists in Asia, with an emphasis on environmental stewardship.&nbsp;
-
-Participants have the opportunity to network with youth leaders across Asia through a series of immersive, experiential, and cooperative learning exercises.
-
-![](/images/Science/STEP_Environment_Camp.jpg)
-
-<img style="width:100%" src="/images/Science/cjc_stem_picture_25.png"><br><br>
+<br>
+<br>
+<br>
 
 *   **[Mathematics](/eopenhouse/academic-information/department-information/mathematics-n-science/mathematics)**
 *   **[Science](/eopenhouse/academic-information/department-information/mathematics-n-science/science)**
