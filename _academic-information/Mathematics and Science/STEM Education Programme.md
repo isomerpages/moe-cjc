@@ -44,9 +44,11 @@ An annual collaboration between the Mathematics and the Science Departments to h
 
 #### **2\. CJC-Nara High School Global Exchange Programme**
 
-This month-long stretch programme is an annual exchange programme with Nara High School which is a Super Science School from Japan. Based on the theme of the UN Sustainable Development Goals, students representing the two schools collaborated on a joint research and identified how STEM helps the two countries achieve these sustainable development goals. In the process, students also get to interact and learn about each other’s culture as well as the respective countries’ journey to enhance sustainability. This programme culminated in a joint presentation on the final day where students shared their findings.
+This stretch programme is an annual twinning programme with the Super Science School from Japan. Based on the theme on UN Sustainability Development Goals, the students representing the two schools did research, learnt about each other’s culture, hone communication and critical thinking skills, the respective countries journey of sustainability and culminated in a joint presentation on the final day to share their findings. Nara High School visited CJC in 2023 while CJC visited Nara Senior High School in 2024.
 
-![](/images/Science/Nara_High_School.jpg)
+![](/images/Science/STEM/9.jpg)
+
+![](/images/Science/STEM/10.jpg)
 
 #### **1\. Engineering Technology Programme Scholarships**
 
