@@ -128,15 +128,22 @@ participation.</p>
 <p></p>
 <p>Encouragement cards and rosaries for JC2 students (especially blessed
 by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Picture6.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I.jpg">
+</div>
+<p></p>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
-or sign up at<a href="https://go.gov.sg/cjcpsg" rel="noopener noreferrer nofollow" target="_blank"> </a><strong><a href="https://go.gov.sg/cjcpsg" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cjcpsg</a>.</strong>
-</p>
+or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
+If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;" height="auto" width="100%" alt="" src="/images/Picture7.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/J.jpg">
 </div>
 <p>
 <br>
