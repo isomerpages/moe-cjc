@@ -22,7 +22,7 @@ highlight parents' fervent support in fulfilling the college’s mission
 and vision <em>in Truth and in Love</em>.</p>
 <h3><strong>PSG Exco 2025</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/A.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/A.jpg">
 </div>
 <p><em>(From left: Mr John Tay, Ms Haslinda bte Hashim, Mr Andy Wee, Mrs Hurustiani Boy, Ms Serene Sim, Ms Magdalen Shew, Ms Natalie Ng)</em>
 </p>
@@ -105,34 +105,34 @@ participation.</p>
 <p></p>
 <p>Refreshments on selected nights during the College’s Night Study Programme:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/C.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/C.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/D.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/D.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/B.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/B.jpg">
 </div>
 <p></p>
 <p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/F.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/F.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/G.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/G.jpg">
 </div>
 <p></p>
 <p>Encouragement cards and rosaries for JC2 students (especially blessed
 by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/H.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/H.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/I.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/I.jpg">
 </div>
 <p></p>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
@@ -140,7 +140,7 @@ by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p
 or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/J.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/J.jpg">
 </div>
 <p>
 <br>
