@@ -23,13 +23,11 @@ At CJC, great emphasis is placed on the understanding and application of scienti
 
 Click the following links for an overview of the Chemistry syllabi as well as the assessment formats:
 
+[H1 Chemistry (Syllabus 8873)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf)
   
+[H2 Chemistry (Syllabus 9476)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf)
 
-H1 Chemistry:<br>
-https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf  
 
-H2 Chemistry:<br>
-[https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf)
 
 #### Prerequisites/Suitability
 
@@ -72,11 +70,9 @@ _"My Chemistry Tutor has overall been very helpful in the tutorial as well as pr
 &nbsp;**\- student from 2T22, 2021**
  
 ####  H3 Chemistry
-
 The syllabus and assessment criteria for H3 Chemistry can be found here:
-[https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf)
+<br>[H3 Chemistry (Syllabus 9813)](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf)
 
-  
 
 H3 Chemistry is only offered to students who have done very well at the end of the first year of academic studies. It allows students to explore the Chemistry subject in greater depth, with more focus on specific applications related to interesting Chemistry concepts.
 
