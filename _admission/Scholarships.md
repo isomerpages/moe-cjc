@@ -54,7 +54,7 @@ The English Language Elective Scholarship (ELES) is awarded by the Ministry of E
 *   Have a very good record of co-curricular activities; and
 *   Not currently be in receipt of any MOE scholarship (except EESIS and ESIP).
 
-Students with further queries regarding the ELES scholarship may direct them to&nbsp;Mdm Dorothy Chua (Lead Teacher, GP / ELL) at her email: [chua\_mui\_ling\_dorothy@moe.edu.sg](mailto:chua_mui_ling_dorothy@moe.edu.sg)
+Students with further queries regarding the ELES scholarship may direct them to&nbsp;Ms Alexandra Hofbauer (Subject Head, ELL) at her email: [hofbauer_alexandra_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)
 
 **(b)**&nbsp; **Engineering and Tech Programme Scholarship (ETPS)**
 
