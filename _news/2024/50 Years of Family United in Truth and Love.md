@@ -34,7 +34,7 @@ to the College at 129 Whitley Road, Singapore 297822.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
 </div>
 <p></p>
-<p><strong>CJ50 Food &amp; Funfair </strong>
+<p><strong>CJ50 Food &amp; Funfair</strong>
 </p>
 <p></p>
 <div class="isomer-image-wrapper">
