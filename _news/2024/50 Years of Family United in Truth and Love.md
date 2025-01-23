@@ -34,3 +34,26 @@ to the College at 129 Whitley Road, Singapore 297822.</p>
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
 </div>
 <p></p>
+<p><strong>CJ50 Food &amp; Funfair </strong>
+</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c6192a42_ec64_4696_afa4_8607a92244fd.jpg">
+</div>
+<p>Celebrate CJ50: Food &amp; Funfair</p>
+<p>Join us as Catholic Junior College marks 50 years of excellence, community,
+and cherished memories with our CJ50 Food &amp; Funfair Carnival! This
+milestone celebration promises a day of delightful experiences for alumni,
+current students, staff, and friends of the college.</p>
+<p>📅 Date: Saturday, 15th March</p>
+<p>⏰ Time: 9:00 AM - 5:00 PM</p>
+<p>📍 Venue: Catholic Junior College</p>
+<p>Enjoy a wide array of delicious food, exciting games, and activities that
+will bring back fond memories while creating new ones. The carnival is
+a wonderful opportunity to reconnect with old friends, relive cherished
+moments, and celebrate the vibrant CJC spirit.</p>
+<p>🎟️ Tickets are available through current CJC students or your former
+teachers.</p>
+<p>Don’t miss this special occasion to be part of our golden jubilee celebrations.
+We look forward to seeing you there!</p>
+<p></p>
