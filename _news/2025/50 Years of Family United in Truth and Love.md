@@ -15,28 +15,14 @@ third_nav_title: "2025"
 <p>Mark these dates in your calendar and join us for a fun and exciting celebration
 in 2025!</p>
 <p>1) Open House 2025, day after release of O-Level results – open to students
-keen to join the CJ Family</p>
-<p>2) Official opening of the CJC Heritage Gallery, February 2025 (to be
-confirmed)</p>
-<p>3) CJ50 Food &amp; Fun Fair, 15 Mar 2025 - open to all</p>
-<p>4) CJ50 Homecoming Dinner, 31 May 2025<strong> </strong>- open to alumni,
-staff, and students</p>
-<p></p>
-<p>Support us in our <strong>CJ50 Anniversary Fundraising Campaign </strong>to
-raise $524,000 to develop a <strong>Student Learning and Recreational Hub</strong>,
-and the<strong> CJC Heritage Gallery</strong>.</p>
-<p>Donate today by scanning this QR code, <strong>or</strong>, send a crossed
-cheque addressed to “Catholic Junior College” (with name, contact details,
-and “CJ50 Anniversary Fundraising Campaign” on the back of the cheque)
-to the College at 129 Whitley Road, Singapore 297822.</p>
-<p>Donations of $50 and above are tax-deductible.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
-</div>
-<p></p>
-<p><strong>CJ50 Food &amp; Funfair</strong>
+keen to join the CJ Family
+<br>
 </p>
-<p></p>
+<p>2) Official opening of the CJC Heritage Gallery, February 2025 (to be
+confirmed)
+<br>
+</p>
+<p>3) CJ50 Food &amp; Fun Fair, 15 Mar 2025 - open to all</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/c6192a42_ec64_4696_afa4_8607a92244fd.jpg">
 </div>
@@ -56,4 +42,38 @@ moments, and celebrate the vibrant CJC spirit.</p>
 teachers.</p>
 <p>Don’t miss this special occasion to be part of our golden jubilee celebrations.
 We look forward to seeing you there!</p>
+<p></p>
+<p>4) CJ50 Homecoming Dinner, 31 May 2025<strong> </strong>- open to alumni,
+staff, and students</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_9_45_55_AM.jpg">
+</div>
+<p>🎉 <strong>SAVE THE DATE: CJC 50TH ANNIVERSARY HOMECOMING DINNER PARTY!</strong> 🎉</p>
+<p>👉 <strong><a href="https://form.gov.sg/678a5015dca133f4970feed0" rel="noopener noreferrer nofollow" target="_new">CLICK HERE TO REGISTER YOUR INTEREST!</a></strong> 🥳</p>
+<p>We’re celebrating 50 amazing years of Catholic Junior College, and we
+want <strong>YOU</strong> to be a part of it! Alumni, it’s time to come home
+and relive the memories that shaped us.</p>
+<p>🗓️ <strong>Date:</strong> Sat, 31st May 2025
+<br>⏰ <strong>Time:</strong> 6.30pm till late
+<br>🏫 <strong>Venue:</strong> Catholic JC</p>
+<p>Mark your calendars and stay tuned for more details. We can’t wait to
+celebrate this milestone with all of you!</p>
+<p>#CJ50 #WhyCJ #CJCAlumni #InVeritateEtCaritate</p>
+<p></p>
+<p>Support us in our <strong>CJ50 Anniversary Fundraising Campaign </strong>to
+raise $524,000 to develop a <strong>Student Learning and Recreational Hub</strong>,
+and the<strong> CJC Heritage Gallery</strong>.</p>
+<p>Donate today by scanning this QR code, <strong>or</strong>, send a crossed
+cheque addressed to “Catholic Junior College” (with name, contact details,
+and “CJ50 Anniversary Fundraising Campaign” on the back of the cheque)
+to the College at 129 Whitley Road, Singapore 297822.</p>
+<p>Donations of $50 and above are tax-deductible.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_9_47_11_AM.jpg">
+</div>
+<p></p>
 <p></p>
