@@ -2,14 +2,14 @@ collections:
   students:
     output: true
     order:
-      - Financial Assistance and Group Insurance Plan.md
       - Students.md
       - Calendar.md
-      - College Daily Schedule.md
       - CCA Schedule.md
       - CJC Private Wifi User Education.md
       - Class Management Committee.md
       - Code of Conduct/.keep
       - Code of Conduct/Code of Conduct.md
       - Code of Conduct/CJC Discipline Process.md
+      - College Daily Schedule.md
+      - Financial Assistance and Group Insurance Plan.md
       - Subject Registration 2024.md
