@@ -21,6 +21,7 @@ sections:
           description: ""
           url: /alumni/whatson
       background: /images/cj50_ar_changed_2.png
+      variant: image
   - resources:
       title: Happenings at CJC
       subtitle: News & Highlights
