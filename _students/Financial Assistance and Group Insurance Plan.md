@@ -11,6 +11,7 @@ to realise their potential. The MOE Financial Assistance Scheme, CJC Needy
 Student Fund and the Internationalisation Fund provide students with the
 necessary resources as well as the opportunity to take up enrichment activities
 beyond local shores.</p>
+<p></p>
 <p><strong><u>MOE Group Personal Accident (GPA) Insurance Plan</u></strong>
 </p>
 <p>All students are covered under the Ministry of Education (MOE) Group Personal
