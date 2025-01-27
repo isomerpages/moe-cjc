@@ -26,7 +26,6 @@ confirmed)
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/c6192a42_ec64_4696_afa4_8607a92244fd.jpg">
 </div>
-<p>Celebrate CJ50: Food &amp; Funfair</p>
 <p>Join us as Catholic Junior College marks 50 years of excellence, community,
 and cherished memories with our CJ50 Food &amp; Funfair Carnival! This
 milestone celebration promises a day of delightful experiences for alumni,
