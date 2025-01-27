@@ -14,15 +14,12 @@ third_nav_title: "2025"
 </p>
 <p>Mark these dates in your calendar and join us for a fun and exciting celebration
 in 2025!</p>
-<p>1) Open House 2025, day after release of O-Level results – open to students
-keen to join the CJ Family
-<br>
+<p><strong>1) Open House 2025, day after release of O-Level results – open to students keen to join the CJ Family <br></strong>
 </p>
-<p>2) Official opening of the CJC Heritage Gallery, February 2025 (to be
-confirmed)
-<br>
+<p><strong>2) Official opening of the CJC Heritage Gallery, February 2025 (to be confirmed) <br></strong>
 </p>
-<p>3) CJ50 Food &amp; Fun Fair, 15 Mar 2025 - open to all</p>
+<p><strong>3) CJ50 Food &amp; Fun Fair, 15 Mar 2025 - open to all</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/c6192a42_ec64_4696_afa4_8607a92244fd.jpg">
 </div>
@@ -42,8 +39,8 @@ teachers.</p>
 <p>Don’t miss this special occasion to be part of our golden jubilee celebrations.
 We look forward to seeing you there!</p>
 <p></p>
-<p>4) CJ50 Homecoming Dinner, 31 May 2025<strong> </strong>- open to alumni,
-staff, and students</p>
+<p><strong>4) CJ50 Homecoming Dinner, 31 May 2025 - open to alumni, staff, and students</strong>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_9_45_55_AM.jpg">
 </div>
