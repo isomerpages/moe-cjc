@@ -11,7 +11,47 @@ to realise their potential. The MOE Financial Assistance Scheme, CJC Needy
 Student Fund and the Internationalisation Fund provide students with the
 necessary resources as well as the opportunity to take up enrichment activities
 beyond local shores.</p>
+<p><strong><u>MOE Financial Assistance Scheme (MOE FAS)</u></strong>
+</p>
+<p>We offer the Ministry of Education Financial Assistance Scheme (MOE FAS)
+to needy Singapore Citizen students in Government or Government-aided schools
+so that all Singaporeans, regardless of their financial background, can
+benefit from the best opportunities in education.</p>
+<p>Under the ministry's guidelines, a student is eligible for MOE FAS if
+he or she meets either of the following criteria:</p>
+<p><em>   Gross Household Income (GHI) not exceeding&nbsp;$3,000&nbsp;per month&nbsp;</em>*OR**</p>
+<p>* Per Capita Income (PCI) not exceeding&nbsp;$750&nbsp;per month</p>
+<p>The benefits of the scheme for junior college students are:</p>
+<p>* Full waiver of school fees ($6 per month)</p>
+<p>* Full waiver of standard miscellaneous fees ($13.50 per month)</p>
+<p>* Bursary ($1200)</p>
+<p>* Transport Subsidy&nbsp;($17&nbsp;per month, up to $204&nbsp;per annum&nbsp;for
+students taking public transport)</p>
+<p>* 100% waiver of National Examination Fees</p>
+<p>Students who satisfy the eligibility criteria for the MOE FAS Scheme may
+submit the application online via this website&nbsp;[<a href="https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)</a>
+</p>
+<p>Students eligible for the Financial Assistance Scheme may apply for the
+CJC Needy Student Fund for subsidies on textbooks, curriculum material,
+school attire and other fees which are not covered by MOE FAS.</p>
 <p></p>
+<p>Application for FAS is through the year, in order to qualify for FAS with
+effect from April 2024, please submit the completed application form with
+all required supporting documents to the General Office by 16 February
+2024.</p>
+<p><strong>Income Family Micro-Insurance and Savings Scheme (IFMISS)</strong>
+</p>
+<p>For pupils attending a local Government or Government-aided primary school
+and is an MOE Financial Assistance Scheme (MOE-FAS) recipient:&nbsp;</p>
+<p>NTUC Income (Income) understands the difficulties that a child may go
+through when death or total and permanent disability occurs to a parent
+or guardian.&nbsp;As such, they have developed the Income Family Micro-Insurance
+and Savings Scheme (IFMISS) to help students from pre-school to pre-university
+institutions with disadvantaged backgrounds cope financially in such times
+of need.</p>
+<p>For more information about Income, please visit their&nbsp;[website](
+<a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.income.com.sg/</a>).</p>
+<p>Click <a href="/files/Income IFMISS Brochure 2020.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the IFMISS</a>.</p>
 <p><strong><u>MOE Group Personal Accident (GPA) Insurance Plan</u></strong>
 </p>
 <p>All students are covered under the Ministry of Education (MOE) Group Personal
