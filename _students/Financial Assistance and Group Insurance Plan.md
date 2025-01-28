@@ -19,7 +19,7 @@ so that all Singaporeans, regardless of their financial background, can
 benefit from the best opportunities in education.</p>
 <p>Under the ministry's guidelines, a student is eligible for MOE FAS if
 he or she meets either of the following criteria:</p>
-<p><em>   Gross Household Income (GHI) not exceeding&nbsp;$3,000&nbsp;per month&nbsp;</em>*OR**</p>
+<p><em>Gross Household Income (GHI) not exceeding&nbsp;$3,000&nbsp;per month&nbsp;</em>*OR**</p>
 <p>* Per Capita Income (PCI) not exceeding&nbsp;$750&nbsp;per month</p>
 <p>The benefits of the scheme for junior college students are:</p>
 <p>* Full waiver of school fees ($6 per month)</p>
