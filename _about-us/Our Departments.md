@@ -176,7 +176,7 @@ variant: markdown
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg) |
-| Tan Tze Gek Justina |
+| Tan Tze Gek Justina | [tan_tze_gek_justina@moe.edu.sg](mailto:tan_tze_gek_justina@moe.edu.sg) |
 
 
 #### **Science (Biology and Physics)**
