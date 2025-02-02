@@ -65,7 +65,7 @@ variant: markdown
 |:---|:---|
 | Alex Wong/ Covering Head of Department | [alex_wong_yu_jie@moe.edu.sg](mailto:alex_wong_yu_jie@moe.edu.sg) |
 | Li Wenqiang Mark / Year Head JC2 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
-| Wong Nga Hui Michelle / Level Head |
+| Wong Nga Hui Michelle / Level Head | [michelle_wong_nga_hui@moe.edu.sg](mailto:michelle_wong_nga_hui@moe.edu.sg) |
 | Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg) |
 | Soong Yin-yin Sharon / Senior Teacher  | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin_yin_xiong_yingying@moe.edu.sg) |
 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
