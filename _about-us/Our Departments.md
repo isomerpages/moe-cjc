@@ -193,7 +193,7 @@ variant: markdown
 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg) |
 | Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg) |
-| Low Sie Yieh  | |
+| Low Sie Yieh  | [sarah_low_sie_yieh@moe.edu.sg](mailto:sarah_low_sie_yieh@moe.edu.sg) | |
 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg) |
 | Tieu Han Hooi | [tieu_han_hooi_a@moe.edu.sg](mailto:tieu_han_hooi_a@moe.edu.sg) |
