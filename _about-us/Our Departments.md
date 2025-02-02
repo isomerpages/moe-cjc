@@ -65,7 +65,7 @@ variant: markdown
 |:---|:---|
 | Alex Wong/ Covering Head of Department | [alex_wong_yu_jie@moe.edu.sg](mailto:alex_wong_yu_jie@moe.edu.sg) |
 | Li Wenqiang Mark / Year Head JC2 | [mark_li_wen_qiang@moe.edu.sg](mailto:mark_li_wen_qiang@moe.edu.sg) |
-| Wong Nga Hui Michelle / Level Head |
+| Wong Nga Hui Michelle / Level Head | [michelle_wong_nga_hui@moe.edu.sg](mailto:michelle_wong_nga_hui@moe.edu.sg) |
 | Lim Meng Hui / Subject Head/Potential Development (Talent Devt) | [lim_meng_hui_a@moe.edu.sg](mailto:lim_meng_hui_a@moe.edu.sg) |
 | Soong Yin-yin Sharon / Senior Teacher  | [soong_yin-yin_xiong_yingying@moe.edu.sg](mailto:soong_yin_yin_xiong_yingying@moe.edu.sg) |
 | Benjamin Thong  | [benjamin_thong_gui_hong@moe.edu.sg](mailto:benjamin_thong_gui_hong@moe.edu.sg) |
@@ -125,7 +125,7 @@ variant: markdown
 | Lim Zhiyi | [lim_zhiyi@moe.edu.sg](mailto:lim_zhiyi@moe.edu.sg) |
 | Natalie Lee Yingrong | [natalie_lee_yingrong@moe.edu.sg](mailto:natalie_lee_yingrong@moe.edu.sg) |
 | Ng Chee Keong | [ng_chee_keong_c@moe.edu.sg](mailto:ng_chee_keong_c@moe.edu.sg)  |
-| Ng Mei Ping Ruby | 
+| Ng Mei Ping Ruby | [ruby_ng_a@moe.edu.sg](mailto:ruby_ng_a@moe.edu.sg) |
 | Pang Soon Kit Kelvin  | [pang_soon_kit_kelvin@moe.edu.sg](mailto:pang_soon_kit_kelvin@moe.edu.sg) |
 | Sia Jiale | [sia_jiale@moe.edu.sg](mailto:sia_jiale@moe.edu.sg) |
 | Wu Yuen Yi | [wu_yuen_yi@moe.edu.sg](mailto:wu_yuen_yi@moe.edu.sg) |
@@ -176,7 +176,7 @@ variant: markdown
 | Joanne Lee | [lee_yiting_joanne@moe.edu.sg](mailto:lee_yiting_joanne@moe.edu.sg) |
 | R P Mageswari  | [r_p_mageswari@moe.edu.sg](mailto:r_p_mageswari@moe.edu.sg) |
 | Sim Sok Peng  | [sim_sok_peng@moe.edu.sg](mailto:sim_sok_peng@moe.edu.sg) |
-| Tan Tze Gek Justina |
+| Tan Tze Gek Justina | [tan_tze_gek_justina@moe.edu.sg](mailto:tan_tze_gek_justina@moe.edu.sg) |
 
 
 #### **Science (Biology and Physics)**
@@ -193,7 +193,7 @@ variant: markdown
 | Chua Chee Siang  | [chua_chee_siang@moe.edu.sg](mailto:chua_chee_siang@moe.edu.sg) |
 | Lim Kai Ming  | [lim_kai_ming@moe.edu.sg](mailto:lim_kai_ming@moe.edu.sg) |
 | Lin Shilin Charlene  | [lin_shilin_charlene@moe.edu.sg](mailto:lin_shilin_charlene@moe.edu.sg) |
-| Low Sie Yieh  | |
+| Low Sie Yieh  | [sarah_low_sie_yieh@moe.edu.sg](mailto:sarah_low_sie_yieh@moe.edu.sg) | |
 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
 | Tan Ing Keat  | [tan_ing_keat@moe.edu.sg](mailto:tan_ing_keat@moe.edu.sg) |
 | Tieu Han Hooi | [tieu_han_hooi_a@moe.edu.sg](mailto:tieu_han_hooi_a@moe.edu.sg) |
