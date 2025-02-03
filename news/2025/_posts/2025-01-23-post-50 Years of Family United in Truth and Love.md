@@ -37,7 +37,7 @@ a wonderful opportunity to reconnect with old friends, relive cherished
 moments, and celebrate the vibrant CJC spirit.</p>
 <p>🎟️ Tickets are available through current CJC students or your former
 teachers. Or you may also click on this link to reserve your tickets now
-- <a href="https://form.gov.sg/67899f1a864ffc362d8ff9ca" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67899f1a864ffc362d8ff9ca</a>
+- <strong><a href="https://go.gov.sg/cj50funfair" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cj50funfair</a></strong>
 </p>
 <p>Don’t miss this special occasion to be part of our golden jubilee celebrations.
 We look forward to seeing you there!</p>
