@@ -35,7 +35,9 @@ will bring back fond memories while creating new ones. The carnival is
 a wonderful opportunity to reconnect with old friends, relive cherished
 moments, and celebrate the vibrant CJC spirit.</p>
 <p>🎟️ Tickets are available through current CJC students or your former
-teachers.</p>
+teachers. Or you may also click on this link to reserve your tickets now
+- <a href="https://form.gov.sg/67899f1a864ffc362d8ff9ca" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/67899f1a864ffc362d8ff9ca</a>
+</p>
 <p>Don’t miss this special occasion to be part of our golden jubilee celebrations.
 We look forward to seeing you there!</p>
 <p></p>
@@ -59,11 +61,8 @@ celebrate this milestone with all of you!</p>
 <p>Support us in our <strong>CJ50 Anniversary Fundraising Campaign </strong>to
 raise $524,000 to develop a <strong>Student Learning and Recreational Hub</strong>,
 and the<strong> CJC Heritage Gallery</strong>.</p>
-<p>Donate today by scanning this QR code, <strong>or</strong>, send a crossed
-cheque addressed to “Catholic Junior College” (with name, contact details,
-and “CJ50 Anniversary Fundraising Campaign” on the back of the cheque)
-to the College at 129 Whitley Road, Singapore 297822.</p>
-<p>Donations of $50 and above are tax-deductible.</p>
+<p>Donate today by scanning this QR code. Donations of $50 and above are
+tax-deductible.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
 </div>
