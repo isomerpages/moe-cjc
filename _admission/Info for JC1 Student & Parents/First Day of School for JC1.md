@@ -3,23 +3,26 @@ title: First Day of School for JC1
 permalink: /admission/info-for-jc1-students-and-parents/first-day-of-sch-for-jc1/
 description: ""
 third_nav_title: Info for JC1 Student & Parents
-variant: markdown
+variant: tiptap
 ---
-## Instructions for 1st Day of School:
------------------------------------
-
-Be appropriately and neatly attired in your secondary school uniform and bring along your water bottle. Please also ensure that your hair is neat and tidy. Dyed hair and multiple earrings are not allowed.
-
-  
-
-You would have received the Orientation Group (OG) you have been assigned to via SMS. Kindly report to the Auditorium upon your arrival. Alternatively, you may check the display boards at the lower foyer for the Orientation Group (OG) and OG facilitators you have been assigned to when you arrive in the college. All students have to report to CJC punctually by 7.30am on Friday, 2 February 2024.
-
-  
-
-Please take note that if you have a pre-existing medical condition that requires you to be excused from physically strenuous activities, do inform the College and seek advice before participating in physically demanding segments of orientation programme. In addition, take note that students have to avoid physically strenuous activities for at least two weeks after testing covid positive or after receiving the Covid vaccination.
-
-  
-
-If you are unable to report to CJC on Friday, 2 Feb, please call us at 6252 4083/4 or email us at catholic\_jc@moe.edu.sg to confirm your acceptance of the place offered in the college. You will be advised on the follow up action.
-
-**
+<h2>Instructions for 1st Day of School:</h2>
+<hr>
+<p>Please ensure that you are neatly and appropriately attired in your secondary
+school uniform, and remember to bring your water bottle. Your hair should
+also be neat and tidy—dyed hair and multiple earrings are not permitted.</p>
+<p>You should have received a text message with the Orientation Group (OG)
+assignment. Upon your arrival, kindly report directly to the CJC Auditorium.
+Alternatively, if you need assistance, you can check the display boards
+at the lower foyer for your assigned OG and OG facilitators.</p>
+<p>We kindly ask all students to be present at the CJC Auditorium no later
+than 7:30 am on Wednesday, 5 February 2025. Please be mindful that traffic
+during peak hours can be unpredictable, so we encourage you to plan extra
+travel time to avoid delays.</p>
+<p>If you have a pre-existing medical condition that may require you to avoid
+physically strenuous activities, please inform the College and seek advice
+prior to engaging in any physically demanding parts of the orientation
+program.</p>
+<p>If you are unable to attend on Wednesday, 5 February, please reach out
+to us at 6252 4083/4 or via email at catholic_jc@moe.edu.sg to confirm
+your acceptance of the college place. We will provide further instructions
+on next steps.</p>
