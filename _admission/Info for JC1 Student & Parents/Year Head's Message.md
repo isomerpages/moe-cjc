@@ -22,7 +22,7 @@ Orientation Programme.</p>
 to approach me. I look forward to meeting you on Wednesday, and I’m excited
 for the journey we will take together in the months ahead.</p>
 <p>Sincerely,</p>
-<p><strong>Mr Marimuthu Sandanam </strong>
+<p><strong>Mr Marimuthu Sandanam</strong>
 </p>
 <p><strong>JC1 Year Head</strong>
 </p>
