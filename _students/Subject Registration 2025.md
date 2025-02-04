@@ -5,8 +5,10 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Subject Registration 2025</strong></h3>
-<p><strong>Subject Registration System - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online CJC Portal</a></strong> (available
-only from 5 Feb, 4pm)</p>
+<p><strong>Subject Registration System - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online CJC Portal</a></strong>
+</p>
+<p>The link will be available from 5 Feb, 4pm for the subject registration
+period.</p>
 <h4><strong>Important Note:</strong></h4>
 <ul>
 <li>
@@ -30,8 +32,10 @@ the registration period. No changes will be allowed after 6 Feb 2025 (Sat),
 <p>If you have any questions please contact us at the following address:
 <a href="mailto:catholicjcreg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">catholicjcreg@gmail.com</a>
 </p>
-<p>User Guide for the Subject Registration System - Click on the briefing
-slides for information.</p>
-<p></p>
+<p>Download the slides for the briefing on 5 Feb if required.</p>
+<p>Slides (part 1) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part1.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
+<p>Slides (part 2) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part2.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
 <p><strong><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations-2025/" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
