@@ -5,8 +5,8 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h1>Subject Combination Registration</h1>
-<h3>The Decision-Making Process</h3>
+<h3><strong>Subject Combination Registration</strong></h3>
+<h4>The Decision-Making Process</h4>
 <p>Please refer to the website via the link given below to guide you through
 the process of selecting your subject combination:
 <br><a href="https://go.gov.sg/ecgsite-cjc" rel="noopener noreferrer nofollow" target="_blank">CJC Potential Development</a>&nbsp;</p>
@@ -27,7 +27,7 @@ your subject combination:</p>
 website, speaking to your seniors and our Education &amp; Career Guidance
 Counselor, Ms Joys Lin. You are <strong>strongly encouraged</strong> to make
 an appointment with Ms Joys Lin via this link <a href="https://go.gov.sg/ecgcjc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ecgcjc</u></a>&nbsp;</p>
-<h3>Combination Choice</h3>
+<h4>Combination Choice</h4>
 <p>The details of the subject combinations offered to all new students in
 2024 are available on our college website: <a href="https://cjcopenhouse.moe.edu.sg/eopenhouse/academic-information/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">CJC Academic Information</a>&nbsp;</p>
 <p>This <a href="https://cjcopenhouse.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">microsite</a> also
@@ -49,7 +49,7 @@ can cater to your interests and aspirations.</p>
 <p>Posting to a subject combination is subject to the student's knowledge
 and understanding of the relevant subject(s) at O-Level, the performance
 in the subject(s) and availability of vacancies.&nbsp;</p>
-<h3>Subject Registration Exercise</h3>
+<h4>Subject Registration Exercise</h4>
 <p>As part of the orientation programme, we have scheduled a “Subject Registration
 Briefing” on 5 Feb to provide more information on the subject selection
 process and the subject choices to help you make an informed decision on
@@ -77,7 +77,7 @@ on 5 Feb.</p>
 JC1s on 11 Feb, 9pm (tentative) via the CJC Portal. This is followed by
 the Matriculation period which allows students to begin their academic
 journey based on their allocated subject combination.&nbsp;</p>
-<h3>Matriculation Week (12 to 21 Feb)</h3>
+<h4>Matriculation Week (12 to 21 Feb)</h4>
 <p>Following the subject selection exercise, students will begin attending
 lessons for their allocated subjects to get an understanding of the demands
 and expectations of the subjects during the Matriculation Week.&nbsp;</p>
