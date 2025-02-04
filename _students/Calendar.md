@@ -1,6 +1,6 @@
 ---
 title: Calendar
-permalink: /students/calender/
+permalink: /students/calendar/
 description: ""
 variant: tiptap
 ---
