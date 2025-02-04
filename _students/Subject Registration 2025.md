@@ -33,9 +33,9 @@ the registration period. No changes will be allowed after 8 Feb 2025 (Sat),
 <a href="mailto:catholicjcreg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">catholicjcreg@gmail.com</a>
 </p>
 <p>Download the slides for the briefing on 5 Feb if required.</p>
-<p>Slides (part 1) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part1.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p>Slides (part 1) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part_1.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
-<p>Slides (part 2) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part2.pdf" rel="noopener nofollow" target="_blank">file</a>
+<p>Slides (part 2) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part_2.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p><strong><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations-2025/" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
