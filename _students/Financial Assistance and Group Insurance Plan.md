@@ -29,7 +29,7 @@ he or she meets either of the following criteria:</p>
 students taking public transport)</p>
 <p>* 100% waiver of National Examination Fees</p>
 <p>Students who satisfy the eligibility criteria for the MOE FAS Scheme may
-submit the application online via this website&nbsp;[<a href="https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas](https://go.gov.sg/moe-efas)</a>
+submit the application online via this website&nbsp;<a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
 </p>
 <p>Students eligible for the Financial Assistance Scheme may apply for the
 CJC Needy Student Fund for subsidies on textbooks, curriculum material,
@@ -48,8 +48,7 @@ or guardian.&nbsp;As such, they have developed the Income Family Micro-Insurance
 and Savings Scheme (IFMISS) to help students from pre-school to pre-university
 institutions with disadvantaged backgrounds cope financially in such times
 of need.</p>
-<p>For more information about Income, please visit their&nbsp;[website](
-<a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.income.com.sg/</a>).</p>
+<p>For more information about Income, please visit their&nbsp;website <a href="http://www.income.com.sg/" rel="noopener noreferrer nofollow" target="_blank">http://www.income.com.sg/</a>.</p>
 <p>Click <a href="/files/Income IFMISS Brochure 2020.pdf" rel="noopener noreferrer nofollow" target="_blank">here for the IFMISS</a>.</p>
 <p><strong><u>MOE Group Personal Accident (GPA) Insurance Plan</u></strong>
 </p>
