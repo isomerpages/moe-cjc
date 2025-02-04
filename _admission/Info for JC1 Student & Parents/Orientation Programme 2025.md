@@ -5,31 +5,50 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h1>Orientation Programme 2024</h1>
-<h3>Orientation 2024 (2 to 8 February 2024)</h3>
-<p>In order to help our new students settle in, the college has specially
-organised an Orientation Programme for all JC1 students joining the school.
-JC1 students are expected to participate actively in the Orientation activities
-so that you will be able to familiarise yourself with the college’s academic
-and co-curricular programmes, interact and bond with your seniors and other
-JC1 students. We look forward to seeing you at Orientation.</p>
-<p>Please take note of the following details:
+<h1>Orientation Programme 2025</h1>
+<h3>Orientation 2025 (5 to 11 February 2025)</h3>
+<p>To welcome our new students and help you settle into the CJC family, the
+college has specially organised an Orientation Programme for all JC1 students
+joining the school. JC1 students are expected to participate actively in
+the Orientation activities so that you can familiarise yourself with the
+college’s academic and co-curricular programmes as well as bond with your
+seniors and other JC1 students.&nbsp;
 <br>
 </p>
-<p>The morning assembly begins at 7.40am daily during Orientation. Please
-report by 7.30am at the Auditorium. You are expected to be punctual for
-all activities and functions.
+<p>Please take note of the following details:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Morning assembly begins at 7.40am daily during Orientation. Please report
+by 7.30am at the Auditorium.&nbsp;</p>
+</li>
+<li>
+<p>You are expected to be present and punctual for all activities. Attendance
+will be marked at the beginning and end of each day.</p>
+</li>
+<li>
+<p>There will be some costs incurred in the running of the Orientation Programme,
+namely (1) transportation costs out of CJC on Day 4 for “The Great Expedition”,
+(2) light refreshments on Day 4 and Day 5, and (3) a collar pin that you
+will receive during the JC1 Commencement Ceremony. The total cost of these
+items is $8.50, and you can pay for it via either Edusave, your parent’s
+GIRO, or an AXS transfer. Payment can be made upon receiving the school
+bill.&nbsp;</p>
+</li>
+<li>
+<p>Should you feel unwell during the activities and/or need to leave the
+programme early for official reasons (e.g. medical appointments), please
+inform the teacher-in-charge and your Orientation Group Leaders (OGLs).
+<br>
 <br>
 </p>
-<p>Attendance will be marked at the beginning and end of each day.
-<br>
-</p>
-<p>Should you feel unwell, please inform the teacher-in-charge and your Orientation
-Group Leaders (OGLs).
-<br>
-<br>
-</p>
-<table>
+</li>
+</ul>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -47,7 +66,48 @@ Group Leaders (OGLs).
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday&nbsp;<br>2 Feb</strong>
+<p><strong>Wednesday&nbsp;<br>5 Feb</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Reporting time: 7.30am</strong>
+</p>
+<p><strong><br></strong>
+</p>
+<p><strong>Dismissal time: 3.45pm</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Welcome Address by Principal and JC1 Year Head</p>
+</li>
+<li>
+<p>Bonding time with Orientation Groups (OG) and Faction</p>
+</li>
+<li>
+<p>Briefings on subjects and how to select subject combinations (Subject
+Registration System will open at 4pm on Wed, 5 Feb)</p>
+</li>
+<li>
+<p>Special briefings starting at 3.45pm for:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>Students interested in the Ignite Programme and English Language &amp; Linguistics (ELL) Programme</em>
+</p>
+</li>
+<li>
+<p><em>Students intending to appeal to take particular subjects</em>
+</p>
+</li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Thursday&nbsp;<br>6 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -59,66 +119,32 @@ Group Leaders (OGLs).
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Principal’s Welcome Address</p>
-</li>
-<li>
-<p>School College Tour</p>
-</li>
-<li>
-<p>OG Bonding Time &amp; Faction Time</p>
-</li>
-<li>
-<p>Subject Registration Briefing at 1.30pm, followed by Subject Consultations</p>
-</li>
-<li>
-<p>Briefing for Ignite Programme and English Language &amp; Linguistics (ELL)
-Programme at 3.30pm <em>(where applicable)</em>
-</p>
-</li>
-<li>
-<p>Subject Registration System @ CJC Portal opens at 3pm</p>
-</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday&nbsp;<br>5 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Dismissal time: 3.00pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Subject Registration System @ CJC Portal closes at 9am</p>
+<p>Briefing on CCAs in CJC</p>
 </li>
 <li>
-<p>Uniform Sales for all students (please bring your own bag; payment by
-Cash or PayNow)</p>
+<p>Uniform sales (please bring your own bag; payment by Cash or PayNow)</p>
 </li>
 <li>
-<p>OG Bonding Time &amp; Faction Games</p>
+<p>OG bonding time&nbsp;</p>
 </li>
 <li>
-<p>Selection Test for Ignite Programme and English Language &amp; Linguistics
-Programme at 3pm <em>(where applicable)</em>
-</p>
+<p>School tour</p>
+</li>
+<li>
+<p>Faction Games</p>
+</li>
+<li>
+<p>Selection test for students interested in the Ignite Programme and English
+Language &amp; Linguistics Programme from 3.30 to 5.00pm</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Tuesday<br>6 Feb</strong>
+<p><strong>Friday<br>7 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -126,21 +152,26 @@ Programme at 3pm <em>(where applicable)</em>
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>Dismissal time: 5.15pm</strong>
+<p><strong>Dismissal time: 4.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Trials of the Matrix &amp; Picnic @ External Venue</p>
+<p>Bonding time with Orientation Groups (OG) and Faction&nbsp;</p>
 </li>
 <li>
-<p>House Amazing Race</p>
+<p><em>Fully Alive</em>: Introduction to the CJC Catholic Community at 1pm
+(all Catholic students should attend and lunch will be provided; non-Catholics
+are welcome to join)</p>
 </li>
-</ul>
+<li>
+<p>CCA Bazaar for all students from 2.30 to 4.00pm</p>
 <p>
 <br>
 </p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
