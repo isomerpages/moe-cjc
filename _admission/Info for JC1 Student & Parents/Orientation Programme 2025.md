@@ -176,7 +176,7 @@ are welcome to join)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wednesday<br>7 Feb</strong>
+<p><strong>Monday<br>10 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -184,30 +184,31 @@ are welcome to join)</p>
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>Dismissal time: 5pm</strong>
+<p><strong>Dismissal time: 4.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>OG Bonding Time &amp; Faction Games</p>
-</li>
+<p>“The Great Expedition” (amazing race at an external venue)</p>
+<ul>
 <li>
-<p>Fully Alive: Introduction to the CJ Catholic Community at 1pm <em>(for all Catholics)</em>
-</p>
-</li>
-<li>
-<p>HOD PE/CCA Briefing: CCA Trials and Selection</p>
-</li>
-<li>
-<p>CCA Bazaar for all students at 3pm</p>
+<p>Please wear CJC PE attire, comfortable sports shoes and bring a working
+public transportation card.&nbsp;</p>
 </li>
 </ul>
+</li>
+<li>
+<p>House-led Games</p>
+</li>
+</ul>
+<p>*Note: School uniform vendor will be available till 7pm to sell uniforms,
+if stocks are available.</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thursday<br>8 Feb</strong>
+<p><strong>Tuesday<br>11 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -215,27 +216,34 @@ are welcome to join)</p>
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>Dismissal time: 5.45pm</strong>
+<p><strong>Dismissal time: 6.00pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Mandala Activity &amp; Sharing</p>
+<p>Games</p>
 </li>
 <li>
-<p>ChronoSplash!</p>
+<p>Sharing Activity</p>
 </li>
 <li>
-<p>Faction Finale</p>
-</li>
+<p>Orientation Finale</p>
+<ul>
 <li>
-<p>Briefing for CNY eve celebrations and Matriculation Week</p>
+<p>Please wear the CJC collegiate t-shirt.</p>
 </li>
 </ul>
+</li>
+<li>
+<p>Closing Address and briefing for Matriculation Week</p>
+</li>
+</ul>
+<p>*Note: School uniform vendor will be available till 7pm to sell uniforms,
+if stocks are available.</p>
 </td>
 </tr>
 </tbody>
 </table>
+<p>We look forward to seeing you at Orientation 2025!</p>
 <p></p>
-<p>**</p>
