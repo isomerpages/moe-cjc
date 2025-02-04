@@ -56,8 +56,7 @@ school attire and other fees which are not covered by MOE FAS.</p>
 </p>
 <p>Application for FAS is through the year, in order to qualify for FAS with
 effect from April 2025, please submit the completed application form with
-all required supporting documents to the General Office by 28 February
-2025.</p>
+all required supporting documents by 28 February 2025.</p>
 <h4><strong>Income Family Micro-Insurance and Savings Scheme (IFMISS)</strong></h4>
 <p>For pupils attending a local Government or Government-aided primary school
 and is an MOE Financial Assistance Scheme (MOE-FAS) recipient:</p>
