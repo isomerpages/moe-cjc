@@ -22,7 +22,7 @@ Week.</p>
 </li>
 <li>
 <p>Students can continue to login and make changes to their choices within
-the registration period. No changes will be allowed after 6 Feb 2025 (Sat),
+the registration period. No changes will be allowed after 8 Feb 2025 (Sat),
 10pm.</p>
 </li>
 </ul>
