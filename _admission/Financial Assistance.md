@@ -1,5 +1,5 @@
 ---
-title: Financial Aid
+title: Financial Assistance
 permalink: /admission/financial-aid/
 description: ""
 variant: markdown
@@ -38,3 +38,15 @@ NTUC Income (Income) understands the difficulties that a child may go through wh
 For more information about Income, please visit their [website](http://www.income.com.sg/).
 
 [Income IFMISS Brochure 2020.pdf](/files/Income%20IFMISS%20Brochure%202020.pdf)
+
+**MOE Group Personal Accident (GPA) Insurance Plan**
+
+All students are covered under the Ministry of Education (MOE) Group Personal Accident  (GPA) Insurance Plan. 
+
+Details about the GPA Insurance Plan for students, including information on claims, frequently asked questions (FAQs), and other important resources, can be accessed at the following website: https://www.income.com.sg/studentgpa 
+
+![](https://www.cjc.moe.edu.sg/images/College_Insurance_Plan.jpg)
+
+ For details about the Group Personal Insurance Plan, click [here](https://www.cjc.moe.edu.sg/files/Product_Fact_Sheet_2025__Insurance_Plan_.pdf).
+
+Please do not hesitate to contact the College General Office should you have any questions.
