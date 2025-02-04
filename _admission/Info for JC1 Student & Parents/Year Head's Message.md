@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Info for JC1 Student & Parents
 ---
-<h2>Year Head’s Message</h2>
+<h3><strong>Year Head’s Message</strong></h3>
 <p>Dear JC1s,</p>
 <p>A warm welcome to Catholic Junior College (CJC)!</p>
 <p>We are excited to have you join our CJ family. To help you settle into
