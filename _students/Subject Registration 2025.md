@@ -5,9 +5,9 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Subject Registration 2025</strong></h3>
-<p><strong>Subject Registration System - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online CJC Portal</a></strong> 
+<p><strong>Subject Registration System - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online CJC Portal</a></strong>
 </p>
-<p>The link will be available only from 5 Feb, 4pm for the subject registration
+<p>The link will be available from 5 Feb, 4pm for the subject registration
 period.</p>
 <h4><strong>Important Note:</strong></h4>
 <ul>
