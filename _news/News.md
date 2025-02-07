@@ -2,44 +2,50 @@
 title: News
 permalink: /news/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-<style> img {border-radius:16px;} </style>
 <h3><strong>News</strong></h3>
-
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/OH2025_Banner_Final_Large.png" align="left">
-</div><strong><a href="/cjc-open-house-2025/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2025</a></strong> 
-<br>Join us at Catholic Junior College this Saturday, 11 January 2025 from 10am to 3pm for our exciting Open House!<p></p>
-
-
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/CJCStudentLeadersAppreciationandInstallationCeremony_135_min.jpg" align="left">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CJ50_MOTD_Ad.jpg">
 </div>
-
+<p><a href="https://www.cjc.moe.edu.sg/50-years-of-family-united-in-truth-and-love/" rel="noopener nofollow" target="_blank">CJC's 50th Anniversary Celebrations</a>
+</p>
+<p>We give thanks to God for His blessings and grace on our college for the
+past 50 years. We warmly invite all alumni to join us at the different
+celebrations to mark our Golden Jubilee.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/OH2025_Banner_Final_Large.png">
+</div>
+<p><strong><a href="/cjc-open-house-2025/" rel="noopener noreferrer nofollow" target="_blank">CJC Open House 2025</a></strong> 
+<br>Join us at Catholic Junior College this Saturday, 11 January 2025 from
+10am to 3pm for our exciting Open House!</p>
+<p></p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;margin-right:15px;" height="60%" width="auto" alt="" src="/images/CJCStudentLeadersAppreciationandInstallationCeremony_135_min.jpg">
+</div>
 <p><strong><a href="/student-leaders-appreciation-and-installation-2024/" rel="noopener noreferrer nofollow" target="_blank">Student Leaders Appreciation and Installation 2024</a></strong> 
-<br>The Student Leaders Appreciation and Installation ceremony was a heartwarming transition as the JC2 students passed the baton to the incoming JC1 leaders.</p>
-
+<br>The Student Leaders Appreciation and Installation ceremony was a heartwarming
+transition as the JC2 students passed the baton to the incoming JC1 leaders.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 25%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg" align="left">
+<img style="width: 25%;margin-right:15px;" height="50%" width="auto" alt="" src="/images/WhatsApp_Image_2024_06_24_at_10_22_54_AM.jpg">
 </div>
-
 <p><strong><a href="/celebrating-sharon-tay-winner-of-the-harvard-prize-book-2024/" rel="noopener noreferrer nofollow" target="_blank">Celebrating Sharon Tay, Winner of the Harvard Prize Book 2024</a></strong> 
-<br>As the House Captain of Joseph House (2022/2023), Sharon was known for her exceptional leadership and dedication to her peers.</p>
+<br>As the House Captain of Joseph House (2022/2023), Sharon was known for
+her exceptional leadership and dedication to her peers.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;margin-right:15px;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg" align="left">
+<img style="width: 40%;margin-right:15px;" height="auto" width="100%" alt="" src="/images/50_CCS_7353___Edited___Edited.jpg">
 </div>
-
 <p><strong><a href="/news/2024/05/" rel="noopener noreferrer nofollow" target="_blank">CJC Celebrates with the Class of 2023</a></strong> 
 <br>Catholic Junior College takes great pride in celebrating the academic
 achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/IMG_9636.PNG" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/IMG_9636.PNG">
 </div>
 <p><strong><a href="/news/2023/20/" rel="noopener noreferrer nofollow" target="_blank">CJC World Philosophy Day Essay Writing Competition 2023</a></strong> 
 <br>Make your submissions from now until 12 Jan 2024 on
@@ -49,7 +55,7 @@ achievements of the Class of 2023 at the recent GCE A-Level examinations.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20flood%20risk%20fieldwork%20at%20bishan-amk%20park%20j.JPG">
 </div>
 <p><strong><a href="/news/2023/19/" rel="noopener noreferrer nofollow" target="_blank">Authentic Learning through Geography fieldwork</a></strong> 
 <br>Students studying Geography participated in several out-of-school fieldwork
@@ -60,7 +66,7 @@ as part of the inquiry-based learning experience this year.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/jc2%20retreat%2030%20sept%20group%20photo%20c.JPG">
 </div>
 <p><strong><a href="/news/2023/18/" rel="noopener noreferrer nofollow" target="_blank">JC2 Retreat 2023</a></strong> 
 <br>CJC resumed its 2D1N JC2 Retreat this year, the first since the pandemic
@@ -71,7 +77,7 @@ struck.
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/pat%202024%20website%20publicity%20image.gif" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/pat%202024%20website%20publicity%20image.gif">
 </div>
 <p><strong><a href="/news/2023/17/" rel="noopener noreferrer nofollow" target="_blank">President's Award for Teachers &amp; OYEA</a></strong> 
 <br>Nominations for the President’s Award for Teachers and the Outstanding
@@ -81,7 +87,7 @@ Youth in Education Award.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/News/2023/16wishlist.png" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/News/2023/16wishlist.png">
 </div>
 <p><strong><a href="/news/2023/16/" rel="noopener noreferrer nofollow" target="_blank">Teachers' Day Wishlist 2023</a></strong> 
 <br>Some of our teachers are featured in this YouTube video by MOE.</p>
@@ -90,7 +96,7 @@ Youth in Education Award.</p>
 <br>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/photo1690268621.jpeg" align="left">
+<img style="width:40%;margin-right:15px;" height="auto" width="100%" src="/images/photo1690268621.jpeg">
 </div>
 <p><strong><a href="/news/2023/15/" rel="noopener noreferrer nofollow" target="_blank">CJC Alumni Sports Fiesta 2023: Happening Sat, 29 July!</a></strong> 
 <br>All alumni are welcome to join us for a day of sports and games, food
