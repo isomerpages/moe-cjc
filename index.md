@@ -20,7 +20,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/whatson
-      background: /images/cj50_ar_changed_2.png
+      background: /images/CJ50_MOTD_Ad.jpg
       variant: image
   - resources:
       title: Happenings at CJC
