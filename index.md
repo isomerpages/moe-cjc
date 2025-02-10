@@ -21,7 +21,7 @@ sections:
           description: ""
           url: /alumni/whatson
       background: /images/CJ50_MOTD_Ad_KM.jpg
-      variant: center
+      variant: image
   - resources:
       title: Happenings at CJC
       subtitle: News & Highlights
