@@ -63,10 +63,10 @@ raise $524,000 to develop a <strong>Student Learning and Recreational Hub</stron
 and the<strong> CJC Heritage Gallery</strong>.</p>
 <p>Donate today by scanning this QR code. Donations of $50 and above are
 tax-deductible.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_QR_code_Aug_2024.png">
-</div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_CJ50_QR_code_10_Feb_2025.png">
+</div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_9_47_11_AM.jpg">
 </div>
