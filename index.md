@@ -22,8 +22,6 @@ sections:
           url: /alumni/whatson
       background: /images/CJ50_MOTD_Ad_KM.jpg
       variant: image
-      url: "<style> .bg-hero { background-size: contain;}</style>"
-      button: Test
   - resources:
       title: Happenings at CJC
       subtitle: News & Highlights
@@ -57,13 +55,14 @@ sections:
       url: /experience/the-cjc-story/
       alt: TMLH
   - infobar:
-      url: https://www.instagram.com/catholic.jc/"><center><script async=""
+      url: 'https://www.instagram.com/catholic.jc/"><center><script async=""
         src="//www.instagram.com/embed.js"></script><blockquote
         style="width:99.375%; width:-webkit-calc (100% - 2px); width:calc (100%
         - 2px)" class="instagram-media"
         data-instgrm-permalink="https://www.instagram.com/catholic.jc/"
         data-instgrm-version="14"></blockquote></center><font
-        color="ffffff"></font>
+        color="ffffff"></font><style> .bg-hero { background-size:
+        contain;}</style>'
       title: Instagram
       button: See our latest happenings
   - infobar:
