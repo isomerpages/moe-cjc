@@ -23,6 +23,7 @@ sections:
       background: /images/CJ50_MOTD_Ad_KM.jpg
       variant: image
       url: "<style> .bg-hero { background-size: contain;}</style>"
+      button: Test
   - resources:
       title: Happenings at CJC
       subtitle: News & Highlights
