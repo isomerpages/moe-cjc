@@ -140,7 +140,7 @@ by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p
 or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/J.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_new_QR_code_12Feb.jpg">
 </div>
 <p>
 <br>
