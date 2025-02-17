@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
+<p><a href="https://www.cjc.moe.edu.sg/important-information-for-the-release-of-2024-a-level-results/" rel="noopener nofollow" target="_blank">Important Information on the Release of 2024 A-Level Results</a>
+</p>
+<p>The 2024 A-Level results will be released this Friday, 21 Feb 2025. All
+students from the Class of 2024 can collect their results from college
+from 2.30pm onwards. All the best!</p>
 <p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CJ50_MOTD_Ad.jpg">
