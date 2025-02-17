@@ -34,11 +34,11 @@ upon collection of the results at the General Office.&nbsp;</p>
 <p><strong>Viewing of Examination Results Online</strong>&nbsp;</p>
 <p>Candidates who are unable to collect their results in person can also
 access their results online via Singapore Examinations and Assessment Board
-(SEAB)’s Candidates Portal at <a rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from
-3.15pm on 21 February 2025 till 11pm on 7 March 2025. Candidates who are
-eligible for Singpass can use their Singpass account to access SEAB’s Candidates
-Portal. School candidates who are International Students will receive their
-system-generated username via email from 19 February 2025.</p>
+(SEAB)’s Candidates Portal at <a href="www.seab.gov.sg" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a> from 3.15pm on 21 February 2025
+till 11pm on 7 March 2025. Candidates who are eligible for Singpass can
+use their Singpass account to access SEAB’s Candidates Portal. School candidates
+who are International Students will receive their system-generated username
+via email from 19 February 2025.</p>
 <p></p>
 <p><strong>Applications to Autonomous Universities&nbsp;</strong>
 </p>
