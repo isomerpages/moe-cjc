@@ -289,7 +289,12 @@ variant: markdown
 | 1T21 | Lim Wei Ying  | [lim_wei_ying@moe.edu.sg](mailto:lim_wei_ying@moe.edu.sg)   |
 | 1T22 | Tan Mei Qi  | [tan_mei_qi@moe.edu.sg](mailto:tan_mei_qi@moe.edu.sg) |
 | 1T23 | Sri Yuni Bte Mazlan  | [sri_yuni_mazlan@moe.edu.sg](mailto:sri_yuni_mazlan@moe.edu.sg)  |
-| 1T24 |
+| 1T24 | Marhaini Bte Mohamed Amil | [marhaini_mohamed_amil@moe.edu.sg](mailto:marhaini_mohamed_amil@moe.edu.sg) |
+| 1T25 | Peh Beng Lee  | [peh_beng_lee@moe.edu.sg](mailto:peh_beng_lee@moe.edu.sg) |
+| 1T26 | Peter Thia | [thia_peter@moe.edu.sg](mailto:thia_peter@moe.edu.sg) |
+| 1T27 | Peter Goh  | [goh_peter@moe.edu.sg](mailto:goh_peter@moe.edu.sg) |
+| 1T28 | Heng Yuqing Wendy  | [heng_yuqing_wendy@moe.edu.sg](mailto:heng_yuqing_wendy@moe.edu.sg) |
+| 1T29 | Lai Ern Chuen | [lai_ern_chuen@moe.edu.sg](mailto:lai_ern_chuen@moe.edu.sg) |
 
 #### **College Chaplain**
 
