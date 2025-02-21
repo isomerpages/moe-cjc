@@ -5,6 +5,11 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
+<p><strong><u>CJC Celebrates with the Class of 2024</u></strong>
+</p>
+<p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
+commendable achievements at the 2024 GCE A-Level examinations and for the
+good distinction rates across subjects.</p>
 <p><a href="https://www.cjc.moe.edu.sg/important-information-for-the-release-of-2024-a-level-results/" rel="noopener nofollow" target="_blank">Important Information on the Release of 2024 A-Level Results</a>
 </p>
 <p>The 2024 A-Level results will be released this Friday, 21 Feb 2025. All
