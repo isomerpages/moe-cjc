@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
-<p><strong><u>CJC Celebrates with the Class of 2024</u></strong>
+<p><a href="https://www.cjc.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
 </p>
 <p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
 commendable achievements at the 2024 GCE A-Level examinations and for the
