@@ -5,6 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_a.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
+</p>
+<p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
+commendable achievements at the 2024 GCE A-Level examinations and for the
+good distinction rates across subjects.</p>
 <p><a href="https://www.cjc.moe.edu.sg/important-information-for-the-release-of-2024-a-level-results/" rel="noopener nofollow" target="_blank">Important Information on the Release of 2024 A-Level Results</a>
 </p>
 <p>The 2024 A-Level results will be released this Friday, 21 Feb 2025. All
