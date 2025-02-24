@@ -62,7 +62,219 @@ late = <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg
 of all our CJCians who exemplify the qualities of a Thinker with a Mission
 and Leader with a Heart. May God bless the Class of 2024 with grace and
 wisdom as they take flight and soar.</p>
-<p><em>&nbsp;</em>
-</p>
+<p></p>
 <p><em>In Veritate et Caritate</em>
 </p>
+<p></p>
+<p></p>
+<p><u>Our Top Performers</u>
+</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Name</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CG</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>AMELIA LOCK MUN LENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T17</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DEL ROSARIO IGNACIO LUIS IV KATIGBAK</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA XUEHUI, AMBER</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T29</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MAX WEE GWAN SIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHUA XUAN YU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T13</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHONG YI BIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T19</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEN WEI QUAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T21</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>GAO ZHIJUN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>JANELLE LIM</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T28</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KEE RUI YING CHARLOTTE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEW CAVEN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T14</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHEW JUN LIANG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANNY CHANDIRAMANI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HARRY TANG JUN HAO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T20</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NICHOLAS HO YUN HEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T27</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>MEGAN ONG SWEE YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T18</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NGUYEN NGOC UYEN NHI</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>ELISABETH CHAN KEI YAN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T06</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CHLOE TAI LI EN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T01</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>DANIEL ASHRAF TEO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>NATHANAEL SIM LIHENG</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T04</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KATELYN NG KAH YEE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>LEONG SEE MUN, SARAH</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T05</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>KUAN COCO JIAMIN</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>2T02</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
