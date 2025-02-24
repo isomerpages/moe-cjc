@@ -42,6 +42,10 @@ journey of pursuing your dreams. Remember your personal mission and where
 your passion drives you towards. Remember that the true calling of a CJCian
 is to uplift others around us. Wishing you all the best in your future
 endeavors!”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_website_b.jpg">
+</div>
 <p>As we celebrate the success of the Class of 2024, the College would like
 to thank our dedicated teachers, administrative staff, parents, the School
 Management Committee (SMC), and alumni for their steadfast support. We
@@ -60,6 +64,10 @@ late = <a rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg
 of all our CJCians who exemplify the qualities of a Thinker with a Mission
 and Leader with a Heart. May God bless the Class of 2024 with grace and
 wisdom as they take flight and soar.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_website_c.jpg">
+</div>
 <p><em>In Veritate et Caritate</em>
 </p>
 <p></p>
