@@ -5,6 +5,10 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_a.jpg">
+</div>
 <p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
 commendable achievements at the 2024 GCE A-Level examinations and for the
 good distinction rates across subjects. We give thanks to God for showering
