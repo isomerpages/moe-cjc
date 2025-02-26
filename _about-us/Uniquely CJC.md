@@ -2,6 +2,7 @@
 title: Uniquely CJC
 permalink: /about-us/
 description: ""
+variant: markdown
 ---
 ### **About US**
 
@@ -11,7 +12,7 @@ Singapore's third-oldest junior college, Catholic Junior College is a pre-univer
 
 Our promise is that every CJC student will become a thinker with a mission, leader with a heart - a key to success in a globalised, fast-changing world. In Veritate et Caritate.
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="CJC Corporate Video" src="https://www.youtube.com/embed/i3ExcRVrQqc" height="380" width="653"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/K-I_cUfNuVI?si=pjTzt4xQN5ZW_5xI" height="315" width="560"></iframe>
 
 <img src="/images/aboutus.jpg" style="width:85%">
 
