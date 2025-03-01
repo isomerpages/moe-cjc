@@ -428,6 +428,70 @@ me that I was never alone. Taking a moment each morning to appreciate these
 individuals grounded me and allowed me to move forward, knowing they had
 my best interests at heart.”</p>
 <p>
+<br><strong>MEGAN ONG SWEE YEE</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/MEGAN_ONG_SWEE_YEE_min.jpg">
+</div>
+<p>Megan Ong Swee Yee is a motivated and inquisitive learner. She had many
+pursuits during her time in CJC. Some honorable mentions would be the Singapore
+Chemistry Olympiad in 2023 and the International Mathematics Modelling
+Challenge in 2024. Her active participation in these competitions displays
+the proactive attitude that she adopts towards learning. Her ability to
+manage her time and prioritising tasks, whilst delivering results speaks
+volumes about her work ethic and dedication to excellence. These outstanding
+qualities are truly inspiring to her peers.&nbsp;</p>
+<p>Other than academics, Megan was also a member of the Strategy Games Club.
+She saw the club as an opportunity to further hone her skills on the chessboard.
+As she devoted greater amounts of time into mastering chess, she discovered
+the importance of patience, understanding that thoughtful deliberation
+and careful planning are crucial to success. She also learned to adapt
+her tactics according to the ever-changing dynamics of the game, demonstrating
+her problem-solving competencies. She was also active in community involvement
+as she taught the game of chess to her peers in CJC, providing guidance
+on the rules of gameplay. Her intellectual curiosity and drive to learn
+will allow her to thrive in an increasingly volatile, uncertain, complex
+and ambiguous global environment.&nbsp;</p>
+<p>When asked about her study tips for juniors, this is what she had to say:
+“Constantly practicing a few prelims or TYS questions instead of passively
+reading or writing notes really helps with information retention”.&nbsp;</p>
+<p>
+<br><strong>JANELLE LIM</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/JANELLE_LIM_min.jpg">
+</div>
+<p>Janelle is an independent and thoughtful student who has the ability to
+learn with passion and intelligence. She is also unafraid to grasp any
+opportunity to learn, being a participative and productive student in the
+class. While juggling her tough subject combination, she remained motivated
+and disciplined throughout all adversity. Janelle was also on the Principal’s
+Honour Roll thrice and achieved the Top Performer Award twice during college
+examinations. Her superb grades have caught the attention of many such
+that she was chosen to be a part of the dialogue session held by the Minister
+of Education and foreign affairs. As Secretary of the Strategy Games Club,
+she was committed towards her role despite her limited experience, learning
+many important values like patience.&nbsp;</p>
+<p>Janelle also made great contributions to the club by planning events such
+as the 9th CJC Inter-College Chinese Chess Competition with great dedication.
+She showcased her wisdom in handling challenges through her exceptional
+problem-solving skills and adaptability. She was also able to foster a
+supportive and open environment within the club. Janelle also contributed
+to the Local Service Learning Project NTUC Health Active Ageing Centre
+(Whampoa), highlighting her compassion and dedication to helping the less
+fortunate. Through all the challenges, her communication and collaboration
+allowed the project to be a success.&nbsp;</p>
+<p>Some tips from Janelle: “Be aware with where you stand right now content-wise,
+be aware with upcoming assignments and exams, and be even more aware of
+how your current actions might potentially impact your future self. Start
+with the little things (which are often overlooked), be good at them, and
+that alone will greatly help your next steps in understanding the entire
+syllabus. With that being said, it is also important to be intentional
+about your study breaks; whether it is playing a sport or just doom scrolling
+on social media, never let your surroundings faze you and be very clear
+with what you want to achieve academically. ”</p>
+<p>
+<br>
 <br>
 </p>
 <p>
