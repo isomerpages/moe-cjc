@@ -85,8 +85,7 @@ and reflect on her work, making strides to advance in her studies. Her
 efforts paid off, as she was not only the 2023 JC1 Top Performer for H1
 General Paper and H1 Literature, but also one of the top scorers in CJC
 for the A-Levels.&nbsp;</p>
-<p>
-<br>Her ardor for her interests was evident as her passion for Literature
+<p>Her ardour for her interests was evident as her passion for Literature
 led her to explore different styles of writing and poetry. Eager to develop
 her writing, she joined the MOE Creative Arts Programme, where she experienced
 a nine month-long mentorship under the guidance of a local writer. She
@@ -95,9 +94,8 @@ Lee Kong Chian School of Medicine Anatomy Challenge 2024. Amelia was also
 a dedicated member of her CCA, Guzheng Ensemble. Despite being a beginner,
 she worked hard during and outside of CCA hours to improve her guzheng
 and interpersonal skills. Additionally, she participated in her CCA’s student-initiated
-LSLP.
-<br>
-<br>“I am thankful to God for seeing me through each day of my journey, and
+LSLP.</p>
+<p>“I am thankful to God for seeing me through each day of my journey, and
 my family for their&nbsp; help every day, from making breakfast to reminding
 me to enjoy my education regardless of my&nbsp; grades. I am also grateful
 for all my teachers—especially Dr Lim, Mr Yang, and Instructor Sophie—
@@ -177,12 +175,6 @@ award that recognises acts of service carried out by students .</p>
 subject tutors of another class to consult on some subjects, and they have
 not only accepted my request with open arms, they were immensely helpful.
 Hence, thank you to every single teacher in CJC for caring for us students.”</p>
-<p></p>
-<p><strong>DANNY CHANDIRAMANI</strong>
-</p>
-<div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DANNY_CHANDIRAMANI_min.jpg">
-</div>
 <p></p>
 <p><strong>KEE RUI YING CHARLOTTE</strong>
 </p>
@@ -393,9 +385,6 @@ made with them. Those moments gave me the opportunity to bond with my friends
 and get to know them better. A tip to my juniors would be to start studying
 and attempting past year papers as soon as possible. Prioritise your studies
 above everything else but remember to take care of your health!’</p>
-<p></p>
-<p><strong>HARRY TANG JUN HAO</strong>
-</p>
 <p></p>
 <p><strong>CHUA XUEHUI, AMBER</strong>
 </p>
