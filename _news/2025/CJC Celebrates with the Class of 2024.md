@@ -402,7 +402,34 @@ above everything else but remember to take care of your health!’</p>
 <div class="isomer-image-wrapper">
 <img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
 </div>
-<p></p>
+<p>Amber is a dedicated and disciplined student who always strives to push
+her limits and test her intellect. She participated in a General Paper-Economics
+Stretch Programme, where she expanded her knowledge in various current
+affairs. She was a passionate and resilient student, and her efforts were
+rewarded with several awards in many competitions, as well as accolades
+-- notably, being on the Principal’s Honour Roll for the 2023 JC 1 Mid-Year
+and Promotional Examinations, being awarded Subject Prize Award for H2
+Geography in 2023.</p>
+<p>Amber was an inspiring leader as demonstrated during her time as Assistant
+Vice-President of Network and Relations in NEXUS Entrepreneurship and Investment
+Society. She displayed her expertise in management, leading her team with
+calmness in spite of challenges and solving problems creatively. She was
+a good team player as well, earning the respect of her peers. In the Local
+Service-Learning Project (LSLP) organised by her CCA, her outgoing and
+strong people skills helped her connect with the elderly and showed patience
+teaching them about financial literacy and avoiding scams, contributing
+to the success of the programme.</p>
+<p>“I'm deeply grateful for the unwavering support of my family, friends,
+and teachers. It's the small things that truly made a difference: casual
+conversations about school, the simple act of driving me to school, and
+the shared laughter that lightened the load. These seemingly insignificant
+moments accumulated into a powerful sense of support and care, reminding
+me that I was never alone. Taking a moment each morning to appreciate these
+individuals grounded me and allowed me to move forward, knowing they had
+my best interests at heart.”</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 <br>
