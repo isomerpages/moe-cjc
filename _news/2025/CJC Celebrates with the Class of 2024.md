@@ -71,6 +71,252 @@ wisdom as they take flight and soar.</p>
 <p><em>In Veritate et Caritate</em>
 </p>
 <p></p>
+<p><strong>AMELIA LOCK MUN LENG</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
+</div>
+<p>Amelia is a hard-working and conscientious student with a zest for learning
+and discovery. Throughout her junior college journey, she strove to excel
+in her studies whilst making time for her interests. An eager learner,
+she would regularly schedule consultations with her teachers to clarify
+her doubts and learning gaps. Additionally, she would consistently review
+and reflect on her work, making strides to advance in her studies. Her
+efforts paid off, as she was not only the 2023 JC1 Top Performer for H1
+General Paper and H1 Literature, but also one of the top scorers in CJC
+for the A-Levels.&nbsp;</p>
+<p>
+<br>Her ardor for her interests was evident as her passion for Literature
+led her to explore different styles of writing and poetry. Eager to develop
+her writing, she joined the MOE Creative Arts Programme, where she experienced
+a nine month-long mentorship under the guidance of a local writer. She
+also pursued her interest in biology through her participation in the NTU
+Lee Kong Chian School of Medicine Anatomy Challenge 2024. Amelia was also
+a dedicated member of her CCA, Guzheng Ensemble. Despite being a beginner,
+she worked hard during and outside of CCA hours to improve her guzheng
+and interpersonal skills. Additionally, she participated in her CCA’s student-initiated
+LSLP.
+<br>
+<br>“I am thankful to God for seeing me through each day of my journey, and
+my family for their&nbsp; help every day, from making breakfast to reminding
+me to enjoy my education regardless of my&nbsp; grades. I am also grateful
+for all my teachers—especially Dr Lim, Mr Yang, and Instructor Sophie—
+who taught and supported me patiently, helping me enjoy the subjects and
+extracurriculars I took. I&nbsp; am appreciative of my friends in JC who
+were with me daily, doing tutorials together in the morning&nbsp; and after
+class, cheering me up when I was tired. My non-JC friends too, who despite
+not understanding my work or subjects, reminded me to relax and supported
+me until the end.”</p>
+<p></p>
+<p><strong>DEL ROSARIO IGNACIO LUIS IV KATIGBAK</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DEL_ROSARIO_IGNACIO_LUIS_IV_KATIGBAK_min.jpg">
+</div>
+<p>Del Rosario Ignacio Luis IV Katigbak exemplified a well-rounded achiever,
+excelling in both academics and extracurricular activities. Throughout
+his journey at CJC, Luis consistently demonstrated intellectual prowess,
+earning numerous Academic Achievement Awards across milestone assessments.
+His analytical mind and methodical approach to problem-solving set him
+apart, enabling him to thrive in rigorous subjects like Biology, Chemistry,
+and Mathematics. His passion for the sciences propelled him to represent
+the college at the prestigious Singapore Biology Olympiad in 2023 and the
+Singapore Anatomy Challenge in 2024. Despite the demanding nature of these
+competitions, Luis remained steadfast in his academic commitments, balancing
+his responsibilities with remarkable discipline and self-motivation.&nbsp;</p>
+<p>Beyond his academic excellence, Luis left a lasting impact on the college
+through his leadership in sports. As the Captain of the Badminton team,
+he led with passion and resilience, representing the school at the National
+School Games in both 2023 and 2024. His ability to inspire and unite his
+teammates fostered a culture of camaraderie and determination, making him
+a pillar of support within the team. Through rigorous training sessions
+and high-stakes competitions, Luis displayed composure under pressure,
+embracing every challenge as an opportunity for growth.&nbsp;</p>
+<p>“Personally, I believe I had a great work-life balance and I can attribute
+it to time management and studying efficiently. As much as possible, I
+strived to keep my study sessions productive whereby I was engaged and
+using my brain, instead of merely reading the lecture notes … When I felt
+like I could not sit at my desk even longer, I would go for runs which
+I not only enjoy, but also keep me active amidst the busy exam season.
+I would also meet up with my friends when I felt overwhelmed, which allowed
+me to unwind and be able to go back to studying.”</p>
+<p></p>
+<p><strong>KUAN COCO JIAMIN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/KUAN_COCO_JIAMIN_min.jpg">
+</div>
+<p>Coco is an exceptional, well-rounded student with an aptitude for learning
+and self-fulfilment. Her love for literature can be captured through her
+thoughtful analysis on different subject matters, showing her profound
+appreciation of the complexities of the world. Coco continued her journey
+of discovery beyond the classroom through her participation in the Overseas
+Service Learning Program and Mission Trip to Don Bosco School in Cambodia
+in 2024 where she compassionately served the local community by providing
+meaningful engagement with the students. On top of her studies, Coco also
+pursues her passion for Taekwondo and won several awards in the last 2
+years namely: the Bronze medal and the silver medal in the 2023 16th National
+Taekwondo Poomsae Championships and the 2024 Waein Cup Open Championships
+(International), respectively. She is not afraid to push her limits and
+explore opportunities beyond those that are expected of her, continuously
+striving for greater heights.&nbsp;</p>
+<p>Being the Vice President of the Catholic Activities wing of the Students’
+Council, Coco also demonstrated exemplary leadership skills and is committed
+to create a sense of community, collaboration and inclusivity in the student
+body. As a part of the planning committees for significant events, Coco
+participated actively in activities such as Teacher’s Day 2023, the 2024
+Orientation and Lenten Evening 2024. Coco’s stellar public speaking was
+also recognised when she was selected as the emcee for CJC’s Open House
+in 2024.&nbsp;Additionally, Coco was also the student-in-charge in the
+process of planning and creating the college’s mascot, Solar, hence further
+showing her excellent visioning and project management skills. For her
+commendable leadership, she was awarded the prestigious CJC Flame Scholarship
+in 2023. She also received the Caritate award, which is a peer-nominated
+award that recognises acts of service carried out by students .</p>
+<p>“I would like to extend my gratitude to all CJ teachers… I have approached
+subject tutors of another class to consult on some subjects, and they have
+not only accepted my request with open arms, they were immensely helpful.
+Hence, thank you to every single teacher in CJC for caring for us students.”</p>
+<p></p>
+<p><strong>DANNY CHANDIRAMANI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DANNY_CHANDIRAMANI_min.jpg">
+</div>
+<p></p>
+<p><strong>KEE RUI YING CHARLOTTE</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/KEE_RUI_YING_CHARLOTTE_min.jpg">
+</div>
+<p>Charlotte is an intellectually curious student who understands new ideas
+quickly. She frequently seeks a deeper understanding of issues and is able
+to put forth her views clearly and respectfully during academic discussions.
+Her intellectual disposition led her to be granted a place in CJC’s Ignite+
+Talent Development programme, a 2-year interdisciplinary programme that
+challenges students to think critically and creatively. Her strong academic
+performance also enabled her to clinch the 2023 Edusave Good Progress Award
+and 2024 CJC Top Performer Award.</p>
+<p>Charlotte’s strengths were also evident in her Co-Curricular Activity
+(CCA), the CJC Oratorical Society. As a member of the Executive Committee
+(Exco) – to be specific, the Secretary for the Model United Nations (MUN)
+wing – Charlotte displayed admirable leadership while working with team
+members who had differing viewpoints from her own. As she carried out her
+Exco responsibilities, which included planning for CCA sessions and organizing
+the 2024 CJ MUN, she learned the importance of being open to others' opinions
+and was able to balance that with being proactive and decisive when the
+situation called for it.</p>
+<p>“Having the right mindset is … important. I think that it is important
+to enjoy and take pride in the content that you are learning because that
+can push you to want to do better. It is also important to remember that
+examinations are not there to torture students, so rather than dreading
+it, what I would encourage students to just see examinations as a way to
+test their abilities and to learn more about how they can improve. Feeling
+sad about doing badly is natural but what is done is done so it is most
+important to pick yourself back up and learn from the experience.”</p>
+<p>
+<br><strong>CHEW CAVEN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHEW_CAVEN_min.jpg">
+</div>
+<p>Chew Caven is a diligent student who relates well to others, well-liked
+and respected by peers and teachers alike. Taking pride in his learning,
+he pursues excellence in both academic and non-academic undertakings. He
+has an analytical mind and thinks critically about a wide range of issues.
+A self directed-learner who is relentless in his pursuit of self-improvement,
+Caven is a good problem-solver, a deep thinker, and a resilient learner
+who does not give up in the face of challenges.&nbsp;</p>
+<p>His strengths were evident in his Co-Curricular Activity (CCA), Cross
+Country. A leader and a team player, he demonstrated a keen understanding
+of teamwork as he consistently put the team’s needs above his own. During
+training sessions, he actively rallied his teammates to put in their utmost
+effort. A competitive but empathetic young man, Caven was encouraging not
+just towards his teammates, but also towards his competitors whenever he
+represented the College in various competitions. A servant leader with
+a heart for the less fortunate, Caven was a member of a team of students
+who proposed a partnership between CJC and Hair for Hope (HfH) to raise
+funds for Children Cancer Foundation in 2024.</p>
+<p>Some advice for his juniors: “Burnout doesn’t help anyone, and sometimes,
+taking a short break to listen to music or snack can make your study sessions
+more productive. Study with friends, and ask each other questions to help
+each other clear gaps in understanding that one might have missed by yourself.”</p>
+<p></p>
+<p><strong>CHLOE TAI LI EN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHLOE_TAI_LI_EN_min.jpg">
+</div>
+<p>A dedicated and resilient individual, Chloe demonstrates a strong sense
+of responsibility. She was a significant contributor to the Student Council,
+where she displayed high levels of competency after being given roles in
+organising multiple major school events, such as Rockafella and Teachers’
+Day. She also represented CJC in the 7th Student Leaders Installation Ceremony
+at Eunoia Junior College, which provided her with a true and deeper understanding
+of leadership and humility which she now applies to her daily life. As
+a compassionate leader, Chloe is able to connect exceptionally well with
+others, which she demonstrated as an Orientation Group Leader (OGL), reaching
+out to people and creating everlasting memories with both her peers and
+her juniors.&nbsp;</p>
+<p>Academically, Chloe has a love for History that has provided her with
+critical thinking skills and the ability to view situations from various
+perspectives, both of which have certainly shone through in her examinations.
+Chloe is also very non-judgmental and open-minded, and takes feedback given
+to her in stride, which shapes her as a well-rounded and knowledgeable
+person.&nbsp;</p>
+<p>With her empathetic and open ways of thinking, coupled with her outstanding
+analytical skills, Chloe is driven to work for a better world as an educator.</p>
+<p>“I would most definitely advise my juniors not to focus on how much you,
+or others, have studied, but to focus on how much you have learnt or internalised
+every time you revise.”</p>
+<p></p>
+<p><strong>CHEW JUN LIANG</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHEW_JUN_LIANG_min.jpg">
+</div>
+<p>Jun Liang is an independent and conscientious student. He was selected
+to represent the college at the Singapore biology Olympiad and the Anatomy
+Challenge and showed that he was able to think deeply and critically, showing
+exceptional problem solving competencies. With a drive for excellence,
+Jun Liang received the Academic Achievement Award presented by the college
+at several milestone assessments. Jun Liang’s ability to work independently
+and take ownership of his learning is a testament of his maturity and drive
+to give his best in anything he embarks on.&nbsp;</p>
+<p>Jun Liang exhibited a keen sense of responsibility as he executed his
+duties as his class’s Home Tutorial Councilor (HTC). He demonstrated that
+he was a good and dependable administrator and discharged his duties meticulously.
+He also stepped up as an Orientation Group Leader to guide and induct freshman
+students into the college. In addition, Jun Liang was a member of the College’s
+Oratorical Society and was selected to represent the College at the Global
+Youth Leader Summit in 2023, marking his foray into Model United Nations.
+He relished the opportunity to also serve as the Chairman for the CJC Model
+United Nations, demonstrating foresight and was proactive in ensuring that
+deadlines were met. Despite his heavy commitments in College, Jun Liang
+spearheaded a Local Service Learning Project (LSLP).&nbsp; As the Chairperson,
+he worked closely with the beneficiary from the Singapore Association for
+the Visually Handicapped to design an Inclusive Games Experience for students
+in CJC to empathise with the challenges faced by visually-impaired individuals.
+His initiative to take active steps towards fostering a more inclusive
+community is a testament to his growth as an individual who is dedicated
+to actively bettering the lives of others.</p>
+<p>“My teachers have been instrumental in helping me grow as a person. They
+have shown me how to broaden my horizon, view the world from different
+perspectives and challenge myself to think critically. Beyond helping me
+excel in my studies, they have helped me shape into a more confident, steadfast
+and caring individual. I will always be grateful for the invaluable guidance
+and wisdom they continue to share with me.”</p>
+<p>
+<br>
+</p>
+<p>&nbsp;&nbsp;</p>
+<p>
+<br>
+<br>
+<br>
+<br>
+<br>
+</p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
 <table style="minWidth: 50px">
