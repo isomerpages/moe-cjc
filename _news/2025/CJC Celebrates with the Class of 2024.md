@@ -308,7 +308,108 @@ and wisdom they continue to share with me.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
 </div>
+<p>Leong See Mun Sarah is a self-directed learner who always expresses enthusiasm
+to explore new areas of study. Her intellectual disposition led her to
+be granted a place in CJC’s Ignite+ Talent Development programme, a 2-year
+interdisciplinary programme that challenges students to think critically
+and creatively. Sarah's tenure as a student has been marked by a commendable
+blend of personal growth and leadership. Most significantly, she stepped
+up as an Orientation Group Leader (OGL) for the 2024 CJC Orientation programme,
+also serving as a student ambassador for the 2024 Open House, as well as
+the Pastoral Care Councillor for her class.&nbsp;</p>
+<p>As a member of the CJC Guitar Ensemble, Sarah was able to further her
+interest in playing the guitar while making new friends. Her talent for
+music was evident in various college performances she participated in,
+such as the 2023 National Day concert and 2024 CJ Celebrates, an annual
+showcase of the college’s Performing Arts CCAs. Sarah also served as an
+emcee for the 2024 College Day, an experience which honed her public speaking
+skills. Academically, she participated in the 2023 History Seminar and
+2023 Vietnam Cultural Immersion programme organized by the CJC Humanities
+Department, both of which deepened her appreciation for History and its
+connections to other disciplines.&nbsp;</p>
+<p>“I am very grateful for my teachers, especially my History and English
+Language and Linguistics (ELL) teachers Ms Charmaine and Ms Alex, for their
+patience and guidance, helping me to score well and maximise my potential
+in the A Levels! They really dedicated so much time and effort into teaching
+us and having consultation with us. I am also extremely grateful for the
+friends I made, who were a strong support system for me during tough times.”</p>
+<p>
+<br><strong>DANIEL ASHRAF TEO</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DANIEL_ASHRAF_TEO_min.jpg">
+</div>
+<p>Daniel has shown praiseworthy commitment to his studies. He showcased
+his analytical thinking in Economics where he had to scrutinise questions
+with a delicate approach. He is outstanding in the application of theoretical
+concepts to real-world circumstances. He widened his perspective on worldwide
+problems remarkably when using his ability to study economic events, especially
+in business and finance. This mindset has both enhanced his academic success
+and readied him for challenges in the working world.</p>
+<p>Daniel took his Economics exploration further as an EXCO Member of the
+NEXUS Investment and Entrepreneurship Society. He has frequently showcased
+his leadership skills and teamwork by promoting harmony within his team.
+He was part of the team who won second place in the CJC BizComp 2023, where
+he played a significant role in making their project surmount the expectations
+placed on them. He is able to handle a myriad of tasks with control and
+competence. His contributions also go further than competitions and leadership.
+He was involved in Harvard Crimson Global Case Competition 2023 and the
+Lee Kuan Yew Global Business Plan Competition, highlighting his opportunism
+and preparedness. He engages in each experience, keen to learn and grow
+beyond his current abilities.&nbsp;</p>
+<p>“My most memorable event in CJ was definitely Rockafella 2023. It came
+at a time when we were still getting to know our classmates, and it played
+a huge role in strengthening our bonds. Even after a year, I still vividly
+remember hugging my friends and dancing together to the music—it was an
+unforgettable experience.”</p>
 <p></p>
+<p><strong>ELISABETH CHAN KEI YAN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ELISABETH_CHAN_KEI_YAN_min.jpg">
+</div>
+<p>Elisabeth was a diligent student and committed to her studies. Passionate
+and dedicated, she attended the Pre-U Seminar at Nanyang Technological
+University in 2023, participated in the ELL Symposium in 2023 and 2024
+which helped to enrich her public speaking and critical thinking skills
+in Linguistics. She also found time to attend the National University of
+Singapore’s Literature Masterclass, all of which allowed her to further
+refine and develop her analytical abilities in Literary Studies and Literature.&nbsp;</p>
+<p>Elisabeth was also active in college affairs and served the community
+with enthusiasm and passion. She was her class’s Aesthetics leader, where
+she utilised her keen eye for design and detail to enhance the atmosphere
+of the classroom with pleasing visuals, helping to keep her classmates’
+spirits up. Elisabeth was also her class’s ELL representative, where her
+disciplined nature and strong sense of responsibility enabled her to handle
+payments and finances efficiently. Elisabeth seized the chance to make
+a meaningful contribution to the community by participating in her class's
+service-learning initiative, where she used her fantastic emotional maturity
+and immense commitment to collect data vital to the project's objectives.
+Through all these responsibilities, Elisabeth consistently demonstrated
+her teamwork and communication skills, along with her disciplined nature
+and strong sense of responsibility.&nbsp;</p>
+<p>"I will miss the moments I had with my friends and treasure the memories
+made with them. Those moments gave me the opportunity to bond with my friends
+and get to know them better. A tip to my juniors would be to start studying
+and attempting past year papers as soon as possible. Prioritise your studies
+above everything else but remember to take care of your health!’</p>
+<p></p>
+<p><strong>HARRY TANG JUN HAO</strong>
+</p>
+<p></p>
+<p><strong>CHUA XUEHUI, AMBER</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
+</div>
+<p></p>
+<p>
+<br>
+<br>
+</p>
+<p>
+<br>
+</p>
 <p>
 <br>
 <br>
