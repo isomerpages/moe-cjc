@@ -329,7 +329,7 @@ friends I made, who were a strong support system for me during tough times.”</
 <br><strong>DANIEL ASHRAF TEO</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/DANIEL_ASHRAF_TEO_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANIEL_ASHRAF_TEO_min.jpg">
 </div>
 <p>Daniel has shown praiseworthy commitment to his studies. He showcased
 his analytical thinking in Economics where he had to scrutinise questions
@@ -358,7 +358,7 @@ unforgettable experience.”</p>
 <p><strong>ELISABETH CHAN KEI YAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ELISABETH_CHAN_KEI_YAN_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/ELISABETH_CHAN_KEI_YAN_min.jpg">
 </div>
 <p>Elisabeth was a diligent student and committed to her studies. Passionate
 and dedicated, she attended the Pre-U Seminar at Nanyang Technological
@@ -389,7 +389,7 @@ above everything else but remember to take care of your health!’</p>
 <p><strong>CHUA XUEHUI, AMBER</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
 </div>
 <p>Amber is a dedicated and disciplined student who always strives to push
 her limits and test her intellect. She participated in a General Paper-Economics
@@ -420,7 +420,7 @@ my best interests at heart.”</p>
 <br><strong>MEGAN ONG SWEE YEE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/MEGAN_ONG_SWEE_YEE_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/MEGAN_ONG_SWEE_YEE_min.jpg">
 </div>
 <p>Megan Ong Swee Yee is a motivated and inquisitive learner. She had many
 pursuits during her time in CJC. Some honorable mentions would be the Singapore
@@ -448,7 +448,7 @@ reading or writing notes really helps with information retention”.&nbsp;</p>
 <br><strong>JANELLE LIM</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/JANELLE_LIM_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/JANELLE_LIM_min.jpg">
 </div>
 <p>Janelle is an independent and thoughtful student who has the ability to
 learn with passion and intelligence. She is also unafraid to grasp any
