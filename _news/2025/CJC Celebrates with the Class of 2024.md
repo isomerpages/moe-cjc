@@ -74,7 +74,7 @@ wisdom as they take flight and soar.</p>
 <p><strong>AMELIA LOCK MUN LENG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
 </div>
 <p>Amelia is a hard-working and conscientious student with a zest for learning
 and discovery. Throughout her junior college journey, she strove to excel
