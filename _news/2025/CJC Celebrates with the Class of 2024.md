@@ -265,7 +265,7 @@ every time you revise.”</p>
 <p><strong>CHEW JUN LIANG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHEW_JUN_LIANG_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_JUN_LIANG_min.jpg">
 </div>
 <p>Jun Liang is an independent and conscientious student. He was selected
 to represent the college at the Singapore biology Olympiad and the Anatomy
@@ -298,7 +298,7 @@ and wisdom they continue to share with me.”</p>
 <br><strong>LEONG SEE MUN, SARAH</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
 </div>
 <p>Leong See Mun Sarah is a self-directed learner who always expresses enthusiasm
 to explore new areas of study. Her intellectual disposition led her to
