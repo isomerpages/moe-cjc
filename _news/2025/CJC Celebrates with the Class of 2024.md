@@ -74,7 +74,7 @@ wisdom as they take flight and soar.</p>
 <p><strong>AMELIA LOCK MUN LENG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="”left”" style="width: 30%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
 </div>
 <p>Amelia is a hard-working and conscientious student with a zest for learning
 and discovery. Throughout her junior college journey, she strove to excel
@@ -109,7 +109,7 @@ me until the end.”</p>
 <p><strong>DEL ROSARIO IGNACIO LUIS IV KATIGBAK</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/DEL_ROSARIO_IGNACIO_LUIS_IV_KATIGBAK_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/DEL_ROSARIO_IGNACIO_LUIS_IV_KATIGBAK_min.jpg">
 </div>
 <p>Del Rosario Ignacio Luis IV Katigbak exemplified a well-rounded achiever,
 excelling in both academics and extracurricular activities. Throughout
@@ -142,7 +142,7 @@ me to unwind and be able to go back to studying.”</p>
 <p><strong>KUAN COCO JIAMIN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/KUAN_COCO_JIAMIN_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/KUAN_COCO_JIAMIN_min.jpg">
 </div>
 <p>Coco is an exceptional, well-rounded student with an aptitude for learning
 and self-fulfilment. Her love for literature can be captured through her
@@ -179,7 +179,7 @@ Hence, thank you to every single teacher in CJC for caring for us students.”</
 <p><strong>KEE RUI YING CHARLOTTE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/KEE_RUI_YING_CHARLOTTE_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/KEE_RUI_YING_CHARLOTTE_min.jpg">
 </div>
 <p>Charlotte is an intellectually curious student who understands new ideas
 quickly. She frequently seeks a deeper understanding of issues and is able
@@ -210,7 +210,7 @@ important to pick yourself back up and learn from the experience.”</p>
 <br><strong>CHEW CAVEN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHEW_CAVEN_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_CAVEN_min.jpg">
 </div>
 <p>Chew Caven is a diligent student who relates well to others, well-liked
 and respected by peers and teachers alike. Taking pride in his learning,
@@ -237,7 +237,7 @@ each other clear gaps in understanding that one might have missed by yourself.�
 <p><strong>CHLOE TAI LI EN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/CHLOE_TAI_LI_EN_min.jpg">
+<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHLOE_TAI_LI_EN_min.jpg">
 </div>
 <p>A dedicated and resilient individual, Chloe demonstrates a strong sense
 of responsibility. She was a significant contributor to the Student Council,
