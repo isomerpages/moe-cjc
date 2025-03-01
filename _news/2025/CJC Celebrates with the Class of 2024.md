@@ -1,7 +1,7 @@
 ---
 title: CJC Celebrates with the Class of 2024
 permalink: /cjc-celebrates-with-the-class-of-2024/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
@@ -68,13 +68,21 @@ wisdom as they take flight and soar.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_website_c.jpg">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Top_Performers_Science_website.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Top_Performers_Arts_website.jpg">
+</div>
 <p><em>In Veritate et Caritate</em>
 </p>
 <p></p>
 <p><strong>AMELIA LOCK MUN LENG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/AMELIA_LOCK_MUN_LENG_min.jpg">
 </div>
 <p>Amelia is a hard-working and conscientious student with a zest for learning
 and discovery. Throughout her junior college journey, she strove to excel
@@ -109,7 +117,7 @@ me until the end.”</p>
 <p><strong>DEL ROSARIO IGNACIO LUIS IV KATIGBAK</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/DEL_ROSARIO_IGNACIO_LUIS_IV_KATIGBAK_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DEL_ROSARIO_IGNACIO_LUIS_IV_KATIGBAK_min.jpg">
 </div>
 <p>Del Rosario Ignacio Luis IV Katigbak exemplified a well-rounded achiever,
 excelling in both academics and extracurricular activities. Throughout
@@ -142,7 +150,7 @@ me to unwind and be able to go back to studying.”</p>
 <p><strong>KUAN COCO JIAMIN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/KUAN_COCO_JIAMIN_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/KUAN_COCO_JIAMIN_min.jpg">
 </div>
 <p>Coco is an exceptional, well-rounded student with an aptitude for learning
 and self-fulfilment. Her love for literature can be captured through her
@@ -179,7 +187,7 @@ Hence, thank you to every single teacher in CJC for caring for us students.”</
 <p><strong>KEE RUI YING CHARLOTTE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/KEE_RUI_YING_CHARLOTTE_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/KEE_RUI_YING_CHARLOTTE_min.jpg">
 </div>
 <p>Charlotte is an intellectually curious student who understands new ideas
 quickly. She frequently seeks a deeper understanding of issues and is able
@@ -210,7 +218,7 @@ important to pick yourself back up and learn from the experience.”</p>
 <br><strong>CHEW CAVEN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_CAVEN_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_CAVEN_min.jpg">
 </div>
 <p>Chew Caven is a diligent student who relates well to others, well-liked
 and respected by peers and teachers alike. Taking pride in his learning,
@@ -237,7 +245,7 @@ each other clear gaps in understanding that one might have missed by yourself.�
 <p><strong>CHLOE TAI LI EN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHLOE_TAI_LI_EN_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHLOE_TAI_LI_EN_min.jpg">
 </div>
 <p>A dedicated and resilient individual, Chloe demonstrates a strong sense
 of responsibility. She was a significant contributor to the Student Council,
@@ -265,7 +273,7 @@ every time you revise.”</p>
 <p><strong>CHEW JUN LIANG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_JUN_LIANG_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHEW_JUN_LIANG_min.jpg">
 </div>
 <p>Jun Liang is an independent and conscientious student. He was selected
 to represent the college at the Singapore biology Olympiad and the Anatomy
@@ -298,7 +306,7 @@ and wisdom they continue to share with me.”</p>
 <br><strong>LEONG SEE MUN, SARAH</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
 </div>
 <p>Leong See Mun Sarah is a self-directed learner who always expresses enthusiasm
 to explore new areas of study. Her intellectual disposition led her to
@@ -329,7 +337,7 @@ friends I made, who were a strong support system for me during tough times.”</
 <br><strong>DANIEL ASHRAF TEO</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANIEL_ASHRAF_TEO_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANIEL_ASHRAF_TEO_min.jpg">
 </div>
 <p>Daniel has shown praiseworthy commitment to his studies. He showcased
 his analytical thinking in Economics where he had to scrutinise questions
@@ -358,7 +366,7 @@ unforgettable experience.”</p>
 <p><strong>ELISABETH CHAN KEI YAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/ELISABETH_CHAN_KEI_YAN_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/ELISABETH_CHAN_KEI_YAN_min.jpg">
 </div>
 <p>Elisabeth was a diligent student and committed to her studies. Passionate
 and dedicated, she attended the Pre-U Seminar at Nanyang Technological
@@ -389,7 +397,7 @@ above everything else but remember to take care of your health!’</p>
 <p><strong>CHUA XUEHUI, AMBER</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHUA_XUEHUI__AMBER_min.jpg">
 </div>
 <p>Amber is a dedicated and disciplined student who always strives to push
 her limits and test her intellect. She participated in a General Paper-Economics
@@ -420,7 +428,7 @@ my best interests at heart.”</p>
 <br><strong>MEGAN ONG SWEE YEE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/MEGAN_ONG_SWEE_YEE_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/MEGAN_ONG_SWEE_YEE_min.jpg">
 </div>
 <p>Megan Ong Swee Yee is a motivated and inquisitive learner. She had many
 pursuits during her time in CJC. Some honorable mentions would be the Singapore
@@ -448,7 +456,7 @@ reading or writing notes really helps with information retention”.&nbsp;</p>
 <br><strong>JANELLE LIM</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img align="left" style="width: 30%;" height="auto" width="100%" alt="" src="/images/JANELLE_LIM_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/JANELLE_LIM_min.jpg">
 </div>
 <p>Janelle is an independent and thoughtful student who has the ability to
 learn with passion and intelligence. She is also unafraid to grasp any
