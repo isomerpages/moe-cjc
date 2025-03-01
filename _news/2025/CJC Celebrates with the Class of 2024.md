@@ -284,22 +284,18 @@ at several milestone assessments. Jun Liang’s ability to work independently
 and take ownership of his learning is a testament of his maturity and drive
 to give his best in anything he embarks on.&nbsp;</p>
 <p>Jun Liang exhibited a keen sense of responsibility as he executed his
-duties as his class’s Home Tutorial Councilor (HTC). He demonstrated that
-he was a good and dependable administrator and discharged his duties meticulously.
-He also stepped up as an Orientation Group Leader to guide and induct freshman
-students into the college. In addition, Jun Liang was a member of the College’s
-Oratorical Society and was selected to represent the College at the Global
-Youth Leader Summit in 2023, marking his foray into Model United Nations.
-He relished the opportunity to also serve as the Chairman for the CJC Model
-United Nations, demonstrating foresight and was proactive in ensuring that
-deadlines were met. Despite his heavy commitments in College, Jun Liang
-spearheaded a Local Service Learning Project (LSLP).&nbsp; As the Chairperson,
-he worked closely with the beneficiary from the Singapore Association for
-the Visually Handicapped to design an Inclusive Games Experience for students
-in CJC to empathise with the challenges faced by visually-impaired individuals.
-His initiative to take active steps towards fostering a more inclusive
-community is a testament to his growth as an individual who is dedicated
-to actively bettering the lives of others.</p>
+duties as his class’s Home Tutorial Councilor (HTC). He also stepped up
+as an Orientation Group Leader to guide and induct freshman students into
+the college. In addition, Jun Liang was a member of the College’s Oratorical
+Society and was selected to represent the College at the Global Youth Leader
+Summit in 2023, marking his foray into Model United Nations. He relished
+the opportunity to also serve as the Chairman for the CJC Model United
+Nations, demonstrating foresight and was proactive in ensuring that deadlines
+were met. Despite his heavy commitments in College, Jun Liang spearheaded
+a Local Service Learning Project (LSLP).&nbsp; As the Chairperson, he worked
+closely with the beneficiary from the Singapore Association for the Visually
+Handicapped to design an Inclusive Games Experience for students in CJC
+to empathise with the challenges faced by visually-impaired individuals.</p>
 <p>“My teachers have been instrumental in helping me grow as a person. They
 have shown me how to broaden my horizon, view the world from different
 perspectives and challenge myself to think critically. Beyond helping me
@@ -307,9 +303,12 @@ excel in my studies, they have helped me shape into a more confident, steadfast
 and caring individual. I will always be grateful for the invaluable guidance
 and wisdom they continue to share with me.”</p>
 <p>
-<br>
+<br><strong>LEONG SEE MUN, SARAH</strong>
 </p>
-<p>&nbsp;&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/LEONG_SEE_MUN__SARAH_min.jpg">
+</div>
+<p></p>
 <p>
 <br>
 <br>
