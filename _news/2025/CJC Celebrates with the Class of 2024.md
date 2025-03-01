@@ -490,24 +490,7 @@ syllabus. With that being said, it is also important to be intentional
 about your study breaks; whether it is playing a sport or just doom scrolling
 on social media, never let your surroundings faze you and be very clear
 with what you want to achieve academically. ”</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-<br>
-</p>
-<p>
-<br>
-</p>
-<p>
-<br>
-<br>
-<br>
-<br>
-<br>
-</p>
+<p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
 <table style="minWidth: 50px">
