@@ -488,6 +488,159 @@ about your study breaks; whether it is playing a sport or just doom scrolling
 on social media, never let your surroundings faze you and be very clear
 with what you want to achieve academically. ”</p>
 <p></p>
+<p><strong>CHUA XUAN YU</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHUA_XUAN_YU_min.jpg">
+</div>
+<p>Chua Xuan Yu's academic journey at Catholic Junior College has been distinguished
+by exceptional achievements in science and mathematics. Taking on a challenging
+combination of H2 Mathematics, Physics, and Chemistry, complemented by
+H3 Mathematics, Xuan Yu demonstrated remarkable intellectual capacity and
+dedication to academic excellence. His mathematical and scientific prowess
+was evident through his participation in various Olympiads and notably,
+his achievement of a Silver award in the Singapore Physics League, hosted
+by the Institute of Physics Singapore.</p>
+<p>Beyond his academic pursuits, Xuan Yu's leadership in the STEM Club showcased
+his commitment to fostering scientific interest within the school community.
+He played pivotal roles in organizing events such as the E-waste Recycling
+Drive and Arduino Workshops, while also extending his expertise to teach
+coding to primary school students at Bendemeer Primary School. His involvement
+in prestigious competitions, including the International Mathematical Modelling
+Competition and Singapore Science and Engineering Fair, further demonstrated
+his passion for applying theoretical knowledge to real-world challenges.
+As both MTL Representative and ICT Leader, he efficiently managed his responsibilities
+while maintaining strong academic performance.</p>
+<p>"I believe it would be my Secondary 2 teachers who believed in me and
+pushed me hard to transfer laterally from NA to Express when I did not
+believe that I could do it," Xuan Yu reflects gratefully. "Without their
+support and guidance, I would not even have had the opportunity to go to
+JC and would most probably have been set on going to poly instead." His
+journey from NA to becoming a top performer at A-Levels stands as a testament
+to his determination and growth mindset, serving as an inspiration to his
+juniors.</p>
+<p>
+<br><strong>NATHANAEL SIM LIHENG</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NATHANAEL_SIM_LIHENG_min.jpg">
+</div>
+<p>Nathanael Sim Liheng's journey through Catholic Junior College has been
+marked by outstanding leadership and a remarkable ability to balance diverse
+interests. As a Home Tutorial Councillor, he demonstrated exceptional communication
+skills and adaptability, effectively managing class activities and fostering
+a harmonious environment among his peers. His academic pursuit of Economics,
+Mathematics, and History was complemented by his active involvement in
+various school activities, showcasing his ability to excel across different
+domains.</p>
+<p>A defining moment in Nathanael's CJC experience came through his unexpected
+triumph at the Rockefella band competition. Despite initial doubts, his
+leadership and dedication led his band to a unanimous victory from both
+judges and students alike. This achievement, alongside his contributions
+to the Tennis CCA where he served as a pillar of support for his teammates,
+exemplifies his ability to thrive under pressure while maintaining strong
+interpersonal connections. His commitment to fostering team spirit and
+building meaningful relationships has been evident throughout his time
+in both activities.</p>
+<p>"I really want to thank Ms Charmaine, my History teacher, for being so
+supportive in my academic journey throughout CJ," reflects Nathanael. "Even
+outside of academics, she gave meaningful advice on managing studies and
+relationships, which went a long way. I would also like to thank Ms Zhehui
+Moo, my form teacher, who was extremely kind and accommodating to my class.
+She taught us with much patience and love, and I really appreciate it."</p>
+<p>
+<br><strong>GAO ZHIJUN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/GAO_ZHIJUN_min.jpg">
+</div>
+<p>Gao Zhijun's exceptional academic journey at Catholic Junior College has
+been marked by numerous achievements and meaningful contributions to the
+school community. A consistent performer who earned multiple spots on the
+Principal's Honour Roll, Zhijun distinguished himself particularly in Economics,
+where his passion led him to undertake H3 Economics at Singapore Management
+University. His intellectual pursuits extended beyond the classroom through
+various enrichment programmes, including the Physics Stretch Programme
+and the Polaris Programme, where he honed his mathematical abilities. Notable
+among his achievements was receiving the Best Speaker Certificate in the
+Economics Multiplier Programme, demonstrating his exceptional grasp of
+complex economic concepts.</p>
+<p>As Home Tutorial Councillor and a member of the Oratorical Society, Zhijun
+demonstrated exemplary leadership qualities and public speaking skills.
+His involvement in service learning projects, particularly with the NTUC
+Health Senior Citizen Program and the Singapore Association for the Visually
+Handicapped, showcased his commitment to community service. Additionally,
+his role as a student journalist for Zaobao allowed him to develop his
+journalistic skills while engaging with the Chinese language and media
+industry.</p>
+<p>"I believe the most important tip is to apply the knowledge you learn
+to your daily life," Zhijun shares, reflecting on his approach to learning.
+"Make use of small pockets of time, like waiting for the bus or MRT, to
+quickly revise or refresh your memory on certain concepts. To balance your
+academic pursuits, I believe the best approach is to plan your day well,
+which will prevent you from feeling overwhelmed."</p>
+<p></p>
+<p><strong>DANNY CHANDIRAMANI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANNY_CHANDIRAMANI_min.jpg">
+</div>
+<p>Danny's journey through Catholic Junior College exemplifies the spirit
+of resilience and dedication, marked by his strong academic performance
+and deep appreciation for his support network. His commitment to excellence
+was evident not only in his studies but also in his participation in enrichment
+programmes, where he distinguished himself by winning Best Delegate at
+the CJ Model United Nations. His strong interest in a legal career led
+him to participate in both the Junior College Law Programme, and the Clyde
+&amp; Co. Law Enrichment Programme in 2023, experiences that solidified
+his professional ambitions.</p>
+<p>As Captain of the Canoeing team, Danny demonstrated exceptional leadership
+while achieving notable success in the 2024 National School Games Tournament,
+securing 5th place in both the 500m and 1000m C1 events. His ability to
+balance rigorous athletic training with academic demands showcased his
+time management skills, while his participation in Rockafella 2024 revealed
+his willingness to embrace new challenges. Through these diverse experiences,
+Danny emerged as a well-rounded individual capable of excelling across
+multiple domains while maintaining strong connections with his peers and
+mentors.</p>
+<p>"Ultimately, JC is a major balancing act and only with discipline in sticking
+to a structured schedule and formation of good, consistent habits is it
+then possible to maintain both a healthy mental state and do well in the
+A levels."
+<br>
+</p>
+<p><strong>HARRY TANG JUN HAO</strong>
+</p>
+<p>Harry's journey at Catholic Junior College has been marked by his sharp
+intellect and independent learning style, leading to strong academic performances
+and a deep interest in practical applications of his studies. His natural
+talent for public speaking flourished through his involvement in the Oratorical
+Society, where he honed his public speaking skills and participated in
+prestigious competitions such as the Infernus Debate Competition 2023 and
+NUSPA Competition 2024. His leadership capabilities were particularly evident
+in his role as Under-Secretary General (Academics) in the CJ Model UN event,
+and his speaking prowess led to his selection as the emcee for significant
+school events including the JC1 End-Of-Year Ceremony and JC2 Parents Information
+Evening.</p>
+<p>Throughout his time in CJC, Harry demonstrated remarkable resilience and
+adaptability in navigating the demanding college landscape, consistently
+rising to meet new challenges while developing himself both emotionally
+and intellectually. His journey was supported by a strong network of teachers,
+friends, and parents who played crucial roles in his development, helping
+him evolve into a confident and capable individual. Harry's ability to
+excel across various domains while maintaining his determination and discipline
+reflects his strong character and promising potential for future success.</p>
+<p>“Firstly, I have to thank my parents for being so supportive on this journey.
+I'm grateful they kept their faith in my abilities to perform well without
+tuition and didn't force any onto me. They would regularly check in on
+my progress, drive me out to the library, and give moral support when I
+got discouraged. Secondly, I'm thankful for having such wonderful friends
+who would always accompany me to go out and study together. I would have
+lost my motivation a lot quicker without having such wonderful people by
+my side. Finally, none of this would've been possible without my teachers.
+Thank you Ms Tan, Ms Wang, Mr Yeow, Ms Yoong, Mr Peh, Mr Loh and all my
+other teachers for guiding me throughout JC!”</p>
+<p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
 <table style="minWidth: 50px">
