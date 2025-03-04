@@ -488,6 +488,101 @@ about your study breaks; whether it is playing a sport or just doom scrolling
 on social media, never let your surroundings faze you and be very clear
 with what you want to achieve academically. ”</p>
 <p></p>
+<p><strong>CHUA XUAN YU</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHUA_XUAN_YU_min.jpg">
+</div>
+<p>Chua Xuan Yu's academic journey at Catholic Junior College has been distinguished
+by exceptional achievements in science and mathematics. Taking on a challenging
+combination of H2 Mathematics, Physics, and Chemistry, complemented by
+H3 Mathematics, Xuan Yu demonstrated remarkable intellectual capacity and
+dedication to academic excellence. His mathematical and scientific prowess
+was evident through his participation in various Olympiads and notably,
+his achievement of a Silver award in the Singapore Physics League, hosted
+by the Institute of Physics Singapore.</p>
+<p>Beyond his academic pursuits, Xuan Yu's leadership in the STEM Club showcased
+his commitment to fostering scientific interest within the school community.
+He played pivotal roles in organizing events such as the E-waste Recycling
+Drive and Arduino Workshops, while also extending his expertise to teach
+coding to primary school students at Bendemeer Primary School. His involvement
+in prestigious competitions, including the International Mathematical Modelling
+Competition and Singapore Science and Engineering Fair, further demonstrated
+his passion for applying theoretical knowledge to real-world challenges.
+As both MTL Representative and ICT Leader, he efficiently managed his responsibilities
+while maintaining strong academic performance.</p>
+<p>"I believe it would be my Secondary 2 teachers who believed in me and
+pushed me hard to transfer laterally from NA to Express when I did not
+believe that I could do it," Xuan Yu reflects gratefully. "Without their
+support and guidance, I would not even have had the opportunity to go to
+JC and would most probably have been set on going to poly instead." His
+journey from NA to becoming a top performer at A-Levels stands as a testament
+to his determination and growth mindset, serving as an inspiration to his
+juniors.</p>
+<p>
+<br><strong>NATHANAEL SIM LIHENG</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/NATHANAEL_SIM_LIHENG_min.jpg">
+</div>
+<p>Nathanael Sim Liheng's journey through Catholic Junior College has been
+marked by outstanding leadership and a remarkable ability to balance diverse
+interests. As a Home Tutorial Councillor, he demonstrated exceptional communication
+skills and adaptability, effectively managing class activities and fostering
+a harmonious environment among his peers. His academic pursuit of Economics,
+Mathematics, and History was complemented by his active involvement in
+various school activities, showcasing his ability to excel across different
+domains.</p>
+<p>A defining moment in Nathanael's CJC experience came through his unexpected
+triumph at the Rockefella band competition. Despite initial doubts, his
+leadership and dedication led his band to a unanimous victory from both
+judges and students alike. This achievement, alongside his contributions
+to the Tennis CCA where he served as a pillar of support for his teammates,
+exemplifies his ability to thrive under pressure while maintaining strong
+interpersonal connections. His commitment to fostering team spirit and
+building meaningful relationships has been evident throughout his time
+in both activities.</p>
+<p>"I really want to thank Ms Charmaine, my History teacher, for being so
+supportive in my academic journey throughout CJ," reflects Nathanael. "Even
+outside of academics, she gave meaningful advice on managing studies and
+relationships, which went a long way. I would also like to thank Ms Zhehui
+Moo, my form teacher, who was extremely kind and accommodating to my class.
+She taught us with much patience and love, and I really appreciate it."</p>
+<p>
+<br><strong>GAO ZHIJUN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/GAO_ZHIJUN_min.jpg">
+</div>
+<p>Gao Zhijun's exceptional academic journey at Catholic Junior College has
+been marked by numerous achievements and meaningful contributions to the
+school community. A consistent performer who earned multiple spots on the
+Principal's Honour Roll, Zhijun distinguished himself particularly in Economics,
+where his passion led him to undertake H3 Economics at Singapore Management
+University. His intellectual pursuits extended beyond the classroom through
+various enrichment programmes, including the Physics Stretch Programme
+and the Polaris Programme, where he honed his mathematical abilities. Notable
+among his achievements was receiving the Best Speaker Certificate in the
+Economics Multiplier Programme, demonstrating his exceptional grasp of
+complex economic concepts.</p>
+<p>As Home Tutorial Councillor and a member of the Oratorical Society, Zhijun
+demonstrated exemplary leadership qualities and public speaking skills.
+His involvement in service learning projects, particularly with the NTUC
+Health Senior Citizen Program and the Singapore Association for the Visually
+Handicapped, showcased his commitment to community service. Additionally,
+his role as a student journalist for Zaobao allowed him to develop his
+journalistic skills while engaging with the Chinese language and media
+industry.</p>
+<p>"I believe the most important tip is to apply the knowledge you learn
+to your daily life," Zhijun shares, reflecting on his approach to learning.
+"Make use of small pockets of time, like waiting for the bus or MRT, to
+quickly revise or refresh your memory on certain concepts. To balance your
+academic pursuits, I believe the best approach is to plan your day well,
+which will prevent you from feeling overwhelmed."</p>
+<p>
+<br>
+</p>
+<p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
 <table style="minWidth: 50px">
