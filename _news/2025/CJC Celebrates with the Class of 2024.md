@@ -608,7 +608,40 @@ then possible to maintain both a healthy mental state and do well in the
 A levels."
 <br>
 </p>
-<p></p>
+<p><strong>HARRY TANG JUN HAO</strong>
+</p>
+<p>Harry's journey at Catholic Junior College has been marked by his sharp
+intellect and independent learning style, leading to strong academic performances
+and a deep interest in practical applications of his studies. His natural
+talent for public speaking flourished through his involvement in the Oratorical
+Society, where he honed his public speaking skills and participated in
+prestigious competitions such as the Infernus Debate Competition 2023 and
+NUSPA Competition 2024. His leadership capabilities were particularly evident
+in his role as Under-Secretary General (Academics) in the CJ Model UN event,
+and his speaking prowess led to his selection as the emcee for significant
+school events including the JC1 End-Of-Year Ceremony and JC2 Parents Information
+Evening.</p>
+<p>Throughout his time in CJC, Harry demonstrated remarkable resilience and
+adaptability in navigating the demanding college landscape, consistently
+rising to meet new challenges while developing himself both emotionally
+and intellectually. His journey was supported by a strong network of teachers,
+friends, and parents who played crucial roles in his development, helping
+him evolve into a confident and capable individual. Harry's ability to
+excel across various domains while maintaining his determination and discipline
+reflects his strong character and promising potential for future success.</p>
+<p>“Firstly, I have to thank my parents for being so supportive on this journey.
+I'm grateful they kept their faith in my abilities to perform well without
+tuition and didn't force any onto me. They would regularly check in on
+my progress, drive me out to the library, and give moral support when I
+got discouraged. Secondly, I'm thankful for having such wonderful friends
+who would always accompany me to go out and study together. I would have
+lost my motivation a lot quicker without having such wonderful people by
+my side. Finally, none of this would've been possible without my teachers.
+Thank you Ms Tan, Ms Wang, Mr Yeow, Ms Yoong, Mr Peh, Mr Loh and all my
+other teachers for guiding me throughout JC!”</p>
+<p>
+<br>
+</p>
 <p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
