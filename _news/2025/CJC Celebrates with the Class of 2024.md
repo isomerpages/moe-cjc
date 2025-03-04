@@ -1,7 +1,7 @@
 ---
 title: CJC Celebrates with the Class of 2024
 permalink: /cjc-celebrates-with-the-class-of-2024/
-variant: markdown
+variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
@@ -579,9 +579,36 @@ to your daily life," Zhijun shares, reflecting on his approach to learning.
 quickly revise or refresh your memory on certain concepts. To balance your
 academic pursuits, I believe the best approach is to plan your day well,
 which will prevent you from feeling overwhelmed."</p>
-<p>
+<p><strong>DANNY CHANDIRAMANI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANNY_CHANDIRAMANI_min.jpg">
+</div>
+<p>Danny's journey through Catholic Junior College exemplifies the spirit
+of resilience and dedication, marked by his strong academic performance
+and deep appreciation for his support network. His commitment to excellence
+was evident not only in his studies but also in his participation in enrichment
+programmes, where he distinguished himself by winning Best Delegate at
+the CJ Model United Nations. His strong interest in a legal career led
+him to participate in both the Junior College Law Programme, and the Clyde
+&amp; Co. Law Enrichment Programme in 2023, experiences that solidified
+his professional ambitions.</p>
+<p>As Captain of the Canoeing team, Danny demonstrated exceptional leadership
+while achieving notable success in the 2024 National School Games Tournament,
+securing 5th place in both the 500m and 1000m C1 events. His ability to
+balance rigorous athletic training with academic demands showcased his
+time management skills, while his participation in Rockafella 2024 revealed
+his willingness to embrace new challenges. Through these diverse experiences,
+Danny emerged as a well-rounded individual capable of excelling across
+multiple domains while maintaining strong connections with his peers and
+mentors.</p>
+<p>"Ultimately, JC is a major balancing act and only with discipline in sticking
+to a structured schedule and formation of good, consistent habits is it
+then possible to maintain both a healthy mental state and do well in the
+A levels."
 <br>
 </p>
+<p></p>
 <p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
