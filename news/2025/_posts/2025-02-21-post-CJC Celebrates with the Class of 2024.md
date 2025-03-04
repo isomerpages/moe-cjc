@@ -580,10 +580,67 @@ to your daily life," Zhijun shares, reflecting on his approach to learning.
 quickly revise or refresh your memory on certain concepts. To balance your
 academic pursuits, I believe the best approach is to plan your day well,
 which will prevent you from feeling overwhelmed."</p>
-<p>
+<p></p>
+<p><strong>DANNY CHANDIRAMANI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/DANNY_CHANDIRAMANI_min.jpg">
+</div>
+<p>Danny's journey through Catholic Junior College exemplifies the spirit
+of resilience and dedication, marked by his strong academic performance
+and deep appreciation for his support network. His commitment to excellence
+was evident not only in his studies but also in his participation in enrichment
+programmes, where he distinguished himself by winning Best Delegate at
+the CJ Model United Nations. His strong interest in a legal career led
+him to participate in both the Junior College Law Programme, and the Clyde
+&amp; Co. Law Enrichment Programme in 2023, experiences that solidified
+his professional ambitions.</p>
+<p>As Captain of the Canoeing team, Danny demonstrated exceptional leadership
+while achieving notable success in the 2024 National School Games Tournament,
+securing 5th place in both the 500m and 1000m C1 events. His ability to
+balance rigorous athletic training with academic demands showcased his
+time management skills, while his participation in Rockafella 2024 revealed
+his willingness to embrace new challenges. Through these diverse experiences,
+Danny emerged as a well-rounded individual capable of excelling across
+multiple domains while maintaining strong connections with his peers and
+mentors.</p>
+<p>"Ultimately, JC is a major balancing act and only with discipline in sticking
+to a structured schedule and formation of good, consistent habits is it
+then possible to maintain both a healthy mental state and do well in the
+A levels."</p>
+<p><strong>HARRY TANG JUN HAO</strong>
+</p>
+<p>Harry's journey at Catholic Junior College has been marked by his sharp
+intellect and independent learning style, leading to strong academic performances
+and a deep interest in practical applications of his studies. His natural
+talent for public speaking flourished through his involvement in the Oratorical
+Society, where he honed his public speaking skills and participated in
+prestigious competitions such as the Infernus Debate Competition 2023 and
+NUSPA Competition 2024. His leadership capabilities were particularly evident
+in his role as Under-Secretary General (Academics) in the CJ Model UN event,
+and his speaking prowess led to his selection as the emcee for significant
+school events including the JC1 End-Of-Year Ceremony and JC2 Parents Information
+Evening.</p>
+<p>Throughout his time in CJC, Harry demonstrated remarkable resilience and
+adaptability in navigating the demanding college landscape, consistently
+rising to meet new challenges while developing himself both emotionally
+and intellectually. His journey was supported by a strong network of teachers,
+friends, and parents who played crucial roles in his development, helping
+him evolve into a confident and capable individual. Harry's ability to
+excel across various domains while maintaining his determination and discipline
+reflects his strong character and promising potential for future success.</p>
+<p>“Firstly, I have to thank my parents for being so supportive on this journey.
+I'm grateful they kept their faith in my abilities to perform well without
+tuition and didn't force any onto me. They would regularly check in on
+my progress, drive me out to the library, and give moral support when I
+got discouraged. Secondly, I'm thankful for having such wonderful friends
+who would always accompany me to go out and study together. I would have
+lost my motivation a lot quicker without having such wonderful people by
+my side. Finally, none of this would've been possible without my teachers.
+Thank you Ms Tan, Ms Wang, Mr Yeow, Ms Yoong, Mr Peh, Mr Loh and all my
+other teachers for guiding me throughout JC!”
 <br>
 </p>
-<p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
 <table style="minWidth: 50px">
