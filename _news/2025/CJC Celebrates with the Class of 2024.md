@@ -491,7 +491,7 @@ with what you want to achieve academically. ”</p>
 <p><strong>CHUA XUAN YU</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/CHUA_XUAN_YU_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CHUA_XUAN_YU_min.jpg">
 </div>
 <p>Chua Xuan Yu's academic journey at Catholic Junior College has been distinguished
 by exceptional achievements in science and mathematics. Taking on a challenging
@@ -523,7 +523,7 @@ juniors.</p>
 <br><strong>NATHANAEL SIM LIHENG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/NATHANAEL_SIM_LIHENG_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/NATHANAEL_SIM_LIHENG_min.jpg">
 </div>
 <p>Nathanael Sim Liheng's journey through Catholic Junior College has been
 marked by outstanding leadership and a remarkable ability to balance diverse
@@ -552,7 +552,7 @@ She taught us with much patience and love, and I really appreciate it."</p>
 <br><strong>GAO ZHIJUN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 65%;" height="auto" width="100%" alt="" src="/images/GAO_ZHIJUN_min.jpg">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/GAO_ZHIJUN_min.jpg">
 </div>
 <p>Gao Zhijun's exceptional academic journey at Catholic Junior College has
 been marked by numerous achievements and meaningful contributions to the
