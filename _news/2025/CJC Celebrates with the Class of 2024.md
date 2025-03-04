@@ -579,6 +579,7 @@ to your daily life," Zhijun shares, reflecting on his approach to learning.
 quickly revise or refresh your memory on certain concepts. To balance your
 academic pursuits, I believe the best approach is to plan your day well,
 which will prevent you from feeling overwhelmed."</p>
+<p></p>
 <p><strong>DANNY CHANDIRAMANI</strong>
 </p>
 <div class="isomer-image-wrapper">
@@ -639,9 +640,6 @@ lost my motivation a lot quicker without having such wonderful people by
 my side. Finally, none of this would've been possible without my teachers.
 Thank you Ms Tan, Ms Wang, Mr Yeow, Ms Yoong, Mr Peh, Mr Loh and all my
 other teachers for guiding me throughout JC!”</p>
-<p>
-<br>
-</p>
 <p></p>
 <p><strong>The college congratulates the following students on their commendable performance at the 2024 GCE A-Level examinations.</strong>
 </p>
