@@ -22,6 +22,7 @@ sections:
           url: /alumni/whatson
       background: /images/CJC_Fun_Fair_Final_Design_14_Feb.png
       variant: image
+      url: https://www.cjc.moe.edu.sg/50-years-of-family-united-in-truth-and-love/
   - resources:
       title: Happenings at CJC
       subtitle: News & Highlights
