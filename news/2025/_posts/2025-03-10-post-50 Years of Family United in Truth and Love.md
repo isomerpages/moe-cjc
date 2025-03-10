@@ -1,7 +1,7 @@
 ---
 title: 50 Years of Family United in Truth and Love
 permalink: /50-years-of-family-united-in-truth-and-love/
-date: 2025-01-23
+date: 2025-03-10
 layout: post
 description: ""
 image: ""
