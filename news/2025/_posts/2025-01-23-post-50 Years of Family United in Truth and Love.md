@@ -21,8 +21,9 @@ in 2025!</p>
 </p>
 <p><strong>3) CJ50 Food &amp; Fun Fair, 15 Mar 2025 - open to all</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/c6192a42_ec64_4696_afa4_8607a92244fd.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_Fun_Fair_Final_Design_14_Feb.png">
 </div>
 <p>Join us as Catholic Junior College marks 50 years of excellence, community,
 and cherished memories with our CJ50 Food &amp; Funfair Carnival! This
@@ -62,11 +63,11 @@ celebrate this milestone with all of you!</p>
 <p>Support us in our <strong>CJ50 Anniversary Fundraising Campaign </strong>to
 raise $524,000 to develop a <strong>Student Learning and Recreational Hub</strong>,
 and the<strong> CJC Heritage Gallery</strong>.</p>
-<p>Donate today by scanning this QR code. Donations of $50 and above are
-tax-deductible.</p>
+<p>Donate today by scanning this QR code or <a href="https://www.giving.sg/donate/campaign/cj50-anniversary-fundraising-campaign" rel="noopener nofollow" target="_blank">via this URL</a>.
+Donations of $50 and above are tax-deductible.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 20%;" height="auto" width="100%" alt="" src="/images/Giving_SG_CJ50_QR_code_10_Feb_2025.png">
+<img style="width: 20%;" height="auto" width="100%" alt="https://www.giving.sg/donate/campaign/cj50-anniversary-fundraising-campaign" src="/images/Giving_SG_CJ50_QR_code_10_Feb_2025.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/WhatsApp_Image_2025_01_27_at_9_47_11_AM.jpg">
