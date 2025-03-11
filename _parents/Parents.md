@@ -2,44 +2,47 @@
 title: Parents
 permalink: /parents/
 description: ""
-variant: markdown
+variant: tiptap
 ---
 <h3><strong>Parent Engagement Events in 2025</strong></h3>
 <p>The College organises regular touchpoints with parents to provide timely
 updates on your children’s holistic development. Parents are encouraged
-to attend the <strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong> with your children.</p>
+to attend the <strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong> with
+your children.</p>
 <p><strong>For parents of JC1 students</strong>
 </p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PIE: 28 February, in-person<br></strong>Parents
 are invited to attend the JC1 introductory briefing on College life, before
 meeting your child’s Home Tutor in your child’s homeroom.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 1: 14 August, online<br></strong>Parents of students who require additional support are invited to meet your child's Subject Tutors.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 2: 21 November, online<br></strong>Parents of students who require additional support are invited to meet your child's Subject Tutors.</p>
-
-<p><strong>For parents of JC2 students</strong></p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 1: 14 August, online<br></strong>Parents
+of students who require additional support are invited to meet your child's
+Subject Tutors.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 2: 21 November, online<br></strong>Parents
+of students who require additional support are invited to meet your child's
+Subject Tutors.</p>
+<p><strong>For parents of JC2 students</strong>
+</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 1: 10 April, online<br></strong>Parents
 of students who require additional support are invited to meet your child’s
 Subject Tutors.</p>
-
 <p>Further to these events, the College partners the <a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a> to
 organise <strong>Parent Education Seminars</strong>. Parents are invited
-to attend the seminars on <strong>28 February</strong> to strengthen
-your parenting support for your children.</p>
-
+to attend the seminars on <strong>28 February</strong> to strengthen your
+parenting support for your children.</p>
 <h3><strong>Communications with Parents</strong></h3>
 <p>The College uses various communications channels to update parents.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents Gateway (PG)<br></strong>
-Parents are encouraged to download and use the PG app, as this is the
-primary platform to receive announcements from the College, including requests
-for parental consent. Parents may download the PG app from your respective
-app stores. FAQs are provided at <a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg</a>.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CJC Portal<br></strong>
-Parents may access the CJC Portal at <a rel="noopener noreferrer nofollow" target="_blank">http://portal.catholicjc.edu.sg</a> to
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents Gateway (PG)<br></strong>Parents
+are encouraged to download and use the PG app, as this is the primary platform
+to receive announcements from the College, including requests for parental
+consent. Parents may download the PG app from your respective app stores.
+FAQs are provided at <a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg</a>.</p>
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>CJC Portal<br></strong>Parents
+may access the CJC Portal at <a rel="noopener noreferrer nofollow" target="_blank">http://portal.catholicjc.edu.sg</a> to
 view your child’s timetable, assessment schedule and progress reports,
-and to book your PTC slots with your child’s Subject Tutors.
-Parents may refer to the <a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view&quot;" rel="noopener noreferrer nofollow" target="_blank">CJC Portal onboarding guide</a> to
-create your account. Onboarded parents may click on “Reset it here” link
-on the CJC Portal if you have forgotten your password.</p>
+and to book your PTC slots with your child’s Subject Tutors. Parents may
+refer to the <a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view" rel="noopener noreferrer nofollow" target="_blank">CJC Portal onboarding</a>
+<a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view&quot;" rel="noopener noreferrer nofollow" target="_blank">guide</a>to create your account. Onboarded parents may click on “Reset
+it here” link on the CJC Portal if you have forgotten your password.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Principal’s Termly Letter to Parents<br></strong>Parents
 are encouraged to read the Principal’s updates in her termly letter to
 parents. The letters are sent to parents via the PG app. Parents without
