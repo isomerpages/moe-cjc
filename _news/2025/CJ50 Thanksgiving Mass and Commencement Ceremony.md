@@ -29,6 +29,9 @@ Et Caritate”- in Truth and Love - builds a stronger community, both within
 and beyond our college walls. This is the foundation on which our college
 has stood for for 50 years.&nbsp;</p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_041.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_083_min.jpg">
 </div>
 <p>With prayers for divine grace and protection, His Eminence then blessed
