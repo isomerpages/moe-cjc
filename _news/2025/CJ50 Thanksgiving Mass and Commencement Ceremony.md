@@ -70,7 +70,6 @@ As the college embarks on this milestone year of festivities, the warmth
 and unity displayed at the Commencement Ceremony echoed the very essence
 of what it means to be part of the CJ family: a community bound together
 by Truth and Love, honouring its past while embracing its future with hope.</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
 </div>
