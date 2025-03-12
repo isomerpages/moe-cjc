@@ -28,16 +28,13 @@ Goh’s homily was special as he shared how living out our motto “In Veritate
 Et Caritate”- in Truth and Love - builds a stronger community, both within
 and beyond our college walls. This is the foundation on which our college
 has stood for for 50 years.&nbsp;</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_180.jpg">
-</div>
 <p>With prayers for divine grace and protection, His Eminence then blessed
 the new Heritage Gallery and Student Recreation Centre – affirming and
 celebrating both our past, and our dedication to growth and new beginnings.
 (All members of the CJ family are welcome to come and recollect and reminisce
 about our shared history during one of our upcoming CJ50 events.)</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Cake_Cutting_a_26_Feb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_180.jpg">
 </div>
 <p>With the close of the mass and benediction blessing, we came to another
 memorable event – as aptly quipped by Sophie O’ Hara, President of the
@@ -46,12 +43,15 @@ Eminence, Principal Mrs Woo Soo Min, College Chaplain Rev Fr Shaun Lim,
 former CJC Principals, and past and present members of the School Management
 Committee cut a birthday cake – offered generously by CJC alumnus, John
 Yap, founder of Awfully Chocolate – as the auditorium sang Happy Birthday.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Cake_Cutting_a_26_Feb.jpg">
+</div>
 <p>In a cherished tradition, the new JC1 students received their college
 pin from the current JC2 students, signifying the passing of CJC’s flame
 from senior to junior, marking a poignant transfer of CJC's heritage and
 aspirations.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cardinal_William_chats_wt_CJCians_d_26_Feb.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50__Commencement_Ceremony_i_26_Feb.jpg">
 </div>
 <p>A reception was held at the end of the ceremony, bringing the college
 community together in fellowship and celebration. The canteen was abuzz
@@ -62,7 +62,7 @@ people must find their place in life and live with enthusiasm and dedication.
 Their candid exchanges reflected the genuine warmth and camaraderie that
 defines the college spirit.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thanksgiving_Mass_Choir_26_Feb_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Cardinal_William_chats_wt_CJCians_d_26_Feb.jpg">
 </div>
 <p>This meaningful celebration set the perfect tone for our golden jubilee
 year - a harmonious blend of tradition and renewal, gratitude and aspiration.
