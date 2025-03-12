@@ -17,7 +17,7 @@ and Family@CJ Parent Support Group came together as a family to thank God
 for His abundant graces over the past 50 years and prayed for His continued
 providence in the coming school year and beyond.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_083_min.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Thanksgiving_Mass_Choir_26_Feb_min.jpg">
 </div>
 <p>His Eminence, Cardinal William Goh celebrated the mass and graced the
 occasion. The mass was a significant start to the school year and a fitting
@@ -28,6 +28,9 @@ Goh’s homily was special as he shared how living out our motto “In Veritate
 Et Caritate”- in Truth and Love - builds a stronger community, both within
 and beyond our college walls. This is the foundation on which our college
 has stood for for 50 years.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_083_min.jpg">
+</div>
 <p>With prayers for divine grace and protection, His Eminence then blessed
 the new Heritage Gallery and Student Recreation Centre – affirming and
 celebrating both our past, and our dedication to growth and new beginnings.
