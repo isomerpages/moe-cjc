@@ -5,7 +5,15 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/cj50-thanksgiving-mass-and-commencement-ceremony/" rel="noopener nofollow" target="_blank">CJ50 Thanksgiving Mass and Commencement Ceremony</a>
+</p>
+<p>Former CJC Principals, alumni priests, and members of our School Management
+Committee and Family@CJ Parent Support Group came together as a family
+to thank God for His abundant graces over the past 50 years and prayed
+for His continued providence in the coming school year and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_a.jpg">
 </div>
