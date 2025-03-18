@@ -502,6 +502,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Mary Goh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mary_goh_b@moe.edu.sg" rel="noopener nofollow" target="_blank">mary_goh_b@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Peh Beng Lee</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1124,7 +1133,7 @@ Curriculum</p>
 <p>Loh Mun Cheun Rene</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:loh_mun_cheun_rene_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_mun_cheun_rene_a@moe.edu.sg</a>
+<p><a href="loh_mun_cheun_rene@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_mun_cheun_rene@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1135,14 +1144,6 @@ Curriculum</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:teh_wee_siong@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">teh_wee_siong@moe.edu.sg</a>
 </p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -1219,19 +1220,19 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>R P Mageswari</p>
+<p>Liow Liang Fa</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:r_p_mageswari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_p_mageswari@moe.edu.sg</a>
+<p><a href="liow_liang_fa_b_moe.edu.sg" rel="noopener nofollow" target="_blank">liow_liang_fa_b_moe.edu.sg</a>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sim Sok Peng</p>
+<p>R P Mageswari</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:sim_sok_peng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sim_sok_peng@moe.edu.sg</a>
+<p><a href="mailto:r_p_mageswari@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">r_p_mageswari@moe.edu.sg</a>
 </p>
 </td>
 </tr>
