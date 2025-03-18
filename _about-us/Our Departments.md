@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>Our Departments</strong></h3>
-<h4>Character and Citizenship Education</h4>
+<h4><strong>Character and Citizenship Education</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
