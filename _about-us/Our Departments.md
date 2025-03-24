@@ -315,6 +315,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Julian Loh</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Lynette La'Brooy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1528,6 +1536,14 @@ Curriculum</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:ong_kian_beng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kian_beng@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Ong Kim Lin</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
