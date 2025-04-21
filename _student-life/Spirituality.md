@@ -13,12 +13,12 @@ The CJC Catholic Activities (CA) Wing of the Student Council is the student lead
 Besides the CA Wing, students can also join the Genesis CCA as a 2nd CCA and be involved in its faith formation and music ministry. Students in Genesis contribute their musical talents to support our masses and other school-wide Catholic activities and build a community that enables students to live out their faith and journey together in meaningful ways through participation in praise and worship sessions and enriching outreach activities. The wide range of Catholic activities (e.g. Lenten reflections, Easter Celebrations, Catholic distinguished speakers, Emmaus evenings) serve to nourish, enrich and grow the Faith over the two years.
 
 
-#### **CJC Chaplain, Father Justin Yip**
-![](/images/FATHER_JUSTIN_YIP.png)
+#### **CJC Chaplain, Father Shaun Lim**
+![](/images/Fr_Shaun_Lim_website.jpg)
 
-Father Justin Yip has been appointed Chaplain of CJC since 2021. Fr. Justin was ordained in 2020 and serves as the Assistant Parish Priest at the Parish of the Nativity of the Blessed Virgin Mary.
+Father Shaun Lim has been appointed Chaplain of CJC since 2025. Fr. Shaun was ordained in 2023 and serves as the Parish Priest at the Parish of Our Lady Queen of Peace.
 
-As the Chaplain of CJC, Fr. Justin presides over prayer services at our official college ceremonies, celebrates weekday Masses, and works closely with students and teachers to develop our Religious Education Programme and other faith formation activities.
+As the Chaplain of CJC, Fr. Shaun presides over prayer services at our official college ceremonies, celebrates weekday Masses, and works closely with students and teachers to develop our Religious Education Programme and other faith formation activities.
 
 #### **House of Prayer**
 ![](/images/STUDENTS_AT_MASS.jpg)
