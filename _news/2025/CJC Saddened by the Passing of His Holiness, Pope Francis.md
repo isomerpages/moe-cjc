@@ -34,3 +34,6 @@ through the mercy of God, rest in peace.</p>
 <p>Amen</p>
 <p><em>In Veritate et Caritate</em>
 </p>
+<p></p>
+<p><em>Photos credit: Ministry of Culture, Community and Youth</em>
+</p>
