@@ -5,6 +5,16 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pope_Francis_Passing_a.jpg">
+</div>
+<p><a href="https://www.cjc.moe.edu.sg/cjc-saddened-by-the-passing-of-his-holiness-pope-francis/" rel="noopener nofollow" target="_blank">CJC Saddened by the Passing of His Holiness, Pope Francis</a>
+</p>
+<p>The CJC community is saddened by the news of the passing of His Holiness,
+Pope Francis today. We fondly remember how His Holiness connected with
+youths and CJCians during the Interreligious Youth with Pope Francis last
+year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
 </div>
