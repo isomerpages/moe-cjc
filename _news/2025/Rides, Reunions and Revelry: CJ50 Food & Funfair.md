@@ -7,14 +7,19 @@ third_nav_title: "2025"
 ---
 <p><em>By Imogen Siu (2T29), Alaena Poh (2T06) and Jonah Ong (2T08)</em>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_1_FSV_min.jpg">
+</div>
 <p>Catholic Junior College was pulsing with excitement as staff and students
 in blue added the final touches to their preparations for the CJ50 Food
 &amp; Fun Fair. Organised to mark the college’s milestone birthday, the
 CJ50 Food &amp; Funfair was certainly a highlight of the school year. The
 celebration created everlasting memories for students, staff and alumni
-alike, strengthening our ties for many years to come.&nbsp;
-<br>
-</p>
+alike, strengthening our ties for many years to come.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
+</div>
 <p>As the time to open the event to the public neared, the anticipation was
 high as everyone waited for the winning shot that would dunk our Principal
 into a tank of cold water. As the sound of our Principal being dunked reverberated
@@ -29,7 +34,7 @@ fifty years of learning and laughter, transformed into a vibrant festival
 ground, where the spirit of celebration replaced the usual rhythm of academic
 life.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_6_min.jpg">
 </div>
 <p>Amidst the blasting music, crowds gathered around the food stalls, which
 tempted the crowd with their mouth-watering treats. The warm, savoury aroma
@@ -38,7 +43,6 @@ eager to satisfy their stomachs. The Over The Hill satay stall, manned
 by a family of CJC alumni, attracted mountains of people as they dressed
 in Satay Man garb and rang bells, calling upon onlookers to taste the tantalising
 smell that wafted through the hot air.</p>
-<p></p>
 <p>But it wasn’t just the hunger for sustenance, but also for the thrill
 that kept the visitors going. The 50th Anniversary Food and Funfair had
 also advertised many adrenaline-inducing rides. The main attraction, the
@@ -84,7 +88,6 @@ and visitors came together to celebrate our school's golden jubilee, their
 shared enthusiasm and dedication created something truly special – a reminder
 of how this institution has been more than just a school; it has been a
 home to generations of learners for half a century.&nbsp;</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_5.jpg">
 </div>
