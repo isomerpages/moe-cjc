@@ -5,6 +5,8 @@ variant: tiptap
 description: ""
 third_nav_title: "2025"
 ---
+<p><em>By Imogen Siu (2T29), Alaena Poh (2T06) and Jonah Ong (2T08)</em>
+</p>
 <p>Catholic Junior College was pulsing with excitement as staff and students
 in blue added the final touches to their preparations for the CJ50 Food
 &amp; Fun Fair. Organised to mark the college’s milestone birthday, the
@@ -26,7 +28,9 @@ school. In the blink of an eye, our beloved school field, which has witnessed
 fifty years of learning and laughter, transformed into a vibrant festival
 ground, where the spirit of celebration replaced the usual rhythm of academic
 life.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
+</div>
 <p>Amidst the blasting music, crowds gathered around the food stalls, which
 tempted the crowd with their mouth-watering treats. The warm, savoury aroma
 of pizza and burgers wafted through the college, drawing in hungry fairgoers
@@ -47,7 +51,9 @@ different surprises to show off to our CJ family. From the simple ones
 like the Gyrospin to the challenging Rodeo Bull, these rides did not fail
 to entertain and create wonderful memories among current and past CJCians
 and their loved ones.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_8.jpg">
+</div>
 <p>As the animated chatter of the bustling crowds gradually filled the air,
 the mesmerising voices of our very own CJCians echoed throughout the school,
 courtesy of the engaging and seamless rotation of performances executed
@@ -61,7 +67,9 @@ their games and having people play!” The service stalls also did not disappoin
 as many students flaunted their creative talents in attempting face and
 arm painting designs, recreating hairstyles, painting nails and so on,
 which equally amassed an outstanding reception.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_4.jpg">
+</div>
 <p>Meanwhile, at the auditorium, the CJ50 Marketplace was overwhelmed with
 activity, as student representatives from various classes prepared an array
 of snacks, household items, and handmade crocheted items. In true marketplace
@@ -76,6 +84,10 @@ and visitors came together to celebrate our school's golden jubilee, their
 shared enthusiasm and dedication created something truly special – a reminder
 of how this institution has been more than just a school; it has been a
 home to generations of learners for half a century.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_5.jpg">
+</div>
 <p>
 <br>
 <br>
