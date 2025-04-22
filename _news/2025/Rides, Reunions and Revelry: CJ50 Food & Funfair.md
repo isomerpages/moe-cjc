@@ -30,17 +30,11 @@ life.&nbsp;</p>
 <p>Amidst the blasting music, crowds gathered around the food stalls, which
 tempted the crowd with their mouth-watering treats. The warm, savoury aroma
 of pizza and burgers wafted through the college, drawing in hungry fairgoers
-eager to satisfy their stomachs. Neither the sweltering heat nor the 50-metre-long
-lines discouraged ravenous family and friends from longing for the satay
-worth drooling over. The Over The Hill satay stall, manned by a family
-of CJC alumni, attracted mountains of people as they dressed in Satay Man
-garb and rang bells, calling upon onlookers to taste the tantalising smell
-that wafted through the hot air. “I almost ate everything” Jaeden from
-2T03 was eager to satisfy his hunger, reliving the hang outs of his school
-days with family and friends.&nbsp;</p>
-<p>
-<br>
-</p>
+eager to satisfy their stomachs. The Over The Hill satay stall, manned
+by a family of CJC alumni, attracted mountains of people as they dressed
+in Satay Man garb and rang bells, calling upon onlookers to taste the tantalising
+smell that wafted through the hot air.</p>
+<p></p>
 <p>But it wasn’t just the hunger for sustenance, but also for the thrill
 that kept the visitors going. The 50th Anniversary Food and Funfair had
 also advertised many adrenaline-inducing rides. The main attraction, the
@@ -53,9 +47,7 @@ different surprises to show off to our CJ family. From the simple ones
 like the Gyrospin to the challenging Rodeo Bull, these rides did not fail
 to entertain and create wonderful memories among current and past CJCians
 and their loved ones.&nbsp;</p>
-<p>
-<br>
-</p>
+<p></p>
 <p>As the animated chatter of the bustling crowds gradually filled the air,
 the mesmerising voices of our very own CJCians echoed throughout the school,
 courtesy of the engaging and seamless rotation of performances executed
@@ -63,22 +55,19 @@ by our student and alumni bands. At the same time, the harmonious teamwork
 displayed by our students in manning and promoting the games was met with
 a passionate eagerness from the public to give their best in the simple
 but thrilling activities innovated by the students. The hospitality and
-energy shown by everyone was palpable as observed by Mr Mark Li “It’s wonderful
-to see how CJCians are very excited to introduce their games and having
-people play!” The service stalls also did not disappoint as many students
-flaunted their creative talents in attempting face and arm painting designs,
-recreating hairstyles, painting nails and so on, which equally amassed
-an outstanding reception.&nbsp;</p>
-<p>
-<br>
-</p>
+energy shown by everyone was palpable as observed by Mr Mark Li, JC2 Year
+Head -- “It’s wonderful to see how CJCians are very excited to introduce
+their games and having people play!” The service stalls also did not disappoint
+as many students flaunted their creative talents in attempting face and
+arm painting designs, recreating hairstyles, painting nails and so on,
+which equally amassed an outstanding reception.&nbsp;</p>
+<p></p>
 <p>Meanwhile, at the auditorium, the CJ50 Marketplace was overwhelmed with
 activity, as student representatives from various classes prepared an array
 of snacks, household items, and handmade crocheted items. In true marketplace
 fashion, the hustle for the items ensued as soon as the prices were lowered,
 with crowds of people clamouring for the opportunity to buy the coveted
-items in the final moments of the carnival, emptying the tables.&nbsp;</p>
-<p>
+items in the final moments of the carnival, emptying the tables.&nbsp;
 <br>
 </p>
 <p>The joyous occasion was a window into the sense of community and camaraderie
