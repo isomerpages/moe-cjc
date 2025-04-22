@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
 </div>
-<p><a href="xxx" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
+<p><a href="https://www.cjc.edu.sg/rides-reunions-and-revelry-cj50-food-funfair/" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
 </p>
 <p>Organised to mark the college’s milestone birthday, the CJ50 Food &amp;
 Funfair was certainly a highlight of the school year.</p>
