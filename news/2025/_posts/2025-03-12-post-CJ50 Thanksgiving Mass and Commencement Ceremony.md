@@ -7,6 +7,8 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p><em>By Jaeden Ng (2T03), Zoe Loi (2T03), Eng Jin Swen (2T03), Ryan Chong (2T05) and Trisha Chan (2T06)</em>
+</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_a_26_Feb.jpg">
 </div>

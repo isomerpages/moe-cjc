@@ -6,6 +6,7 @@ variant: tiptap
 ---
 <h3><strong>News</strong></h3>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pope_Francis_Passing_a.jpg">
 </div>
@@ -15,6 +16,15 @@ variant: tiptap
 Pope Francis today. We fondly remember how His Holiness connected with
 youths and CJCians during the Interreligious Youth with Pope Francis last
 year.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/rides-reunions-and-revelry-cj50-food-funfair/" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
+</p>
+<p>Organised to mark the college’s milestone birthday, the CJ50 Food &amp;
+Funfair was certainly a highlight of the school year.</p>
+<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
 </div>
