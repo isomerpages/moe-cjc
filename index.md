@@ -20,7 +20,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/whatson
-      background: /images/CJ50_Dinner_banner_website.jpg
+      background: /images/CJ50_Homecoming_Dinner_Poster_Landscape___27_Apr.png
       variant: image
       url: https://www.cjc.moe.edu.sg/50-years-of-family-united-in-truth-and-love/
   - resources:
