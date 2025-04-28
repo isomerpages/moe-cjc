@@ -62,8 +62,7 @@ back in May for application details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -89,7 +88,12 @@ back in May for application details.</p>
 </li>
 <li>
 <p>Floorball</p>
+<p></p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Football (Boys)</p>
 </li>
@@ -106,26 +110,7 @@ back in May for application details.</p>
 <p>Tennis</p>
 </li>
 <li>
-<p>Track and Field</p>
-</li>
-<li>
 <p>Volleyball</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Achievement in National Schools/ International Competitions</p>
-</li>
-<li>
-<p>Representation at National or Zonal schools Competitions</p>
-</li>
-<li>
-<p>Achievement in Local and International Club Competitions</p>
-</li>
-<li>
-<p>National Age Group Team Selection&nbsp;</p>
 </li>
 </ul>
 </td>
@@ -136,8 +121,7 @@ back in May for application details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
-</p>
+<p></p>
 </td>
 </tr>
 <tr>
