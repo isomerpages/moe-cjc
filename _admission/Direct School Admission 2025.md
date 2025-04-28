@@ -4,18 +4,17 @@ permalink: /admission/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission 2024</strong></h3>
-<h4><strong>2024 Direct School Admission - Junior Colleges (DSA-JC) for Admission to JC1 in 2025</strong></h4>
+<h3><strong>Direct School Admission 2025</strong></h3>
+<h4><strong>2025 Direct School Admission - Junior Colleges (DSA-JC) for Admission to JC1 in 2026</strong></h4>
 <p></p>
-<p>CJC invites applications for direct admission to JC1 in 2025 from students
+<p>CJC invites applications for direct admission to JC1 in 2026 from students
 who are outstanding in at least one area of talents / skills listed in
 the table below. Successful applicants may be considered for one of the
 10 <a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a> available
 to JC1 students with exceptional strengths and/or abilities in leadership
 and CCA.</p>
-<p></p>
-<h4><strong>DSA Talent Areas</strong></h4>
-<p>We are looking for students who are outstanding in the following areas:</p>
+<p>The following talent areas are open for DSA applications in CJC. Do check
+back in May for application details.</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -23,12 +22,8 @@ and CCA.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="1">
+<td rowspan="1" colspan="2">
 <p><strong>Performing Arts</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Selection Criteria</strong>
 </p>
 </td>
 </tr>
@@ -43,7 +38,12 @@ and CCA.</p>
 </li>
 <li>
 <p>English Drama</p>
+<p></p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
 <li>
 <p>Guitar Ensemble</p>
 </li>
@@ -52,22 +52,6 @@ and CCA.</p>
 </li>
 <li>
 <p>Modern Dance</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Achievement in SYF presentations&nbsp;</p>
-</li>
-<li>
-<p>Representation in international/ national competitions&nbsp;</p>
-</li>
-<li>
-<p>Achievement in music/ dance examinations</p>
-</li>
-<li>
-<p>Participation in Local and International Performances/Recitals</p>
 </li>
 </ul>
 </td>
