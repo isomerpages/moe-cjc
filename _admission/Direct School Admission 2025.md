@@ -13,8 +13,9 @@ the table below. Successful applicants may be considered for one of the
 10 <a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a> available
 to JC1 students with exceptional strengths and/or abilities in leadership
 and CCA.</p>
-<p>The following talent areas are open for DSA applications in CJC. Do check
-back in May for application details.</p>
+<p><strong>DSA Talent Areas&nbsp;</strong>
+</p>
+<p>We are looking for students who are outstanding in the following areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -22,8 +23,12 @@ back in May for application details.</p>
 </colgroup>
 <tbody>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Performing Arts</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
 </p>
 </td>
 </tr>
@@ -38,12 +43,7 @@ back in May for application details.</p>
 </li>
 <li>
 <p>English Drama</p>
-<p></p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
 <li>
 <p>Guitar Ensemble</p>
 </li>
@@ -52,6 +52,23 @@ back in May for application details.</p>
 </li>
 <li>
 <p>Modern Dance</p>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achievement in SYF presentations</p>
+</li>
+<li>
+<p>Representation in international/ national competitions</p>
+</li>
+<li>
+<p>Achievement in music/ dance examinations</p>
+</li>
+<li>
+<p>Participation in Local and International Performances/Recitals</p>
 </li>
 </ul>
 </td>
@@ -62,7 +79,8 @@ back in May for application details.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><strong>Selection Criteria</strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,12 +106,7 @@ back in May for application details.</p>
 </li>
 <li>
 <p>Floorball</p>
-<p></p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
 <li>
 <p>Football (Boys)</p>
 </li>
@@ -111,13 +124,34 @@ back in May for application details.</p>
 </li>
 <li>
 <p>Volleyball</p>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achievement in National Schools/ International Competitions</p>
+</li>
+<li>
+<p>Representation at National or Zonal schools Competitions</p>
+</li>
+<li>
+<p>Achievement in Local and International Club Competitions</p>
+</li>
+<li>
+<p>National Age Group Team Selection</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="2">
+<td rowspan="1" colspan="1">
 <p><strong>Others areas of expertise / talent</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Selection Criteria</strong>
 </p>
 </td>
 </tr>
@@ -132,7 +166,13 @@ back in May for application details.</p>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
-<p>Language Elective Programme - English</p>
+<p>Representation at National or Zonal schools’ competitions</p>
+</li>
+<li>
+<p>Records of achievement with CCA</p>
+</li>
+<li>
+<p>Presentation at local or international conferences/exhibitions</p>
 </li>
 </ul>
 </td>
@@ -148,19 +188,72 @@ back in May for application details.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Leadership</p>
+<p>Representation at National, Zonal or similar level inter-school competitions</p>
+</li>
+<li>
+<p>Records of achievements/ contributions with a CCA or a sustained programme
+in this area</p>
 </li>
 </ul>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Language Elective Programme - English</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <ul>
 <li>
+<p>Records of consistently good English Language grades in Sec 3 and Sec
+4.</p>
+</li>
+<li>
+<p>Records of achievements and school contributions that show evidence of
+strong interest and ability in the English language</p>
+</li>
+<li>
+<p>Shortlisted applicants will be required to write an essay.</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Leadership</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p>Holding a key school-wide leadership position in Secondary 3 and 4 (e.g.
+Exco member of Student Council / Prefectorial Board or of similar leadership
+equivalent)</p>
+</li>
+<li>
+<p>Records of strong leadership capabilities</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
 <p>Science and Technology</p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
+<li>
+<p></p>
 </li>
 </ul>
 </td>
