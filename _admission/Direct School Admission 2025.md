@@ -276,7 +276,7 @@ online application:
 equivalent;</p>
 <p>- Sec 4/5 Term 1 &amp; 2 Continual Assessment results slip or equivalent.</p>
 <p>- Latest available NAPFA test results (for talent areas in Sports)
-<br>- CCA &amp; VIA records (for 2023 and 2024);&nbsp;and
+<br>- CCA &amp; VIA records (for 2024 and 2025);&nbsp;and
 <br>- Personal Statement.</p>
 <p><strong><em>Incomplete submissions will&nbsp;not&nbsp;be considered</em></strong>.</p>
 <p>3.&nbsp; Application periods for the two phases are as follows:</p>
