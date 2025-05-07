@@ -268,15 +268,15 @@ in the areas of STEM</p>
 their application.</p>
 <p><strong>Application Procedures</strong>
 </p>
-<p>1.&nbsp; To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
-7 May to 22 August 2025.</p>
+<p>1.&nbsp; To apply, please register via the <a href="dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
+7 May to 22 August 2025. Or click on this link <a href="http://dsa.catholicjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dsa.catholicjc.edu.sg</a> to apply.</p>
 <p>2.&nbsp; The following supporting documents are to be included in the
 online application:
 <br>- Sec 3 Progress Reports &amp; End-of-Year Examination results slips or
 equivalent;</p>
 <p>- Sec 4/5 Term 1 &amp; 2 Continual Assessment results slip or equivalent.</p>
 <p>- Latest available NAPFA test results (for talent areas in Sports)
-<br>- CCA &amp; VIA records (for 2023 and 2024);&nbsp;and
+<br>- CCA &amp; VIA records (for 2024 and 2025);&nbsp;and
 <br>- Personal Statement.</p>
 <p><strong><em>Incomplete submissions will&nbsp;not&nbsp;be considered</em></strong>.</p>
 <p>3.&nbsp; Application periods for the two phases are as follows:</p>
