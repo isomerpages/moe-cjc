@@ -6,7 +6,12 @@ variant: tiptap
 ---
 <h3><strong>News</strong></h3>
 <p></p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250211_Ori_Day_5_32.jpg">
+</div>
+<p>DSA Applications for 2026 are Open!</p>
+<p>Find out how to apply to CJC via the Direct School Application open now
+till 22 Aug.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pope_Francis_Passing_a.jpg">
 </div>
@@ -18,7 +23,7 @@ youths and CJCians during the Interreligious Youth with Pope Francis last
 year.</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/rides-reunions-and-revelry-cj50-food-funfair/" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
 </p>
