@@ -1,11 +1,10 @@
 ---
-title: DSA Applications for 2026 are Open!
-permalink: /direction-school-admission-2025-application/
-date: 2025-05-07
-layout: post
-description: ""
-image: ""
+title: 2025 Direct School Admission Exercise for admission to junior colleges in 2026
+permalink: /dsa-applications-for-2026-are-open/
 variant: tiptap
+description: ""
+image: /images/20250211_Ori_Day_5_32.jpg
+third_nav_title: "2025"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
