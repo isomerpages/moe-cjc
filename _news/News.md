@@ -9,7 +9,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250211_Ori_Day_5_32.jpg">
 </div>
-<p>DSA Applications for 2026 are Open!</p>
+<p><a href="https://www.cjc.moe.edu.sg/direction-school-admission-2025-application/" rel="noopener nofollow" target="_blank">2025 Direct School Admission Exercise for admission to junior colleges in 2026</a>
+</p>
 <p>Find out how to apply to CJC via the Direct School Application open now
 till 22 Aug.</p>
 <div class="isomer-image-wrapper">
