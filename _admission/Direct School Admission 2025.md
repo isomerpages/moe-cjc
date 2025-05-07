@@ -268,8 +268,8 @@ in the areas of STEM</p>
 their application.</p>
 <p><strong>Application Procedures</strong>
 </p>
-<p>1.&nbsp; To apply, please register via the <a href="dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
-7 May to 22 August 2025. Or click on this link <a href="http://dsa.catholicjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dsa.catholicjc.edu.sg</a> to apply.</p>
+<p>1.&nbsp; To apply, please register via the <a href="dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a> from 7 May
+to 22 August 2025. Or click on this link <a href="http://dsa.catholicjc.edu.sg" rel="noopener noreferrer nofollow" target="_blank">dsa.catholicjc.edu.sg</a> to apply.</p>
 <p>2.&nbsp; The following supporting documents are to be included in the
 online application:
 <br>- Sec 3 Progress Reports &amp; End-of-Year Examination results slips or
