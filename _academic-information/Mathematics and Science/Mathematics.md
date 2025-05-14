@@ -86,11 +86,13 @@ of mathematics and its connections to other disciplines and to the real
 world.
 <br>Assumed knowledge: <strong>G3 Additional Mathematics</strong>
 </p>
-<p>Students without Additional Mathematics may offer H2 Mathematics but will
-be required to bridge the assumed knowledge gap during the course of study.
-In CJC, they have to sit for a Readiness Assessment and after which, they
-are admitted depending on vacancies, as it is a merit-based allocation
-system.</p>
+<p>Students who did not offer Additional Mathematics may still take H2 Mathematics,
+but they will be required to bridge the assumed knowledge gap during the
+course of study. These students will be briefed on the rigour and expectations
+of H2 Mathematics, as well as the college’s merit-based allocation process
+before making their subject choices. In the event that H2 Mathematics is
+over-subscribed, selection will be based on academic merit, including performance
+in O-Level Additional Mathematics or an equivalent subject.</p>
 <p>H3 Mathematics is designed for students with the passion and ability in
 mathematics. It aims to engage students who are keen to specialise in mathematics
 in solving more challenging problems in mathematics and proving mathematical
