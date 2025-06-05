@@ -202,6 +202,103 @@ and excellence in learning and living.</p>
 <div class="isomer-card-title">CJ50 Homecoming Dinner</div>
 </div>
 </div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_5.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">CJC School Management Committee Chairman Mr Bernard Tan and CJC 50th Student
+Council President Sophie O'Hara</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_12.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">CJC School Management Commitee Member and CJC Alumni Association President
+Mr Nicholas Lee (first from left)</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_13.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">Mrs Angela Tie on drums</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_6.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_11.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_15.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_10.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">Vice Principal Student Development Mr Tan Jek Suan with alumni</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_7.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_8.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">CJ50 Homecoming Dinner</div>
+</div>
+</div>
 </div>
 <p>The festivities culminated in a vibrant Homecoming Dinner on 31 May, organised
 by the CJC Alumni Association, which brought together past and present
