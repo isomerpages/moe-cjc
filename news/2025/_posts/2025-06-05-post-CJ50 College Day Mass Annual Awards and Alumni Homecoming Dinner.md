@@ -138,19 +138,10 @@ in gratitude for God's manifold blessings for the past 50 years. This was
 followed by the CJ50 College Day Annual Awards Presentation Ceremony on
 30 May, where CJCians were recognised for their outstanding achievements
 and excellence in learning and living.</p>
-<p></p>
+<p>The festivities culminated in a vibrant Homecoming Dinner on 31 May, organised
+by the CJC Alumni Association, which brought together past and present
+CJCians in a joyous evening of reconnection and shared memories.</p>
 <div class="isomer-card-grid">
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Firebirds" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_23.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">Firebirds</div>
-<div class="isomer-card-description">CJC Alumni network</div>
-</div>
-</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
@@ -159,7 +150,9 @@ and excellence in learning and living.</p>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">Firebirds</div>
-<div class="isomer-card-description">CJC Alumni network</div>
+<div class="isomer-card-description">From left: Guest speaker Dr Jerome Joseph (Class of 1991) and Mr Nicholas
+Lee, CJC School Management Committee Member and CJC Alumni Association
+President</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -240,16 +233,6 @@ Mr Nicholas Lee (first from left)</div>
 <div class="isomer-card">
 <div class="isomer-card-image">
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_6.jpg">
-</div>
-</div>
-<div class="isomer-card-body">
-<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
-</div>
-</div>
-<div class="isomer-card">
-<div class="isomer-card-image">
-<div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_11.jpg">
 </div>
 </div>
@@ -296,12 +279,59 @@ Mr Nicholas Lee (first from left)</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CJ50 Homecoming Dinner</div>
-<div class="isomer-card-description">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_17.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/CJ50_Homecoming_Dinner_m_website.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_18.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_19.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+</div>
+</div>
+<div class="isomer-card">
+<div class="isomer-card-image">
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="CJ50 Homecoming Dinner" src="/images/CJ50 Homecoming Dinner/cj50_homecoming_dinner_20.jpg">
+</div>
+</div>
+<div class="isomer-card-body">
+<div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">DJ Aldrin</div>
 </div>
 </div>
 </div>
-<p>The festivities culminated in a vibrant Homecoming Dinner on 31 May, organised
-by the CJC Alumni Association, which brought together past and present
-CJCians in a joyous evening of reconnection and shared memories.</p>
 <p><em>In Veritate et Caritate</em>
 </p>
