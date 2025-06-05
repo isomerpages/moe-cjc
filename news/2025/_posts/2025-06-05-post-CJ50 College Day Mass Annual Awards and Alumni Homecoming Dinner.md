@@ -173,6 +173,7 @@ President</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">Emceees: Mr Cyril Lim and Ms Joanna François</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -183,6 +184,8 @@ President</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">From left: CJC School Management Committee Chairman Mr Bernard Tan and
+Her Excellency Ms Janet Ang</div>
 </div>
 </div>
 <div class="isomer-card">
@@ -193,6 +196,7 @@ President</div>
 </div>
 <div class="isomer-card-body">
 <div class="isomer-card-title">CJ50 Homecoming Dinner</div>
+<div class="isomer-card-description">CJC School Management Committee Chairman Mr Bernard Tan and Mr David Low</div>
 </div>
 </div>
 <div class="isomer-card">
