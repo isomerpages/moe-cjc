@@ -7,6 +7,14 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50 College Day Mass Awards/cj50 college day mass annual awards 11.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/cj50-college-day-mass-annual-awards-and-alumni-homecoming-dinner/" rel="noopener nofollow" target="_blank">CJ50 College Day Mass Annual Awards and Alumni Homecoming Dinner</a>
+</p>
+<p>CJC marked a meaningful close to the month of May with a series of celebratory
+events that honoured its Catholic ethos, academic excellence, and strong
+alumni bonds.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250211_Ori_Day_5_32.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/dsa-applications-for-2026-are-open/" rel="noopener nofollow" target="_blank">2025 Direct School Admission Exercise for admission to junior colleges in 2026</a>
