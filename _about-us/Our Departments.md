@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joys Lin Shi Ting / Education &amp; Career Guidance Counsellor</p>
+<p>Joys Lin Shi Ting / Senior Education &amp; Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joys_lin_shi_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joys_lin_shi_ting@schools.gov.sg</a>
@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mackenzie Rae Schoon / Covering Subject Head/Literature &amp; Guidance</p>
+<p>Mackenzie Rae Schoon / Subject Head/Student Well-being and English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mackenzie_rae_schoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mackenzie_rae_schoon@moe.edu.sg</a>
@@ -252,7 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mackenzie Rae Schoon / Covering Subject Head/Literature &amp; Guidance</p>
+<p>Mackenzie Rae Schoon / Subject Head/Student Well-being and English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mackenzie_rae_schoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mackenzie_rae_schoon@moe.edu.sg</a>
@@ -318,7 +318,8 @@ variant: tiptap
 <p>Julian Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_julian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_julian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,6 +338,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:moo_zhehui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moo_zhehui@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Tariq Bin Mohamed Shaheed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
