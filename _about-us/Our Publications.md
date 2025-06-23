@@ -68,7 +68,6 @@ An online archive of the CJC Yearbook.
 *   **[2013](https://issuu.com/catholicjc/docs/2013)**
 *   **[2012](https://issuu.com/catholicjc/docs/2012)**
 *   **[2011](https://issuu.com/catholicjc/docs/cjc_yearbook_2011)**
-*   **[2010](https://issuu.com/catholicjc/docs/cjc_yearbook_2010_4812eb00cdcf75)**
 *   **[2009](https://issuu.com/catholicjc/docs/cjc_yearbook_2009)**
 *   **[2008](https://issuu.com/catholicjc/docs/cjc_yearbook_2008)**
 *   **[2007 (Part 1)](https://issuu.com/catholicjc/docs/cjc_yearbook_2007-1)**
