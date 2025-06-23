@@ -1512,15 +1512,6 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chin Yen Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yen_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yen_jin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Heng Yuqing Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2064,6 +2055,18 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:chia_yi_min_cheryl@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chia_yi_min_cheryl@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shohib Abdul Wahab Marican</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shohib_abdul_wahab_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shohib_abdul_wahab_marican@moe.edu.sg</a>
 </p>
 </td>
 </tr>
