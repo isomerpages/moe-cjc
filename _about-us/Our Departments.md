@@ -2108,6 +2108,18 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1T04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Yi Qian Priscilla</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_yi_qian_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yi_qian_priscilla@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1T05</p>
 </td>
 <td rowspan="1" colspan="1">
