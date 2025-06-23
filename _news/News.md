@@ -42,7 +42,7 @@ Funfair was certainly a highlight of the school year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/cj50-thanksgiving-mass-and-commencement-ceremony/" rel="noopener nofollow" target="_blank">CJ50 Thanksgiving Mass and Commencement Ceremony</a>
+<p><a href="https://www.cjc.moe.edu.sg/cj50-thanksgiving-mass-and-commencement-ceremony/" rel="noopener nofollow" target="_blank">CJ50 Thanksgiving Mass and Commencement Ceremony</a>
 </p>
 <p>Former CJC Principals, alumni priests, and members of our School Management
 Committee and Family@CJ Parent Support Group came together as a family
