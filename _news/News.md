@@ -51,7 +51,7 @@ for His continued providence in the coming school year and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_a.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
+<p><a href="https://www.cjc.moe.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
 </p>
 <p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
 commendable achievements at the 2024 GCE A-Level examinations and for the
