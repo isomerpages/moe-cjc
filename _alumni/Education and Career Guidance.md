@@ -50,7 +50,7 @@ Courses are also available for ‘A’ Level holders at the following institutes
 
 [Ngee Ann - Adelaide Education Centre](http://www.naa.edu.sg/)&nbsp;(An educational facility offering undergraduate academic programmes by Ngee Ann Kongsi and the University of Adelaide)
 
-For more information on further education options that are available in Singapore, you may also refer to the&nbsp;[Council for Private Education](http://www.cpe.gov.sg/), a statutory board regulating the private education sector in Singapore.
+For more information on further education options that are available in Singapore, you may also refer to resources on https://www.ssg.gov.sg/resources/private-education-resources.
 
 **6) &nbsp;Direct Admissions Exercise (DAE)**<br>
 GCE A-Level holders who are interested in applying for admission to any diploma course should do so directly to the relevant polytechnic through the Direct Admissions Exercise (DAE). More information on the DAE can be found on the websites of the respective polytechnics. &nbsp;The links are appended in the links below:
