@@ -63,7 +63,7 @@ scholarships, from prerequisites to testimonials.</p>
 educational facility offering undergraduate academic programmes by Ngee
 Ann Kongsi and the University of Adelaide)</p>
 <p>For more information on further education options that are available in
-Singapore, you may also refer to resources on https://www.ssg.gov.sg/resources/private-education-resources.</p>
+Singapore, you may also refer to resources on <a href="https://www.ssg.gov.sg/resources/private-education-resources" rel="noopener nofollow" target="_blank">https://www.ssg.gov.sg/resources/private-education-resources</a>.</p>
 <p><strong>6) &nbsp;Direct Admissions Exercise (DAE)</strong>
 <br>GCE A-Level holders who are interested in applying for admission to any
 diploma course should do so directly to the relevant polytechnic through
