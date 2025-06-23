@@ -1137,15 +1137,6 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Wei Leong Adrian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wei_leong_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_leong_adrian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>James Oh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1159,6 +1150,15 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="loh_mun_cheun_rene@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_mun_cheun_rene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohammad Fairuz Bin Selamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammad_fairuz_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
