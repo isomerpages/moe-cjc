@@ -59,7 +59,7 @@ GCE A-Level holders who are interested in applying for admission to any diploma 
 
 **Ngee Ann Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/a-level-students](https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/a-level-students)
 
-**Republic Polytechnic**&nbsp;**DAE Portal**&nbsp;[http://www.rp.edu.sg/DAE\_A-Level.aspx](http://www.rp.edu.sg/DAE_A-Level.aspx)
+**Republic Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.rp.edu.sg/admissions/admission-guides/a-level-students](https://www.rp.edu.sg/admissions/admission-guides/a-level-students)
 
 **Singapore Polytechnic**&nbsp;**DAE Portal**&nbsp;[https://www.sp.edu.sg/admissions/guides/direct-admissions-exercise)](https://www.sp.edu.sg/admissions/guides/direct-admissions-exercise)
 
