@@ -6,9 +6,6 @@ variant: markdown
 ---
 ### **Staff**
 
-<p><a href="http://d0802jsch01/staff/office/facilities.aspx">
-<img src="/images/staff1.jpg" style="width:15%;margin-right:5px;" align="left">
-</a></p>
 
 <p><a href="http://intranet.moe.gov.sg/Pages/Home.aspx">
 <img src="/images/staff2.jpg" style="width:15%;margin-right:5px;" align="left">
