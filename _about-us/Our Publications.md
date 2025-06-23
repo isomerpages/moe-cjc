@@ -52,7 +52,6 @@ A newsletter by CJC's Editorial Club.
 *   **[2014 Issue 3](http://issuu.com/cjcedusg/docs/flame_issue_3_2014/0)**&nbsp;\-&nbsp;The Graduation Issue
 *   **[2014 Issue 2](http://issuu.com/cjcedusg/docs/flame_2014_no._2)**&nbsp;\- Higher, Faster, Stronger
 *   **[2014 Issue 1](http://issuu.com/cjcedusg/docs/cjc_newsletter_flame_2014_issue_1)**&nbsp;\- The Start of Something New
-*   **[2013 Issue 3](http://issuu.com/cjcedusg/docs/cjc_e-newsletter_3)**&nbsp;\- Nurturing the Mind
 *   **[2013 Issue 2](http://issuu.com/catholicjc/docs/flame_cjc_newsletter_2013_issue_2)**&nbsp;\- Breaking Boundaries
 
 #### **College Annual**
