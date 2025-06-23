@@ -986,16 +986,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Lye Huat / Subject Head/Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lye_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lye_huat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Luo Xiaojing / Senior Teacher</p>
+<p>Luo Xiaojing / Subject Head/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luo_xiaojing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_xiaojing_a@moe.edu.sg</a>
@@ -1035,6 +1026,15 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thia_peter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lye Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lye_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lye_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
