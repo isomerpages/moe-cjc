@@ -279,6 +279,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Caleb Chandra Pillay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chia Yi Min Cheryl</p>
 </td>
 <td rowspan="1" colspan="1">
