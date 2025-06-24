@@ -58,7 +58,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joys Lin Shi Ting / Education &amp; Career Guidance Counsellor</p>
+<p>Joys Lin Shi Ting / Senior Education &amp; Career Guidance Counsellor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:joys_lin_shi_ting@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">joys_lin_shi_ting@schools.gov.sg</a>
@@ -137,7 +137,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mackenzie Rae Schoon / Covering Subject Head/Literature &amp; Guidance</p>
+<p>Mackenzie Rae Schoon / Subject Head/Student Well-being and English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mackenzie_rae_schoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mackenzie_rae_schoon@moe.edu.sg</a>
@@ -252,7 +252,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mackenzie Rae Schoon / Covering Subject Head/Literature &amp; Guidance</p>
+<p>Mackenzie Rae Schoon / Subject Head/Student Well-being and English Literature</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:mackenzie_rae_schoon@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mackenzie_rae_schoon@moe.edu.sg</a>
@@ -275,6 +275,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:brinda_balasubramaniam@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">brinda_balasubramaniam@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Caleb Chandra Pillay</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -318,7 +326,8 @@ variant: tiptap
 <p>Julian Loh</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:loh_julian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">loh_julian@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -337,6 +346,14 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <p><a href="mailto:moo_zhehui@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">moo_zhehui@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Muhammad Tariq Bin Mohamed Shaheed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -969,16 +986,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Lye Huat / Subject Head/Chinese Language</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_lye_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lye_huat@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Luo Xiaojing / Senior Teacher</p>
+<p>Luo Xiaojing / Subject Head/Chinese Language</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:luo_xiaojing_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">luo_xiaojing_a@moe.edu.sg</a>
@@ -1018,6 +1026,15 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:thia_peter@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thia_peter@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Tan Lye Huat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tan_lye_huat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_lye_huat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1120,15 +1137,6 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ho Wei Leong Adrian</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:ho_wei_leong_adrian@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ho_wei_leong_adrian@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>James Oh</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1142,6 +1150,15 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="loh_mun_cheun_rene@moe.edu.sg" rel="noopener nofollow" target="_blank">loh_mun_cheun_rene@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Mohammad Fairuz Bin Selamat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:mohammad_fairuz_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1495,15 +1512,6 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chin Yen Jin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:chin_yen_jin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chin_yen_jin@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Heng Yuqing Wendy</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1543,7 +1551,8 @@ Curriculum</p>
 <p>Ong Kim Lin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:ong_kim_lin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">ong_kim_lin@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -2051,6 +2060,18 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1T01</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shohib Abdul Wahab Marican</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:shohib_abdul_wahab_marican@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">shohib_abdul_wahab_marican@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1T02</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -2082,6 +2103,18 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:wang_jiexin@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wang_jiexin@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Tay Yi Qian Priscilla</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="mailto:tay_yi_qian_priscilla@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tay_yi_qian_priscilla@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -2287,6 +2320,17 @@ Curriculum</p>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:lim_wei_ying@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lim_wei_ying@moe.edu.sg</a>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T21</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Muhammad Tariq Bin Mohamed Shaheed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>

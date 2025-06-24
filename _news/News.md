@@ -17,7 +17,7 @@ alumni bonds.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/20250211_Ori_Day_5_32.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/dsa-applications-for-2026-are-open/" rel="noopener nofollow" target="_blank">2025 Direct School Admission Exercise for admission to junior colleges in 2026</a>
+<p><a href="https://www.cjc.moe.edu.sg/dsa-applications-for-2026-are-open/" rel="noopener nofollow" target="_blank">2025 Direct School Admission Exercise for admission to junior colleges in 2026</a>
 </p>
 <p>Find out how to apply to CJC via the Direct School Application open now
 till 22 Aug.</p>
@@ -34,7 +34,7 @@ year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50_Food_and_Funfair_3.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/rides-reunions-and-revelry-cj50-food-funfair/" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
+<p><a href="https://www.cjc.moe.edu.sg/rides-reunions-and-revelry-cj50-food-funfair/" rel="noopener nofollow" target="_blank">Rides, Reunion and Revelry: CJ50 Food &amp; Funfair</a>
 </p>
 <p>Organised to mark the college’s milestone birthday, the CJ50 Food &amp;
 Funfair was certainly a highlight of the school year.</p>
@@ -42,7 +42,7 @@ Funfair was certainly a highlight of the school year.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_CJ50_Thanksgiving_Mass_and_Commencement_Ceremony_2025_047_min.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/cj50-thanksgiving-mass-and-commencement-ceremony/" rel="noopener nofollow" target="_blank">CJ50 Thanksgiving Mass and Commencement Ceremony</a>
+<p><a href="https://www.cjc.moe.edu.sg/cj50-thanksgiving-mass-and-commencement-ceremony/" rel="noopener nofollow" target="_blank">CJ50 Thanksgiving Mass and Commencement Ceremony</a>
 </p>
 <p>Former CJC Principals, alumni priests, and members of our School Management
 Committee and Family@CJ Parent Support Group came together as a family
@@ -51,7 +51,7 @@ for His continued providence in the coming school year and beyond.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Release_of_2024_A_Level_Results_PAC_a.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
+<p><a href="https://www.cjc.moe.edu.sg/cjc-celebrates-with-the-class-of-2024/" rel="noopener nofollow" target="_blank">CJC Celebrates with the Class of 2024</a>
 </p>
 <p>Catholic Junior College (CJC) congratulates the Class of 2024 for their
 commendable achievements at the 2024 GCE A-Level examinations and for the
