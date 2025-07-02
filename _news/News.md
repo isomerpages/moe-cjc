@@ -22,6 +22,13 @@ alumni bonds.</p>
 <p>Find out how to apply to CJC via the Direct School Application open now
 till 22 Aug.</p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MG_9805.jpg">
+</div>
+<p>“From Breaking News to Viral Views: How the Language of Online Media Shapes
+our World” - On 25 April 2025, the annual English Language and Linguistics
+(ELL) Symposium was held at Catholic Junior College (CJC), jointly organised
+by CJC and National Junior College (NJC).</p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pope_Francis_Passing_a.jpg">
 </div>
 <p><a href="https://www.cjc.moe.edu.sg/cjc-saddened-by-the-passing-of-his-holiness-pope-francis/" rel="noopener nofollow" target="_blank">CJC Saddened by the Passing of His Holiness, Pope Francis</a>
