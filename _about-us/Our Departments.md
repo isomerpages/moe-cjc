@@ -279,14 +279,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Caleb Chandra Pillay</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Chia Yi Min Cheryl</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -353,7 +345,8 @@ variant: tiptap
 <p>Muhammad Tariq Bin Mohamed Shaheed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_tariq_mohamed_shaheed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_tariq_mohamed_shaheed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -1158,7 +1151,7 @@ Curriculum</p>
 <p>Mohammad Fairuz Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_fairuz_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat@moe.edu.sg</a>
+<p><a href="mohammad_fairuz_selamat_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
@@ -1383,6 +1376,15 @@ Curriculum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:sarah_low_sie_yieh@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">sarah_low_sie_yieh@moe.edu.sg</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Soo Pui Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>soo_pui_wah_b@moe.edu.sg</u></a>
 </p>
 </td>
 </tr>
@@ -2330,7 +2332,8 @@ Curriculum</p>
 <p>Muhammad Tariq Bin Mohamed Shaheed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_tariq_mohamed_shaheed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_tariq_mohamed_shaheed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
