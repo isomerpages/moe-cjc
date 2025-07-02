@@ -1381,6 +1381,15 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Soo Pui Wah</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a rel="noopener noreferrer nofollow" target="_blank"><u>soo_pui_wah_b@moe.edu.sg</u></a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sri Yuni Bte Mazlan</p>
 </td>
 <td rowspan="1" colspan="1">
