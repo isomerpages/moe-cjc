@@ -24,6 +24,8 @@ till 22 Aug.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MG_9805.jpg">
 </div>
+<p><a href="https://www.cjc.edu.sg/cjc-njc-english-language-and-linguistics-symposium-2025/" rel="noopener nofollow" target="_blank">CJC-NJC English Language and Linguistics Symposium 2025</a>
+</p>
 <p>“From Breaking News to Viral Views: How the Language of Online Media Shapes
 our World” - On 25 April 2025, the annual English Language and Linguistics
 (ELL) Symposium was held at Catholic Junior College (CJC), jointly organised
