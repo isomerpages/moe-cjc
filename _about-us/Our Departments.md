@@ -1151,7 +1151,7 @@ Curriculum</p>
 <p>Mohammad Fairuz Bin Selamat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><a href="mailto:mohammad_fairuz_selamat@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat@moe.edu.sg</a>
+<p><a href="mohammad_fairuz_selamat_a@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">mohammad_fairuz_selamat_a@moe.edu.sg</a>
 </p>
 </td>
 </tr>
