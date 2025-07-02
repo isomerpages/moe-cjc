@@ -20,6 +20,9 @@ Professor Luke Lu, and to end off, Ms Amanda Chai – a lifestyle journalist
 at local news company <em>The Straits Times</em>. They enthralled the audience
 as they shared their breadth of knowledge on the multiple ways in which
 the language of online media shapes our world.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_9786.jpg">
+</div>
 <p>The lectures delved into a wide spectrum of thought-provoking topics,
 ranging from discerning real versus fake news, to the ‘enregisterment’
 of Singlish in the digital realm, and even how to write trendy yet credible
@@ -30,12 +33,18 @@ in fake news. She introduced the concept of ‘platformization’, explaining
 how social media platforms amplify content and encase users in algorithm-driven
 echo chambers, which reinforce personal biases and fuel the viral spread
 of misinformation.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_2453.jpg">
+</div>
 <p>Assistant Professor Luke Lu followed with a deep dive into the digital
 journey of Singlish, illustrating how words like “kiasu” have adopted fixed
 spellings while others remain fluid, reflecting the ever-evolving nature
 of language. He also emphasised how the globalisation of Singlish—now recognised
 in the Oxford English Dictionary—speaks to the influence of Singapore’s
 linguistic identity in online spaces.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_2491.jpg">
+</div>
 <p>Concluding the lineup was Ms Amanda Chai, a Style Correspondent at <em>The Straits Times</em>,
 who offered a refreshing, journalistic lens on language. She discussed
 the importance of balancing conversational tone with authoritative credibility
@@ -45,6 +54,9 @@ Instagram and TikTok and incorporating multimedia elements, she revealed
 how traditional media is innovating to remain relevant—reminding students
 that stories worth telling often begin with even the smallest, overlooked
 trends.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_7934.jpg">
+</div>
 <p>After the enlightening and informative talks, students gathered their
 questions and directed them at speakers during an engaging Q&amp;A session,
 in which they bravely stepped forward to clarify their doubts and posed
@@ -52,6 +64,9 @@ thoughtful and incisive questions, demonstrating not only a keen interest
 in the subject matter but also a commendable effort to think critically.
 The Q&amp;A session heralded the end of the 2025 ELL Symposium but the
 beginning of new learning and insight.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/MG_9805.jpg">
+</div>
 <p>Following the panel discussion, students attended the tea reception, where
 the atmosphere buzzed with excitement as students from the different institutions
 mingled freely, united by a shared passion for the English language. This
