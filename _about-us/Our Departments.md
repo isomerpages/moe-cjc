@@ -2323,7 +2323,8 @@ Curriculum</p>
 <p>Muhammad Tariq Bin Mohamed Shaheed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p><a href="mailto:muhammad_tariq_mohamed_shaheed@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">muhammad_tariq_mohamed_shaheed@moe.edu.sg</a>
+</p>
 </td>
 </tr>
 <tr>
