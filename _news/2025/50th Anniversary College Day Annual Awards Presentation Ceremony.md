@@ -17,11 +17,17 @@ the past and embracing the precious memories they have shared; the fervour
 of JC2 students, waiting to be immersed in the grandeur of such a momentous
 occasion – such vitality imbued the atmosphere of the school foyer before
 the ceremony.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2802.jpg">
+</div>
 <p>The momentous occasion began with a grand procession. In a distinguished
 manner, the alumni teachers, and Principal and Vice-Principals, strode
 towards the centre of the auditorium and lined up according to their years
 of graduation. A mixture of pride and gratitude permeated the air as they
 were greeted with warm applause.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_2944__1_.jpg">
+</div>
 <p>Thereafter, words of wisdom and faith were imparted unto us during the
 opening prayer by our College Chaplain. We were reminded of our mission
 as vessels of God, that Christ called upon us to be one collective body.
@@ -109,3 +115,4 @@ and community that has defined our college for fifty remarkable years.</p>
 <p>
 <br>
 </p>
+<p></p>
