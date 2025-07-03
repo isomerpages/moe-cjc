@@ -7,6 +7,15 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3178.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/50th-anniversary-college-day-annual-awards-presentation-ceremony/" rel="noopener nofollow" target="_blank">50th Anniversary College Day Annual Awards Presentation Ceremony</a>
+</p>
+<p>As we celebrate 50 years of Truth and Love, these awards are not just
+symbols of individual achievement, but testaments to half a century of
+memories, relationships, and values that have been passed down through
+generations of CJCians.</p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50 College Day Mass Awards/cj50 college day mass annual awards 11.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/cj50-college-day-mass-annual-awards-and-alumni-homecoming-dinner/" rel="noopener nofollow" target="_blank">CJ50 College Day Mass Annual Awards and Alumni Homecoming Dinner</a>
@@ -21,6 +30,15 @@ alumni bonds.</p>
 </p>
 <p>Find out how to apply to CJC via the Direct School Application open now
 till 22 Aug.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/MG_9805.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/cjc-njc-english-language-and-linguistics-symposium-2025/" rel="noopener nofollow" target="_blank">CJC-NJC English Language and Linguistics Symposium 2025</a>
+</p>
+<p>“From Breaking News to Viral Views: How the Language of Online Media Shapes
+our World” - On 25 April 2025, the annual English Language and Linguistics
+(ELL) Symposium was held at Catholic Junior College (CJC), jointly organised
+by CJC and National Junior College (NJC).</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Pope_Francis_Passing_a.jpg">
 </div>
