@@ -58,12 +58,22 @@ pursue deeper purposes, and not just transient things. We should recalibrate
 our approach towards acquiring skills and expertise, to look beyond the
 current slate of careers and focus our minds on the overarching state of
 the world.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_5425.jpg">
+</div>
 <p>The most lively and eventful segment of the awards presentation ceremony
 began shortly after Professor Tan’s address. Students, staff and teachers
 strode up to the stage with ecstasy and fulfillment. Laughter, smiles and
 handshakes were exchanged between the award recipients and presenters –
 an extravagant display of heartfelt emotions weaved into a simple yet profound
 gesture of recognising achievements with an honourable plaque or certificate.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3178.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUL04889.jpg">
+</div>
 <p>Chloe Pang Kai Yi, a JC3 student who won the Outstanding Contribution
 Award for her time as President of the Editorial Club is currently serving
 in the Singapore Navy. When asked about how she felt coming back to her
@@ -95,6 +105,9 @@ Guest of Honour spoke about the historical context of the school.” It reminded
 him of his time in CJC and it also made him a little anxious about the
 changing world. It was also a good time for him to catch up with his friends
 during the Tea Reception after the ceremony.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3017.jpg">
+</div>
 <p>So what values do awards hold?</p>
 <p>Awards are a symbol of honour which captures the <strong>significance</strong> of
 an achievement – the relentless hard work, consultations with teachers,
@@ -106,12 +119,18 @@ The admiration and respect of one's talent or commitments towards a goal.
 There is so much more than just the prestige of an award. It is a grand
 compass of all the memories and dedication one underwent to strive for
 excellence, and should be recognised with joy and celebration.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUL05361.jpg">
+</div>
 <p>As we celebrate 50 years of Truth and Love, these awards take on an even
 greater significance. They become not just symbols of individual achievement,
 but testaments to half a century of memories, relationships, and values
 that have been passed down through generations of CJCians. Each award presented
 today honours not just the recipient, but the enduring spirit of excellence
 and community that has defined our college for fifty remarkable years.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/JUL05353.jpg">
+</div>
 <p>
 <br>
 </p>
