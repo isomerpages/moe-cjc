@@ -7,7 +7,7 @@ third_nav_title: "2025"
 ---
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Black_and_Gold_Photo_Collage_Classy_Graduation_Facebook_Cover.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Black_and_Gold_Photo_Collage_Classy_Graduation_Facebook_Cover.jpg">
 </div>
 <p>We are proud to celebrate Jayasudha Ramaswamy, recipient of the prestigious
 Harvard Prize Book Award 2024/25, presented by the Harvard Club of Singapore.
