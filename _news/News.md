@@ -7,7 +7,7 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IMG_3178.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_3178.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/50th-anniversary-college-day-annual-awards-presentation-ceremony/" rel="noopener nofollow" target="_blank">50th Anniversary College Day Annual Awards Presentation Ceremony</a>
 </p>
