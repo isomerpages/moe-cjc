@@ -11,6 +11,9 @@ third_nav_title: "2025"
 its Homecoming Dinner on 30 May. The celebration saw our college welcome
 back alumni from across the generations in honour of 50 years of faith,
 friendships and fearless spirit.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Firebirds_Launch_c.jpg">
+</div>
 <p>We kicked off the festivities with the Homecoming Mass and Firebird Alumni
 Networking session, followed by campus tours which evoked fond memories
 for many returning graduates. After that, the celebrations moved to the
