@@ -69,6 +69,9 @@ is not a sign of weakness, but a step towards growth.</p>
 in common: they all agreed CJC’s Homecoming Dinner celebrated not just
 the school’s rich history, but also the life-long bonds that were forged
 throughout the generations of students.&nbsp;</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Homecoming_Dinner_Large_Group__1_.jpg">
+</div>
 <p>
 <br>
 </p>
