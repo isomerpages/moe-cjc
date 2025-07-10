@@ -8,6 +8,8 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Black_and_Gold_Photo_Collage_Classy_Graduation_Facebook_Cover.jpg">
 </div>
+<p><a href="https://www.cjc.edu.sg/harvard-prize-book-award-celebrating-jayasudha/" rel="noopener nofollow" target="_blank">Harvard Prize Book Award: Celebrating Jayasudha</a>
+</p>
 <p>We are proud to celebrate Jayasudha Ramaswamy, recipient of the prestigious
 Harvard Prize Book Award 2024/25, presented by the Harvard Club of Singapore.</p>
 <div class="isomer-image-wrapper">
