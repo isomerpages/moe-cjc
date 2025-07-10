@@ -14,7 +14,7 @@ variant: tiptap
 <p>The celebration saw our college welcome back alumni from across the generations
 in honour of 50 years of faith, friendships and fearless spirit.&nbsp;</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Black_and_Gold_Photo_Collage_Classy_Graduation_Facebook_Cover.jpg">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Black_and_Gold_Photo_Collage_Classy_Graduation_Facebook_Cover.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/harvard-prize-book-award-celebrating-jayasudha/" rel="noopener nofollow" target="_blank">Harvard Prize Book Award: Celebrating Jayasudha</a>
 </p>
