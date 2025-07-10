@@ -19,7 +19,9 @@ Networking session, followed by campus tours which evoked fond memories
 for many returning graduates. After that, the celebrations moved to the
 school field, which had been transformed into a lively open air venue,
 complete with strobe lights, a stage and rows of dining tables.&nbsp;</p>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_Homecoming_Dinner_b__1_.jpg">
+</div>
 <p>The Homecoming Dinner featured an array of mouth watering food. Guests
 enjoyed everything from the huge buffet spread to food vendors selling
 cendol, Japanese takoyaki, satay and nacho cheese fries, just to name a
