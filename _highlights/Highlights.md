@@ -2,8 +2,12 @@
 title: Highlights
 permalink: /highlights/
 description: ""
+variant: markdown
 ---
 ### **Highlights**
+
+**[Check out our July 2025 issue of FLAME!](https://go.gov.sg/cjflamejuly2025)**
+Get the latest on our CJ50 events, tips from our A Level Top Scorers and hear the voices of our Editorial Club students!
 
 **[School Closure on 10 March 2023 for Cross Country](/highlights/1/)**<br>
 Catholic Junior College's General Office will be closed on Friday 10 Mar 2023 due to staff participation in the annual CJC Cross Country at Pasir Ris Park.
