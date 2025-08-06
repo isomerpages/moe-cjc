@@ -7,3 +7,5 @@ description: ""
 image: ""
 variant: tiptap
 ---
+<p>Check out our the July 2025 issue of FLAME <a href="https://go.gov.sg/cjflamejuly2025" rel="noopener nofollow" target="_blank">here<u>!</u></a>
+</p>
