@@ -42,29 +42,34 @@ and pursue their calling with passion — building a compassionate community
 that contributes meaningfully to the world.</p>
 <h4><strong>Mission</strong></h4>
 <p><strong>Building a Generation In Truth &amp; Love: Every CJCian to be a Thinker with a Mission, Leader with a Heart.</strong>
-<br>We cultivate in each young person the skills and attitude to embrace challenges
-wisely and courageously. We foster a community that cares for the dignity
-of the young people, nurturing them to be men and women of compassion.
-We broaden their vision so that they become leaders committed to serving
-in faith and with integrity.</p>
+<br>At Catholic Junior College, our mission reflects our commitment to nurturing
+young men and women holistically. Rooted in the Catholic tradition, this
+mission calls every CJCian to pursue the truth and embody love in their
+every action. It is grounded in five foundational marks:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Imparting the knowledge necessary for young people to face the future
-confidently.</p>
+<p><strong>Holistic Education</strong>- We guide students beyond academic
+excellence, it develops the whole person to fulfil their unique purpose
+in the world.</p>
 </li>
 <li>
-<p>Respecting and affirming the value of human life.</p>
+<p><strong>Human Dignity</strong>- We value the dignity of every person,
+nurturing each individual to their fullest potential and fostering respect
+for all.</p>
 </li>
 <li>
-<p>Forming the conscience of our students in accordance with the principles
-of a Christian school in the Catholic tradition.</p>
+<p><strong>Common Good</strong>- We exhort students to connect knowledge
+with values and pursue truth for the common good.</p>
 </li>
 <li>
-<p>Enlarging their perspective so that they contribute meaningfully and responsibly
-to society with conviction.</p>
+<p><strong>Solidarity</strong>- We seek to cultivate relationships grounded
+in trust, respect, and a common purpose, nurturing a spirit of solidarity.</p>
+</li>
+<li>
+<p><strong>Servant Leadership</strong>- We reflect servant leadership by
+living out values of humility, compassion, and love.</p>
 </li>
 </ul>
-<p>Every CJCian to be a Thinker with a Mission, a Leader with a Heart</p>
 <h4><strong>Values</strong></h4>
 <p><strong>Truth and Love</strong>
 <br>This means our concern for man inspires us to search for the truth. Putting
