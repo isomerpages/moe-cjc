@@ -19,6 +19,27 @@ strives for high standards in educating young people thereby enabling students
 to realise their potential academically, physically and spiritually so
 that our students are formed to be well-integrated into society<em>.</em>
 </p>
+<p><strong>1. Student Outcomes: Every CJCian to be a Thinker with a Mission, Leader with a Heart</strong>
+</p>
+<p>At CJC, we nurture every student to become a purposeful, disciplined learner
+guided by strong values like humility, courage, and integrity. Our students
+grow into critical and adaptive thinkers and effective communicators, striving
+for veracity and justice when forming meaningful collaborations. They are
+also servant leaders, ready to serve others and make a positive impact
+in their communities.</p>
+<p><strong>2. Staff Outcomes: Our staff nurture the holistic development of students and embody the values of being Reflective, Innovative, Caring, and Engaged, striving always for excellence.</strong>
+</p>
+<p>Our team of dedicated staff support the academic, physical, and spiritual
+growth of every student. Our staff embody servant leadership, continuous
+learning, and collaboration to create a vibrant, caring community focussed
+on developing student agency.</p>
+<p><strong>3. Culture Outcomes: A college culture grounded in Truth and Love — expressed through Respect, Solidarity, Service, and Excellence</strong>
+</p>
+<p>We envision a college culture deeply grounded in the values of truth and
+love, where respect, solidarity, service, and excellence flourish. We inspire
+everyone to honour their God-given dignity and unique gifts, grow in character,
+and pursue their calling with passion — building a compassionate community
+that contributes meaningfully to the world.</p>
 <h4><strong>Mission</strong></h4>
 <p><strong>Building a Generation In Truth &amp; Love: Every CJCian to be a Thinker with a Mission, Leader with a Heart.</strong>
 <br>We cultivate in each young person the skills and attitude to embrace challenges
