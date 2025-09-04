@@ -8,18 +8,17 @@ variant: tiptap
 <h4><strong>Vision</strong></h4>
 <p><strong>CJC - a place of excellence in learning and living.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellence - Striving for high standards in educating young people.</p>
-</li>
-<li>
-<p>Learning - Enabling students to realise their potential academically,
-physically and spiritually.</p>
-</li>
-<li>
-<p>Living - Forming a person who is well-integrated into society.</p>
-</li>
-</ul>
+<p>Brother Patrick Loh, the founding principal of Catholic Junior College,
+envisioned that "underlying education is the concept of the unique, irreplaceable
+value of every human person. Our education should therefore help each person
+to understand himself as he truly is, to fulfill their special vocation
+in life."&nbsp;</p>
+<p>Over the years CJC continues to bring this vision to life, as a place
+of excellence in learning and living. As an educational institution, CJC
+strives for high standards in educating young people thereby enabling students
+to realise their potential academically, physically and spiritually so
+that our students are formed to be well-integrated into society<em>.</em>
+</p>
 <h4><strong>Mission</strong></h4>
 <p><strong>Building a Generation In Truth &amp; Love: Every CJCian to be a Thinker with a Mission, Leader with a Heart.</strong>
 <br>We cultivate in each young person the skills and attitude to embrace challenges
