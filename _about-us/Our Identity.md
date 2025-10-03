@@ -14,7 +14,7 @@ in every word, thought and deed.
 symbolised by the cross, animates the CJC community so that we act ‘In
 Truth and Love’, in and beyond the College.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/crest.jpg">
+<img style="width: 20%;" height="auto" width="100%" src="/images/crest.jpg">
 </div>
 <p>The college motto,&nbsp;<strong>In Veritate et Caritate</strong>&nbsp;('In
 Truth and Love') speaks of our mission to nurture students who will be
@@ -48,7 +48,7 @@ letter for ‘c’ and is also taken as the form of the Christian Cross. The
 Flag provides a powerful rallying point for students and the broader College
 Community in the distinctive College colours.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" src="/images/flag.jpg">
+<img style="width: 50%;" height="auto" width="100%" src="/images/flag.jpg">
 </div>
 <h4><strong>College Anthem</strong></h4>
 <p>We are heirs of a glorious kingdom
@@ -58,4 +58,5 @@ Community in the distinctive College colours.</p>
 <br>Live in Truth live in Faith and Love
 <br>Let our light spread and brighten the night
 <br>Let our flame warm all hearts and unite</p>
+<p></p>
 <p></p>
