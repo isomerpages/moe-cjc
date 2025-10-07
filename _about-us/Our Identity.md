@@ -59,4 +59,4 @@ Community in the distinctive College colours.</p>
 <br>Let our light spread and brighten the night
 <br>Let our flame warm all hearts and unite</p>
 <p></p>
-<audio id="audio" src="https://github.com/WendyWP/Isomer-website/blob/main/2025%20CJC%20Anthem.mp3" controls=""></audio>
+<audio id="audio" src="https://github.com/WendyWP/Isomer-website/raw/refs/heads/main/2025%20CJC%20Anthem.mp3" controls=""></audio>
