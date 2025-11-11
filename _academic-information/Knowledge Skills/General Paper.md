@@ -48,7 +48,7 @@ programme.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>GP External Agencies Outreach Programme</p>
+<p>GP Connect! Programme</p>
 </li>
 <li>
 <p>Economics-General Paper Stretch Programme</p>
@@ -69,9 +69,10 @@ Language and A-Level General Paper?
 <h4><strong>Contact Information</strong></h4>
 <p>Do you have a question that has not been addressed on this site? If so,
 feel free to write to one of us:</p>
-<p><strong>HOD/ Ms Pauline Chua</strong>
-<br>chua_sook_lan_pauline@moe.edu.sg
-<br><strong>LH (JC2 2025)/ Ms Cara Chew-Lommen</strong> chew_heng_suan_cara@moe.edu.sg
-<br><strong>LH (JC1 2025)/ Ms Serene Thong</strong>  <a href="mailto:thong_wan_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_wan_ling_serene@moe.edu.sg</a> 
+<p><strong>HOD/ Ms Pauline Chua </strong><a href="mailto:chua_sook_lan_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_sook_lan_pauline@moe.edu.sg</a> 
+</p>
+<p><strong>LH (JC2/2026)/ Ms Serene Thong</strong>  <a href="mailto:thong_wan_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_wan_ling_serene@moe.edu.sg</a> 
+</p>
+<p><strong>LH (JC1/2026)/ Ms Dionne Chow</strong>  <a href="dionne_chow@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dionne_chow@moe.gov.sg</a>
 <br>
 </p>
