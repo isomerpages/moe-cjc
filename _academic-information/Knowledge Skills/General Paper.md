@@ -72,7 +72,5 @@ feel free to write to one of us:</p>
 <p><strong>HOD/ Ms Pauline Chua </strong><a href="mailto:chua_sook_lan_pauline@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">chua_sook_lan_pauline@moe.edu.sg</a>
 </p>
 <p><strong>LH (JC2/2026)/ Ms Serene Thong</strong>  <a href="mailto:thong_wan_ling_serene@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">thong_wan_ling_serene@moe.edu.sg</a>
-</p>
-<p><strong>LH (JC1/2026)/ Ms Dionne Chow</strong>  <a href="dionne_chow@moe.gov.sg" rel="noopener noreferrer nofollow" target="_blank">dionne_chow@moe.gov.sg</a>
 <br>
 </p>
