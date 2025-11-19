@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h4><strong>Useful Links and Information for Alumni</strong></h4>
 <p><strong>1) Potential Development in CJC</strong>
-<br>You can find more information&nbsp;<a href="https://go.gov.sg/cjc-potentialdevt" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;on higher education,
+<br>You can find more information&nbsp;<a href="https://go.gov.sg/ecgsite-cjc" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;on higher education,
 which includes detailed guides on how to apply to Overseas Universities,
 how to write Personal Statements for University entry, as well as how to
 make an appointment to have a chat with our own Education and Careers Advisor.</p>
