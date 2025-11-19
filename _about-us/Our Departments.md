@@ -343,9 +343,8 @@ variant: tiptap
 </tbody>
 </table>
 <h4><strong>Humanities Department</strong></h4>
-<table style="minWidth: 50px">
+<table style="minWidth: 25px">
 <colgroup>
-<col>
 <col>
 </colgroup>
 <tbody>
@@ -353,77 +352,43 @@ variant: tiptap
 <th rowspan="1" colspan="1">
 <p>Name / Designation</p>
 </th>
-<th rowspan="1" colspan="1">
-<p>Email Address</p>
-</th>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Hang Shu Min Celestine / Head of Department</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:hang_shu_min_celestine@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">hang_shu_min_celestine@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wong Phui Yeng Daphne / Subject Head/Character and Citizenship Education</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:wong_phui_yeng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">wong_phui_yeng@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Tan Weng Cheong Alex / Lead Teacher</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tan_weng_cheong_alex@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tan_weng_cheong_alex@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Suriani Amran / Senior Teacher</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:suriani_amran@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">suriani_amran@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Charmaine Miranda</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:charmaine_miranda@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">charmaine_miranda@moe.edu.sg</a>
-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lai Ern Chuen</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:lai_ern_chuen@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">lai_ern_chuen@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lim Hui Min Janice</p>
 </td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:janice_lim_hui_min@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">janice_lim_hui_min@moe.edu.sg</a>
-</p>
-</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
 <td rowspan="1" colspan="1">
 <p></p>
 </td>
