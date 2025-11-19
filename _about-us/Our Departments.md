@@ -2471,28 +2471,10 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Abdul Rahim / Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:haji_abdul_rahim@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">haji_abdul_rahim@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>See Song Pewe Gordon / Operations Manager</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="mailto:see_song_pewe@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">see_song_pewe@moe.edu.sg</a>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tony Neo / Operations Manager</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><a href="mailto:tony_neo_chin_teng@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">tony_neo_chin_teng@moe.edu.sg</a>
 </p>
 </td>
 </tr>
