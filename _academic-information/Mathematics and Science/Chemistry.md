@@ -28,7 +28,7 @@ well as the assessment formats:</p>
 </p>
 <h4>Prerequisites/Suitability</h4>
 <p>Students most suited for A-level H2 Chemistry are those with a strong
-foundation in O-Level chemistry coupled with an inquisitive mind and desire
+foundation in O-Level Chemistry coupled with an inquisitive mind and desire
 to learn more.&nbsp;</p>
 <p>Students must also be disciplined and self-directed to manage the workload
 well with asynchronous SLS lessons for content acquisition.</p>
@@ -39,8 +39,11 @@ well with asynchronous SLS lessons for content acquisition.</p>
 <p><em>"Mrs Tie is a really nice and enthusiastic chem tutor. She makes me really excited for chem lessons :)"</em> 
 <br><strong>- student from 1T17, 2022</strong>
 </p>
-<p><em>"Dr Chin displays her passion for Chemistry and makes us love the subject as well. Across most subject teachers I've met so far throughout JC, Dr Chin proved to be the most patient and encouraging teacher. I have developed more interest in Chemistry, many thanks to her engaging lessons and support."</em>
-<br>&nbsp;<strong>- student from 2T10, 2020</strong>
+<p><em>"Ms Tan has been a really good chemistry tutor!! I always seem to understand any topic better after a tutorial. She makes sure we get our work done without pressuring us and encourages us when we do our work."</em>
+<br>&nbsp;<strong>- student from 1T26, 2022</strong>
+</p>
+<p><em>"Thank you Ms Goh for making sure we pay attention during your lessons-be it through your jokes or sweets. Your effort, time and questions have really made a huge difference in our learing! Thank you for going above and beyond!"</em>
+<br>&nbsp;<strong>- student from 2T11, 2025</strong>
 </p>
 <h4>Enrichment</h4>
 <p>Singapore Chemistry Olympiad participation is offered to students who
