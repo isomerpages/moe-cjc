@@ -46,31 +46,25 @@ well with asynchronous SLS lessons for content acquisition.</p>
 <br>&nbsp;<strong>- student from 2T11, 2025</strong>
 </p>
 <h4>Enrichment</h4>
-<p>Singapore Chemistry Olympiad participation is offered to students who
-have performed exceedingly well in JC1 assessments, and who have shown
-themselves to be responsible and self-directed in their learning. They
-will be exposed to interesting and challenging content related to their
-syllabus in intensive training sessions and will have the opportunity to
-represent the college in the Singapore Chemistry Olympiad.</p>
-<p>STEM Fest is an annual collaboration between the Mathematics and the Science
-Departments to help students recognize the importance of STEM (Science,
-Technology, Engineering &amp; Mathematics) and appreciate its use in addressing
-real-world problems. The week-long event serves as an important platform
-to provide learning experiences for students to acquire and apply their
-knowledge and skills from H2-related subjects in the areas related to STEM.
-It also allows Mathematics and Science student leaders to hone their organisation
-and leadership skills in the preparation of activities during the event.</p>
+<p><strong><u>Singapore Chemistry Olympiad</u></strong> participation is offered
+to students who have performed exceedingly well in JC1 assessments, and
+who have shown themselves to be responsible and self-directed in their
+learning. They will be exposed to interesting and challenging content related
+to their syllabus in intensive training sessions and will have the opportunity
+to represent the college in the Singapore Chemistry Olympiad.&nbsp;</p>
+<p><strong><u>STEM Fest</u> </strong>is an annual collaboration between the
+Mathematics and the Science Departments to help students recognize the
+importance of STEM (Science, Technology, Engineering &amp; Mathematics)
+and appreciate its use in addressing real-world problems. The week-long
+event serves as an important platform to provide learning experiences for
+students to acquire and apply their knowledge and skills from H2-related
+subjects in the areas related to STEM. It also allows Mathematics and Science
+student leaders to hone their organisation and leadership skills in the
+preparation of activities during the event.&nbsp;</p>
 <p>More information can be found at
-<br><a href="/education/mathematics-and-science/" rel="noopener noreferrer nofollow" target="_blank">https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science</a>
+<br><a rel="noopener noreferrer nofollow" target="_blank">https://cjc.moe.edu.sg/eopenhouse/academic-information/department-information/mathematics-n-science</a>
 </p>
-<p><em>"Ms Tan has been a really good chemistry tutor!! I always seem to understand any topic better after a tutorial. She makes sure we get our work done without pressuring us and encourages us when we do our work."</em>
-</p>
-<p><strong>- student from 1T26, 2022</strong>
-</p>
-<p><em>"My Chemistry Tutor has overall been very helpful in the tutorial as well as practical lessons. She keeps us on task and is always well prepared. In addition, she informs us well in advance of the items we have to prepare for tutorial and practical, enabling us to be well prepared for every lesson."</em>
-</p>
-<p>&nbsp;<strong>- student from 2T22, 2021</strong>
-</p>
+<p></p>
 <h4>H3 Chemistry</h4>
 <p>The syllabus and assessment criteria for H3 Chemistry can be found here:
 <br><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Chemistry (Syllabus 9813)</a>
