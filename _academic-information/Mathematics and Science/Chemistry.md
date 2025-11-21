@@ -466,8 +466,13 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 h 30 min, including 1 or 2 stimulus-based questions.</p>
 <p><strong>Which courses in university have A-Level Chemistry as admission criteria?</strong>
 <br>A good H2 pass in Chemistry is required for courses such as Medicine,
-Dentistry (these two courses also require another H2 Science), Pharmacy
-and Chemistry.</p>
+Dentistry (these two courses also require another H2 Science), Pharmacy,
+and Chemistry.&nbsp;</p>
+<p>The list given is not exhaustive, and for most courses that require knowledge
+of Science, at least one H2 Science (not necessarily Chemistry) may be
+required. E.g. H2 Chemistry or H2 Physics for Engineering.A good H2 pass
+in Chemistry is required for courses such as Medicine, Dentistry (these
+two courses also require another H2 Science), Pharmacy and Chemistry.</p>
 <p>The list given is not exhaustive, and for most courses that require knowledge
 of Science, at least one H2 Science (not necessarily Chemistry) may be
 required. E.g. H2 Chemistry or H2 Physics for Engineering.</p>
