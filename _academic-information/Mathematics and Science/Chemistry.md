@@ -79,352 +79,224 @@ related to interesting Chemistry concepts.</p>
 covered in H2. There is NO lab work for H1. Please refer to&nbsp;<a href="http://www.seab.gov.sg/" rel="noopener noreferrer nofollow" target="_blank">www.seab.gov.sg</a>&nbsp;for
 more information.</p>
 <p>Comparison of Subject Content in H1 and H2 Chemistry</p>
-<table style="minWidth: 100px">
+<table style="minWidth: 75px">
 <colgroup>
-<col>
 <col>
 <col>
 <col>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Core Ideas
-<br>
+<td rowspan="1" colspan="1">
+<p><strong>Core Ideas</strong>
 </p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H2
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H2</strong>
 </p>
-</th>
-<th rowspan="1" colspan="2">
-<p>H1
-<br>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H1</strong>
 </p>
-</th>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Matter
-<br>
+<p><strong>Matter</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
-<p>Atomic Structure
-<br>
-</p>
+<td rowspan="1" colspan="2">
+<p>Atomic Structure</p>
 </td>
 </tr>
 <tr>
 <td rowspan="6" colspan="1">
-<p>Structure and Properties
-<br>
+<p><strong>Structure and Properties</strong>
 </p>
 </td>
-<td rowspan="1" colspan="3">
-<p>Chemical Bonding
-<br>
-</p>
+<td rowspan="1" colspan="2">
+<p>Chemical Bonding</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>The Gaseous State
-<br>
-</p>
+<p>The Gaseous State</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p>-
-<br>
-</p>
+<p>Theories of Acids and Bases</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>The Periodic Table/Period 3</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Theories of Acids and Bases
-<br>
-</p>
+<p>Group 2</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Theories of Acids and Bases
-<br>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="3">
-<p>The Periodic Table
-<br>
-</p>
+<td rowspan="1" colspan="1">
+<p>Group 1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Group 2
-<br>
-</p>
+<p>Group 17</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Group 1
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Group 17
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Group 17 (less)
-<br>
-</p>
+<p>Group 17 (less)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="4" colspan="1">
-<p>Trans-formation
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>The Mole Concept and Stoichiometry (including Redox reactions)
-<br>
+<p><strong>Trans-formation</strong>
 </p>
 </td>
 <td rowspan="1" colspan="2">
-<p>The Mole Concept and Stoichiometry
-<br>(including Redox reactions)
-<br>
+<p>The Mole Concept and Stoichiometry</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chemical Energetics</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;Chemical Energetics</p>
+<p><em>(less content compared to H2)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chemical Energetics
-<br>
-</p>
+<p>Reaction Kinetics</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Chemical Energetics
-<br>(less content compared to H2)
-<br>
+<td rowspan="1" colspan="1">
+<p>Reaction Kinetics <em>(less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Reaction Kinetics
-<br>
-</p>
+<p>Chemical Equilibria</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Reaction Kinetics (less)
-<br>
-</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
-<p>Chemical Equilibria
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p>Chemical Equilibria (less)
-<br>
+<p>Chemical Equilibria <em>(less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="2" colspan="1">
-<p>Chemistry of Aqueous Solutions
-<br>
+<p><strong>Chemistry of Aqueous Solutions</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Acid-Base Equilibria
-<br>
-</p>
+<p>Acid-Base Equilibria</p>
 </td>
-<td rowspan="1" colspan="2">
-<p>Theories of Acids and Bases (continued) (less)
-<br>
+<td rowspan="1" colspan="1">
+<p>Theories of Acids and Bases<em> (continued) (less)</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Solubility Equilibria</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p><strong>-</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="10" colspan="1">
-<p>Organic Chemistry
-<br>
+<p><strong>Organic Chemistry</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Introduction
-<br>
-</p>
+<p>Introduction</p>
 </td>
-<td rowspan="1" colspan="2">
-<p><strong>Polymers and Organic Chemistry</strong>
+<td rowspan="10" colspan="1">
+<p><strong>Polymers &amp; Organic Chemistry</strong>
+</p>
+<p><strong>&nbsp;</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Isomerism
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Isomerism</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Organic Reactions and Mechanisms
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Organic Reactions and Mechanisms</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hydrocarbons
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Hydrocarbons</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Halogen Derivatives
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Halogen Derivatives</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Hydroxy Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Hydroxy Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Carbonyl Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Carbonyl Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Carboxylic Acids and Derivatives
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Carboxylic Acids and Derivatives</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nitrogen Compounds
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Nitrogen Compounds</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Polymers
-<br>
-</p>
+<p>Polymers</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>Electrochemistry</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="2">
+<p>An Introduction to The Chemistry of Transition Elements</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>-</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>
-<br>
+<p><strong>Practical</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Electrochemistry
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>
-<br>
-</p>
+<p>Frequent practical sessions</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>An Introduction to The Chemistry of Transition Elements
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Practical</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Frequent practical sessions
-<br>
-</p>
-</td>
-<td rowspan="1" colspan="2">
-<p><strong>-</strong>
-</p>
+<p>-</p>
 </td>
 </tr>
 </tbody>
