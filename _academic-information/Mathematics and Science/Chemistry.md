@@ -596,5 +596,5 @@ as a prerequisite for certain university courses.</p>
 feel free to write to us:</p>
 <p>Head of Department: <a href="mailto:yeong_kok_cheong_bernard@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Bernard Yeong</a>
 <br>Level Head: <a href="mailto:goh_jia_lei_jennifer@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Ms Jennifer Goh</a>
-<br>Level Head: <a href="mailto:yang_jiexiang@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">Mr Yang Jiexiang</a>
+<br>Level Head: <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9813_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">Mr Yang Jiexiang</a>
 </p>
