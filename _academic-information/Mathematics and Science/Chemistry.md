@@ -305,11 +305,12 @@ more information.</p>
 <br><strong>I took Combined Science at ‘O’ Level. Will I be able to cope with H1/H2 Chemistry?</strong>
 <br>A-Level Chemistry does build upon your knowledge of O-Level Chemistry.
 However, performance is largely dependent on your consistency and effort
-as you study the subject.</p>
-<p>Combined Science would not have covered Electrolysis and Metallic Bonding,
-as well as major concepts in Energy from Chemicals, Kinetics (Chemical
-Reactions), and structures of covalent compounds, which have been covered
-in Pure Chemistry.</p>
+as you study the subject.&nbsp;</p>
+<p>Combined Science students would not have covered topics on Electrolysis,
+Metallic Bonding, as well as major concepts in Energy from Chemical Kinetics
+(Chemical Reactions), structures of covalent compounds, and selected sections
+in Organic Chemistry, These learning outcomes would have been covered by
+students who have taken Pure Chemistry at ‘O’ Levels.&nbsp;</p>
 <p>Many other topics are new and all students start on an equal footing.</p>
 <p><strong>What is the assessment format for H1 / H2 Chemistry?</strong>
 <br>In addition to the lack of Practical Exams for H1 Chemistry, the assessment
@@ -322,15 +323,18 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p>Paper</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H2 (%)</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H1 (%)</p>
-</th>
+<td rowspan="1" colspan="1">
+<p><strong>Paper</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H2 (%)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H1 (%)</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -348,14 +352,18 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 <p>2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Structured Qns
-<br>[including Data-Based] (30%)</p>
+<p>Structured Qns</p>
+<p>[including Data-Based] (30%)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Section A: Structured Qns
-<br>[including Data Response Qn(s)]
-<br>Section B: Free Response Qns
-<br>(67%)</p>
+<p><strong><u>Section A:</u></strong>
+</p>
+<p>Structured Qns</p>
+<p>[including Data Response Qn(s)]</p>
+<p><strong><u>Section B:</u></strong>
+</p>
+<p>Free Response Qns</p>
+<p>(67%)</p>
 </td>
 </tr>
 <tr>
@@ -382,6 +390,7 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
@@ -391,22 +400,23 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </colgroup>
 <tbody>
 <tr>
-<th rowspan="1" colspan="1">
-<p></p>
-</th>
-<th rowspan="1" colspan="1">
-<p>Assessment Objectives</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H2</p>
-</th>
-<th rowspan="1" colspan="1">
-<p>H1</p>
-</th>
+<td rowspan="1" colspan="2">
+<p><strong>Assessment Objectives</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H2</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>H1</strong>
+</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A</p>
+<p><strong>A</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Knowledge with understanding</p>
@@ -420,7 +430,8 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>B</p>
+<p><strong>B</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Handling, applying and evaluating information</p>
@@ -434,7 +445,8 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>C</p>
+<p><strong>C</strong>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Experimental skills and investigations</p>
@@ -448,6 +460,7 @@ for H1 and H2 Chemistry also differs as shown below:</p>
 </tr>
 </tbody>
 </table>
+<p>&nbsp;</p>
 <p><strong>What is the assessment format for H3 Chemistry?</strong>
 <br>Students will need to answer free response questions (at least 4) in 2
 h 30 min, including 1 or 2 stimulus-based questions.</p>
