@@ -12,7 +12,7 @@ is taught at O-Level, and involves a deeper exploration of the content.&nbsp;</p
 <p>Experimental work is also an important component. Students will need to
 be able to understand the nature of scientific knowledge, demonstrate science
 inquiry skills and relate science and society, which are the practices
-of Science.</p>
+of Science.&nbsp;</p>
 <p>At CJC, great emphasis is placed on the understanding and application
 of scientific concepts and principles rather than exposure to factual knowledge.
 Students will need to develop relevant skills in an increasingly diverse
@@ -22,9 +22,9 @@ and assessment platforms.</p>
 <h4>A-Level Syllabus</h4>
 <p>Click the following links for an overview of the Chemistry syllabi as
 well as the assessment formats:</p>
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chemistry (Syllabus 8873)</a>
+<p><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/8873_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Chemistry (Syllabus 8873)</a>
 </p>
-<p><a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chemistry (Syllabus 9476)</a>
+<p><a href="https://www.seab.gov.sg/files/A Level Syllabus Sch Cddts/2026/9476_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Chemistry (Syllabus 9476)</a>
 </p>
 <h4>Prerequisites/Suitability</h4>
 <p>Students most suited for A-level H2 Chemistry are those with a strong
