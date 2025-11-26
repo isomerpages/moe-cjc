@@ -25,6 +25,10 @@ find out more about our college's programmes and ethos.</p>
 </div>
 <ul>
 <li>
+<p><strong><a href="https://go.gov.sg/cjflamesept2025" rel="noopener nofollow" target="_blank">2025 Issue 2</a></strong>-
+Graduation Issue</p>
+</li>
+<li>
 <p><strong><a href="https://file.go.gov.sg/cjflamejuly2025.pdf" rel="noopener nofollow" target="_blank">2025 Issue 1</a></strong>-
 A Family United in Truth and Love</p>
 </li>
