@@ -10,7 +10,7 @@ variant: tiptap
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_1495.jpg">
 </div>
 <p><a href="50th Anniversary Homecoming Dinner" rel="noopener nofollow" target="_blank">JC1 End of Year Thanksgiving Ceremony</a>
-</p>
+<br>Celebrating gratitude and new beginnings</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50_Homecoming_Dinner_a.jpg">
 </div>
