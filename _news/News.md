@@ -7,6 +7,9 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_1495.jpg">
+</div>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CJ50_Homecoming_Dinner_a.jpg">
 </div>
 <p><a href="https://www.cjc.edu.sg/50th-anniversary-homecoming-dinner/" rel="noopener nofollow" target="_blank">50th Anniversary Homecoming Dinner</a>
