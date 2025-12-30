@@ -20,7 +20,7 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/whatson
-      background: /images/127_Whitley_Rd_Banner_final_website.jpg
+      background: /images/OH_2026_banner__CJC_Homepage__Final.png
       variant: image
       url: https://www.cjc.moe.edu.sg/50-years-of-family-united-in-truth-and-love/
   - resources:
