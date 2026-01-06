@@ -32,13 +32,10 @@ points or better in their 4 relevant O-Level subjects are eligible to take
 discipline.</p>
 </li>
 <li>
-<p>Students who achieved a grade of D7 or better in O-Level Higher MTL are
+<p>Students who offered O-Level MTL are required to offer H1 MTL at JC1.
+Students who achieved a grade of D7 or better in O-Level Higher MTL are
 exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 (MTB) at O-Level will continue with MTB at GCE A-Level.</p>
-</li>
-<li>
-<p>Students who obtained a grade of D7 or better in O-Level Higher MTL are <strong>NOT</strong> allowed
-to replace H1 MTL with another content subject.&nbsp;</p>
 </li>
 </ul>
 <p><strong>CONTENT-BASED SUBJECTS OFFERED</strong>
@@ -168,7 +165,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√</p>
+<p></p>
 </td>
 </tr>
 <tr>
