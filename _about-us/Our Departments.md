@@ -124,17 +124,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Toh Hui Ling, Laureen / School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chua Mui Ling Dorothy / Lead Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chew Heng Suan Cara / Level Head</p>
+<p>Thong Wan Ling Serene / Level Head</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thong Wan Ling Serene / Level Head</p>
+<p>Chow Xin En, Dionne / Level Head</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +164,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Victoria-marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Annu Rai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beji d/o Dass</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +195,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Gabriel Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Indrani N Krishnasamy</p>
 </td>
 </tr>
 <tr>
