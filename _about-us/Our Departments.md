@@ -611,7 +611,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marimuthu Sandanam / Year Head JC1</p>
+<p>Marimuthu Sandanam / Year Head JC2</p>
 </td>
 </tr>
 <tr>
@@ -642,6 +642,11 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mohammad Fairuz Bin Selamat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sohail Bin Basiron</p>
 </td>
 </tr>
 <tr>
