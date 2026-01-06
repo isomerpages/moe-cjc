@@ -730,20 +730,24 @@ test before a place can be confirmed.</p>
 <p><strong>Code</strong>
 </p>
 </td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p><strong>H2 Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th H2 Subject </strong><em>(choose one)</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Science</strong>
 </p>
 <p><strong>(23S)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1-Eco</p>
+<p>S1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -755,85 +759,13 @@ test before a place can be confirmed.</p>
 <p>Phy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Econs</em>
+<p><em>Econs, ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S1-ELL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>ELL</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-ELL</p>
+<p>S2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -846,70 +778,13 @@ test before a place can be confirmed.</p>
 <p>Phy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ELL</em>
+<p><em>ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S2-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Eco</p>
+<p>S3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -921,85 +796,13 @@ test before a place can be confirmed.</p>
 <p>Chem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Econs</em>
+<p><em>Econs, ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-ELL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>ELL</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-ELL</p>
+<p>S4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -1012,76 +815,19 @@ test before a place can be confirmed.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ELL</em>
+<p><em>ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>S4-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Arts</strong>
 </p>
 <p><strong>(23A)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A1-ELL</p>
+<p>A1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -1094,30 +840,12 @@ test before a place can be confirmed.</p>
 <p>Geo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELL</p>
+<p>ELL, Lit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A1-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Math</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Econs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A2-ELL</p>
+<p>A2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -1130,30 +858,12 @@ test before a place can be confirmed.</p>
 <p>Hist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELL</p>
+<p>ELL, Lit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A2-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Math</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Econs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A3-ELL</p>
+<p>A3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -1171,10 +881,19 @@ test before a place can be confirmed.</p>
 </tr>
 </tbody>
 </table>
-<p>*The italicized subject is the contrasting subject within the subject
-combination.&nbsp;
-<br>*For subject combinations with low demand, the College reserves the right
+<ul data-tight="true" class="tight">
+<li>
+<p>The italicized subject is the contrasting subject within the subject combination.&nbsp;</p>
+</li>
+<li>
+<p>Students who wish to take H2 ELL are required to sit for and pass a selection
+test before a place can be confirmed.</p>
+</li>
+<li>
+<p>For subject combinations with low demand, the College reserves the right
 to decide whether such subject combinations would be offered.</p>
+</li>
+</ul>
 <p><strong>MERIT-BASED ALLOCATION</strong>
 </p>
 <ul>
