@@ -1136,14 +1136,20 @@ course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B4 for Biology and B3 for Chemistry,
-or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B4 for Biology and A1 for Combined
-Science (with Chemistry), or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry and B3 for Combined
-Science (with Biology), or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1 for Combined Science (Biology
-/ Chemistry)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B4 for Biology and B3 for Chemistry, or</p>
+</li>
+<li>
+<p>B4 for Biology and A1 for Combined Science (with Chemistry), or</p>
+</li>
+<li>
+<p>B3 for Chemistry and B3 for Combined Science (with Biology), or</p>
+</li>
+<li>
+<p>A1 for Combined Science (Biology / Chemistry)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer the H2 Bio &amp; H2 Chem combination are
@@ -1156,7 +1162,7 @@ course.</p>
 </table>
 <p>*The Indicative Grade Cut-off provides an indication of the lowest grade
 scored in the relevant O-Level subject by the majority of students who
-were offered the A-Level subject / combination in 2023/2024.</p>
+were offered the A-Level subject / combination in 2024/2025.</p>
 <p><strong>H3 SUBJECTS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -1167,12 +1173,20 @@ students must be prepared to manage a workload beyond the normal subject
 combination. To read a H3 subject, students are required to take the corresponding
 subject at H2 Level. Please note that H3 subjects are ONLY offered to students
 in JC2.</p>
-</li>
-</ul>
 <p>Students may be offered a H3 subject in the following areas if they have
 done well in their overall examinations at the end of JC 1, including a
 high ‘A’ grade in the corresponding subject at the H2 level.</p>
-<p>*University-taught H3 programmes (NUS, NTU and SMU)</p>
-<p>*NUS-MOE Humanities And Social Sciences Research (HSSR) H3</p>
-<p>*MOE-Cambridge H3 MOE-Cambridge H3</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>University-taught H3 programmes (NUS, NTU and SMU)</p>
+</li>
+<li>
+<p>NUS-MOE Humanities And Social Sciences Research (HSSR) H3</p>
+</li>
+<li>
+<p>MOE-Cambridge H3</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
