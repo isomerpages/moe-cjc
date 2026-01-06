@@ -229,12 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Patricia Koh Seok Kwan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Jie Jun Lester</p>
+<p>Tiffany Yeo Cher Ying</p>
 </td>
 </tr>
 <tr>
@@ -244,7 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Yen Yee Angela</p>
+<p>Zaid bin Mohamed Ali</p>
 </td>
 </tr>
 <tr>
