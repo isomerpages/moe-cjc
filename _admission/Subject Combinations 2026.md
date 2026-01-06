@@ -989,8 +989,14 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C5 for Biology, or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Biology)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C5 for Biology, or</p>
+</li>
+<li>
+<p>A2 for Combined Science (with Biology)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -999,8 +1005,14 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry, or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Combined Science (with Chemistry)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B3 for Chemistry, or</p>
+</li>
+<li>
+<p>B3 for Combined Science (with Chemistry)</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
 <p>Students who intend to offer H2 or H1 Chem are assumed to have knowledge
@@ -1014,8 +1026,14 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C5 for Chemistry, or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Combined Science (with Chemistry)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>C5 for Chemistry, or</p>
+</li>
+<li>
+<p>B3 for Combined Science (with Chemistry)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
