@@ -1455,7 +1455,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Hui Lin / Administrative Manager</p>
+<p>Chan Chui Mei Samantha / Administrative Manager</p>
 </td>
 </tr>
 <tr>
