@@ -1,6 +1,6 @@
 ---
-title: Subject Combinations 2025
-permalink: /admission/subject-combinations-2025/
+title: Subject Combinations 2026
+permalink: /admission/subject-combinations-2026/
 description: ""
 variant: tiptap
 ---
@@ -32,20 +32,17 @@ points or better in their 4 relevant O-Level subjects are eligible to take
 discipline.</p>
 </li>
 <li>
-<p>Students who achieved a grade of D7 or better in O-Level Higher MTL are
+<p>Students who offered O-Level MTL are required to offer H1 MTL at JC1.
+Students who achieved a grade of D7 or better in O-Level Higher MTL are
 exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 (MTB) at O-Level will continue with MTB at GCE A-Level.</p>
-</li>
-<li>
-<p>Students who obtained a grade of D7 or better in O-Level Higher MTL are <strong>NOT</strong> allowed
-to replace H1 MTL with another content subject.&nbsp;</p>
 </li>
 </ul>
 <p><strong>CONTENT-BASED SUBJECTS OFFERED</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Table A shows the content-based subjects to be offered in 2025:</p>
+<p>Table A shows the content-based subjects to be offered in 2026:</p>
 </li>
 </ul>
 <p><strong>Table A:</strong>
@@ -168,7 +165,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>√</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>√</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -221,7 +218,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Table B shows the 3 H2 and 1 H1 subject combinations to be offered in
-2025:</p>
+2026:</p>
 </li>
 </ul>
 <p><strong>Table B:</strong>
@@ -255,7 +252,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p><strong>Science</strong>
 </p>
 <p><strong>(23S)</strong>
@@ -391,7 +388,44 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>S8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bio, Phy, <em>Econs, Geo, Hist, Lit</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="14" colspan="1">
 <p><strong>Arts</strong>
 </p>
 <p><strong>(23A)</strong>
@@ -411,7 +445,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>Geo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Hist, Lit</p>
+<p><em>Bio, Chem, Phy</em>, Hist, Lit</p>
 </td>
 </tr>
 <tr>
@@ -429,7 +463,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>Hist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Geo, Lit</p>
+<p><em>Bio, Chem, Phy</em>, Geo, Lit</p>
 </td>
 </tr>
 <tr>
@@ -447,7 +481,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Geo, Hist</p>
+<p><em>Bio, Chem, Phy</em>, Geo, Hist</p>
 </td>
 </tr>
 <tr>
@@ -464,7 +498,7 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Math</em>
+<p><em>Bio, Math</em>
 </p>
 </td>
 </tr>
@@ -482,20 +516,197 @@ to replace H1 MTL with another content subject.&nbsp;</p>
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><em>Bio, Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Geo, Hist, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Hist, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Geo, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Geo, Hist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><em>Math</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The <em>italicized subject</em> is the contrasting subject within the subject
-combination.
-<br>*If offered, H2 ELL may be used to replace one H2 subject (except H2 Math)
-from the Arts Combinations (A1 - A5).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>The italicized subject is the contrasting subject within the subject combination.</em>
+</p>
+</li>
+<li>
+<p>Students who wish to take H2 ELL are required to sit for and pass a selection
+test before a place can be confirmed.</p>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Table C shows the 4 H2 subject combinations to be offered in 2025:</p>
+<p>Table C shows the 4 H2 subject combinations to be offered in 2026:</p>
 <p><strong>Table C:</strong>
 </p>
 </li>
@@ -519,20 +730,24 @@ from the Arts Combinations (A1 - A5).</p>
 <p><strong>Code</strong>
 </p>
 </td>
-<td rowspan="1" colspan="4">
+<td rowspan="1" colspan="3">
 <p><strong>H2 Subjects</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>4th H2 Subject </strong><em>(choose one)</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="18" colspan="1">
+<td rowspan="4" colspan="1">
 <p><strong>Science</strong>
 </p>
 <p><strong>(23S)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>S1-Eco</p>
+<p>S1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -544,85 +759,13 @@ from the Arts Combinations (A1 - A5).</p>
 <p>Phy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Econs</em>
+<p><em>Econs, ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S1-ELL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>ELL</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S1-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-ELL</p>
+<p>S2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -635,70 +778,13 @@ from the Arts Combinations (A1 - A5).</p>
 <p>Phy</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ELL</em>
+<p><em>ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S2-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S2-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Phy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Eco</p>
+<p>S3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -710,85 +796,13 @@ from the Arts Combinations (A1 - A5).</p>
 <p>Chem</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Econs</em>
+<p><em>Econs, ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-ELL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>ELL</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S3-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Bio</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-ELL</p>
+<p>S4</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Math</p>
@@ -801,76 +815,19 @@ from the Arts Combinations (A1 - A5).</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>ELL</em>
+<p><em>ELL, Geo, Hist, Lit</em>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>S4-Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Geo</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-His</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Hist</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Math</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Chem</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Econs</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Lit</em>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="5" colspan="1">
+<td rowspan="3" colspan="1">
 <p><strong>Arts</strong>
 </p>
 <p><strong>(23A)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>A1-ELL</p>
+<p>A1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -883,30 +840,12 @@ from the Arts Combinations (A1 - A5).</p>
 <p>Geo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELL</p>
+<p>ELL, Lit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A1-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Math</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Econs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Geo</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A2-ELL</p>
+<p>A2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -919,30 +858,12 @@ from the Arts Combinations (A1 - A5).</p>
 <p>Hist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>ELL</p>
+<p>ELL, Lit</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>A2-Lit</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><em>Math</em>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Econs</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hist</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Lit</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>A3-ELL</p>
+<p>A3</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><em>Math</em>
@@ -960,10 +881,19 @@ from the Arts Combinations (A1 - A5).</p>
 </tr>
 </tbody>
 </table>
-<p>*The italicized subject is the contrasting subject within the subject
-combination.&nbsp;
-<br>*For subject combinations with low demand, the College reserves the right
+<ul data-tight="true" class="tight">
+<li>
+<p>The italicized subject is the contrasting subject within the subject combination.&nbsp;</p>
+</li>
+<li>
+<p>Students who wish to take H2 ELL are required to sit for and pass a selection
+test before a place can be confirmed.</p>
+</li>
+<li>
+<p>For subject combinations with low demand, the College reserves the right
 to decide whether such subject combinations would be offered.</p>
+</li>
+</ul>
 <p><strong>MERIT-BASED ALLOCATION</strong>
 </p>
 <ul>
@@ -1021,7 +951,7 @@ based on academic merit, including</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>A2 for English Language</p>
 </li>
@@ -1030,23 +960,6 @@ based on academic merit, including</p>
 <td rowspan="1" colspan="1">
 <p>Students who wish to take H2 ELL are required to sit for and pass a selection
 test before a place can be confirmed.</p>
-<p>If offered, H2 ELL may be used to replace one H2 subject (except H2 Math)
-from the Arts Combinations (A1 - A5) in Table B.&nbsp;</p>
-<p>H2 ELL can also be offered as the 4th H2 subject as shown in Table C.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Subject / Combination</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>* Indicative Grade Cut-off for the relevant subject(s) at O-Level Examination</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Remarks</em></strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -1055,9 +968,9 @@ from the Arts Combinations (A1 - A5) in Table B.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>B4 for Biology, or&nbsp;</p>
+<p>B4 for Biology, or</p>
 </li>
 <li>
 <p>B3 for Combined Science (with Biology)</p>
@@ -1076,12 +989,12 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>C5 for Biology, or</p>
 </li>
 <li>
-<p>A2 for Combined Science (with Biology)&nbsp;</p>
+<p>A2 for Combined Science (with Biology)</p>
 </li>
 </ul>
 </td>
@@ -1092,12 +1005,12 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B3 for Chemistry, or</p>
 </li>
 <li>
-<p>B3 for Combined Science (with Chemistry)&nbsp;</p>
+<p>B3 for Combined Science (with Chemistry)</p>
 </li>
 </ul>
 </td>
@@ -1113,7 +1026,7 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>C5 for Chemistry, or</p>
 </li>
@@ -1129,7 +1042,7 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B3 for Physics, or</p>
 </li>
@@ -1150,12 +1063,12 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B3 for Physics, or</p>
 </li>
 <li>
-<p>A2 for Combined Science (with Physics)&nbsp;</p>
+<p>A2 for Combined Science (with Physics)</p>
 </li>
 </ul>
 </td>
@@ -1166,7 +1079,7 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B3 for Additional Mathematics</p>
 </li>
@@ -1179,17 +1092,17 @@ Additional Mathematics at O-level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Double&nbsp;</strong>
+<p><strong>Double</strong>
 </p>
 <p><strong>H2 Sciences:</strong>
 </p>
-<p><strong>H2 Chem &amp;&nbsp;</strong>
+<p><strong>H2 Chem &amp;</strong>
 </p>
 <p><strong>H2 Phy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B3 for both Chemistry and Physics, or</p>
 </li>
@@ -1213,17 +1126,17 @@ course.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Double&nbsp;</strong>
+<p><strong>Double</strong>
 </p>
 <p><strong>H2 Sciences:</strong>
 </p>
-<p><strong>H2 Bio &amp;&nbsp;</strong>
+<p><strong>H2 Bio &amp;</strong>
 </p>
 <p><strong>H2 Chem</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>B4 for Biology and B3 for Chemistry, or</p>
 </li>
@@ -1249,7 +1162,7 @@ course.</p>
 </table>
 <p>*The Indicative Grade Cut-off provides an indication of the lowest grade
 scored in the relevant O-Level subject by the majority of students who
-were offered the A-Level subject / combination in 2023/2024.</p>
+were offered the A-Level subject / combination in 2024/2025.</p>
 <p><strong>H3 SUBJECTS</strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -1260,12 +1173,20 @@ students must be prepared to manage a workload beyond the normal subject
 combination. To read a H3 subject, students are required to take the corresponding
 subject at H2 Level. Please note that H3 subjects are ONLY offered to students
 in JC2.</p>
-</li>
-</ul>
 <p>Students may be offered a H3 subject in the following areas if they have
 done well in their overall examinations at the end of JC 1, including a
 high ‘A’ grade in the corresponding subject at the H2 level.</p>
-<p>*University-taught H3 programmes (NUS, NTU and SMU)</p>
-<p>*NUS-MOE Humanities And Social Sciences Research (HSSR) H3</p>
-<p>*MOE-Cambridge H3 MOE-Cambridge H3</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>University-taught H3 programmes (NUS, NTU and SMU)</p>
+</li>
+<li>
+<p>NUS-MOE Humanities And Social Sciences Research (HSSR) H3</p>
+</li>
+<li>
+<p>MOE-Cambridge H3</p>
+</li>
+</ul>
+</li>
+</ul>
 <p></p>
