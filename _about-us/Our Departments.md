@@ -257,12 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alex Wong/ Covering Head of Department</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Wenqiang Mark / Year Head JC2</p>
+<p>Alex Wong/ Head of Department</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Siew Hong</p>
+<p>Lim Hwee Teng</p>
 </td>
 </tr>
 <tr>
@@ -303,6 +298,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mary Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurhisyam Bin Noorzailan</p>
 </td>
 </tr>
 <tr>
