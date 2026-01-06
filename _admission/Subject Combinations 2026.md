@@ -951,7 +951,7 @@ based on academic merit, including</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>A2 for English Language</p>
 </li>
@@ -960,23 +960,6 @@ based on academic merit, including</p>
 <td rowspan="1" colspan="1">
 <p>Students who wish to take H2 ELL are required to sit for and pass a selection
 test before a place can be confirmed.</p>
-<p>If offered, H2 ELL may be used to replace one H2 subject (except H2 Math)
-from the Arts Combinations (A1 - A5) in Table B.&nbsp;</p>
-<p>H2 ELL can also be offered as the 4th H2 subject as shown in Table C.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong><em>Subject / Combination</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>* Indicative Grade Cut-off for the relevant subject(s) at O-Level Examination</em></strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong><em>Remarks</em></strong>
-</p>
 </td>
 </tr>
 <tr>
@@ -985,9 +968,9 @@ from the Arts Combinations (A1 - A5) in Table B.&nbsp;</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>B4 for Biology, or&nbsp;</p>
+<p>B4 for Biology, or</p>
 </li>
 <li>
 <p>B3 for Combined Science (with Biology)</p>
@@ -1006,14 +989,8 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>C5 for Biology, or</p>
-</li>
-<li>
-<p>A2 for Combined Science (with Biology)&nbsp;</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C5 for Biology, or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Biology)</p>
 </td>
 </tr>
 <tr>
@@ -1022,14 +999,8 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B3 for Chemistry, or</p>
-</li>
-<li>
-<p>B3 for Combined Science (with Chemistry)&nbsp;</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry, or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Combined Science (with Chemistry)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Students who intend to offer H2 or H1 Chem are assumed to have knowledge
@@ -1043,14 +1014,8 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>C5 for Chemistry, or</p>
-</li>
-<li>
-<p>B3 for Combined Science (with Chemistry)</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; C5 for Chemistry, or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Combined Science (with Chemistry)</p>
 </td>
 </tr>
 <tr>
@@ -1059,14 +1024,8 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B3 for Physics, or</p>
-</li>
-<li>
-<p>A2 for Combined Science (with Physics)</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics, or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Physics)</p>
 </td>
 <td rowspan="2" colspan="1">
 <p>Students who intend to offer H2 or H1 Phy are assumed to have knowledge
@@ -1080,14 +1039,8 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B3 for Physics, or</p>
-</li>
-<li>
-<p>A2 for Combined Science (with Physics)&nbsp;</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics, or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Physics)</p>
 </td>
 </tr>
 <tr>
@@ -1096,11 +1049,7 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B3 for Additional Mathematics</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Additional Mathematics</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer H2 Math are assumed to have knowledge of
@@ -1109,30 +1058,24 @@ Additional Mathematics at O-level.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Double&nbsp;</strong>
+<p><strong>Double</strong>
 </p>
 <p><strong>H2 Sciences:</strong>
 </p>
-<p><strong>H2 Chem &amp;&nbsp;</strong>
+<p><strong>H2 Chem &amp;</strong>
 </p>
 <p><strong>H2 Phy</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B3 for both Chemistry and Physics, or</p>
-</li>
-<li>
-<p>B3 for Chemistry and A1 for Combined Science (with Physics), or</p>
-</li>
-<li>
-<p>B3 for Physics and A1 for Combined Science (with Chemistry), or</p>
-</li>
-<li>
-<p>A1 for Combined Science (Chemistry / Physics)</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for both Chemistry and Physics,
+or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry and A1 for Combined
+Science (with Physics), or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics and A1 for Combined
+Science (with Chemistry), or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1 for Combined Science (Chemistry
+/ Physics)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer the H2 Chem &amp; H2 Phy combination are
@@ -1143,30 +1086,24 @@ course.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Double&nbsp;</strong>
+<p><strong>Double</strong>
 </p>
 <p><strong>H2 Sciences:</strong>
 </p>
-<p><strong>H2 Bio &amp;&nbsp;</strong>
+<p><strong>H2 Bio &amp;</strong>
 </p>
 <p><strong>H2 Chem</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>B4 for Biology and B3 for Chemistry, or</p>
-</li>
-<li>
-<p>B4 for Biology and A1 for Combined Science (with Chemistry), or</p>
-</li>
-<li>
-<p>B3 for Chemistry and B3 for Combined Science (with Biology), or</p>
-</li>
-<li>
-<p>A1 for Combined Science (Biology / Chemistry)</p>
-</li>
-</ul>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B4 for Biology and B3 for Chemistry,
+or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B4 for Biology and A1 for Combined
+Science (with Chemistry), or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry and B3 for Combined
+Science (with Biology), or</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1 for Combined Science (Biology
+/ Chemistry)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer the H2 Bio &amp; H2 Chem combination are
