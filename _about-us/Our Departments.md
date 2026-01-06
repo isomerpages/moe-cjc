@@ -61,22 +61,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marimuthu Sandanam / Year Head JC1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Sok Yee / Asst Year Head JC1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Wenqiang Mark / Year Head JC2</p>
+<p>Marimuthu Sandanam / Year Head JC2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cipto Hu / Asst Year Head JC2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lucas Anil D'Cruz / Year Head JC1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Sok Yee / Asst Year Head JC1</p>
 </td>
 </tr>
 <tr>
@@ -124,17 +124,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Toh Hui Ling Laureen / School Staff Developer</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Chua Mui Ling Dorothy / Lead Teacher</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chew Heng Suan Cara / Level Head</p>
+<p>Thong Wan Ling Serene / Level Head</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thong Wan Ling Serene / Level Head</p>
+<p>Chow Xin En Dionne / Level Head</p>
 </td>
 </tr>
 <tr>
@@ -159,7 +164,17 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Victoria-marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Annu Rai</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Beji d/o Dass</p>
 </td>
 </tr>
 <tr>
@@ -180,11 +195,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Gabriel Lee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Indrani N Krishnasamy</p>
 </td>
 </tr>
 <tr>
@@ -219,12 +229,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Patricia Koh Seok Kwan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Jie Jun Lester</p>
+<p>Tiffany Yeo Cher Ying</p>
 </td>
 </tr>
 <tr>
@@ -234,12 +239,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wong Yen Yee Angela</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Zaid bin Mohamed Ali</p>
 </td>
 </tr>
 </tbody>
@@ -257,12 +257,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alex Wong/ Covering Head of Department</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Wenqiang Mark / Year Head JC2</p>
+<p>Alex Wong/ Head of Department</p>
 </td>
 </tr>
 <tr>
@@ -292,7 +287,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chua Siew Hong</p>
+<p>Lim Hwee Teng</p>
 </td>
 </tr>
 <tr>
@@ -303,6 +298,11 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mary Goh</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Nurhisyam Bin Noorzailan</p>
 </td>
 </tr>
 <tr>
@@ -335,11 +335,6 @@ variant: tiptap
 <p>Wong Xinyi</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Humanities Department</strong></h4>
@@ -365,6 +360,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Chien Huah Peter / Subject Head/History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tan Weng Cheong Alex / Lead Teacher</p>
 </td>
 </tr>
@@ -381,16 +381,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lai Ern Chuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Hui Min Janice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -416,11 +406,6 @@ variant: tiptap
 <p>Peh Ching Hui Rena / Subject Head/ICT</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Integrated Curriculum</strong></h4>
@@ -443,11 +428,6 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jillian Cheng / Subject Head/Project Work &amp; Integrated Curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -548,11 +528,6 @@ Curriculum</p>
 <p>Yoong Lian Teen</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Mother Tongue Languages</strong></h4>
@@ -588,12 +563,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Loong Clarence</p>
+<p>Geetha d/o Muthu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peter Thia</p>
+<p>Lee Jin Loong Clarence</p>
 </td>
 </tr>
 <tr>
@@ -608,17 +583,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thiru Kotti</p>
+<p>Thia Peter</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wee Siew Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -641,7 +611,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marimuthu Sandanam / Year Head JC1</p>
+<p>Marimuthu Sandanam / Year Head JC2</p>
 </td>
 </tr>
 <tr>
@@ -672,6 +642,11 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mohammad Fairuz Bin Selamat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sohail Bin Basiron</p>
 </td>
 </tr>
 <tr>
@@ -715,27 +690,22 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ashton Tan Siang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Joanne Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liow Liang Fa</p>
+<p>Lee Wee Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Low Sie Yieh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>R P Mageswari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Tze Gek Justina</p>
 </td>
 </tr>
 </tbody>
@@ -793,22 +763,17 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Kai Ming</p>
+<p>Daniel Tay Han Tzuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isnarti Binte Mohamed Noordin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lin Shilin Charlene</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Low Sie Yieh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Soo Pui Wah</p>
 </td>
 </tr>
 <tr>
@@ -823,22 +788,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tieu Han Hooi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Wee Wee Chau</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zachary Kok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -896,12 +851,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Li-Shan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Kian Beng</p>
+<p>Lim Manqing Tiffany</p>
 </td>
 </tr>
 <tr>
@@ -932,11 +882,6 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yee Meng Wai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -1510,7 +1455,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liew Hui Lin / Administrative Manager</p>
+<p>Chan Chui Mei Samantha / Administrative Manager</p>
 </td>
 </tr>
 <tr>
