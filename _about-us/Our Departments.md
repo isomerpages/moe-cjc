@@ -763,22 +763,17 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Kai Ming</p>
+<p>Daniel Tay Han Tzuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Isnarti Binte Mohamed Noordin</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lin Shilin Charlene</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Low Sie Yieh</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Soo Pui Wah</p>
 </td>
 </tr>
 <tr>
@@ -793,22 +788,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tieu Han Hooi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Wee Wee Chau</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Zachary Kok</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -866,12 +851,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Li-Shan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Ong Kian Beng</p>
+<p>Lim Manqing Tiffany</p>
 </td>
 </tr>
 <tr>
@@ -902,11 +882,6 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Yee Meng Wai</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
