@@ -406,11 +406,6 @@ variant: tiptap
 <p>Peh Ching Hui Rena / Subject Head/ICT</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Integrated Curriculum</strong></h4>
@@ -433,11 +428,6 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Jillian Cheng / Subject Head/Project Work &amp; Integrated Curriculum</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
@@ -538,11 +528,6 @@ Curriculum</p>
 <p>Yoong Lian Teen</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Mother Tongue Languages</strong></h4>
@@ -578,12 +563,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lee Jin Loong Clarence</p>
+<p>Geetha d/o Muthu</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Peter Thia</p>
+<p>Lee Jin Loong Clarence</p>
 </td>
 </tr>
 <tr>
@@ -598,17 +583,12 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Thiru Kotti</p>
+<p>Thia Peter</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Wee Siew Ling</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
