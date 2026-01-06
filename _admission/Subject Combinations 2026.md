@@ -42,7 +42,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Table A shows the content-based subjects to be offered in 2025:</p>
+<p>Table A shows the content-based subjects to be offered in 2026:</p>
 </li>
 </ul>
 <p><strong>Table A:</strong>
@@ -218,7 +218,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <ul data-tight="true" class="tight">
 <li>
 <p>Table B shows the 3 H2 and 1 H1 subject combinations to be offered in
-2025:</p>
+2026:</p>
 </li>
 </ul>
 <p><strong>Table B:</strong>
@@ -252,7 +252,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 </td>
 </tr>
 <tr>
-<td rowspan="7" colspan="1">
+<td rowspan="9" colspan="1">
 <p><strong>Science</strong>
 </p>
 <p><strong>(23S)</strong>
@@ -388,7 +388,44 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 </td>
 </tr>
 <tr>
-<td rowspan="5" colspan="1">
+<td rowspan="1" colspan="1">
+<p>S8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bio, Phy, <em>Econs, Geo, Hist, Lit</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Bio</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chem</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Math</p>
+</td>
+</tr>
+<tr>
+<td rowspan="14" colspan="1">
 <p><strong>Arts</strong>
 </p>
 <p><strong>(23A)</strong>
@@ -408,7 +445,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <p>Geo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Hist, Lit</p>
+<p><em>Bio, Chem, Phy</em>, Hist, Lit</p>
 </td>
 </tr>
 <tr>
@@ -426,7 +463,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <p>Hist</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Geo, Lit</p>
+<p><em>Bio, Chem, Phy</em>, Geo, Lit</p>
 </td>
 </tr>
 <tr>
@@ -444,7 +481,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Chem, Phy</em>, Geo, Hist</p>
+<p><em>Bio, Chem, Phy</em>, Geo, Hist</p>
 </td>
 </tr>
 <tr>
@@ -461,7 +498,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><em>Math</em>
+<p><em>Bio, Math</em>
 </p>
 </td>
 </tr>
@@ -479,20 +516,197 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 <p>Lit</p>
 </td>
 <td rowspan="1" colspan="1">
+<p><em>Bio, Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A6</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Geo, Hist, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A7</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Hist, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A8</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Geo, Lit</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A9</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Bio, Chem, Phy</em>, Econs, Geo, Hist</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A10</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A11</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A12</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Econs</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A13</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Geo</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>Math</em>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>A14</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><em>ELL</em>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lit</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Hist</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><em>Math</em>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p>*The <em>italicized subject</em> is the contrasting subject within the subject
-combination.
-<br>*If offered, H2 ELL may be used to replace one H2 subject (except H2 Math)
-from the Arts Combinations (A1 - A5).</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><em>The italicized subject is the contrasting subject within the subject combination. </em>
+</p>
+</li>
+<li>
+<p>Students who wish to take H2 ELL are required to sit for and pass a selection
+test before a place can be confirmed.</p>
+</li>
+</ul>
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Table C shows the 4 H2 subject combinations to be offered in 2025:</p>
+<p>Table C shows the 4 H2 subject combinations to be offered in 2026:</p>
 <p><strong>Table C:</strong>
 </p>
 </li>
