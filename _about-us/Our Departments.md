@@ -690,27 +690,22 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Ashton Tan Siang</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Joanne Lee</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liow Liang Fa</p>
+<p>Lee Wee Yan</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Low Sie Yieh</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>R P Mageswari</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Tan Tze Gek Justina</p>
 </td>
 </tr>
 </tbody>
