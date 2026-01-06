@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Joys Lin Shi Ting / Senior Education &amp; Career Guidance Counsellor</p>
+<p>Joys Lin Shi Ting / Senior Education and Career Guidance Counsellor</p>
 </td>
 </tr>
 <tr>
@@ -144,7 +144,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Wendy Priscillia Wong / Subject Head/Corporate Communications &amp; Outreach</p>
+<p>Wendy Priscillia Wong / Subject Head/Corporate Communications and Outreach</p>
 </td>
 </tr>
 <tr>
@@ -154,7 +154,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Alexandra Hofbauer / Subject Head/English Language &amp; Linguistics</p>
+<p>Alexandra Hofbauer / Subject Head/English Language and Linguistics</p>
 </td>
 </tr>
 <tr>
@@ -421,13 +421,13 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sek Kok Chuan Mervyn / Head of Department/ Project Work &amp; Integrated
+<p>Sek Kok Chuan Mervyn / Head of Department/ Project Work and Integrated
 Curriculum</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jillian Cheng / Subject Head/Project Work &amp; Integrated Curriculum</p>
+<p>Jillian Cheng / Subject Head/Project Work and Integrated Curriculum</p>
 </td>
 </tr>
 </tbody>
@@ -606,7 +606,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Viknesvaran s/o Veeramuthu / Head of Department/PE &amp; CCA</p>
+<p>Viknesvaran s/o Veeramuthu / Head of Department/PE and CCA</p>
 </td>
 </tr>
 <tr>
@@ -616,7 +616,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chen Yuliang / Subject Head/PE &amp; CCA</p>
+<p>Chen Yuliang / Subject Head/PE and CCA</p>
 </td>
 </tr>
 <tr>
@@ -669,18 +669,18 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Sek Kok Chuan Mervyn/ Head of Department Project Work &amp; Integrated
-Curriculum</p>
+<p>Sek Kok Chuan Mervyn/ Head of Department Project Work and Integrated Curriculum</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz / HOD/Student Development</p>
+<p>Lucas Anil D'Cruz / HOD/Character and Citizenship Education and Year Head
+JC1</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Jillian Cheng / Subject Head/Project Work &amp; Integrated Curriculum</p>
+<p>Jillian Cheng / Subject Head/Project Work and Integrated Curriculum</p>
 </td>
 </tr>
 <tr>
