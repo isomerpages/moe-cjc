@@ -18,7 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz/ Head of Department</p>
+<p>Lucas Anil D'Cruz/ Head of Department and Year Head JC1</p>
 </td>
 </tr>
 <tr>
@@ -71,7 +71,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz / Year Head JC1</p>
+<p>Lucas Anil D'Cruz / HOD Character and Citizenship Education and Year Head
+JC1</p>
 </td>
 </tr>
 <tr>
@@ -674,7 +675,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz / HOD/Character and Citizenship Education and Year Head
+<p>Lucas Anil D'Cruz / HOD Character and Citizenship Education and Year Head
 JC1</p>
 </td>
 </tr>
