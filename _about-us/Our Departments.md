@@ -61,22 +61,22 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Marimuthu Sandanam / Year Head JC1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Chan Sok Yee / Asst Year Head JC1</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Li Wenqiang Mark / Year Head JC2</p>
+<p>Marimuthu Sandanam / Year Head JC2</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Cipto Hu / Asst Year Head JC2</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lucas Anil D'Cruz / Year Head JC1</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Chan Sok Yee / Asst Year Head JC1</p>
 </td>
 </tr>
 <tr>
