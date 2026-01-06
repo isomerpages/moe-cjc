@@ -695,7 +695,7 @@ exempted from taking H1 MTL. Students who offered Mother Tongue B Syllabus
 </table>
 <ul data-tight="true" class="tight">
 <li>
-<p><em>The italicized subject is the contrasting subject within the subject combination. </em>
+<p><em>The italicized subject is the contrasting subject within the subject combination.</em>
 </p>
 </li>
 <li>
