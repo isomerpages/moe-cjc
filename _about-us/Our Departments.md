@@ -124,7 +124,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Toh Hui Ling, Laureen / School Staff Developer</p>
+<p>Toh Hui Ling Laureen / School Staff Developer</p>
 </td>
 </tr>
 <tr>
@@ -139,7 +139,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chow Xin En, Dionne / Level Head</p>
+<p>Chow Xin En Dionne / Level Head</p>
 </td>
 </tr>
 <tr>
@@ -335,11 +335,6 @@ variant: tiptap
 <p>Wong Xinyi</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <h4><strong>Humanities Department</strong></h4>
@@ -365,6 +360,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Tan Chien Huah Peter / Subject Head/History</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tan Weng Cheong Alex / Lead Teacher</p>
 </td>
 </tr>
@@ -381,16 +381,6 @@ variant: tiptap
 <tr>
 <td rowspan="1" colspan="1">
 <p>Lai Ern Chuen</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Lim Hui Min Janice</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
 </td>
 </tr>
 </tbody>
