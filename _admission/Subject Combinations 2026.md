@@ -1042,8 +1042,14 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics, or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Physics)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B3 for Physics, or</p>
+</li>
+<li>
+<p>A2 for Combined Science (with Physics)</p>
+</li>
+</ul>
 </td>
 <td rowspan="2" colspan="1">
 <p>Students who intend to offer H2 or H1 Phy are assumed to have knowledge
@@ -1057,8 +1063,14 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics, or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A2 for Combined Science (with Physics)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B3 for Physics, or</p>
+</li>
+<li>
+<p>A2 for Combined Science (with Physics)</p>
+</li>
+</ul>
 </td>
 </tr>
 <tr>
@@ -1067,7 +1079,11 @@ as part of a Combined Science course.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Additional Mathematics</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B3 for Additional Mathematics</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer H2 Math are assumed to have knowledge of
@@ -1086,14 +1102,20 @@ Additional Mathematics at O-level.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for both Chemistry and Physics,
-or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Chemistry and A1 for Combined
-Science (with Physics), or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; B3 for Physics and A1 for Combined
-Science (with Chemistry), or</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A1 for Combined Science (Chemistry
-/ Physics)</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>B3 for both Chemistry and Physics, or</p>
+</li>
+<li>
+<p>B3 for Chemistry and A1 for Combined Science (with Physics), or</p>
+</li>
+<li>
+<p>B3 for Physics and A1 for Combined Science (with Chemistry), or</p>
+</li>
+<li>
+<p>A1 for Combined Science (Chemistry / Physics)</p>
+</li>
+</ul>
 </td>
 <td rowspan="1" colspan="1">
 <p>Students who intend to offer the H2 Chem &amp; H2 Phy combination are
