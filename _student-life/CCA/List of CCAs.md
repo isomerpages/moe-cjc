@@ -180,7 +180,7 @@ CCAs.</p>
 <p>Editorial Club</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STE2M Club</p>
+<p>STE<sup>2</sup>M Club</p>
 </td>
 </tr>
 <tr>
@@ -209,7 +209,7 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Strategy Games Club</p>
+<p>Strategy Games</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Council</p>
