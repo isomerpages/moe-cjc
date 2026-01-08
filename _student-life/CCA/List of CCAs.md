@@ -36,10 +36,12 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><a href="https://www.instagram.com/cjchoir/?hl=en" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Ensemble</p>
+<p><a href="https://www.instagram.com/cjguitarensemble/?hl=en" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Modern Dance</p>
@@ -47,7 +49,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p><a href="https://www.instagram.com/cjc.drama/?hl=en" rel="noopener nofollow" target="_blank">English Drama</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Guzheng Ensemble</p>
