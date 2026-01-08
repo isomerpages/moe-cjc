@@ -222,7 +222,8 @@ CCAs.</p>
 <p>Genesis (2nd CCA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interact Club</p>
+<p><a href="https://www.instagram.com/cjcinteract/?hl=en" rel="noopener nofollow" target="_blank">Interact Club</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -231,7 +232,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oratorical Society</p>
+<p><a href="https://www.instagram.com/cj.ora/?hl=en" rel="noopener nofollow" target="_blank">Oratorical Society</a>
+</p>
 </td>
 </tr>
 <tr>
