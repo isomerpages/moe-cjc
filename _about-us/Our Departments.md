@@ -907,15 +907,7 @@ JC1</p>
 <p>2T01</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Janice Lim Hui Min</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2T01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mackenzie Rae Schoon</p>
+<p>Shohib Abdul Wahab Marican</p>
 </td>
 </tr>
 <tr>
@@ -923,7 +915,7 @@ JC1</p>
 <p>2T02</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Lee Kwok Chung Conrad</p>
+<p>Ang Hui Hun</p>
 </td>
 </tr>
 <tr>
@@ -931,7 +923,7 @@ JC1</p>
 <p>2T03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tan Jie Jun Lester</p>
+<p>Ng Jing Mei, Jodi</p>
 </td>
 </tr>
 <tr>
@@ -939,7 +931,7 @@ JC1</p>
 <p>2T04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Brinda Balasubramaniam</p>
+<p>Tay Yi Qian Priscilla</p>
 </td>
 </tr>
 <tr>
@@ -947,7 +939,7 @@ JC1</p>
 <p>2T05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Suriani Amran</p>
+<p>Wong Xinyi</p>
 </td>
 </tr>
 <tr>
@@ -955,7 +947,7 @@ JC1</p>
 <p>2T06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soong Yin-yin Sharon</p>
+<p>Charmaine Miranda</p>
 </td>
 </tr>
 <tr>
@@ -963,7 +955,7 @@ JC1</p>
 <p>2T07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Soh Yan Shan Serena</p>
+<p>Lee Kwok Chung Conrad</p>
 </td>
 </tr>
 <tr>
@@ -1011,7 +1003,7 @@ JC1</p>
 <p>2T13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ang Hui Hun</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1168,7 +1160,7 @@ JC1</p>
 </tr>
 </tbody>
 </table>
-<h4><strong>JC1 Home Tutors List 2025</strong></h4>
+<h4><strong>JC1 Home Tutors List 2026</strong></h4>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -1193,14 +1185,6 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1T01</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Shohib Abdul Wahab Marican</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>1T02</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1212,7 +1196,7 @@ JC1</p>
 <p>1T03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ng Jing Mei, Jodi</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1220,15 +1204,7 @@ JC1</p>
 <p>1T04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wang Jiexin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1T04</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tay Yi Qian Priscilla</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1236,7 +1212,7 @@ JC1</p>
 <p>1T05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Wong Xinyi</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -1244,7 +1220,7 @@ JC1</p>
 <p>1T06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Charmaine Miranda</p>
+<p></p>
 </td>
 </tr>
 <tr>
