@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swimming</p>
+<p><a href="https://www.instagram.com/cjcswim/?hl=en" rel="noopener nofollow" target="_blank">Swimming</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +41,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tennis</p>
+<p><a href="https://www.instagram.com/cjctenniss/?hl=en" rel="noopener nofollow" target="_blank">Tennis</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -53,7 +55,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ultimate Frisbee</p>
+<p><a href="https://www.instagram.com/cjultimate/?hl=en" rel="noopener nofollow" target="_blank">Ultimate Frisbee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -66,7 +69,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p><a href="https://www.instagram.com/cjcvolleyball/?hl=en" rel="noopener nofollow" target="_blank">Volleyball</a>
+</p>
 </td>
 </tr>
 <tr>
