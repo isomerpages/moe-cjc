@@ -23,7 +23,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interact Club</p>
+<p><a href="https://www.instagram.com/cjcinteract/?hl=en" rel="noopener nofollow" target="_blank">Interact Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STE<sup>2</sup>M Club</p>
@@ -35,7 +36,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nexus Investment &amp; Entrepreneurship Society</p>
+<p><a href="https://www.instagram.com/cj_nexus/?hl=en" rel="noopener nofollow" target="_blank">Nexus Investment &amp; Entrepreneurship Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Strategy Games Club</p>
@@ -47,7 +49,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oratorical Society</p>
+<p><a href="https://www.instagram.com/cj.ora/?hl=en" rel="noopener nofollow" target="_blank">Oratorical Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Council</p>
