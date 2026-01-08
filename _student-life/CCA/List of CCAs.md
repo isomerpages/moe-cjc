@@ -11,7 +11,7 @@ variant: tiptap
 <br>These slides contain information on the trial/audition dates for the various
 CCAs.</p>
 <p></p>
-<p>Click on the CCAs to visit their Instagram pages!</p>
+<p>Click on any of the CCAs below to visit their Instagram pages!</p>
 <h4><strong>Visual and Performing Arts</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/cca1.jpg">
