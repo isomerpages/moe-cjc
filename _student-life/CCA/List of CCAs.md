@@ -99,7 +99,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swimming</p>
+<p><a href="https://www.instagram.com/cjcswim/?hl=en" rel="noopener nofollow" target="_blank">Swimming</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -112,7 +113,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Tennis</p>
+<p><a href="https://www.instagram.com/cjctenniss/?hl=en" rel="noopener nofollow" target="_blank">Tennis</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -147,7 +149,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball (Girls only)</p>
+<p><a href="https://www.instagram.com/cjcnetball/?hl=en" rel="noopener nofollow" target="_blank">Netball (Girls only)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
