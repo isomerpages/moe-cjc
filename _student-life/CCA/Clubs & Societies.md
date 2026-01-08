@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STE<sup>2</sup>M Club</p>
+<p><a href="https://www.instagram.com/cj_ste2mclub/?hl=en" rel="noopener nofollow" target="_blank">STE<sup>2</sup>M Club</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -54,6 +55,18 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Student Council</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cj.veritas?igsh=eXY5eXo2ZXk4M3Vm" rel="noopener nofollow" target="_blank">Genesis (2nd CCA)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
