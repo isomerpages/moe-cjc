@@ -95,7 +95,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p><a href="https://www.instagram.com/cjfencers/?hl=en" rel="noopener nofollow" target="_blank">Fencing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Swimming</p>
@@ -107,7 +108,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floorball (Boys)</p>
+<p><a href="https://www.instagram.com/cj.floorball.boys/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Tennis</p>
@@ -119,7 +121,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floorball (Girls)</p>
+<p><a href="https://www.instagram.com/cjfloorballgirls/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Girls)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ultimate Frisbee</p>
@@ -131,7 +134,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Football (Boys only)</p>
+<p><a href="https://www.instagram.com/cjc__football/?hl=en" rel="noopener nofollow" target="_blank">Football (Boys only)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Volleyball</p>
@@ -139,7 +143,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cross Country</p>
+<p><a href="https://www.instagram.com/cjcrosscountry/?hl=en" rel="noopener nofollow" target="_blank">Cross Country</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Netball (Girls only)</p>
