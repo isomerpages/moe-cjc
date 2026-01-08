@@ -249,7 +249,7 @@ similar.</p>
 feel free to write to:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>HOD Mr Alex Wong: <a href="mailto:alex_wong_yu_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alex_wong_yu_jie@moe.edu.sg</a> 
+<p>HOD Mr Alex Wong: <a href="mailto:alex_wong_yu_jie@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">alex_wong_yu_jie@moe.edu.sg</a>
 </p>
 </li>
 </ul>
