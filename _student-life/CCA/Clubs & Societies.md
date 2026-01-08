@@ -54,7 +54,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Council</p>
+<p><a href="https://www.instagram.com/cj.flameon?igsh=MXVlbmNoeHpmdHJqNQ==" rel="noopener nofollow" target="_blank">Student Council</a>
+</p>
 </td>
 </tr>
 <tr>
