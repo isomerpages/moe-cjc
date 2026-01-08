@@ -199,7 +199,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Editorial Club</p>
+<p><a href="https://www.instagram.com/cjc_editorialclub/?hl=en" rel="noopener nofollow" target="_blank">Editorial Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>STE<sup>2</sup>M Club</p>
@@ -207,7 +208,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Aid Club</p>
+<p><a href="https://www.instagram.com/cjc.fac/?hl=en" rel="noopener nofollow" target="_blank">First Aid Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Film, Sound, and Video Society</p>
