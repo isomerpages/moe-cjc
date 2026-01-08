@@ -219,7 +219,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Genesis (2nd CCA)</p>
+<p><a href="https://www.instagram.com/cj.veritas?igsh=eXY5eXo2ZXk4M3Vm" rel="noopener nofollow" target="_blank">Genesis (2<sup>nd</sup> CCA)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p><a href="https://www.instagram.com/cjcinteract/?hl=en" rel="noopener nofollow" target="_blank">Interact Club</a>
