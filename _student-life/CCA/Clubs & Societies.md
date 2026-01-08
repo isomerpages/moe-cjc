@@ -9,7 +9,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/clubs.jpg">
 </div>
-<p></p>
+<p>Click on any of the CCAs to visit their Instagram pages!</p>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -19,7 +19,8 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Editorial Club</p>
+<p><a href="https://www.instagram.com/cjc_editorialclub/?hl=en" rel="noopener nofollow" target="_blank">Editorial Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Interact Club</p>
@@ -30,7 +31,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>First Aid Club</p>
+<p><a href="https://www.instagram.com/cjc.fac/?hl=en" rel="noopener nofollow" target="_blank">First Aid Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Nexus Investment &amp; Entrepreneurship Society</p>
@@ -41,7 +43,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Film, Sound, and Video Society</p>
+<p><a href="https://www.instagram.com/cjcfsv/?hl=en" rel="noopener nofollow" target="_blank">Film, Sound, and Video Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oratorical Society</p>
