@@ -10,6 +10,8 @@ variant: tiptap
 <br>For the latest information on the CCAs, click on <a href="https://docs.google.com/presentation/d/1iKzZrrKP9TpC182T72u44ogV3Re4b6qoRoyzJCxwWDY/edit#slide=id.g7d8fc49b24_73_63" rel="noopener noreferrer nofollow" target="_blank">this link.</a>
 <br>These slides contain information on the trial/audition dates for the various
 CCAs.</p>
+<p></p>
+<p>Click on the CCAs to visit their Instagram pages!</p>
 <h4><strong>Visual and Performing Arts</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/cca1.jpg">
@@ -127,7 +129,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ultimate Frisbee</p>
+<p><a href="https://www.instagram.com/cjultimate/?hl=en" rel="noopener nofollow" target="_blank">Ultimate Frisbee</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +143,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p><a href="https://www.instagram.com/cjcvolleyball/?hl=en" rel="noopener nofollow" target="_blank">Volleyball</a>
+</p>
 </td>
 </tr>
 <tr>
