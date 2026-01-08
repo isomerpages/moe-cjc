@@ -1418,7 +1418,7 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Song Pew Gordon / Operations Manager</p>
+<p>See Song Pewe Gordon / Operations Manager</p>
 </td>
 </tr>
 </tbody>
