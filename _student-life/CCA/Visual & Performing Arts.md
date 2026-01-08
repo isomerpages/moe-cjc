@@ -27,7 +27,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p><a href="https://www.instagram.com/cjc.dance/?hl=en" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -40,7 +41,8 @@ variant: tiptap
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Symphonic Band</p>
+<p><a href="https://www.instagram.com/cjcsb/?hl=en" rel="noopener nofollow" target="_blank">Symphonic Band</a>
+</p>
 </td>
 </tr>
 </tbody>
