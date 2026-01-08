@@ -203,7 +203,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STE<sup>2</sup>M Club</p>
+<p><a href="https://www.instagram.com/cj_ste2mclub/?hl=en" rel="noopener nofollow" target="_blank">STE<sup>2</sup>M Club</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +213,8 @@ CCAs.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Film, Sound, and Video Society</p>
+<p><a href="https://www.instagram.com/cjcfsv/?hl=en" rel="noopener nofollow" target="_blank">Film, Sound, and Video Society</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -225,7 +227,8 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nexus Investment &amp; Entrepreneurship Society</p>
+<p><a href="https://www.instagram.com/cj_nexus/?hl=en" rel="noopener nofollow" target="_blank">Nexus Investment &amp; Entrepreneurship Society</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Oratorical Society</p>
