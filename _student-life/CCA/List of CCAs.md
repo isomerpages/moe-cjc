@@ -10,6 +10,8 @@ variant: tiptap
 <br>For the latest information on the CCAs, click on <a href="https://docs.google.com/presentation/d/1iKzZrrKP9TpC182T72u44ogV3Re4b6qoRoyzJCxwWDY/edit#slide=id.g7d8fc49b24_73_63" rel="noopener noreferrer nofollow" target="_blank">this link.</a>
 <br>These slides contain information on the trial/audition dates for the various
 CCAs.</p>
+<p></p>
+<p>Click on any of the CCAs below to visit their Instagram pages!</p>
 <h4><strong>Visual and Performing Arts</strong></h4>
 <div class="isomer-image-wrapper">
 <img style="width:75%" height="auto" width="100%" src="/images/cca1.jpg">
@@ -34,24 +36,30 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Choir</p>
+<p><a href="https://www.instagram.com/cjchoir/?hl=en" rel="noopener nofollow" target="_blank">Choir</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guitar Ensemble</p>
+<p><a href="https://www.instagram.com/cjguitarensemble/?hl=en" rel="noopener nofollow" target="_blank">Guitar Ensemble</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Modern Dance</p>
+<p><a href="https://www.instagram.com/cjc.dance/?hl=en" rel="noopener nofollow" target="_blank">Modern Dance</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>English Drama</p>
+<p><a href="https://www.instagram.com/cjc.drama/?hl=en" rel="noopener nofollow" target="_blank">English Drama</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Guzheng Ensemble</p>
+<p><a href="https://www.instagram.com/cjguzheng/?hl=en" rel="noopener nofollow" target="_blank">Guzheng Ensemble</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Symphonic Band</p>
+<p><a href="https://www.instagram.com/cjcsb/?hl=en" rel="noopener nofollow" target="_blank">Symphonic Band</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -91,54 +99,68 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Badminton</p>
+<p><a href="https://www.instagram.com/cjcbadminton/?hl=en" rel="noopener nofollow" target="_blank">Badminton</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Fencing</p>
+<p><a href="https://www.instagram.com/cjfencers/?hl=en" rel="noopener nofollow" target="_blank">Fencing</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Swimming</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Basketball (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Floorball (Boys)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tennis</p>
+<p><a href="https://www.instagram.com/cjcswim/?hl=en" rel="noopener nofollow" target="_blank">Swimming</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Bowling</p>
+<p><a href="https://www.instagram.com/cjc_bball/?hl=en" rel="noopener nofollow" target="_blank">Basketball (Boys only)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Floorball (Girls)</p>
+<p><a href="https://www.instagram.com/cj.floorball.boys/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Boys)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ultimate Frisbee</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Canoeing</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Football (Boys only)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Volleyball</p>
+<p><a href="https://www.instagram.com/cjctenniss/?hl=en" rel="noopener nofollow" target="_blank">Tennis</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Cross Country</p>
+<p><a href="https://www.instagram.com/cjc_bowling/?hl=en" rel="noopener nofollow" target="_blank">Bowling</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Netball (Girls only)</p>
+<p><a href="https://www.instagram.com/cjfloorballgirls/?hl=en" rel="noopener nofollow" target="_blank">Floorball (Girls)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjultimate/?hl=en" rel="noopener nofollow" target="_blank">Ultimate Frisbee</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjcanoeingwhoosh/?hl=en" rel="noopener nofollow" target="_blank">Canoeing</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjc__football/?hl=en" rel="noopener nofollow" target="_blank">Football (Boys only)</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjcvolleyball/?hl=en" rel="noopener nofollow" target="_blank">Volleyball</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjcrosscountry/?hl=en" rel="noopener nofollow" target="_blank">Cross Country</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cjcnetball/?hl=en" rel="noopener nofollow" target="_blank">Netball (Girls only)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -177,34 +199,42 @@ CCAs.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Editorial Club</p>
+<p><a href="https://www.instagram.com/cjc_editorialclub/?hl=en" rel="noopener nofollow" target="_blank">Editorial Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>STE<sup>2</sup>M Club</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>First Aid Club</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Film, Sound, and Video Society</p>
+<p><a href="https://www.instagram.com/cj_ste2mclub/?hl=en" rel="noopener nofollow" target="_blank">STE<sup>2</sup>M Club</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Genesis (2nd CCA)</p>
+<p><a href="https://www.instagram.com/cjc.fac/?hl=en" rel="noopener nofollow" target="_blank">First Aid Club</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Interact Club</p>
+<p><a href="https://www.instagram.com/cjcfsv/?hl=en" rel="noopener nofollow" target="_blank">Film, Sound, and Video Society</a>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nexus Investment &amp; Entrepreneurship Society</p>
+<p><a href="https://www.instagram.com/cj.veritas?igsh=eXY5eXo2ZXk4M3Vm" rel="noopener nofollow" target="_blank">Genesis (2<sup>nd</sup> CCA)</a>
+</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Oratorical Society</p>
+<p><a href="https://www.instagram.com/cjcinteract/?hl=en" rel="noopener nofollow" target="_blank">Interact Club</a>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cj_nexus/?hl=en" rel="noopener nofollow" target="_blank">Nexus Investment &amp; Entrepreneurship Society</a>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><a href="https://www.instagram.com/cj.ora/?hl=en" rel="noopener nofollow" target="_blank">Oratorical Society</a>
+</p>
 </td>
 </tr>
 <tr>
@@ -212,7 +242,8 @@ CCAs.</p>
 <p>Strategy Games</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Student Council</p>
+<p><a href="https://www.instagram.com/cj.flameon?igsh=MXVlbmNoeHpmdHJqNQ==" rel="noopener nofollow" target="_blank">Student Council</a>
+</p>
 </td>
 </tr>
 <tr>
