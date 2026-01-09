@@ -3,28 +3,69 @@ title: Project Work
 permalink: /education/knowledge-skills/project-work/
 description: ""
 third_nav_title: Knowledge Skills
-variant: markdown
+variant: tiptap
 ---
-### **Project Work**
-#### **About the Programme**
-Project Work (PW) has a unique value proposition which sets it apart from other subjects in the A-Level curriculum as it **develops future-ready competencies and life skills in an authentic and applied manner.** The nurturing of 21st Century Competencies (21CC) requires a combination of interdisciplinary knowledge and skills that build on one another. PW **facilitates the dynamic interplay of 21CC** as students make sense of a real-world issue, share and embrace multiple perspectives to build new understanding and solutions. Students also grow as individuals and responsible members of society as they **collaborate and learn to manage relationships with others from diverse backgrounds**.
-
-By the end of the PW cycle, students will be able to:
- - **demonstrate critical and inventive thinking skills** in gathering, analysing and evaluating information, and generating ideas that address real-world needs;
- - **communicate clearly, coherently and persuasively** in collaborative discussion and in presenting ideas to a specific audience in both written and oral forms; and
- - **apply collaborative skills** in managing the project effectively to achieve the group’s goals.
- 
-Students are assigned to work in **groups of four or five members** within the class. The group works on a project to address a problem or tap an opportunity identified in a real-world context. Being a **coursework subject completed for assessment within the first year of JC**, students are to **strictly follow the written submission deadlines and oral presentation examination date** for the assessment of individual and group components of the following compulsory papers:
- - **Project Summary**
-	- Each group submits a written Project Summary documenting the real-world problem or opportunity identified, and the proposed ideas to address the project aim.
- - **Individual Reflection**
-	- Each student submits a written reflection of his/her analysis and evaluation of group ideas or his/her learning about self in the process of completing the project.
-  - **Oral Presentation**
-	- Each student presents a part of the project orally to the assessors as audience. This is followed by the group responding collectively to questions posed by the assessors.
-
-From 2024, PW has been repositioned as a Pass/Fail subject to redirect the focus of students and encourages them to **reap the full benefits of PW, by exercising greater agency and creativity in their areas of interest**, rather than be driven by grades. **A Pass is mandatory for Autonomous University admission.**
-
-*With a greater focus on the learning experience and engendering the joy of learning, CJC strives to **inspire and equip CJCians to be creators, connectors and contributors** to address current and emerging real-world issues through an **empathetic, purposeful and beneficial way that creates social impact.***
-
-#### **A-Level Syllabus**
-Click [here](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/2024-project-work-(8882)-examination-syllabus_feb-2024.pdf) for an overview of the Project Work syllabus as well as the assessment format:<br>
+<h4>About the Programme</h4>
+<p>Project Work (PW) is a distinctive subject in the A-Level curriculum that
+equips students with future-ready competencies and essential life skills
+through authentic, real-world learning. Through an integrated and applied
+learning approach, students draw on interdisciplinary knowledge and emerging
+21st Century Competencies (E21CC) to explore real-world issues. They learn
+to consider multiple perspectives, work collaboratively, and develop meaningful
+and innovative solutions. Through this process, students also grow as responsible
+individuals, learning to manage relationships and work effectively with
+peers from diverse backgrounds.</p>
+<p>By the end of the PW cycle, students will be able to:</p>
+<ul>
+<li>
+<p>demonstrate <strong>critical and inventive thinking skills</strong> in gathering,
+analysing and evaluating information, and generating ideas that address
+real-world needs;</p>
+</li>
+<li>
+<p><strong>communicate clearly, coherently and persuasively</strong> in collaborative
+discussion and in presenting ideas to a specific audience in both written
+and oral forms; and</p>
+</li>
+<li>
+<p>apply<strong> collaborative skills</strong> in managing the project effectively
+to achieve the group’s goals.</p>
+</li>
+</ul>
+<p>Students work in <strong>groups of four to five</strong> within their class
+on a project that addresses a real-world problem or opportunity. PW is
+a <strong>coursework subject completed within the first year of Junior College</strong>,
+and students are expected to adhere strictly to assessment timelines and
+requirements for the following assessment components:</p>
+<ul>
+<li>
+<p><strong>Project Summary<br></strong>Each group submits a written Project
+Summary documenting the real-world problem or opportunity identified, and
+the proposed ideas to address the project aim.</p>
+</li>
+<li>
+<p><strong>Individual Reflection<br></strong>Each student submits a written
+reflection of his/her analysis and evaluation of group ideas or his/her
+learning about self in the process of completing the project.</p>
+</li>
+<li>
+<p><strong>Oral Presentation<br></strong>Each student presents a part of
+the project orally to the assessors. This is followed by the group responding
+collectively to questions posed by the assessors.</p>
+</li>
+</ul>
+<h4>A-Level Syllabus</h4>
+<p>Click <a href="https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/8882_y26_sy.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>here</u></a> for
+an overview of the Project Work syllabus as well as the assessment format.</p>
+<p>From 2024, PW has been repositioned as a <strong>Pass/Fail subject</strong>.
+This shift redirects the focus from grades to <strong>deep learning</strong>,
+encouraging students to exercise greater <strong>agency, creativity and ownership</strong> in
+areas they care about. A <strong>Pass in PW is mandatory for admission to Autonomous Universities</strong>.</p>
+<h4>PW@CJC Social Impact Programme</h4>
+<p>At CJC, PW is more than an academic requirement. Grounded in meaningful
+learning and the joy of discovery, CJC nurtures students as <strong>creators, connectors and contributors</strong> by
+mentoring and facilitating the implementation of proposed PW ideas through
+service-learning experiences. Through authentic engagement with communities,
+students learn to uphold <strong>human dignity</strong>, work in <strong>solidarity</strong> with
+others, and contribute to the <strong>common good</strong> by addressing
+real-world needs in purposeful and responsible ways that create <strong>positive social impact</strong>.</p>
