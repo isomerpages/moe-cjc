@@ -6,11 +6,6 @@ third_nav_title: CCA
 variant: tiptap
 ---
 <h3><strong>CCAs</strong></h3>
-<p><strong>Notice to all JC1 students selecting their CCAs for 2022/2023:</strong>
-<br>For the latest information on the CCAs, click on <a href="https://docs.google.com/presentation/d/1iKzZrrKP9TpC182T72u44ogV3Re4b6qoRoyzJCxwWDY/edit#slide=id.g7d8fc49b24_73_63" rel="noopener noreferrer nofollow" target="_blank">this link.</a>
-<br>These slides contain information on the trial/audition dates for the various
-CCAs.</p>
-<p></p>
 <p>Click on any of the CCAs below to visit their Instagram pages!</p>
 <h4><strong>Visual and Performing Arts</strong></h4>
 <div class="isomer-image-wrapper">
