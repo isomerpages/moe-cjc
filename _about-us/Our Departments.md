@@ -709,6 +709,11 @@ JC1</p>
 <p>R P Mageswari</p>
 </td>
 </tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sim Sok Peng</p>
+</td>
+</tr>
 </tbody>
 </table>
 <h4><strong>Science (Biology and Physics)</strong></h4>
