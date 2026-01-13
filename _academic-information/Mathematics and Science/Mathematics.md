@@ -38,9 +38,9 @@ to a GC. The college uses the model by Texas Instruments.</p>
 <h4>A-Level Syllabus</h4>
 <p>Click the following links for an overview of the Mathematics syllabi as
 well as the assessment formats:
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics syllabus (Examination in 2024)</a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics (examination in 2024)</a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics (examination in 2024)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics syllabus (first year of Examination in 2025)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics (examination in 2025)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics (examination in 2025)</a>
 </p>
 <h4>Prerequisites/Suitability</h4>
 <p>Learning Mathematics is optional at the A-Level. However, it is offered
