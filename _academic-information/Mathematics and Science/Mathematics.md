@@ -211,8 +211,9 @@ questions.</p>
 <p>Construct mathematical arguments and proofs.</p>
 </li>
 </ul>
-<p>Approximate weightings for the AOs have also been introduced. More details
-will be given in due course.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Weightage_for_Math_AOs.png">
+</div>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
