@@ -1,8 +1,9 @@
 ---
-title: English Language &amp; Linguistics
+title: English Language & Linguistics
 permalink: /education/humanities/english-language-and-linguistics/
 description: ""
 third_nav_title: Humanities
+variant: markdown
 ---
 ### English Language &amp; Linguistics
 
@@ -25,16 +26,10 @@ third_nav_title: Humanities
     
 *   Why do we need to be aware of linguistic choices we make especially in the area of politics, institutions and news media
 
-<img style="width:80%" src="/images/ell1.png">
-<img style="width:80%" src="/images/ell2.png">
-
 #### A-Level Syllabus
 
 *   Click the following link for an overview of the English Language and Linguistics syllabus as well as the assessment format:
-    
-      
-    
-[https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508\_y21\_sy.pd](https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2021syllabus/9508_y21_sy.pdf)f
+    [https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9508_y26_sy.pdf](https://www.seab.gov.sg/files/A%20Level%20Syllabus%20Sch%20Cddts/2026/9508_y26_sy.pdf)
     
 
 #### Prerequisites/Suitability
@@ -117,5 +112,5 @@ Do you have a question that has not been addressed on this site? If so, feel fre
 *   HOD / Ms Pauline Chua:<br>
 [chua\_sook\_lan\_pauline@moe.edu.sg](mailto:chua_sook_lan_pauline@moe.edu.sg)
 
-*   Coordinator / Ms Alexandra Hofbauer:<br>
+*   Suject Head / Ms Alexandra Hofbauer:<br>
 [hofbauer\_alexandra\_leanne@moe.edu.sg](mailto:hofbauer_alexandra_leanne@moe.edu.sg)
