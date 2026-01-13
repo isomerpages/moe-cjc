@@ -129,18 +129,13 @@ forms:
 <p>We will carry out our own school-based assessments (SBA), which could
 be formative or summative, at different stages of students’ learning and
 at different points in time.</p>
-<p><strong>Changes to SBA (from 2024 JC1 Intake)</strong>
-<br>Mid-year Examination will be removed in phases: JC1/Pre-U1 in 2024, JC2/Pre-U2
-in 2025, and Pre-U3 in 2026.</p>
-<p>As with the primary and secondary schools, changes to SBA for the JCs/MI
-are intended to support schools in reducing the excessive focus on examinations,
-and provide more time and space for the development of 21CC. This will
-also provide JC/MI students with a more coherent education experience as
-they transit from secondary education to the A-Level.</p>
-<p>When planning SBA, the department will adopt the three guiding principles
-from MOE:
-<br>
-</p>
+<p>As with the primary and secondary schools, the removal of Mid-Year Examinations
+for both JC1 and JC2 are intended to support schools in reducing the excessive
+focus on examinations, and provide more time and space for the development
+of 21CC. This will also provide JC/MI students with a more coherent education
+experience as they transit from secondary education to the A-Level.</p>
+<p>When planning SBA, the department adopts the three guiding principles
+from MOE:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Guiding Principle 1: Schools should use assessment information to provide
