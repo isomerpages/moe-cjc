@@ -64,7 +64,7 @@ of 3 syllabuses:
 <p>H2 Mathematics and</p>
 </li>
 <li>
-<p>H3 Mathematics (in collaboration with SAJC and NUS and NTU-NIE)</p>
+<p>H3 Mathematics (in collaboration with SAJC, JPJC, NUS, and NTU-NIE)</p>
 </li>
 </ul>
 <p>H1 Mathematics is designed to provide students with a foundation in mathematics
