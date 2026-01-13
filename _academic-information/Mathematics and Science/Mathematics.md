@@ -314,11 +314,10 @@ CJC has consistently been achieving distinction in the Challenge in the
 last 2 years.</p>
 </li>
 </ol>
-<p>2023 JC2 team which won a distinction award</p>
+<p>2025 JC2 team which won a distinction award</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 JC2 team which won a distinction award" src="/images/Math___2023_International_Math_Modeling_Challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC2_Math_Distinction_Award.png">
 </div>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Statistical Poster Competition</strong>
