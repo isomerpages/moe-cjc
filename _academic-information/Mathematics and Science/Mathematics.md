@@ -367,7 +367,7 @@ at least a bronze medal each year.</p>
 <br>This is open to all students who are keen to challenge themselves in solving
 non-routine problems. For SMO, the college engages an external trainer
 to prepare for the competition. CJC has consistently been achieving the
-Commendation Award. AMC is open only to JC1 students.</p>
+bronze award in the past 2 years.</p>
 </li>
 </ol>
 <p>Past winners of Maths competitions</p>
