@@ -214,6 +214,7 @@ questions.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Weightage_for_Math_AOs.png">
 </div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -309,8 +310,8 @@ working with mathematics looks like. The participants have to be resourceful,
 do independent research as well as work closely as a team. One of the team
 members must have knowledge of Python programming. Students also have the
 opportunity to hone their Scientific Report Summary writing skills. Team
-CJC has consistently been achieving at least a merit in the Challenge in
-the last 5 years.</p>
+CJC has consistently been achieving distinction in the Challenge in the
+last 2 years.</p>
 </li>
 </ol>
 <p>2023 JC2 team which won a distinction award</p>
