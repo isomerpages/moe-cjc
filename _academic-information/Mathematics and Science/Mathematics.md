@@ -358,6 +358,9 @@ at least a bronze medal each year.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Past year entries by CJCians" src="/images/Math___2023_Graphing_Calculator_Competition.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025_Graphing_Calculator_Bronze_Award.jpg">
+</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Mathematical Olympiads (SMO) and Australian Maths competition (AMC)</strong>
