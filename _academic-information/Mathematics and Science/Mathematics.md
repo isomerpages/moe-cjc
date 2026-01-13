@@ -370,11 +370,6 @@ to prepare for the competition. CJC has consistently been achieving the
 bronze award in the past 2 years.</p>
 </li>
 </ol>
-<p>Past winners of Maths competitions</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Past winners of Maths competitions" src="/images/Math___2023_SMO_AMC_competition.jpg">
-</div>
-<p></p>
 <h4>Student Testimonials</h4>
 <p><em>“Now I realised that a lot of things in life can be modelled using Maths.”</em>&nbsp;
 <br>Tan Sow Young, 2T14 (class of 2022)</p>
