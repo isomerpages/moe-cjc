@@ -359,7 +359,7 @@ at least a bronze medal each year.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/2025_Graphing_Calculator_Bronze_Award.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025_Graphing_Calculator_Bronze_Award.jpg">
 </div>
 <ol start="4" data-tight="true" class="tight">
 <li>
