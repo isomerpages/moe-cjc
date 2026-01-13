@@ -38,9 +38,9 @@ to a GC. The college uses the model by Texas Instruments.</p>
 <h4>A-Level Syllabus</h4>
 <p>Click the following links for an overview of the Mathematics syllabi as
 well as the assessment formats:
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics syllabus (Examination in 2024)</a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics (examination in 2024)</a>
-<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics (examination in 2024)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/8865_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H1 Mathematics syllabus (first year of Examination in 2025)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9758_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H2 Mathematics (examination in 2025)</a>
+<br><a href="https://www.seab.gov.sg/docs/default-source/national-examinations/syllabus/alevel/2024syllabus/9820_y24_sy.pdf" rel="noopener noreferrer nofollow" target="_blank">H3 Mathematics (examination in 2025)</a>
 </p>
 <h4>Prerequisites/Suitability</h4>
 <p>Learning Mathematics is optional at the A-Level. However, it is offered
@@ -64,7 +64,7 @@ of 3 syllabuses:
 <p>H2 Mathematics and</p>
 </li>
 <li>
-<p>H3 Mathematics (in collaboration with SAJC and NUS and NTU-NIE)</p>
+<p>H3 Mathematics (in collaboration with SAJC, JPJC, NUS, and NTU-NIE)</p>
 </li>
 </ul>
 <p>H1 Mathematics is designed to provide students with a foundation in mathematics
@@ -129,18 +129,13 @@ forms:
 <p>We will carry out our own school-based assessments (SBA), which could
 be formative or summative, at different stages of students’ learning and
 at different points in time.</p>
-<p><strong>Changes to SBA (from 2024 JC1 Intake)</strong>
-<br>Mid-year Examination will be removed in phases: JC1/Pre-U1 in 2024, JC2/Pre-U2
-in 2025, and Pre-U3 in 2026.</p>
-<p>As with the primary and secondary schools, changes to SBA for the JCs/MI
-are intended to support schools in reducing the excessive focus on examinations,
-and provide more time and space for the development of 21CC. This will
-also provide JC/MI students with a more coherent education experience as
-they transit from secondary education to the A-Level.</p>
-<p>When planning SBA, the department will adopt the three guiding principles
-from MOE:
-<br>
-</p>
+<p>As with the primary and secondary schools, the removal of Mid-Year Examinations
+for both JC1 and JC2 are intended to support schools in reducing the excessive
+focus on examinations, and provide more time and space for the development
+of 21CC. This will also provide JC/MI students with a more coherent education
+experience as they transit from secondary education to the A-Level.</p>
+<p>When planning SBA, the department adopts the three guiding principles
+from MOE:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Guiding Principle 1: Schools should use assessment information to provide
@@ -216,8 +211,10 @@ questions.</p>
 <p>Construct mathematical arguments and proofs.</p>
 </li>
 </ul>
-<p>Approximate weightings for the AOs have also been introduced. More details
-will be given in due course.</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Weightage_for_Math_AOs.png">
+</div>
+<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -313,15 +310,14 @@ working with mathematics looks like. The participants have to be resourceful,
 do independent research as well as work closely as a team. One of the team
 members must have knowledge of Python programming. Students also have the
 opportunity to hone their Scientific Report Summary writing skills. Team
-CJC has consistently been achieving at least a merit in the Challenge in
-the last 5 years.</p>
+CJC has consistently been achieving distinction in the Challenge in the
+last 2 years.</p>
 </li>
 </ol>
-<p>2023 JC2 team which won a distinction award</p>
+<p>2025 JC2 team which won a distinction award</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2023 JC2 team which won a distinction award" src="/images/Math___2023_International_Math_Modeling_Challenge.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_JC2_Math_Distinction_Award.png">
 </div>
-<p></p>
 <ol start="2" data-tight="true" class="tight">
 <li>
 <p><strong>Statistical Poster Competition</strong>
@@ -362,20 +358,18 @@ at least a bronze medal each year.</p>
 <img style="width: 100%" height="auto" width="100%" alt="Past year entries by CJCians" src="/images/Math___2023_Graphing_Calculator_Competition.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/2025_Graphing_Calculator_Bronze_Award.jpg">
+</div>
 <ol start="4" data-tight="true" class="tight">
 <li>
 <p><strong>Singapore Mathematical Olympiads (SMO) and Australian Maths competition (AMC)</strong>
 <br>This is open to all students who are keen to challenge themselves in solving
 non-routine problems. For SMO, the college engages an external trainer
 to prepare for the competition. CJC has consistently been achieving the
-Commendation Award. AMC is open only to JC1 students.</p>
+bronze award in the past 2 years.</p>
 </li>
 </ol>
-<p>Past winners of Maths competitions</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="Past winners of Maths competitions" src="/images/Math___2023_SMO_AMC_competition.jpg">
-</div>
-<p></p>
 <h4>Student Testimonials</h4>
 <p><em>“Now I realised that a lot of things in life can be modelled using Maths.”</em>&nbsp;
 <br>Tan Sow Young, 2T14 (class of 2022)</p>
