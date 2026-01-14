@@ -39,40 +39,30 @@ holistic formation.</p>
 and joint initiatives. These partners include the Singapore Institute of
 Technology (SIT), National Youth Council (NYC), National Parks Board (NParks),
 Pathlight School, the Cyber Security Agency of Singapore (CSA), Digital
-and Intelligence Service (DIS) and JTC Corporation.</p>
-<p>&nbsp;</p>
+and Intelligence Service (DIS) and JTC Corporation.&nbsp;</p>
 <p>These partnerships reflect a shared commitment to creating authentic learning
 experiences beyond the classroom, spanning digital capability, sustainability,
 community engagement and inclusive education. CJC will begin collaborating
 with partners from this year, with programmes and student opportunities
 progressively developed and introduced over the next year. These collaborations
 will commence well ahead of the physical move, allowing students to benefit
-from educational synergies even before the new campus is completed.</p>
-<p>&nbsp;</p>
+from educational synergies even before the new campus is completed.&nbsp;</p>
 <p>“This relocation represents a considered and forward-looking step in CJC’s
 journey. While our address will change, what defines us does not. Being
-close neighbours with the Punggol Digital</p>
-<p>
-<br>
+close neighbours with the Punggol Digital District allows us to build more
+intentionally on CJC’s existing strengths in academic rigour, character
+formation and community engagement, by situating our students within a
+rich ecosystem of learning, innovation and civic life. It is an opportunity
+to deepen what we already do well, while preparing our students for the
+realities of a rapidly evolving Singapore,” said <strong>Mr Bernard Tan, Chairman, School Management Committee, Catholic Junior College.&nbsp;</strong>
 </p>
-<p>District allows us to build more intentionally on CJC’s existing strengths
-in academic rigour, character formation and community engagement, by situating
-our students within a rich ecosystem of learning, innovation and civic
-life. It is an opportunity to deepen what we already do well, while preparing
-our students for the realities of a rapidly evolving Singapore,” said <strong>Mr Bernard Tan, Chairman, School Management Committee, Catholic Junior College.</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
-<h1>A Unique Position Close to a National Digital District</h1>
-<p><strong>&nbsp;</strong>
-</p>
+<h4>A Unique Position Close to a National Digital District<strong>&nbsp;</strong></h4>
 <p>PDD has been purpose-built as a national hub where education, innovation,
 industry and community life converge. The proximity of CJC’s new campus
 to PDD will allow the college to provide a uniquely integrated environment
 for learning and development. The wider PDD brings together industry, applied
 research, community facilities, residential neighbourhoods and green spaces,
-creating a living environment where learning, work and community life intersect.</p>
-<p>&nbsp;</p>
+creating a living environment where learning, work and community life intersect.&nbsp;</p>
 <p><strong>Deputy Prime Minister, Minister for Trade and Industry, and Grassroots Adviser for Punggol GRC, Mr Gan Kim Yong, said, </strong>“The
 Punggol Digital District (PDD) is Singapore’s flagship innovation district,
 designed to integrate education, industry, community, and nature. The relocation
@@ -80,9 +70,7 @@ of Catholic Junior College will situate pre-university education within
 an ecosystem where knowledge is applied, skills are developed, and students
 can better connect what they learn to the world beyond school. This way,
 we can build a place where learning, work and community life come together,
-and where different generations can grow and thrive<strong>.”</strong>
-</p>
-<p><strong>&nbsp;</strong>
+and where different generations can grow and thrive<strong>.”&nbsp;</strong>
 </p>
 <p>The new campus is targeted for operation tentatively in 2034. Programme
 development and pilot initiatives with partners will, however, start well
