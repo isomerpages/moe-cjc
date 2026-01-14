@@ -7,14 +7,14 @@ variant: tiptap
 ---
 <h4>About the Programme</h4>
 <p>Project Work (PW) is a distinctive subject in the A-Level curriculum that
-equips students with future-ready competencies and essential life skills
-through authentic, real-world learning. Through an integrated and applied
-learning approach, students draw on interdisciplinary knowledge and emerging
-21st Century Competencies (E21CC) to explore real-world issues. They learn
-to consider multiple perspectives, work collaboratively, and develop meaningful
-and innovative solutions. Through this process, students also grow as responsible
-individuals, learning to manage relationships and work effectively with
-peers from diverse backgrounds.</p>
+equips students with <strong>future-ready competencies and essential life skills</strong> through
+authentic, real-world learning. Through an integrated and applied learning
+approach, students draw on <strong>interdisciplinary knowledge and emerging 21st Century Competencies (E21CC)</strong> to
+explore real-world issues. They learn to consider multiple perspectives,
+work collaboratively, and develop meaningful and innovative solutions.
+Through this process, students also grow as <strong>responsible individuals</strong>,
+learning to manage relationships and work effectively with peers from diverse
+backgrounds.</p>
 <p>By the end of the PW cycle, students will be able to:</p>
 <ul>
 <li>
