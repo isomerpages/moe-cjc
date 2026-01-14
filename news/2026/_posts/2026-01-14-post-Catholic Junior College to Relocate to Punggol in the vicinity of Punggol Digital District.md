@@ -121,4 +121,42 @@ As CJC moves forward, its commitment to the broad Catholic principles of
 Truth and Love remains a steady foundation, guiding how young people are
 formed regardless of changes in place or circumstance,” said <strong>Monsignor Stephen Yim, Vicar General of the Archdiocese of Singapore.</strong>
 </p>
-<p></p>
+<h4>The Cornerstone Differentiator: Collaborative Learning Synergies between CJC and SIT</h4>
+<p>Within this setting, CJC will be close neighbours with the Singapore Institute
+of Technology. CJC’s proximity to SIT opens up opportunities for earlier
+exposure to university learning and applied education, helping students
+make more informed post-A-Level choices.&nbsp;</p>
+<p>Through collaborative programmes, CJC students will gain early exposure
+to selected areas of university studies by working alongside SIT’s academic
+staff and students to explore issues and prototype solutions to real-world
+challenges, including those that make a positive social impact in the Punggol
+community.&nbsp;</p>
+<p>CJC students will also be able to tap on SIT’s talent pool as resource
+persons to help fulfil their GCE A-level examination and Project Work assessment.
+The impact of the partnership will also go beyond the two institutions,
+as they collaborate on outreach activities for secondary schools in Punggol
+and beyond. Both institutions will also explore shared infrastructure and
+optimised use of facilities to expand access for students and the wider
+community. These initiatives span diverse fields such as engineering, IT
+and digital media, sustainability, and healthcare, and aim to nurture character
+formation and foster early talent cultivation.&nbsp;</p>
+<p><strong>Professor Chua Kee Chaing, President, Singapore Institute of Technology, </strong>said:
+“CJC’s proximity to SIT creates powerful synergy. For CJC students interested
+in applied learning at the University level, they gain exposure to SIT’s
+modules and applied research projects. For SIT students, this partnership
+creates the platform for joint initiatives that reinforce their technical
+mastery while honing leadership, mentorship and problem-solving skills.”</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>About Catholic Junior College&nbsp;</strong>
+</p>
+<p>Singapore’s third-oldest junior college, Catholic Junior College is a
+pre-university educational institution that develops students holistically.
+We are motivated by the broad Catholic principles of Truth and Love to
+create a values-centred environment that balances academic, character and
+spiritual development.&nbsp;</p>
+<p>Our promise is that every CJC student will become a thinker with a mission,
+leader with a heart - a key to success in a globalised, fast-changing world.</p>
+<p>&nbsp;</p>
+<p><em>In Veritate et Caritate</em>
+</p>
