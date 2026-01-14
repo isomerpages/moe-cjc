@@ -155,8 +155,8 @@ pre-university educational institution that develops students holistically.
 We are motivated by the broad Catholic principles of Truth and Love to
 create a values-centred environment that balances academic, character and
 spiritual development.&nbsp;</p>
-<p>Our promise is that every CJC student will become a thinker with a mission,
-leader with a heart - a key to success in a globalised, fast-changing world.</p>
+<p>Our promise is that every CJC student will become a Thinker with a Mission,
+Leader with a Heart - a key to success in a globalised, fast-changing world.</p>
 <p>&nbsp;</p>
 <p><em>In Veritate et Caritate</em>
 </p>
