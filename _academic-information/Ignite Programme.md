@@ -2,29 +2,31 @@
 title: Ignite Programme
 permalink: /education/ignite-programme/
 description: ""
+variant: markdown
 ---
 ### **Ignite Programme**
-The CJC Ignite Programme is for the boldly curious, the analytical thinker, and the aspiring change-maker. If you are ready to raise the bar, value questions as much as answers, and seek to create change in your community, you belong in our Ignite Programme.
+**
 
-As a critical thinker and future-oriented leader, you will be given the opportunities to ask difficult questions, analyse complex problems, and wrestle with abstraction. This talent development programme prepares you truly to be a Thinker with a Mission, a Leader with a Heart.
+### Ignite Talent Development Programme
 
-<img src="/images/igniteprogramme1.jpg" style="width:85%">
-<center><b>Students examining a water issue in a rural village, using lenses of social science and physics.</b></center>
+At Catholic Junior College, we nurture students to become thinkers, leaders and changemakers. The Ignite Talent Development Programme offers opportunities for students to stretch academically, grow in leadership and apply learning beyond the classroom.
 
-Students in the Ignite Programme can look forward to the following:
-*   **Engaged interaction in seminars**, encouraging more engaged exploration, reflection and expression of ideas.
-*   **Authentic service-learning** with a target community and/or advocacy programme
-*   **Integration of subject disciplines**, through concept-based and inquiry-led approaches
-*   **Greater opportunities** to develop life skills, communication and leadership skills, and intellectual traits
-*   **The signature Ignite Conference**, focusing on themes of sustainable development, featuring industry experts and experience-based learning
+#### Ignite Classes
 
-<img src="/images/igniteprogramme2.jpg" style="width:85%">
+Students may apply for selection into four Ignite classes, which provide priority access to academic stretch and growth opportunities. These classes are designed to challenge students intellectually, helping them deepen subject mastery, think critically and creatively, and develop confidence and expression.
 
-<center><b>Students interacting with industry leaders over dinner</b></center>
+Beyond learning journeys, students gain exclusive access to top university seminars, national forums, industry attachments and academic competitions, broadening their horizons and testing their skills against high-performing peers. They are matched with intellectual peers in four Ignite classes, a signature component of CJC’s talent development programme, enabling collaboration and exchange of ideas.**
 
-<img src="/images/igniteprogramme3.jpg" style="width:85%">
+![](/images/image4.jpg)
 
-<center><b>An Ignite student presenting her research on resolving water challenges to academics and other students</b></center>
+#### Ignite+ Programme
 
-#### **Admission**
-A briefing will be held in the week of Orientation and interested students will be invited to sit for a selection test and may be asked to a group interview. We are especially keen to have candidates who demonstrate intellectual curiosity and a willingness to collaborate with others to learn and grow.
+Students who demonstrate consistent academic performance and leadership potential may be selected towards the end of their JC1 year for the Ignite+ Programme. Ignite+ focuses on developing community leadership and service, providing students with mentoring, grassroots involvement and service-learning opportunities.
+
+Through these experiences, students are challenged to grow in empathy, self-awareness and purpose, learning to lead with humility and create meaningful social impact. Ignite+ students also connect with teacher-mentors and prominent CJC alumni, who serve as role models, providing education and career guidance, inspiration and networks to support personal growth and meaningful contribution.
+
+The Ignite Conference serves as a hands-on capstone where students design and implement Local Service-Learning Projects (LSLPs) using Design Thinking principles, applying their academic learning in a meaningful context. During the conference, students are inspired by prominent changemakers, who show how to bridge intellect with empathy and use their knowledge and skills for purposeful service to others.
+
+![](/images/image5.jpg)
+
+The Ignite Talent Development Programme equips students with the knowledge, skills and mindset to excel academically, lead with purpose and contribute meaningfully to the community — **Challenging Minds, Cultivating Hearts, Creating Change.**
