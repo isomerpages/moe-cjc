@@ -38,8 +38,8 @@ holistic formation.</p>
 (MOUs) with a group of key partners to formalise programme collaborations
 and joint initiatives. These partners include the Singapore Institute of
 Technology (SIT), National Youth Council (NYC), National Parks Board (NParks),
-Pathlight School, the Cyber Security Agency of Singapore (CSA), Digital
-and Intelligence Service (DIS) and JTC Corporation.&nbsp;</p>
+Pathlight School, the Cyber Security Agency of Singapore (CSA), and JTC
+Corporation.&nbsp;</p>
 <p>These partnerships reflect a shared commitment to creating authentic learning
 experiences beyond the classroom, spanning digital capability, sustainability,
 community engagement and inclusive education. CJC will begin collaborating
