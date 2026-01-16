@@ -7,6 +7,14 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Min_Edn_Mr_Desmond_Lee_wefie_with_CJC_and_partners.jpg">
+</div>
+<p><a href="https://www.cjc.moe.edu.sg/catholic-junior-college-to-relocate-to-punggol-in-the-vicinity-of-punggol-digital-district/" rel="noopener nofollow" target="_blank">CJC to Relocate to Punggol in the vicinity of Punggol Digital District</a>
+<br>CJC announced its relocation from its Whitley Road campus to a new site
+in the vicinity of the Punggol Digital District (PDD). The new campus is
+targeted for operation tentatively in 2034.</p>
+<p></p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_1495.jpg">
 </div>
 <p><a href="50th Anniversary Homecoming Dinner" rel="noopener nofollow" target="_blank">JC1 End of Year Thanksgiving Ceremony</a>
