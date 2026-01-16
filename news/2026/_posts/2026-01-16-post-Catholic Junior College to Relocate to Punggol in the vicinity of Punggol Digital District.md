@@ -63,6 +63,10 @@ innovation and civic life. It is an opportunity to deepen what we already
 do well, while preparing our students for the realities of a rapidly evolving
 Singapore,” said <strong>Mr Bernard Tan, Chairman, School Management Committee, Catholic Junior College.</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Mr_Bernard_Tan_Chairman_CJC_SMC_16_Jan.jpg">
+</div>
 <h4>A Unique Position Close to a National Digital District<strong>&nbsp;</strong></h4>
 <p>Masterplanned, built, and managed by JTC, PDD has been purpose-built as
 a national hub where education, innovation, industry and community life
@@ -79,6 +83,10 @@ an ecosystem where knowledge is applied, skills are developed, and students
 can better connect what they learn to the world beyond school. This way,
 we can build a place where learning, work and community life come together,
 and where different generations can grow and thrive.”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_Press_Event_DPM_Gan_Kim_Yong_s_Speech_2.jpg">
+</div>
 <h4>The 4 Pillars: CJC’s Future-Focused Educational Identity<strong>&nbsp;</strong></h4>
 <p><strong>1) Being Digital: Innovation with Human Intelligence at the Centre&nbsp;</strong>
 </p>
@@ -143,6 +151,10 @@ explore shared infrastructure and optimised use of facilities to expand
 access for students and the wider community. These initiatives span diverse
 fields such as engineering, IT and digital media, sustainability, and healthcare,
 and aim to nurture character formation and foster early talent cultivation.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_signs_MOU_with_SIT_16_Jan_2026.jpg">
+</div>
 <p><strong>Professor Chua Kee Chaing, President, Singapore Institute of Technology, </strong>said:
 “CJC’s proximity to SIT creates powerful synergy. For CJC students interested
 in applied learning at the University level, they gain exposure to SIT’s
