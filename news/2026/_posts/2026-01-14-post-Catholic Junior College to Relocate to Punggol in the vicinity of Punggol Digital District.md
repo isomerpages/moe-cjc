@@ -55,17 +55,14 @@ innovation and civic life. It is an opportunity to deepen what we already
 do well, while preparing our students for the realities of a rapidly evolving
 Singapore,” said <strong>Mr Bernard Tan, Chairman, School Management Committee, Catholic Junior College.</strong>
 </p>
-<h4>A Unique Position Close to a National Digital District</h4>
-<p><strong>&nbsp;</strong>
-</p>
+<h4>A Unique Position Close to a National Digital District<strong>&nbsp;</strong></h4>
 <p>Masterplanned, built, and managed by JTC, PDD has been purpose-built as
 a national hub where education, innovation, industry and community life
 converge. The proximity of CJC’s new campus to PDD will allow the college
 to provide a uniquely integrated environment for learning and development.
 Industry, applied research, community facilities, residential neighbourhoods
 and green spaces come together, creating a living environment where learning,
-work and community life intersect.</p>
-<p>&nbsp;</p>
+work and community life intersect.&nbsp;</p>
 <p><strong>Deputy Prime Minister and Minister for Trade and Industry, and Grassroots Adviser for Punggol GRC Grassroots Organisations Mr Gan Kim Yong</strong>,
 said, “The PDD is Singapore’s flagship innovation district, designed to
 integrate education, industry, community, and nature. The relocation of
@@ -74,7 +71,57 @@ an ecosystem where knowledge is applied, skills are developed, and students
 can better connect what they learn to the world beyond school. This way,
 we can build a place where learning, work and community life come together,
 and where different generations can grow and thrive.”</p>
+<h4>The 4 Pillars: CJC’s Future-Focused Educational Identity<strong>&nbsp;</strong></h4>
+<p><strong>1) Being Digital: Innovation with Human Intelligence at the Centre&nbsp;</strong>
+</p>
+<p>Being located close to PDD will allow CJC to develop programmes that expose
+students to areas such as artificial intelligence, cybersecurity and data-driven
+systems, while keeping human judgement, ethics and creativity at the centre
+of learning. Digital capability will cut across disciplines, including
+the Humanities and Arts. These programmes are designed to help students
+understand how technology shapes society, decision-making and human relationships,
+affirming the Humanities as essential to interpreting, questioning and
+guiding technological change, rather than merely adapting to it.</p>
+<p><strong>2) Being Sustainable: Learning with, and for, Our Community and Nation</strong>
+</p>
 <p><strong>&nbsp;</strong>
+</p>
+<p>Drawing on Punggol’s coastal environment, waterways and proximity to nature,
+CJC will integrate sustainability into authentic student learning. Programmes
+will connect classroom knowledge with real-world environmental challenges,
+allowing students to engage in conservation, circularity and eco-stewardship
+initiatives that build habits of care for the environment. Sustainability
+education at CJC will be experiential and action-oriented, helping students
+see the relationship between science, policy, community and long-term national
+resilience.</p>
+<p>&nbsp;</p>
+<h2>3) Being Singaporean: A Community-Connected Campus Built on Social Friendship</h2>
+<p><strong>&nbsp;</strong>
+</p>
+<p>CJC’s new campus will be open and deeply connected to the community, building
+not just proximity with the heartlands, but the spirit of social friendship.
+Programmes will foster a strong sense of citizenship, empathy and shared
+responsibility, helping students appreciate the duties and obligations
+of living in a diverse society. By engaging meaningfully with the community,
+students will develop a grounded understanding of what it means to contribute
+to Singapore’s social fabric, drawing on perspectives from history, literature,
+philosophy and the social sciences to better understand identity, diversity
+and shared responsibility in a complex society.</p>
+<p>&nbsp;</p>
+<h2>4) Being Values-Driven: A Foundation for Character and Purpose</h2>
+<p><strong>&nbsp;</strong>
+</p>
+<p>Amidst these changes, CJC will continue to be guided by its long-standing
+Catholic values and ethos, with an emphasis on character, ethics and service.
+The College remains welcoming to students of all backgrounds, and its mission
+will continue to focus on forming young people of conscience, compassion
+and courage.</p>
+<p>&nbsp;</p>
+<p>“The purpose of education is not merely to prepare students to make a
+living. It is about forming young people to live lives of dignity and respect.
+As CJC moves forward, its commitment to the broad Catholic principles of
+Truth and Love remains a steady foundation, guiding how young people are
+formed regardless of changes in place or circumstance,” said <strong>Monsignor Stephen Yim, Vicar General of the Archdiocese of Singapore.&nbsp;</strong>
 </p>
 <p><strong>About Catholic Junior College&nbsp;</strong>
 </p>
