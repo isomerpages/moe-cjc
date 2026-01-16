@@ -10,6 +10,10 @@ variant: tiptap
 ---
 <p><strong>MOE Press Release 16 January 2026</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_s_redevt_plans_and_relocation_to_Punggol_Large_group_shot_with_students.jpg">
+</div>
 <p><strong>SINGAPORE, 16 January 2026 </strong>– Catholic Junior College
 (CJC) today announced its decision to relocate from its Whitley Road campus
 to a new site in Punggol, in the vicinity of the Punggol Digital District
@@ -20,6 +24,10 @@ and Minister for Trade and Industry, and Grassroots Adviser for Punggol
 GRC Grassroots Organisations, Mr Gan Kim Yong, as Guest of Honour. Also
 present were Minister for Education Mr Desmond Lee, along with representatives
 from partner organisations, alumni, parents and students.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_to_R___Principal_Mrs_Woo_Soo_Min_Minister_for_Education_Mr_Desmond_Lee_Dy_PM_Mr_Gan_Kim_Yong_SMC_Chair_Mr_Bernard_Tan_low_res.jpg">
+</div>
 <p>The move marks a significant new chapter for the College, positioning
 CJC to deepen and differentiate the pre-university experience through closer
 integration with higher education, industry, community and nature-based
