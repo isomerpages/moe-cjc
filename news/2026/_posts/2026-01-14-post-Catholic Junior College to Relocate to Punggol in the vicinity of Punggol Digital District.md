@@ -82,9 +82,7 @@ the Humanities and Arts. These programmes are designed to help students
 understand how technology shapes society, decision-making and human relationships,
 affirming the Humanities as essential to interpreting, questioning and
 guiding technological change, rather than merely adapting to it.</p>
-<p><strong>2) Being Sustainable: Learning with, and for, Our Community and Nation</strong>
-</p>
-<p><strong>&nbsp;</strong>
+<p><strong>2) Being Sustainable: Learning with, and for, Our Community and Nation&nbsp;</strong>
 </p>
 <p>Drawing on Punggol’s coastal environment, waterways and proximity to nature,
 CJC will integrate sustainability into authentic student learning. Programmes
@@ -93,10 +91,8 @@ allowing students to engage in conservation, circularity and eco-stewardship
 initiatives that build habits of care for the environment. Sustainability
 education at CJC will be experiential and action-oriented, helping students
 see the relationship between science, policy, community and long-term national
-resilience.</p>
-<p>&nbsp;</p>
-<h2>3) Being Singaporean: A Community-Connected Campus Built on Social Friendship</h2>
-<p><strong>&nbsp;</strong>
+resilience.&nbsp;</p>
+<p><strong>3) Being Singaporean: A Community-Connected Campus Built on Social Friendship&nbsp;</strong>
 </p>
 <p>CJC’s new campus will be open and deeply connected to the community, building
 not just proximity with the heartlands, but the spirit of social friendship.
@@ -106,9 +102,9 @@ of living in a diverse society. By engaging meaningfully with the community,
 students will develop a grounded understanding of what it means to contribute
 to Singapore’s social fabric, drawing on perspectives from history, literature,
 philosophy and the social sciences to better understand identity, diversity
-and shared responsibility in a complex society.</p>
-<p>&nbsp;</p>
-<h2>4) Being Values-Driven: A Foundation for Character and Purpose</h2>
+and shared responsibility in a complex society.&nbsp;</p>
+<p><strong>4) Being Values-Driven: A Foundation for Character and Purpose</strong>
+</p>
 <p><strong>&nbsp;</strong>
 </p>
 <p>Amidst these changes, CJC will continue to be guided by its long-standing
