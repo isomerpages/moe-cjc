@@ -105,20 +105,43 @@ philosophy and the social sciences to better understand identity, diversity
 and shared responsibility in a complex society.&nbsp;</p>
 <p><strong>4) Being Values-Driven: A Foundation for Character and Purpose</strong>
 </p>
-<p><strong>&nbsp;</strong>
-</p>
 <p>Amidst these changes, CJC will continue to be guided by its long-standing
 Catholic values and ethos, with an emphasis on character, ethics and service.
 The College remains welcoming to students of all backgrounds, and its mission
 will continue to focus on forming young people of conscience, compassion
-and courage.</p>
-<p>&nbsp;</p>
+and courage.&nbsp;</p>
 <p>“The purpose of education is not merely to prepare students to make a
 living. It is about forming young people to live lives of dignity and respect.
 As CJC moves forward, its commitment to the broad Catholic principles of
 Truth and Love remains a steady foundation, guiding how young people are
 formed regardless of changes in place or circumstance,” said <strong>Monsignor Stephen Yim, Vicar General of the Archdiocese of Singapore.&nbsp;</strong>
 </p>
+<h4>The Cornerstone Differentiator: Collaborative Learning Synergies between CJC and SIT</h4>
+<p>Within this setting, CJC will be close neighbours with the SIT. CJC’s
+proximity to SIT opens up opportunities for earlier exposure to university
+learning and applied education, helping students make more informed post-A-Level
+choices.&nbsp;</p>
+<p>Through collaborative programmes, CJC students will gain early exposure
+to selected areas of university studies by working alongside SIT’s academic
+staff and students to explore issues and prototype solutions to real-world
+challenges, including those that make a positive social impact in the Punggol
+community.&nbsp;</p>
+<p>CJC students will also be able to tap on the university’s talent pool
+as resource persons to enrich their learning through academic exposure
+and research-oriented conversations. The impact of the partnership will
+also go beyond the two institutions, as they collaborate on outreach activities
+for secondary schools in Punggol and beyond. Both institutions will also
+explore shared infrastructure and optimised use of facilities to expand
+access for students and the wider community. These initiatives span diverse
+fields such as engineering, IT and digital media, sustainability, and healthcare,
+and aim to nurture character formation and foster early talent cultivation.&nbsp;</p>
+<p><strong>Professor Chua Kee Chaing, President, Singapore Institute of Technology, </strong>said:
+“CJC’s proximity to SIT creates powerful synergy. For CJC students interested
+in applied learning at the University level, they gain exposure to SIT’s
+modules and applied research projects. For SIT students, this partnership
+creates the platform for joint initiatives that reinforce their technical
+mastery while honing leadership, mentorship and problem-solving skills.”</p>
+<p></p>
 <p><strong>About Catholic Junior College&nbsp;</strong>
 </p>
 <p>Singapore’s third-oldest junior college, Catholic Junior College is a
