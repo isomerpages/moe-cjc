@@ -6,9 +6,6 @@ variant: tiptap
 description: ""
 third_nav_title: "2026"
 ---
-<p><strong>MOE Press Release 16 January 2026</strong>
-</p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_s_redevt_plans_and_relocation_to_Punggol_Large_group_shot_with_students.jpg">
 </div>
