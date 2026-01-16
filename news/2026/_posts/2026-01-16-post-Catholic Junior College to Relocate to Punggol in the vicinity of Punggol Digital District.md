@@ -91,7 +91,7 @@ and where different generations can grow and thrive.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CJC_Press_Event_DPM_Gan_Kim_Yong_s_Speech_2.jpg">
 </div>
-<p>(Mr Gan Kim Yong, Dy Prime Minister and Minster for Trade and Industry)</p>
+<p>(Mr Gan Kim Yong, Deputy Prime Minister and Minster for Trade and Industry)</p>
 <h4>The 4 Pillars: CJC’s Future-Focused Educational Identity<strong>&nbsp;</strong></h4>
 <p><strong>1) Being Digital: Innovation with Human Intelligence at the Centre&nbsp;</strong>
 </p>
