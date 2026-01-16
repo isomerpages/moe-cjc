@@ -26,7 +26,7 @@ from partner organisations, alumni, parents and students.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_to_R___Principal_Mrs_Woo_Soo_Min_Minister_for_Education_Mr_Desmond_Lee_Dy_PM_Mr_Gan_Kim_Yong_SMC_Chair_Mr_Bernard_Tan_low_res.jpg">
 </div>
 <p>(From left to right: Mrs Woo Soo Min, Principal, CJC, Mr Desmond Lee,
-Minister for Education, Mr Gan Kim Yong, Dy Prime Minister and Minster
+Minister for Education, Mr Gan Kim Yong, Dy Prime Minister and Minister
 for Trade and Industry, Mr Bernard Tan, Chairman, CJC School Mgmt Committee)</p>
 <p>The move marks a significant new chapter for the College, positioning
 CJC to deepen and differentiate the pre-university experience through closer
@@ -88,7 +88,7 @@ and where different generations can grow and thrive.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CJC_Press_Event_DPM_Gan_Kim_Yong_s_Speech_2.jpg">
 </div>
-<p>(Mr Gan Kim Yong, Deputy Prime Minister and Minster for Trade and Industry)</p>
+<p>(Mr Gan Kim Yong, Deputy Prime Minister and Minister for Trade and Industry)</p>
 <h4>The 4 Pillars: CJC’s Future-Focused Educational Identity<strong>&nbsp;</strong></h4>
 <p><strong>1) Being Digital: Innovation with Human Intelligence at the Centre&nbsp;</strong>
 </p>
