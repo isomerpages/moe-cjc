@@ -8,6 +8,10 @@ third_nav_title: "2026"
 ---
 <p><strong>MOE Press Release 16 January 2026</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_s_redevt_plans_and_relocation_to_Punggol_Large_group_shot_with_students.jpg">
+</div>
 <p><strong>SINGAPORE, 16 January 2026 </strong>– Catholic Junior College
 (CJC) today announced its decision to relocate from its Whitley Road campus
 to a new site in Punggol, in the vicinity of the Punggol Digital District
@@ -18,6 +22,13 @@ and Minister for Trade and Industry, and Grassroots Adviser for Punggol
 GRC Grassroots Organisations, Mr Gan Kim Yong, as Guest of Honour. Also
 present were Minister for Education Mr Desmond Lee, along with representatives
 from partner organisations, alumni, parents and students.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_to_R___Principal_Mrs_Woo_Soo_Min_Minister_for_Education_Mr_Desmond_Lee_Dy_PM_Mr_Gan_Kim_Yong_SMC_Chair_Mr_Bernard_Tan_low_res.jpg">
+</div>
+<p>(From left to right: Mrs Woo Soo Min, Principal, CJC, Mr Desmond Lee,
+Minister for Education, Mr Gan Kim Yong, Dy Prime Minister and Minster
+for Trade and Industry, Mr Bernard Tan, Chairman, CJC School Mgmt Committee)</p>
 <p>The move marks a significant new chapter for the College, positioning
 CJC to deepen and differentiate the pre-university experience through closer
 integration with higher education, industry, community and nature-based
@@ -53,6 +64,11 @@ innovation and civic life. It is an opportunity to deepen what we already
 do well, while preparing our students for the realities of a rapidly evolving
 Singapore,” said <strong>Mr Bernard Tan, Chairman, School Management Committee, Catholic Junior College.</strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/Mr_Bernard_Tan_Chairman_CJC_SMC_16_Jan.jpg">
+</div>
+<p>(Mr Bernard Tan, Chairman, CJC School Mgmt Committee)</p>
 <h4>A Unique Position Close to a National Digital District<strong>&nbsp;</strong></h4>
 <p>Masterplanned, built, and managed by JTC, PDD has been purpose-built as
 a national hub where education, innovation, industry and community life
@@ -69,6 +85,11 @@ an ecosystem where knowledge is applied, skills are developed, and students
 can better connect what they learn to the world beyond school. This way,
 we can build a place where learning, work and community life come together,
 and where different generations can grow and thrive.”</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/CJC_Press_Event_DPM_Gan_Kim_Yong_s_Speech_2.jpg">
+</div>
+<p>(Mr Gan Kim Yong, Deputy Prime Minister and Minster for Trade and Industry)</p>
 <h4>The 4 Pillars: CJC’s Future-Focused Educational Identity<strong>&nbsp;</strong></h4>
 <p><strong>1) Being Digital: Innovation with Human Intelligence at the Centre&nbsp;</strong>
 </p>
@@ -101,6 +122,12 @@ students will develop a grounded understanding of what it means to contribute
 to Singapore’s social fabric, drawing on perspectives from history, literature,
 philosophy and the social sciences to better understand identity, diversity
 and shared responsibility in a complex society.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Min_Edn_Mr_Desmond_Lee_wefie_with_CJC_and_partners.jpg">
+</div>
+<p>(Mr Desmond Lee, Minister for Education, takes a wefie with CJC and MOU
+partners)</p>
 <p><strong>4) Being Values-Driven: A Foundation for Character and Purpose</strong>
 </p>
 <p>Amidst these changes, CJC will continue to be guided by its long-standing
@@ -133,6 +160,13 @@ explore shared infrastructure and optimised use of facilities to expand
 access for students and the wider community. These initiatives span diverse
 fields such as engineering, IT and digital media, sustainability, and healthcare,
 and aim to nurture character formation and foster early talent cultivation.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJC_signs_MOU_with_SIT_16_Jan_2026.jpg">
+</div>
+<p>(From left to right: Mr Bernard Tan, Chairman, CJC School Mgmt Committee,
+Mrs Woo Soo Min, Principal, CJC, Professor Foo Yong Lim - Associate Provost,
+SIT, Professor Chua Kee Chaing – President, SIT)</p>
 <p><strong>Professor Chua Kee Chaing, President, Singapore Institute of Technology, </strong>said:
 “CJC’s proximity to SIT creates powerful synergy. For CJC students interested
 in applied learning at the University level, they gain exposure to SIT’s
