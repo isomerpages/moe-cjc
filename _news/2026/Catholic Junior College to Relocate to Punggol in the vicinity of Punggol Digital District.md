@@ -24,7 +24,7 @@ from partner organisations, alumni, parents and students.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_to_R___Principal_Mrs_Woo_Soo_Min_Minister_for_Education_Mr_Desmond_Lee_Dy_PM_Mr_Gan_Kim_Yong_SMC_Chair_Mr_Bernard_Tan_low_res.jpg">
 </div>
 <p>(From left to right: Mrs Woo Soo Min, Principal, CJC, Mr Desmond Lee,
-Minister for Education, Mr Gan Kim Yong, Dy Prime Minister and Minister
+Minister for Education, Mr Gan Kim Yong, Deputyy Prime Minister and Minister
 for Trade and Industry, Mr Bernard Tan, Chairman, CJC School Mgmt Committee)</p>
 <p>The move marks a significant new chapter for the College, positioning
 CJC to deepen and differentiate the pre-university experience through closer
@@ -139,9 +139,9 @@ Truth and Love remains a steady foundation, guiding how young people are
 formed regardless of changes in place or circumstance,” said <strong>Monsignor Stephen Yim, Vicar General of the Archdiocese of Singapore.&nbsp;</strong>
 </p>
 <h4>The Cornerstone Differentiator: Collaborative Learning Synergies between CJC and SIT</h4>
-<p>Within this setting, CJC will be close neighbours with the SIT. CJC’s
-proximity to SIT opens up opportunities for earlier exposure to university
-learning and applied education, helping students make more informed post-A-Level
+<p>Within this setting, CJC will be close neighbours with SIT. CJC’s proximity
+to SIT opens up opportunities for earlier exposure to university learning
+and applied education, helping students make more informed post-A-Level
 choices.&nbsp;</p>
 <p>Through collaborative programmes, CJC students will gain early exposure
 to selected areas of university studies by working alongside SIT’s academic
