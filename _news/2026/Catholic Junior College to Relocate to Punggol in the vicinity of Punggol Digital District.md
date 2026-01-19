@@ -24,7 +24,7 @@ from partner organisations, alumni, parents and students.&nbsp;</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/L_to_R___Principal_Mrs_Woo_Soo_Min_Minister_for_Education_Mr_Desmond_Lee_Dy_PM_Mr_Gan_Kim_Yong_SMC_Chair_Mr_Bernard_Tan_low_res.jpg">
 </div>
 <p>(From left to right: Mrs Woo Soo Min, Principal, CJC, Mr Desmond Lee,
-Minister for Education, Mr Gan Kim Yong, Deputyy Prime Minister and Minister
+Minister for Education, Mr Gan Kim Yong, Deputy Prime Minister and Minister
 for Trade and Industry, Mr Bernard Tan, Chairman, CJC School Mgmt Committee)</p>
 <p>The move marks a significant new chapter for the College, positioning
 CJC to deepen and differentiate the pre-university experience through closer
