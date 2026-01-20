@@ -39,7 +39,7 @@ educational synergies that both would offer.</p>
 with the School Leaders made the decision to move to Punggol as it offers
 a wide range of educational opportunities to enhance the value proposition
 of CJC to current and future students. CJC will remain a junior college
-offering the two-year A-level curriculum. It will leverage the partnerships
+offering the two-year A-Level curriculum. It will leverage the partnerships
 forged with its partners to further enhance its strengths in the Humanities
 and the Sciences in the academic domains and further the holistic formation
 of students through local service-learning projects serving the Punggol
@@ -73,6 +73,10 @@ mission junior college in Singapore to educate current and future CJCians.
 We seek to empower our students to learn joyfully In Truth and Love and
 become Thinkers with a Mission, Leaders with a Heart in their chosen vocation,
 in time to come.&nbsp;</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/CJ50_SG60_Greater_SG_Workout_Mrs_Woo_Soo_Min_Principal_CJC.jpg">
+</div>
 <p><em>In Veritate et Caritate!</em>
 </p>
 <p><strong>Mrs Woo Soo Min</strong>
