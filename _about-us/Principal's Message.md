@@ -49,9 +49,34 @@ be a good eight years before the Punggol campus is operationally ready
 in 2034, and we promise that the current campus will be upkept and maintained
 up to standard to support the teaching and learning of the current batches
 of students.</p>
+<h4>The CJ Family – 1 Flame, 1 Family</h4>
+<p>Regardless of our location, what defines CJC is not just its physical
+infrastructure; we are a community, lovingly referred to by students, past
+and present, as the CJ Family, and the CJ spirt will connect all associated
+with CJC. Regardless of our address, we welcome CJCians to come home!</p>
+<p>The pivotal role of educators at Catholic Junior College in enabling CJCians
+to learn and act to build the larger community is not to be taken for granted.
+Educators at CJC exemplify the college motto in their professional ethics
+and interaction with students and one another, always seeking to give of
+their best to students. They develop the students intellectually, form
+their values and character through creating learning opportunities, and
+journey with and encourage students in face of challenges that come their
+way. Through our teachers’ efforts to build the college ethos, anchored
+in the college motto, In Truth and Love, and family spirit of unity, CJC
+is a home away from home, a safe refuge for students where they are accepted
+and supported, where friendships are forged, and problems learned and overcome</p>
+<p>As we enter into the next 50 years of CJC’s history, we give thanks to
+God for the many blessings and graces granted upon the CJ community of
+staff and students, past and present. We pray for the continued guidance
+of the Holy Spirit as we refresh our value proposition as the only Catholic
+mission junior college in Singapore to educate current and future CJCians.
+We seek to empower our students to learn joyfully In Truth and Love and
+become Thinkers with a Mission, Leaders with a Heart in their chosen vocation,
+in time to come.&nbsp;</p>
 <p><em>In Veritate et Caritate!</em>
 </p>
 <p><strong>Mrs Woo Soo Min</strong>
 </p>
 <p><strong>Principal</strong>
 </p>
+<p></p>
