@@ -38,6 +38,11 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Victoria-marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Joys Lin Shi Ting / Senior Education and Career Guidance Counsellor</p>
 </td>
 </tr>
