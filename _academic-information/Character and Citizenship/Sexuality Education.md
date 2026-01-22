@@ -85,7 +85,7 @@ sexually transmitted infectious diseases.</p>
 and financial implications of STIs/HIV on an individual and the family,
 and the importance of responsible decision-making and seeking help. Abstinence
 and upholding family values are the key messages.</p>
-<p><strong>At Catholic Junior College, the eTeens programme will be implemented as follows in 2025:</strong>
+<p><strong>At Catholic Junior College, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_at_12_43_25_PM.png">
@@ -109,4 +109,3 @@ submitted by 30/06/2025.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a href="catholic_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
-<p></p>
