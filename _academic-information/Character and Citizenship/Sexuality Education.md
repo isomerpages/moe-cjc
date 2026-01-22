@@ -55,16 +55,13 @@ information on the scope of Sexuality Education in the school curriculum.</p>
 at Pre-University is on respectful relationships. Specifically, the JC/MI
 package covers themes of Interpersonal Relationships, Sexual Health, Sexual
 Behaviour, and Culture, Society and Law woven into the main focus on relationships.</p>
-<p><strong>At Catholic Junior College, the following Sexuality Education lessons will be taught in 2025:</strong>
+<p><strong>At Catholic Junior College, the following Sexuality Education lessons will be taught in 2026:</strong>
 </p>
+<p><strong><u>JC1</u></strong>
+</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_at_12_36_42_PM.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_at_12_33_52_PM.png">
-</div>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_at_12_39_34_PM.png">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/2026_JC1_CCE_SEd_lessons_pg_1.png">
 </div>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
