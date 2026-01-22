@@ -104,11 +104,10 @@ or <u>JC2</u> (<a href="https://go.gov.sg/cjcoptoutform2026jc2" rel="noopener no
 The completed form is to be submitted by 13/02/2026 for JC2 and 30/04/2026
 for JC1.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the JC1 Sexuality Education lessons and/or the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
-to complete the opt-out forms. The forms will be communicated to parents
-at the start of the year and are also accessible at <a href="https://go.gov.sg/jc1optout2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jc1optout2025</a> and
-<a href="https://go.gov.sg/eteensoptout2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/eteensoptout2025</a>. The completed forms are to be
-submitted by 30/06/2025.</p>
+out of the <strong><em>eTeens</em> programme</strong> need to complete an
+opt-out form. This form will be communicated to parents at the start of
+the year and is also accessible <u>here</u> (<a href="https://go.gov.sg/cjceteensoptoutform2026" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cjceteensoptoutform2026</a>).
+The completed form is to be submitted by 30/04/2026.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a href="catholic_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
