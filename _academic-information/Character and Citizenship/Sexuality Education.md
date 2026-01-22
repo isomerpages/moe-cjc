@@ -87,8 +87,9 @@ and the importance of responsible decision-making and seeking help. Abstinence
 and upholding family values are the key messages.</p>
 <p><strong>At Catholic Junior College, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_01_24_at_12_43_25_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_JC1_CCE_eTeens.png">
 </div>
 <p><strong>Information for Parents</strong>
 </p>
@@ -96,10 +97,12 @@ and upholding family values are the key messages.</p>
 out of Sexuality Education and/or supplementary Sexuality Education programmes
 by MOE-approved external providers.</p>
 <p>9.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
-out of the JC2 Sexuality Education lessons need to complete an opt-out
-form. This form will be communicated to parents at the start of the year
-and is also accessible at <a href="https://go.gov.sg/jc2optoutform2025" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/jc2optoutform2025</a>.
-The completed form is to be submitted by 24/03/2025.</p>
+out of the Sexuality Education lessons need to complete an opt-out form.
+This form will be communicated to parents at the start of the year and
+is also accessible by clicking at the relevant level: <u>JC1</u> (<a href="https://go.gov.sg/cjcoptoutform2026jc1" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cjcoptoutform2026jc1</a>)
+or <u>JC2</u> (<a href="https://go.gov.sg/cjcoptoutform2026jc2" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/cjcoptoutform2026jc2</a>).
+The completed form is to be submitted by 13/02/2026 for JC2 and 30/04/2026
+for JC1.</p>
 <p>10.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Parents who wish to opt their children
 out of the JC1 Sexuality Education lessons and/or the <strong><em>eTeens</em></strong>  <strong>programme</strong> need
 to complete the opt-out forms. The forms will be communicated to parents
