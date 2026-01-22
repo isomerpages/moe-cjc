@@ -65,7 +65,8 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_JC1_CCE_SEd_lessons_pg_2.png">
 </div>
-<p></p>
+<p><strong><u>JC2</u></strong>
+</p>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
 <p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
 by Health Promotion Board, in collaboration with the Ministry of Education,
