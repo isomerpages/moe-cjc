@@ -67,13 +67,20 @@ Behaviour, and Culture, Society and Law woven into the main focus on relationshi
 </div>
 <p><strong><u>JC2</u></strong>
 </p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2026_JC2_CCE_SEd_lessons_pg_1.png">
+</div>
 <p><strong><em>eTeens</em></strong>  <strong>Programme</strong>:</p>
-<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme developed
-by Health Promotion Board, in collaboration with the Ministry of Education,
-to provide JC/MI Year 1 students with accurate information on STIs/HIV
-and protection from a health perspective. The desired outcome of the eTeens
-programme is that students are empowered to make wise, informed and sensible
-decisions.</p>
+<p>6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>eTeens</em> is a programme that
+was developed by Health Promotion Board, in collaboration with the Ministry
+of Education, to provide JC/MI Year 1 students with accurate information
+on STIs/HIV and protection from a health perspective. With the formation
+of the Communicable Diseases Agency (CDA) on 1 April 2025, the programme
+would now be managed by CDA’s Training and Education Division instead of
+HPB. The desired outcome of the eTeens programme is that students are empowered
+to make wise, informed and sensible decisions to protect themselves from
+sexually transmitted infectious diseases.</p>
 <p>7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students learn the health, social
 and financial implications of STIs/HIV on an individual and the family,
 and the importance of responsible decision-making and seeking help. Abstinence
@@ -102,3 +109,4 @@ submitted by 30/06/2025.</p>
 <p>11. &nbsp;&nbsp;&nbsp;&nbsp; Parents can contact the school at <a href="catholic_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a> for
 discussion or to seek clarification about the school’s Sexuality Education
 programme.</p>
+<p></p>
