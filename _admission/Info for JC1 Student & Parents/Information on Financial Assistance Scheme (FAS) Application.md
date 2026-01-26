@@ -15,3 +15,5 @@ online via this website: <a href="https://form.gov.sg/68b7e92465cd36be287889c6" 
 </p>
 <p>There is no cut-off date for MOE FAS applications. Students may apply
 at any time if they require financial assistance.</p>
+<p>Please visit our <a href="https://cjc.moe.edu.sg/admission/financial-aid" rel="noopener noreferrer nofollow" target="_blank"><u>Financial Assistance Scheme</u></a> page
+for more information.</p>
