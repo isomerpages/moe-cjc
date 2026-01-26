@@ -33,7 +33,7 @@ criteria:</p>
 </li>
 </ul>
 <p>Application</p>
-<p>Applications can be submitted online at:<strong> <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a></strong>
+<p>Applications can be submitted online at: <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
 </p>
 <p>There is no application cut-off date; students may apply at any time.</p>
 <p>More information is available at: <a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a>
