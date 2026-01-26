@@ -21,5 +21,5 @@ Order form. This can be done using either parent’s SingPass login.</p>
 <p>For detailed information on the process and step-by-step instructions
 for submitting the Standing Order form, please refer to the MOE website
 through the link provided below:</p>
-<p><a href="https://www.moe.gov.sg/financial-matters/fees/egiro" rel="noopener noreferrer nofollow" target="_blank"><u>https://form.gov.sg/5be24a1bb3f842000fdc4e59</u></a>
+<p><a href="https://form.gov.sg/68511c58e85a5dd195cf326f" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68511c58e85a5dd195cf326f</a>
 </p>
