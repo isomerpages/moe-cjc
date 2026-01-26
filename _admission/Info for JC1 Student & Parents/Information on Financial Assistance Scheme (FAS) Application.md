@@ -6,16 +6,12 @@ third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
 <h3><strong>Financial Aid</strong></h3>
-<p>The college is committed to ensuring that all students have a fair opportunity
-to realise their potential. The MOE Financial Assistance Scheme, CJC Needy
-Student Fund and the Internationalisation Fund provide students with the
-necessary resources as well as the opportunity to take up enrichment activities
-beyond local shores.</p>
-<p>Please visit our <a href="https://cjc.moe.edu.sg/admission/financial-aid" rel="noopener noreferrer nofollow" target="_blank">Financial Assistance Scheme</a> page
-for more information.</p>
-<p>If you wish to apply for MOE Financial Assistance Scheme, you can submit
-your application online via this website: <a href="https://go.gov.sg/moe-efas" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efas</a>
+<p>The College is committed to ensuring that all students have equitable
+opportunities to realise their potential. Through the MOE Financial Assistance
+Scheme (MOE FAS) and the CJC Needy Student Fund, eligible students are
+supported in accessing enrichment activities and meaningful learning experiences.</p>
+<p>Students who wish to apply for the MOE FAS can submit their application
+online via this website: <a href="https://form.gov.sg/68b7e92465cd36be287889c6" rel="noopener noreferrer nofollow" target="_blank">https://form.gov.sg/68b7e92465cd36be287889c6</a>
 </p>
-<p>Application for FAS is through the year, in order to qualify for FAS with
-effect from Apr 2025, please submit the completed application form with
-all required supporting documents by 28 Feb 2025.</p>
+<p>There is no cut-off date for MOE FAS applications. Students may apply
+at any time if they require financial assistance.</p>
