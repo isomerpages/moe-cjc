@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Purchase of School Uniforms and Graphing Calculator</strong></h3>
 <h4>Sale of School Uniforms:</h4>
-<p>The sale of uniforms will take place on <strong>Thursday, 6 February 2025 (9am to 3pm).</strong>&nbsp;</p>
+<p>The sale of uniforms will take place on <strong>Monday, 9 February 2026 (8am to 4pm).</strong>&nbsp;</p>
 <p>JC1 students will purchase their uniform, dress-down Polo T-shirts, Collegiate
 T-shirt and P.E. attire during designated timeslots arranged by Orientation
 Group. This schedule will be made known to the students on Day 1.&nbsp;</p>
@@ -388,7 +388,7 @@ the sale of uniforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Graphing_Calculator.png">
 </div>
-<p><strong>Date &amp; Time: Wednesday, 12 Feb, 10.30am to 3.30pm</strong>
+<p><strong>Date &amp; Time: To be confirmed</strong>
 </p>
 <p>Booth Venue: CJC PAC Cave</p>
 <p>$178/- per set inclusive of 9% GST. Price only valid at booth sales.&nbsp;</p>
