@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>Extension of Student Pass for International Students</strong></h3>
 <p>International students are advised to renew your student pass by end February
-2025 at CJC General Office. Please provide the general office with your
+2026 at CJC General Office. Please provide the General Office with your
 contact number.</p>
 <p>Documents to bring :</p>
 <p>(a) Passport</p>
