@@ -49,7 +49,7 @@ application:&nbsp;</p>
 <p>* Please do not upload additional supporting documents other than the
 5 requested above. We will contact you to provide more if we need further
 verification.</p>
-<p><strong>The JAE appeal period is strictly from 4 Feb 2025 (Tues), 8am to 10 Feb 2025 (Mon), 12 noon. Late or incomplete submission will not be considered.</strong>
+<p><strong>The JAE appeal period is strictly from 3 Feb 2026 (Tues), 8am to 9 Feb 2026 (Mon), 12 noon. Late or incomplete submission will not be considered.</strong>
 </p>
 <h4>Appeal Process</h4>
 <ul>
