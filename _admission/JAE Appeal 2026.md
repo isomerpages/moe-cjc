@@ -67,68 +67,8 @@ and 9 Feb.</p>
 </ul>
 <h4>Important Note</h4>
 <p>1. All applicants are required to report to the college that they are
-posted to by the Ministry of Education on 5 Feb 2025 (Wed), pending the
+posted to by the Ministry of Education on 4 Feb 2026 (Wed), pending the
 outcome of their appeal application to CJC.</p>
 <p>2. Please do NOT submit an appeal if you have been offered a place in
 another school under the Direct School Admission (DSA), as it will not
 be accepted.</p>
-<p><em>Table 1: Relevant CCAs</em>
-</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Physical Sports</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Performing Arts</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="3" colspan="1">
-<p>●&nbsp; &nbsp; Badminton</p>
-<p>●&nbsp; &nbsp; Basketball (Boys)</p>
-<p>●&nbsp; &nbsp; Bowling</p>
-<p>●&nbsp; &nbsp; Canoeing</p>
-<p>●&nbsp; &nbsp; Cross Country</p>
-<p>●&nbsp; &nbsp; Fencing</p>
-<p>●&nbsp; &nbsp; Floorball</p>
-<p>●&nbsp; &nbsp; Football (Boys)</p>
-<p>●&nbsp; &nbsp; Netball (Girls)</p>
-<p>●&nbsp; &nbsp; Swimming</p>
-<p>●&nbsp; &nbsp; Tennis</p>
-<p>●&nbsp; &nbsp; Track &amp; Field</p>
-<p>●&nbsp; &nbsp; Ultimate (Frisbee)</p>
-<p>●&nbsp; &nbsp; Volleyball</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>●&nbsp; &nbsp; Choir</p>
-<p>●&nbsp; &nbsp; Concert Band</p>
-<p>●&nbsp; &nbsp; English Drama</p>
-<p>●&nbsp; &nbsp; Guitar Ensemble</p>
-<p>● &nbsp; &nbsp;Guzheng Ensemble</p>
-<p>●&nbsp; &nbsp; Modern Dance</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Others:</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>● &nbsp; Oratorical Society (Debates &amp; Public Speaking)</p>
-<p>● &nbsp; Nexus: Investment &amp; Entrepreneurship Society</p>
-<p>● &nbsp; STE<sup>2</sup>M Club (Science &amp; Technology)</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p></p>
