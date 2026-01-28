@@ -55,14 +55,14 @@ verification.</p>
 <ul>
 <li>
 <p>Short-listed applicants will be invited for an interview between 4 Feb
-and 10 Feb.</p>
+and 9 Feb.</p>
 </li>
 <li>
 <p>Final decision will be made by the Interview Panel after the interview.</p>
 </li>
 <li>
-<p>Successful applicants will be notified by phone or SMS latest by 10 Feb
-2025, 2pm.</p>
+<p>Successful applicants will be notified by phone or SMS latest by 9 Feb
+2026, 2pm.</p>
 </li>
 </ul>
 <h4>Important Note</h4>
