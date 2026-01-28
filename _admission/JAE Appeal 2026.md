@@ -26,7 +26,7 @@ hard-copy application forms.</p>
 <h4>Application Procedures</h4>
 <p>STEP 1: Complete the online application form via the Online Registration
 portal <a href="http://jae.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">HERE</a>.
-(The login link will be activated on Tuesday, 4 February 2025, at 8am.)</p>
+(The login link will be activated on Tuesday, 3 February 2026, at 8am.)</p>
 <p>STEP 2: The following supporting documents are to be included in the online
 application:&nbsp;</p>
 <ul>
