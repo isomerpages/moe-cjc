@@ -43,7 +43,7 @@ university application/ admission.&nbsp;</p>
 <p>As Burmese &amp; Thai are not offered at A-level, students who have been
 granted approval to take Burmese &amp; Thai at O-level will have to apply
 for MT exemption at A level.</p>
-<p>Please submit the following to the General Office by <strong>7 Feb 2025</strong>:</p>
+<p>Please submit the following to the General Office by <strong>6 Feb 2026</strong>:</p>
 <ul>
 <li>
 <p>Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please
