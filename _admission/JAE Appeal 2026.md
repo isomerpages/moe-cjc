@@ -4,7 +4,7 @@ permalink: /admission/jae-appeal-2026/
 description: ""
 variant: tiptap
 ---
-<h3><strong>JAE Appeal 2025</strong></h3>
+<h3><strong>JAE Appeal 2026</strong></h3>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/JAE.jpg">
 </div>
@@ -16,15 +16,7 @@ and college’s admission criteria.</p>
 <p>Interested students may apply through the following:</p>
 <ul>
 <li>
-<p>General Appeal - Students who wish to appeal through academic results;
-Or</p>
-</li>
-<li>
-<p>CCA Appeal - Students who wish to appeal through CCA must have represented
-school and achieved minimum top 4 in Zonal/National, SYF participation
-(accomplishment and distinction) or any other equivalent competitions (with
-equivalent results) for the CCA in 2023/2024. Please refer to Table 1 for
-the list of CCAs.</p>
+<p>General Appeal - Students who wish to appeal through academic results</p>
 </li>
 </ul>
 <p>Applications will be conducted online via the CJC Online Registration
