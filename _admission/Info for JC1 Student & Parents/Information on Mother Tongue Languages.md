@@ -92,14 +92,14 @@ to MOELC website for instruction on how to register.&nbsp;
 <p>Other FL students who wish to apply for a place in MOELC:&nbsp;</p>
 <ul>
 <li>
-<p>Application will be done through College.&nbsp;</p>
+<p>Registration of Interest will be done through College.&nbsp;</p>
 </li>
 <li>
 <p>Admission to MOELC is subject to vacancy and the results of a Readiness
 Test (if it is conducted).&nbsp;</p>
 </li>
 <li>
-<p>Submit the following to the General Office by <strong>6 Feb 2025</strong>:</p>
+<p>Submit the following to the General Office by <strong>5 Feb 2026</strong>:</p>
 </li>
 </ul>
 </li>
