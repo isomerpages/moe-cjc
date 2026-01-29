@@ -118,8 +118,8 @@ MOELC registration outcome:</p>
 approved language privately (e.g. private language centers or private tutors).&nbsp;</p>
 </li>
 <li>
-<p>You must provide the relevant details and evidence to the HOD/MTL (e.g.
-enrolment slip for the private language centre).
+<p>You must provide the relevant details and evidence to HOD/MTL (e.g. enrolment
+slip for the private language centre).
 <br>
 </p>
 </li>
@@ -129,7 +129,7 @@ enrolment slip for the private language centre).
 <p><strong>(F) First-time applications for MTL Exemption / MT B</strong>
 </p>
 <p>Application will be done through College. Please submit the following
-to the General Office by<strong> 7 Feb 2025</strong>:</p>
+to the General Office by<strong> 6 Feb 2025</strong>:</p>
 <ul>
 <li>
 <p>Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please
