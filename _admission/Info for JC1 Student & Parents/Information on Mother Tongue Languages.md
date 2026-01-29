@@ -28,7 +28,7 @@ admission.</p>
 </p>
 <ul>
 <li>
-<p>Students who have obtained a D7 or better in Higher MTL at O-level as
+<p>Students who have obtained a D7 or better in Higher MTL at O-Level as
 they would have been deemed to have fulfilled the MTL requirement for local
 university application/ admission.&nbsp;</p>
 </li>
@@ -40,9 +40,9 @@ university application/ admission.&nbsp;</p>
 </ul>
 <p><strong>(D) Students who took Burmese / Thai at O-Level</strong>
 </p>
-<p>As Burmese &amp; Thai are not offered at A-level, students who have been
-granted approval to take Burmese &amp; Thai at O-level will have to apply
-for MT exemption at A level.</p>
+<p>As Burmese &amp; Thai are not offered at A-Level, students who have been
+granted approval to take Burmese &amp; Thai at O-Level will have to apply
+for MT exemption at A-Level.</p>
 <p>Please submit the following to the General Office by <strong>6 Feb 2026</strong>:</p>
 <ul>
 <li>
@@ -59,11 +59,11 @@ state your name and contact number in the letter.&nbsp;
 <p>Students who have obtained official approval to offer non-MTL (i.e. non-Chinese/
 Malay/ Tamil Languages) or Non-Tamil Indian Languages (NTIL) at O-Level
 are <u>not required</u> to submit a new application to MOE. These students
-will continue to offer the approved non-MTL or NTIL at A level, if applicable.</p>
+will continue to offer the approved non-MTL or NTIL at A-Level, if applicable.</p>
 </li>
 <li>
 <p>Students offering an approved H1 Non-Tamil Indian Language in lieu of
-MTLs will have to register for the FL/NTIL classes at the respective NTIL
+MTLs will have to register for the NTIL classes at the respective NTIL
 language centres.</p>
 </li>
 <li>
