@@ -92,7 +92,7 @@ to MOELC website for instruction on how to register.&nbsp;
 <p>Other FL students who wish to apply for a place in MOELC:&nbsp;</p>
 <ul>
 <li>
-<p>Registration of Interest will be done through College.&nbsp;</p>
+<p>Registration of Interest will be done through the College.&nbsp;</p>
 </li>
 <li>
 <p>Admission to MOELC is subject to vacancy and the results of a Readiness
