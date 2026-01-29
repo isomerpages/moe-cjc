@@ -388,16 +388,13 @@ the sale of uniforms.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/Graphing_Calculator.png">
 </div>
-<p><strong>Date &amp; Time: To be confirmed</strong>
+<p><strong>Date &amp; Time: 10 Feb 2026 (11am to 4pm)</strong>
 </p>
-<p>Booth Venue: CJC PAC Cave</p>
+<p>Booth Venue: CJCJC Canteen Annex</p>
 <p>$178/- per set inclusive of 9% GST. Price only valid at booth sales.&nbsp;</p>
 <p>Payment either by:</p>
 <p>1. <strong>Cash</strong> – in exact notes, OR</p>
-<p>2. <strong>Cheque</strong> – payable to <strong>Learning Interactive Pte Ltd</strong>;
-to write student’s name/class/drawee’s contact no on the reverse side of
-the cheque , OR</p>
-<p>3. <strong>PayNow</strong> – to be done via student’s own phone while present
+<p>2. <strong>PayNow</strong> – to be done via student’s own phone while present
 at booth counter. (not through third-party’s phone)</p>
 <p>Please remember to collect the “Record of Purchase” card upon purchase
 of the GC.</p>

@@ -28,7 +28,7 @@ admission.</p>
 </p>
 <ul>
 <li>
-<p>Students who have obtained a D7 or better in Higher MTL at O-level as
+<p>Students who have obtained a D7 or better in Higher MTL at O-Level as
 they would have been deemed to have fulfilled the MTL requirement for local
 university application/ admission.&nbsp;</p>
 </li>
@@ -40,10 +40,10 @@ university application/ admission.&nbsp;</p>
 </ul>
 <p><strong>(D) Students who took Burmese / Thai at O-Level</strong>
 </p>
-<p>As Burmese &amp; Thai are not offered at A-level, students who have been
-granted approval to take Burmese &amp; Thai at O-level will have to apply
-for MT exemption at A level.</p>
-<p>Please submit the following to the General Office by <strong>7 Feb 2025</strong>:</p>
+<p>As Burmese &amp; Thai are not offered at A-Level, students who have been
+granted approval to take Burmese &amp; Thai at O-Level will have to apply
+for MT exemption at A-Level.</p>
+<p>Please submit the following to the General Office by <strong>6 Feb 2026</strong>:</p>
 <ul>
 <li>
 <p>Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please
@@ -59,11 +59,11 @@ state your name and contact number in the letter.&nbsp;
 <p>Students who have obtained official approval to offer non-MTL (i.e. non-Chinese/
 Malay/ Tamil Languages) or Non-Tamil Indian Languages (NTIL) at O-Level
 are <u>not required</u> to submit a new application to MOE. These students
-will continue to offer the approved non-MTL or NTIL at A level, if applicable.</p>
+will continue to offer the approved non-MTL or NTIL at A-Level, if applicable.</p>
 </li>
 <li>
 <p>Students offering an approved H1 Non-Tamil Indian Language in lieu of
-MTLs will have to register for the FL/NTIL classes at the respective NTIL
+MTLs will have to register for the NTIL classes at the respective NTIL
 language centres.</p>
 </li>
 <li>
@@ -82,10 +82,9 @@ registered at) to HOD MTL. HOD MTL will contact you soon about it.&nbsp;&nbsp;&n
 <ul>
 <li>
 <p>Students <u>who attended</u> Sec 4 French/German/Japanese (in lieu of MTL
-or as Third Language) classes at&nbsp; <u>MOE Language Centre in 2024</u> and
+or as Third Language) classes at&nbsp; <u>MOE Language Centre in 2025</u> and
 wish to continue their H1/H2 classes at MOELC,&nbsp; they need to refer
-to MOELC website for instruction on how to register&nbsp; (Under Home Page
-“What’s New”).&nbsp;
+to MOELC website for instruction on how to register.&nbsp;
 <br>
 </p>
 </li>
@@ -93,14 +92,14 @@ to MOELC website for instruction on how to register&nbsp; (Under Home Page
 <p>Other FL students who wish to apply for a place in MOELC:&nbsp;</p>
 <ul>
 <li>
-<p>Application will be done through College.&nbsp;</p>
+<p>Registration of Interest will be done through the College.&nbsp;</p>
 </li>
 <li>
 <p>Admission to MOELC is subject to vacancy and the results of a Readiness
 Test (if it is conducted).&nbsp;</p>
 </li>
 <li>
-<p>Submit the following to the General Office by <strong>6 Feb 2025</strong>:</p>
+<p>Submit the following to the General Office by <strong>5 Feb 2026</strong>:</p>
 </li>
 </ul>
 </li>
@@ -119,8 +118,8 @@ MOELC registration outcome:</p>
 approved language privately (e.g. private language centers or private tutors).&nbsp;</p>
 </li>
 <li>
-<p>You must provide the relevant details and evidence to the HOD/MTL (e.g.
-enrolment slip for the private language centre).
+<p>You must provide the relevant details and evidence to HOD/MTL (e.g. enrolment
+slip for the private language centre).
 <br>
 </p>
 </li>
@@ -130,7 +129,7 @@ enrolment slip for the private language centre).
 <p><strong>(F) First-time applications for MTL Exemption / MT B</strong>
 </p>
 <p>Application will be done through College. Please submit the following
-to the General Office by<strong> 7 Feb 2025</strong>:</p>
+to the General Office by<strong> 6 Feb 2025</strong>:</p>
 <ul>
 <li>
 <p>Parent’s letter (addressed to Ms Lee Ting Ting, HOD/MTL, CJC). Please
