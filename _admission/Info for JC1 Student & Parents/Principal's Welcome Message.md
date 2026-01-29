@@ -6,38 +6,40 @@ third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
 <h3><strong>Principal's Welcome Message</strong></h3>
-<p>Dear JC1 CJCians,</p>
-<p>A warm welcome to Catholic Junior College (CJC)! On behalf of the staff
-and JC2 seniors, it is my pleasure to welcome you to our CJ family.&nbsp;
-While you enter CJC from a diversity of secondary school backgrounds, you
-will forge strong ties with your fellow JC1s and JC2 seniors under the
-love and guidance of teachers to emerge as members of one CJC family.</p>
-<p>To welcome you and to bind strong bonds of friendships amongst you, your
-seniors, the Student Councilors and Orientation Group Leaders, have spent
-the last two months curating the JC1 Orientation, themed <strong><em>Oikos: Together We Thrive</em></strong>,
-for you. I encourage you to fully immerse in the exciting time travel adventures,
-get to know CJC and your fellow JC1s and forge strong friendships.</p>
-<p>The Orientation is but a start to your two-year journey of discovering
-your strengths and passion. I strongly encourage you to give of your best
-and be totally participative in all of our college’s programmes for you
-to develop your potential aligned to our college motto, In Veritate et
-Caritate, which means In Truth and Love, ready to become <strong><em>Thinkers with a Mission, Leaders with a Heart</em></strong> when
-you graduate from CJC.</p>
-<p>This year marks the 50th anniversary of our college. This milestone is
-significant as it marks CJC’s provision of a quality pre-university education
-in a Christ-centred environment, one where all are called to respect the
-human dignity of self and others, give of one’s self to build the common
-good in solidarity with others. CJC’s vision is to be a place of excellence
-in learning and living. We welcome you, our new JC1 students, to join us
-in our CJ family to give of your best to learn and live in harmony with
-others.&nbsp; Let us come together to celebrate the traditions, achievements,
-and enduring spirit that have shaped our college for half a century, while
-eagerly anticipating the journey ahead. A series of events will be held
-throughout the year to commemorate this incredible milestone and we encourage
-all our JC1 students to be fully immersed participating in all of them!</p>
-<p>I look forward to welcoming you to CJC on 5 February; and I wish you an
-exciting Orientation and an exhilarating and fulfilling JC learning journey
-ahead.</p>
+<p>Dear CJCians</p>
+<p>Welcome to Catholic Junior College, the only Catholic mission JC in Singapore
+founded in 1975 to offer a quality junior college education to affiliated
+and non-affiliated students, in a caring and enabling environment anchored
+on Catholic ethos.</p>
+<p>2025 was a very special year as it marked the 50<sup>th</sup> anniversary
+of CJC’s founding.&nbsp; As we enter into 2026 and the next chapter of
+CJC’s history and development, it is timely that MOE has announced in 2025
+of plans for CJC to be in phase 2 of the JC Rejuvenation Plan. We are excited
+and hopeful that CJC’s rejuvenation will boost CJC’s capacity to provide
+an exciting JC education, anchored on Catholic values and ethos to all
+students. To leverage the opportunities available at Punggol, we have signed
+Memorandums of Understanding with key partners to curate programmes for
+CJCians. Some of the programmes have already started and more will be offered
+when ready. We hope to build lasting partnerships with our neighbours and
+avail the opportunities to you now even though our move to Punggol is tentatively
+in 2034.</p>
+<p>In CJC, you would learn and grow together in an environment of care, love
+and respect, guided by the college motto, <em>In Veritate et Caritate</em>,
+which means, In Truth and Love.&nbsp; As students of a college that is
+known for its culture of care and its culture of excellence in learning
+and living, you can expect to be developed to your full potential in a
+nurturing environment.&nbsp; Through your CJC Experience, you will discover
+the truth about yourselves and about God and learn to appreciate your gifts.&nbsp;
+We hope you will be a gift to others in our community and be present to
+their needs and in giving of yourselves, you dignify others through your
+respect, care and friendship.&nbsp;</p>
+<p>You may come as students from diverse backgrounds.&nbsp; It is our deep
+belief that in being a participative member of the CJC family and in all
+of college life, you have what it takes to enhance our college ethos through
+respecting the dignity of self and others, working in solidarity with others
+for the common good and in so doing, strengthen the college identity and
+spirit, and graduate as Thinkers with a Mission and Leaders with a Heart!</p>
+<p>God bless!</p>
 <p><em>In Veritate et Caritate</em>
 </p>
 <p><strong>Mrs Woo Soo Min</strong>
