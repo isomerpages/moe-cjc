@@ -82,10 +82,9 @@ registered at) to HOD MTL. HOD MTL will contact you soon about it.&nbsp;&nbsp;&n
 <ul>
 <li>
 <p>Students <u>who attended</u> Sec 4 French/German/Japanese (in lieu of MTL
-or as Third Language) classes at&nbsp; <u>MOE Language Centre in 2024</u> and
+or as Third Language) classes at&nbsp; <u>MOE Language Centre in 2025</u> and
 wish to continue their H1/H2 classes at MOELC,&nbsp; they need to refer
-to MOELC website for instruction on how to register&nbsp; (Under Home Page
-“What’s New”).&nbsp;
+to MOELC website for instruction on how to register.&nbsp;
 <br>
 </p>
 </li>
