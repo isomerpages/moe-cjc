@@ -38,7 +38,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Victoria-marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
+<p>Victoria-Marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Victoria-marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
+<p>Victoria-Marie Jean Er Xue Min / Subject Head/Student Leadership Development</p>
 </td>
 </tr>
 <tr>
