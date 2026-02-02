@@ -26,4 +26,4 @@ program.</p>
 <p>If you are unable to attend on Wednesday, 4 February, please reach out
 to us at 6252 4083/4 or via email at <a href="mailto:catholic_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a> to confirm
 your acceptance of the college place. We will provide further instructions
-on next steps.</p>
+on your next steps.</p>
