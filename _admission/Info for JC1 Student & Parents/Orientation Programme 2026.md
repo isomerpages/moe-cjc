@@ -5,12 +5,15 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h3><strong>Orientation Programme 2025</strong></h3>
-<h4>5 to 11 February 2025</h4>
+<h3><strong>Orientation Programme 2026</strong></h3>
+<p><strong>4 to 6 February 2026 (Orientation)</strong>
+</p>
+<p><strong>9 to 13 February 2026 (Matriculation)</strong>
+</p>
 <p>To welcome our new students and help you settle into the CJC family, the
-college has specially organised an Orientation Programme for all JC1 students
-joining the school. JC1 students are expected to participate actively in
-the Orientation activities so that you can familiarise yourself with the
+college has specially organised an Orientation and Matriculation Programme
+for all JC1 students joining the school. JC1 students are expected to participate
+actively in the activities so that you can familiarise yourself with the
 college’s academic and co-curricular programmes as well as bond with your
 seniors and other JC1 students.&nbsp;
 <br>
