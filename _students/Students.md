@@ -6,7 +6,7 @@ variant: markdown
 ---
 ### **Students**
 
-<p><a href="/admission/subject-combinations-2024/">
+<p><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations/">
 <img src="/images/students1.jpg" style="width:20%;margin-right:5px;" align="left">
 </a></p>
 
