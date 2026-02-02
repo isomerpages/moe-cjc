@@ -71,9 +71,7 @@ to 6 February
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am</strong>
-</p>
-<p><strong><br></strong>
+<p><strong>Reporting time: 7.30am<br></strong>
 </p>
 <p><strong>Dismissal time: 3.30pm or 5.00pm if attending Ignite and ELL briefing</strong>
 </p>
@@ -103,24 +101,19 @@ to 6 February
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Thursday&nbsp;<br>6 Feb</strong>
+<p><strong>Thursday&nbsp;<br>5 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am</strong>
+<p><strong>Reporting time: 7.30am<br></strong>
 </p>
-<p><strong><br></strong>
-</p>
-<p><strong>Dismissal time: 3.30pm</strong>
+<p><strong>Dismissal time: 3.30pm or 4.45pm if sitting for Ignite selection test</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Briefing on CCAs in CJC</p>
-</li>
-<li>
-<p>Uniform sales (please bring your own bag; payment by Cash or PayNow)</p>
 </li>
 <li>
 <p>OG bonding time&nbsp;</p>
@@ -130,10 +123,6 @@ to 6 February
 </li>
 <li>
 <p>Faction Games</p>
-</li>
-<li>
-<p>Selection test for students interested in the Ignite Programme and English
-Language &amp; Linguistics Programme from 3.30 to 5.00pm</p>
 </li>
 </ul>
 </td>
