@@ -87,18 +87,13 @@ to 6 February
 <p>Bonding time with Orientation Groups (OG) and Faction</p>
 </li>
 <li>
-<p>Briefings on subjects and how to select subject combinations (Subject
-Registration System will open at 4pm on Wed, 5 Feb)</p>
+<p>Subject Briefings</p>
 </li>
 <li>
-<p>Special briefings starting at 3.45pm for:</p>
+<p>Special briefings starting at 3.30pm for:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p><em>Students interested in the Ignite Programme and English Language &amp; Linguistics (ELL) Programme</em>
-</p>
-</li>
-<li>
-<p><em>Students intending to appeal to take particular subjects</em>
 </p>
 </li>
 </ul>
