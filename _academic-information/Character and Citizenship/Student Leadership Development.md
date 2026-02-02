@@ -5,119 +5,101 @@ description: ""
 third_nav_title: Character and Citizenship
 variant: markdown
 ---
-In CJC, student leadership development permeates across all students at various tiers – Home Tutorial Groups (Class Management Committee), Co-Curricular Activities and within the House System and at the highest level, in the Student Council. Training and mentorship are provided to help all students to grow as Thinkers with a Mission, Leaders with a Heart. These platforms include Class Management Committee (CMC) Training Sessions, the annual Leadership Training Camp as well as the Leaders’ Dialogue. The 4M Leadership for SOAR framework undergirds the various leadership training approaches.
+#       
+# **Our Vision**
 
-  
+**`Every CJCian a Thinker with a Mission, A Leader with a Heart`**
 
-To establish a coherent approach for effective student leadership development, a central framework is utilized to reinforce the key SLD messages within the college. This guides the planning and delivery of SLD activities that are aligned with and coherent to the overall approach.
-  
+# **Our Philosophy**
+# 
+At CJC, we believe that every student has the potential to be a leader. We believe in developing servant leaders who embody our school values of Truth and Love. Our student leadership development is grounded in the understanding that leadership is to serve and uplift others with humility, compassion, and love whilst fulfilling one's unique purpose in the world.
+# 
+# **Core Beliefs of Servant Leadership**
 
-The 4 aspects of the 4M Leadership for SOAR framework is as such:
+As servant leaders, our students learn to:
 
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
+*   Lead with humility, compassion and love
+*   Value the dignity of every person and foster respect for all
+*   Build relationships based on trust, respect and shared mission
+*   Advocate for positive change that builds the common good
 
-![](/images/Picture1b.png)
-  
-  
-<p style="text-align:center;"><u>Figure 1: 4M Leadership for SOAR Framework</u></p>
+# **Three Dimensions of Leadership Development**
+# 
+**1.**     **Nurturing the Heart – Values and Character Foundation**
 
-The framework seeks to design purposeful experiences to empower our student leaders to serve and lead others better **(Leadership Rule No. 1: It is not about you)** and gain greater self-awareness in the process **(Leadership Rule No. 2: It is only about you)**, well beyond their 2-year journey in the college.
+*   **School Values**: Truth and Love
+*   **Catholic Ethos & Servant Leadership**: Reflecting the 5 Marks of a Catholic School
+*   **TMLH Attributes**: Integrity, Purpose, Initiative, Discernment, Nurturing, Humility, Resilience, Perseverance, Courage, Empathy, Faith in reason, Fair-Mindedness
 
-  
+**2.**     **Developing Leadership Skills and Knowledge**
 
-**Mastery of Self (Strengths &amp; Skills):**&nbsp;Great leaders model the way and lead by example – the first challenge all effective leaders face is to lead from within. Undergirded by the 5 Practices of the Student Leadership Challenge <sup>1</sup>, student leaders will deepen their understanding of self which helps to identify and nurture effective leadership behaviors. Together with this, progressive training on how to better understand and harness their talents will be conducted during StrengthsFinder<sup>2</sup> training sessions. The intention is simple – a leader should strive to master his/her own talents before inspiring others to do the same.
+*   **Emerging 21st Century Competencies (E21CC)**:
 
-  
+*   Critical, Adaptive and Inventive Thinking
+*   Communication, Collaboration and Information Skills
+*   Civic, Global and Cross-Cultural Literacy
 
-**Moments of Leadership (Opportunities):**&nbsp;Chances to show and grow leadership potential abound, but it is what student leaders make of these opportunities that makes them special moments for themselves, their teams and the college. In the journey ahead, student leaders are encouraged to be mindful of the moments that will challenge them as leaders and the decisions they make will define them as who they are and what they stand for. For it is in these precise moments where student leaders will grow both individually and collectively as a community.
+*   **Leadership Skills**: Decision making, event planning, emotional intelligence, problem-solving
 
-  
+**3.**     **Strengthening Leadership in Action**
 
-**Mind-set (Attitude):**&nbsp;A student leader’s journey begins by adopting the right mind-set – leadership is everyone’s business <sup>3</sup> in which regardless of status, everyone can serve and make a difference. Additionally, a growth mind-set <sup>4</sup> is fundamental in providing the motivation for student leaders to continue learning and improving so as to serve and enact positive change in our community.
+Based on [Kouzes and Posner's Five Practices of Exemplary Leadership](https://www.leadershipchallenge.com/five-practices):
 
-  
+1.  **Model the Way** - Clarify values and set examples
+2.  **Inspire a Shared Vision** - Envision the future and enlist others in the mission
+3.  **Challenge the Process** - Search for opportunities to make constructive changes
+4.  **Enable Others to Act** - Foster collaboration in achieving common goals
+5.  **Encourage the Heart** - Recognise contributions of others and celebrate victories
 
-**Mentoring (Relationships):**&nbsp;At the heart of servant leadership lies the care for people and relationships. The first law of leadership<sup>5</sup> states that “If you don’t believe in the messenger, you won’t believe the message”, where role modeling is key. Student leaders must be able and willing to invest in quality relationships - to build their teams and enable others to build them up as well. We embrace this through our school’s motto of “In Veritate, Et Caritate” - In Truth and In Love, where too much love without truth will make one soft, but too much truth without love becomes too harsh. Hence, with our strong culture of care, we embody both truth and love in our mentoring relationships to affirm one another, while also adopting a growth mindset to continually improve and grow to become better persons. The strong caring culture of our college will always be our legacy, one that we are always proud of. The quality of relationships can never be taken for granted and as leaders, we will safeguard this and improve our identity as “*One Flame One Family*”.
+# **Three Levels of Leadership Development**
+# 
+**Self-Leadership**
 
-  
+Self-leadership is defined as recognising the importance of developing one’s character strengths, values, talents, skills, interest and passion, and taking ownership for one’s development in order to achieve personal leadership and positive influence.
 
-* * *
+CJC intentionally develops students’ self-leadership at the following platforms: [Student Development curriculum](https://www.cjc.moe.edu.sg/education/cce/student-development-curriculum/), [Educational and Career Guidance programmes](https://www.cjc.moe.edu.sg/education/cce/potential-development/), stretch programmes.
 
-  
+**Team Leadership**
 
-<sup>1</sup>&nbsp;<small>The 5 Practices are Model the Way (MTW), Inspire a Shared Vision (ISV), Challenge the Process (CTP), Enable Others to Act (EOA) and Encourage the Heart (ETH) (Kouzes and Posner, 1987).</small>
+Team Leadership involves understanding:
 
-<sup>2</sup>&nbsp;<small>Adopted from StrengthsFinder, (Clifton and Buckingham, 2001).</small>
+\- the nature of interpersonal dynamics, and the need to identify and customise one’s leadership style to effectively lead and rally people; and
 
-<sup>3</sup>&nbsp;<small>Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).</small>
+\- that one can leverage a variety of means, including the use of new media, networking with like-minded people, and capitalizing on collaborations, to influence others towards positive change.
 
-<sup>4</sup>&nbsp;<small>Adopted from Mindset, (Dweck, 2016)</small>
+*   Platforms: Class Management Committee training, House Leaders training, CCA training sessions
+*   Opportunities and Team Leadership Roles in CJC: Subject Representatives, Project Work I/Cs etc.
 
-<sup>5</sup>&nbsp;<small>Adopted from Student Leadership Challenge, (Kouzes and Posner, 1987).</small>
+**Thought Leadership**
 
-#### **Tiered Approach in Student Leadership Development**
+*   Apart from having opportunities to lead at the school-wide level, CJC also provides opportunities for students to recognise how they can contribute to thought leadership through quality insight and innovation, for the betterment of society. Platforms for Development: Leadership Training Camp, Leaders' Dialogue, Leaders' Retreat
+*   Opportunities and Organisational Roles in CJC: Student Council, House Leaders, CCA Executive Committee, Class Management Committee Executive,
 
-With a diverse set of student profiles, the tiered design of the approach caters to the implementation of various SLD activities for different groups: specific segments of the student population or entire cohort of students.
+**Our Approach**
 
-This differentiated approach ensures all students receive a baseline level of development while targeted training will stretch positional student leaders with role-specific skills.
+Our student leadership development follows a comprehensive framework that includes:
 
-![](/images/Picture1.png)
-  
-<u>Figure 2: Tiered Approach in Student Leadership Development</u>
+*   Talent identification and role-specific selection processes
+*   In-depth role understanding and training
+*   Opportunities to excel and demonstrate leadership
+*   Continuous assessment and growth charting
+*   Recognition and celebration of achievements
+*   Systematic review and evaluation
 
-The intentional development of leadership competencies and dispositions across different platforms (Student Council, House, CCA and Class) is represented in the timeline below:
+# **Milestone Events**
 
-![](/images/Picture2.png)
+**CMC Training Sessions**  
+The CMC Training Sessions provide opportunities for the CMC leaders to discover their leadership style and learn the importance of having a shared vision in their leadership journey. The training sessions enable our CMC leaders with skills and strategies to build a positive classroom culture. . Through these sessions, we believe that our student leaders have gained more confidence to serve their peers and community with a greater sense of purpose and mission.
 
-<u>Figure 3: Student Leadership Development Timeline</u>
-
-The different platforms seek to maximize available SLD opportunities in developing students in various capacities, as well as improve the quality and coherence of the various SLD programmes under different stakeholders.
-
-Students will be exposed to various opportunities during their CJ journey as they develop their leadership competencies and dispositions in authentic settings, leveraging on their talents, based on their level of development to stretch their potential.
-
-With the 70-20-10 Model for Learning and Development<sup>6</sup> as a reference, the SLD Team is cognizant of the role and effectiveness of different experiences in developing student leaders, where milestone events (LTC &amp; LD) constitute 10% as formal training in courses, mentoring relationships (20%) through specific job assignments (70%). The intentional connections across the different experiences will be vital in achieving the intended outcomes of SLD.
-
-
-Our SLD approach is aligned to the guiding principle of inclusivity and the 4M Leadership for SOAR framework, where intentional development of our student leaders will be carried out to achieve the desired student outcome – Building a Generation in Truth and Love: Developing every CJCian to be a Thinker with a Mission, Leader with a Heart.
-
-<sup>6</sup>&nbsp;<small>Adopted from Lombardo, Michael M; Eichinger, Robert W (1996)</small>
-
-
-<style>  
-img {  
-  display: block;  
-  margin-left: auto;  
-  margin-right: auto;  
-}  
-</style>  
-
-  
-![](/images/Picture3.png)
-
-<p style="text-align:center;"><u>Figure 4: 70-20-10 Model for Learning and Development</u></p>
-
-#### **Milestone Events**
-
-**<u>CMC Training Sessions</u>** <br>
-The CMC Training Sessions provide opportunities for the CMC leaders to discover their leadership style and learn the importance of having a shared vision in their leadership journey. The sessions are structured into core and elective modules where the CMC leaders are trained in leadership and role-specific skills. Through these sessions, we believe that our student leaders have gained more confidence to serve their peers and community with a greater sense of purpose and mission.
-
-  
-
-**<u>JC1 Leadership Training Camp (LTC)</u>** <br>
+**JC1 Leadership Training Camp (LTC)**  
 The LTC seeks to inspire the incoming batch of student leaders to:
-* Connect with Self: To inculcate a reflective habit to be deliberate in growing as a leader.
-* Connect with and Serve Others: To understand that forging positive relationships is the heart of servant leadership.
-* Connect with Purpose: To discover what drives their leadership.
 
-The camp is guided by teacher, seniors and/or alumni facilitators in an experiential learning approach where participants engage in team-based challenges before processing the experience through a series of reflections. More importantly, the LTC helps to develop stronger networking and communication skills amongst the student leaders and fosters a greater college spirit amongst their peers and the rest of the college community, both past and present – for a brighter future.
+*   Connect with Self: To inculcate a reflective habit to be deliberate in growing as a leader.
+*   Connect with and Serve Others: To understand that forging positive relationships is the heart of servant leadership.
+*   Connect with Purpose: To discover what drives their leadership.
 
-  
+The camp is guided by teachers, seniors and/or alumni facilitators in an experiential learning approach where participants engage in team-based challenges before processing the experience through a series of reflections. More importantly, the LTC helps to develop stronger networking and communication skills amongst the student leaders and fosters a greater college spirit amongst their peers and the rest of the college community, both past and present – for a brighter future.
 
-**<u>JC1 Leaders Dialogue</u>** <br>
-The LD provides the JC1 student leaders with a platform to gather feedback from the student community to better serve them. The student leaders, coming from their various leadership experiences, are empowered to co-create solutions to challenges on the ground, while being aligned to the College’s key directions i.e. strengthening the 4 ‘C’s - (i) College Identity, (ii) College Vibrancy, (iii) Culture of Care and (iv) College Infrastructure and Facilities. This platform also helps to inculcate a sense of community amongst the student leaders as they collaborate together on their work plans for the upcoming year. With such intentionality, the student leaders are able to synergise together for maximum impact on the entire College community.
+**JC1 Leaders’ Dialogue**  
+The Leaders’ Dialogue provides the JC1 student leaders with a platform to gather feedback from the student community to better serve them. The student leaders, coming from their various leadership experiences, are empowered to co-create solutions to challenges on the ground, while being aligned to the College’s key directions. This platform also helps to inculcate a sense of community amongst the student leaders as they collaborate together on their work plans for the upcoming year. With such intentionality, the student leaders are able to synergise together for maximum impact on the entire College community when they transit to their JC2 year.
+
