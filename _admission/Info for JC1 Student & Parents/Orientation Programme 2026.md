@@ -124,6 +124,18 @@ to 6 February
 <li>
 <p>Faction Games</p>
 </li>
+<li>
+<p><em>Fully Alive</em>: Introduction to the CJC Catholic Community at 1230pm
+(all Catholic students should attend and lunch will be provided; non-Catholics
+are welcome to join)</p>
+</li>
+<li>
+<p>CCA Bazaar</p>
+</li>
+<li>
+<p>Selection test for students interested in the English Language &amp; Linguistics
+Programme &nbsp;(8.30am to 9.30am) and Ignite Programme (3.30pm to 4.30pm)</p>
+</li>
 </ul>
 </td>
 </tr>
