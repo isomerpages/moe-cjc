@@ -90,8 +90,7 @@ common goals</p>
 and celebrate victories</p>
 </li>
 </ol>
-<h1><strong>Three Levels of Leadership Development</strong></h1>
-<h1></h1>
+<h4><strong>Three Levels of Leadership Development</strong></h4>
 <p><strong>Self-Leadership</strong>
 </p>
 <p>Self-leadership is defined as recognising the importance of developing
@@ -158,7 +157,7 @@ includes:</p>
 <p>Systematic review and evaluation</p>
 </li>
 </ul>
-<h1><strong>Milestone Events</strong></h1>
+<h4><strong>Milestone Events</strong></h4>
 <p><strong>CMC Training Sessions</strong>
 <br>The CMC Training Sessions provide opportunities for the CMC leaders to
 discover their leadership style and learn the importance of having a shared
