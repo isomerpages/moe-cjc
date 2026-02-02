@@ -5,11 +5,8 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h3><strong>Orientation Programme 2026</strong></h3>
-<p><strong>4 to 6 February 2026 (Orientation)</strong>
-</p>
-<p><strong>9 to 13 February 2026 (Matriculation)</strong>
-</p>
+<h4>4 to 6 February 2026 (Orientation)</h4>
+<h4>9 to 13 February 2026 (Matriculation)</h4>
 <p>To welcome our new students and help you settle into the CJC family, the
 college has specially organised an Orientation and Matriculation Programme
 for all JC1 students joining the school. JC1 students are expected to participate
@@ -21,26 +18,28 @@ seniors and other JC1 students.&nbsp;
 <p>Please take note of the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Morning assembly begins at 7.40am daily during Orientation. Please report
-by 7.30am at the Auditorium.&nbsp;</p>
+<p>Morning assembly begins at 7.40am daily during Orientation and Matriculation.
+Please report by 7.30am at the Auditorium.&nbsp;</p>
 </li>
 <li>
 <p>You are expected to be present and punctual for all activities. Attendance
 will be marked at the beginning and end of each day.</p>
 </li>
 <li>
-<p>There will be some costs incurred in the running of the Orientation Programme,
-namely (1) transportation costs out of CJC on Day 4 for “The Great Expedition”,
-(2) light refreshments on Day 4 and Day 5, and (3) a collar pin that you
-will receive during the JC1 Commencement Ceremony. The total cost of these
-items is $8.50, and you can pay for it via either Edusave, your parent’s
-GIRO, or an AXS transfer. Payment can be made upon receiving the school
-bill.&nbsp;</p>
+<p>There are some costs associated with the Orientation and Matriculation
+programme. Each student will be charged $9.70 which covers: (i) transport
+out of CJC for “The Great Expedition” on 13 Feb, (ii) light refreshments
+during the “The Great Expedition”, and (iii) a collar pin, which will be
+part of your school uniform.</p>
 </li>
 <li>
 <p>Should you feel unwell during the activities and/or need to leave the
 programme early for official reasons (e.g. medical appointments), please
-inform the teacher-in-charge and your Orientation Group Leaders (OGLs).
+inform the teacher-in-charge and your Orientation Group Leaders (OGLs).</p>
+</li>
+<li>
+<p>See table below for key details of the Orientation Programme from 4 February
+to 6 February
 <br>
 <br>
 </p>
