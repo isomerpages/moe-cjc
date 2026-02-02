@@ -68,28 +68,15 @@ intelligence, problem-solving</p>
 </ul>
 <p><strong>3.</strong>&nbsp;&nbsp;&nbsp;&nbsp; <strong>Strengthening Leadership in Action</strong>
 </p>
-<p>Based on <a href="https://www.leadershipchallenge.com/five-practices" rel="noopener noreferrer nofollow" target="_blank">Kouzes and Posner's Five Practices of Exemplary Leadership</a>:</p>
-<ol data-tight="true" class="tight">
-<li>
-<p><strong>Model the Way</strong> - Clarify values and set examples</p>
-</li>
-<li>
-<p><strong>Inspire a Shared Vision</strong> - Envision the future and enlist
-others in the mission</p>
-</li>
-<li>
-<p><strong>Challenge the Process</strong> - Search for opportunities to make
-constructive changes</p>
-</li>
-<li>
-<p><strong>Enable Others to Act</strong> - Foster collaboration in achieving
-common goals</p>
-</li>
-<li>
-<p><strong>Encourage the Heart</strong> - Recognise contributions of others
-and celebrate victories</p>
-</li>
-</ol>
+<p>Based on Kouzes and Posner's Five Practices of Exemplary Leadership:</p>
+<p>1) Model the Way - Clarify values and set examples</p>
+<p>2) Inspire a Shared Vision - Envision the future and enlist others in
+the mission</p>
+<p>3) Challenge the Process - Search for opportunities to make constructive
+changes</p>
+<p>4) Enable Others to Act - Foster collaboration in achieving common goals</p>
+<p>5) Encourage the Heart - Recognise contributions of others and celebrate
+victories</p>
 <h4><strong>Three Levels of Leadership Development</strong></h4>
 <p><strong>Self-Leadership</strong>
 </p>
