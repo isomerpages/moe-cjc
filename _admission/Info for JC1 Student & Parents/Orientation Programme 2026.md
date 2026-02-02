@@ -173,76 +173,7 @@ February</p>
 </ul>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Monday<br>10 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Dismissal time: 4.30pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>“The Great Expedition” (amazing race at an external venue)</p>
-<ul>
-<li>
-<p>Please wear CJC PE attire, comfortable sports shoes and bring a working
-public transportation card.&nbsp;</p>
-</li>
-</ul>
-</li>
-<li>
-<p>House-led Games</p>
-</li>
-</ul>
-<p>*Note: School uniform vendor will be available till 7pm to sell uniforms,
-if stocks are available.</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>Tuesday<br>11 Feb</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am</strong>
-</p>
-<p><strong><br></strong>
-</p>
-<p><strong>Dismissal time: 6.00pm</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
-<li>
-<p>Games</p>
-</li>
-<li>
-<p>Sharing Activity</p>
-</li>
-<li>
-<p>Orientation Finale</p>
-<ul>
-<li>
-<p>Please wear the CJC collegiate t-shirt.</p>
-</li>
-</ul>
-</li>
-<li>
-<p>Closing Address and briefing for Matriculation Week</p>
-</li>
-</ul>
-<p>*Note: School uniform vendor will be available till 7pm to sell uniforms,
-if stocks are available.</p>
-</td>
-</tr>
 </tbody>
 </table>
-<p>We look forward to seeing you at Orientation 2025!</p>
+<p>We look forward to seeing you at Orientation 2026!</p>
 <p></p>
