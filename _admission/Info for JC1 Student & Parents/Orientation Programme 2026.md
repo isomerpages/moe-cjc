@@ -41,7 +41,6 @@ inform the teacher-in-charge and your Orientation Group Leaders (OGLs).</p>
 <p>See table below for key details of the Orientation Programme from 4 February
 to 6 February
 <br>
-<br>
 </p>
 </li>
 </ul>
@@ -68,7 +67,7 @@ to 6 February
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Wednesday&nbsp;<br>5 Feb</strong>
+<p><strong>Wednesday&nbsp;<br>4 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -76,7 +75,7 @@ to 6 February
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>Dismissal time: 3.45pm</strong>
+<p><strong>Dismissal time: 3.30pm or 5.00pm if attending Ignite and ELL briefing</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
