@@ -141,7 +141,7 @@ Programme &nbsp;(8.30am to 9.30am) and Ignite Programme (3.30pm to 4.30pm)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Friday<br>7 Feb</strong>
+<p><strong>Friday<br>6 Feb</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -149,7 +149,7 @@ Programme &nbsp;(8.30am to 9.30am) and Ignite Programme (3.30pm to 4.30pm)</p>
 </p>
 <p><strong><br></strong>
 </p>
-<p><strong>Dismissal time: 4.00pm</strong>
+<p><strong>Dismissal time: 7.30pm</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -158,15 +158,17 @@ Programme &nbsp;(8.30am to 9.30am) and Ignite Programme (3.30pm to 4.30pm)</p>
 <p>Bonding time with Orientation Groups (OG) and Faction&nbsp;</p>
 </li>
 <li>
-<p><em>Fully Alive</em>: Introduction to the CJC Catholic Community at 1pm
-(all Catholic students should attend and lunch will be provided; non-Catholics
-are welcome to join)</p>
+<p>Cohort Celebration with Mass Dance and College Cheers</p>
 </li>
 <li>
-<p>CCA Bazaar for all students from 2.30 to 4.00pm</p>
-<p>
-<br>
-</p>
+<p>Closing address by Principal</p>
+</li>
+<li>
+<p>Instructions for Matriculation Week which will take place from 9 to 13
+February</p>
+</li>
+<li>
+<p>Cohort Picnic and clean-up</p>
 </li>
 </ul>
 </td>
