@@ -11,10 +11,10 @@ so fill in all relevant information, with the final step being to submit
 your subject combination before you report to CJC tomorrow, 4 Feb. A guide
 on how to set up your CJ Portal account is attached below.</p>
 <p>Rest assured, you are able to continue amending your subject combination
-on 4 and 5 Feb even after submitting your subject combination today, 3
-Feb. As part of the Orientation Programme, you will be attending subject
-briefings on 4 Feb to facilitate your decision-making process. Your Orientation
-Group Leaders, who are your JC2 seniors and teachers who are with you will
-also helpfully respond to queries you have.</p>
+on 4 and 5 Feb even after submitting your subject combination. As part
+of the Orientation Programme, you will be attending subject briefings on
+4 Feb to facilitate your decision-making process. Your Orientation Group
+Leaders, who are your JC2 seniors and teachers who are with you will also
+helpfully respond to queries you have.</p>
 <p>Click this link for the steps to set up your CJ Portal Account: <a href="/files/2026_Subject_Registration_Briefing_slides.pdf" rel="noopener nofollow" target="_blank">CJ Portal set up guide</a>
 </p>
