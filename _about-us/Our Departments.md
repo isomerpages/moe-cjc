@@ -18,7 +18,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz/ Head of Department and Year Head JC1</p>
+<p>Lucas Anil D'cruz/ Head of Department and Year Head JC1</p>
 </td>
 </tr>
 <tr>
@@ -76,7 +76,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz / HOD Character and Citizenship Education and Year Head
+<p>Lucas Anil D'cruz / HOD Character and Citizenship Education and Year Head
 JC1</p>
 </td>
 </tr>
@@ -680,7 +680,7 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lucas Anil D'Cruz / HOD Character and Citizenship Education and Year Head
+<p>Lucas Anil D'cruz / HOD Character and Citizenship Education and Year Head
 JC1</p>
 </td>
 </tr>
@@ -1433,7 +1433,7 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Song Pewe Gordon / Operations Manager</p>
+<p>See Song Pewe Gordon / Operations Managerc</p>
 </td>
 </tr>
 </tbody>
