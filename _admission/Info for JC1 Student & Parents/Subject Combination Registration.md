@@ -29,7 +29,7 @@ Guidance Counselor, Ms Joys Lin. You are <strong>strongly encouraged</strong> to
 make an appointment with Ms Joys Lin via this link <a href="https://go.gov.sg/ecgcjc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ecgcjc</u></a>&nbsp;</p>
 <h4>Combination Choice</h4>
 <p>The details of the subject combinations offered to all new students in
-2026 are available on our college website: <a href="https://cjcopenhouse.moe.edu.sg/eopenhouse/academic-information/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">CJC Academic Information</a>&nbsp;</p>
+2026 are available on our college website: <a href="https://www.cjc.moe.edu.sg/admission/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">CJC Academic Information</a>&nbsp;</p>
 <p>This <a href="https://cjcopenhouse.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">microsite</a> also
 provides details of</p>
 <ul>
