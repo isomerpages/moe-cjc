@@ -5,11 +5,15 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h3><strong>Subject Combination Registration</strong></h3>
 <h4>The Decision-Making Process</h4>
+<p>Informed decision-making is a skill you will develop throughout your time
+with us and is an essential part of our educational approach. In facilitating
+your decision making do refer to the following resource to guide you through
+the process of selecting your subject combination.</p>
 <p>Please refer to the website via the link given below to guide you through
-the process of selecting your subject combination:
-<br><a href="https://go.gov.sg/ecgsite-cjc" rel="noopener noreferrer nofollow" target="_blank">CJC Potential Development</a>&nbsp;</p>
+the process of selecting your subject combination:</p>
+<p><a href="https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit</a>
+</p>
 <p>In summary, do take into consideration the following when deciding on
 your subject combination:</p>
 <ul>
@@ -69,12 +73,12 @@ in consultation with your parents. You need to<strong> register your subject com
 More details will be provided during the “Subject Registration Briefing”
 on 4 Feb.</p>
 <p>The subject combination and class allocations will be released to all
-JC1s on 10 Feb, 9pm (tentative) via the CJC Portal. This is followed by
-the Matriculation period which allows students to begin their academic
-journey based on their allocated subject combination.&nbsp;</p>
+JC1s on 11 Feb via the CJC Portal. This is followed by the Matriculation
+period which allows students to begin their academic journey based on their
+allocated subject combination.&nbsp;</p>
 <h4>Matriculation Week (9 to 13 Feb)</h4>
 <p>Following the subject selection exercise, students will begin attending
 lessons for their allocated subjects to get an understanding of the demands
 and expectations of the subjects during the Matriculation Week.&nbsp;</p>
 <p>The Matriculation Week Timetable will be shared with the J1 students upon
-the allocation of classes on 10 Feb.&nbsp;</p>
+the allocation of classes on 11 Feb.&nbsp;</p>
