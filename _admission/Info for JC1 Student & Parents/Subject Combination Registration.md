@@ -73,7 +73,7 @@ in consultation with your parents. You need to<strong> register your subject com
 More details will be provided during the “Subject Registration Briefing”
 on 4 Feb.</p>
 <p>The subject combination and class allocations will be released to all
-JC1s on 11 Feb via the CJC Portal. This is followed by the Matriculation
+JC1s on 8 Feb via the CJC Portal. This is followed by the Matriculation
 period which allows students to begin their academic journey based on their
 allocated subject combination.&nbsp;</p>
 <h4>Matriculation Week (9 to 13 Feb)</h4>
@@ -81,4 +81,4 @@ allocated subject combination.&nbsp;</p>
 lessons for their allocated subjects to get an understanding of the demands
 and expectations of the subjects during the Matriculation Week.&nbsp;</p>
 <p>The Matriculation Week Timetable will be shared with the J1 students upon
-the allocation of classes on 11 Feb.&nbsp;</p>
+the allocation of classes on 8 Feb.&nbsp;</p>
