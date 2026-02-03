@@ -103,8 +103,9 @@ at the end of Orientation.
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am<br></strong>
+<p><strong>Reporting time: 7.30am</strong>
 </p>
+<p></p>
 <p><strong>Dismissal time: 3.30pm or 4.45pm if sitting for Ignite selection test</strong>
 </p>
 </td>
