@@ -72,9 +72,9 @@ on 4 Feb.</p>
 JC1s on 10 Feb, 9pm (tentative) via the CJC Portal. This is followed by
 the Matriculation period which allows students to begin their academic
 journey based on their allocated subject combination.&nbsp;</p>
-<h4>Matriculation Week (12 to 21 Feb)</h4>
+<h4>Matriculation Week (9 to 13 Feb)</h4>
 <p>Following the subject selection exercise, students will begin attending
 lessons for their allocated subjects to get an understanding of the demands
 and expectations of the subjects during the Matriculation Week.&nbsp;</p>
 <p>The Matriculation Week Timetable will be shared with the J1 students upon
-the allocation of classes on 11 Feb.&nbsp;</p>
+the allocation of classes on 10 Feb.&nbsp;</p>
