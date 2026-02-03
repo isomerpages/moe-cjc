@@ -5,11 +5,15 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h3><strong>Subject Combination Registration</strong></h3>
 <h4>The Decision-Making Process</h4>
+<p>Informed decision-making is a skill you will develop throughout your time
+with us and is an essential part of our educational approach. In facilitating
+your decision making do refer to the following resource to guide you through
+the process of selecting your subject combination.</p>
 <p>Please refer to the website via the link given below to guide you through
-the process of selecting your subject combination:
-<br><a href="https://go.gov.sg/ecgsite-cjc" rel="noopener noreferrer nofollow" target="_blank">CJC Potential Development</a>&nbsp;</p>
+the process of selecting your subject combination:</p>
+<p><a href="https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit</a>
+</p>
 <p>In summary, do take into consideration the following when deciding on
 your subject combination:</p>
 <ul>
