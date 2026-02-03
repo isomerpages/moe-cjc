@@ -5,21 +5,19 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 variant: tiptap
 ---
-<h4>4 to 6 February 2026 (Orientation)</h4>
-<h4>9 to 13 February 2026 (Matriculation)</h4>
+<h4>Orientation (4 to 6 February 2026) and Matriculation (9 to 13 Feb 2026)</h4>
 <p>To welcome our new students and help you settle into the CJC family, the
-college has specially organised an Orientation and Matriculation Programme
-for all JC1 students joining the school. JC1 students are expected to participate
-actively in the activities so that you can familiarise yourself with the
-college’s academic and co-curricular programmes as well as bond with your
-seniors and other JC1 students.&nbsp;
+college has specially organised an Orientation Programme for all JC1 students
+joining the school. Active participation is important so that you are able
+to familiarise yourself with the college’s academic and co-curricular programmes
+as well as bond with your seniors and peers from your cohort.&nbsp;
 <br>
 </p>
-<p>Please take note of the following details:</p>
+<p>Please note the following details:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Morning assembly begins at 7.40am daily during Orientation and Matriculation.
-Please report by 7.30am at the Auditorium.&nbsp;</p>
+<p>Morning assembly begins at 7.40am daily during Orientation. Please report
+by 7.30am at the Auditorium.&nbsp;</p>
 </li>
 <li>
 <p>You are expected to be present and punctual for all activities. Attendance
@@ -27,23 +25,22 @@ will be marked at the beginning and end of each day.</p>
 </li>
 <li>
 <p>There are some costs associated with the Orientation and Matriculation
-programme. Each student will be charged $9.70 which covers: (i) transport
+programmes. Each student will be charged $9.70 which covers: (i) transport
 out of CJC for “The Great Expedition” on 13 Feb, (ii) light refreshments
-during the “The Great Expedition”, and (iii) a collar pin, which will be
-part of your school uniform.</p>
+during the “The Great Expedition”, and (iii) a collar pin, which is part
+of your school uniform.</p>
 </li>
 <li>
 <p>Should you feel unwell during the activities and/or need to leave the
 programme early for official reasons (e.g. medical appointments), please
 inform the teacher-in-charge and your Orientation Group Leaders (OGLs).</p>
 </li>
-<li>
+</ul>
 <p>See table below for key details of the Orientation Programme from 4 February
-to 6 February
+to 6 February. Details of Matriculation Week will be communicated to you
+at the end of Orientation.
 <br>
 </p>
-</li>
-</ul>
 <table style="minWidth: 75px">
 <colgroup>
 <col>
@@ -71,8 +68,9 @@ to 6 February
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>Reporting time: 7.30am<br></strong>
+<p><strong>Reporting time: 7.30am</strong>
 </p>
+<p></p>
 <p><strong>Dismissal time: 3.30pm or 5.00pm if attending Ignite and ELL briefing</strong>
 </p>
 </td>
