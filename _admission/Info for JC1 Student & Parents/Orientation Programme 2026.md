@@ -146,8 +146,7 @@ Programme &nbsp;(8.30am to 9.30am) and Ignite Programme (3.30pm to 4.30pm)</p>
 <td rowspan="1" colspan="1">
 <p><strong>Reporting time: 7.30am</strong>
 </p>
-<p><strong><br></strong>
-</p>
+<p>&nbsp;</p>
 <p><strong>Dismissal time: 7.30pm</strong>
 </p>
 </td>
