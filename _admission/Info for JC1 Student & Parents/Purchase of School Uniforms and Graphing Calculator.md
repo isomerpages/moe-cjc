@@ -390,7 +390,7 @@ the sale of uniforms.</p>
 </div>
 <p><strong>Date &amp; Time: 10 Feb 2026 (11am to 4pm)</strong>
 </p>
-<p>Booth Venue: CJCJC Canteen Annex</p>
+<p>Booth Venue: CJC Canteen Annex</p>
 <p>$178/- per set inclusive of 9% GST. Price only valid at booth sales.&nbsp;</p>
 <p>Payment either by:</p>
 <p>1. <strong>Cash</strong> – in exact notes, OR</p>
