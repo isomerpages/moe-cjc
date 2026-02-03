@@ -16,5 +16,5 @@ of the Orientation Programme, you will be attending subject briefings on
 4 Feb to facilitate your decision-making process. Your Orientation Group
 Leaders, who are your JC2 seniors and teachers who are with you will also
 helpfully respond to queries you have.</p>
-<p>Click this link for the steps to set up your CJ Portal Account: <a href="/files/2026_Subject_Registration_Briefing_slides.pdf" rel="noopener nofollow" target="_blank">CJ Portal set up guide</a>
+<p>Click this link to set up your CJ Portal Account - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://portal.catholicjc.edu.sg/</a>
 </p>
