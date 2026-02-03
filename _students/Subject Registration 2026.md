@@ -26,12 +26,16 @@ the registration period. No changes will be allowed after 7 Feb 2026 (Sat),
 </li>
 </ul>
 <p></p>
-<p>Login USERNAME: As mentioned during the briefing</p>
-<p>Your Password: As mentioned during the briefing</p>
+<p>Login USERNAME: First 5 characters of name followed by last 5 characters
+of NRIC</p>
+<p>Your Password: Login ID (upper case).</p>
+<p>To ensure data security, please note that this is a default password and
+you will be prompted to change your password after first login.</p>
 <p>If you have any questions please contact us at the following address:
 <a href="mailto:catholicjcreg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">catholicjcreg@gmail.com</a>
 </p>
-<p>Download the slides for the briefing on 5 Feb if required.</p>
+<p>For step-by-step guide on how to complete subject registration download
+the guide here: Download the slides for the briefing on 4 Feb if required.</p>
 <p>Slides (part 1) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part_1.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
 <p>Slides (part 2) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part_2.pdf" rel="noopener nofollow" target="_blank">file</a>
