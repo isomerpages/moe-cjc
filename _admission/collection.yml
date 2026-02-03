@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Join CJC.md
-      - Info for JC1 Student & Parents/Extension of School Smart Card.md
       - Info for JC1 Student & Parents/.keep
       - Info for JC1 Student & Parents/Principal's Welcome Message.md
       - Info for JC1 Student & Parents/Year Head's Message.md
@@ -18,6 +17,7 @@ collections:
         Scheme (FAS) Application.md
       - Info for JC1 Student & Parents/Purchase of School Uniforms and Graphing
         Calculator.md
+      - Info for JC1 Student & Parents/Extension of School Smart Card.md
       - Info for JC1 Student & Parents/Extension of Student Pass for
         International Students.md
       - Direct School Admission 2025.md
