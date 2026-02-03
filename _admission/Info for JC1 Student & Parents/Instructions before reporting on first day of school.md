@@ -5,6 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Info for JC1 Student & Parents
 ---
+<h4>Setting up of the CJ Portal Account and Subject Registration</h4>
 <p>To facilitate your enrollment into CJC, please set up your CJ Portal Account.
 Do fill in all relevant information, with the final step being to submit
 your subject combination by <strong><u>today,&nbsp;3 Feb</u></strong><u>&nbsp;</u>before
