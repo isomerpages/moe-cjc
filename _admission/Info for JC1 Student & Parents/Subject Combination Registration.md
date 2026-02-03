@@ -24,12 +24,12 @@ your subject combination:</p>
 </li>
 </ul>
 <p>Understand more by listening to the senior’s recorded sharings on the
-website, speaking to your seniors and our Education &amp; Career Guidance
-Counselor, Ms Joys Lin. You are <strong>strongly encouraged</strong> to make
-an appointment with Ms Joys Lin via this link <a href="https://go.gov.sg/ecgcjc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ecgcjc</u></a>&nbsp;</p>
+website, speaking to your seniors and our Senior Education &amp; Career
+Guidance Counselor, Ms Joys Lin. You are <strong>strongly encouraged</strong> to
+make an appointment with Ms Joys Lin via this link <a href="https://go.gov.sg/ecgcjc" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/ecgcjc</u></a>&nbsp;</p>
 <h4>Combination Choice</h4>
 <p>The details of the subject combinations offered to all new students in
-2025 are available on our college website: <a href="https://cjcopenhouse.moe.edu.sg/eopenhouse/academic-information/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">CJC Academic Information</a>&nbsp;</p>
+2026 are available on our college website: <a href="https://cjcopenhouse.moe.edu.sg/eopenhouse/academic-information/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">CJC Academic Information</a>&nbsp;</p>
 <p>This <a href="https://cjcopenhouse.moe.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">microsite</a> also
 provides details of</p>
 <ul>
@@ -45,7 +45,6 @@ the subject&nbsp;</p>
 <p>Please study the requirements for each subject carefully so that you can
 make an informed choice on the most appropriate subject combination that
 can cater to your interests and aspirations.</p>
-<p></p>
 <p>Posting to a subject combination is subject to the student's knowledge
 and understanding of the relevant subject(s) at O-Level, the performance
 in the subject(s) and availability of vacancies.&nbsp;</p>
