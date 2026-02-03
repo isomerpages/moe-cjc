@@ -69,7 +69,7 @@ and outside the classroom - can help you discover more about yourself,
 and in so doing, empower you&nbsp; to discover your purpose and passions.
 It all begins with the first step of selecting your subjects.</p>
 <p>Therefore, please consider your subject combination selection carefully
-in consultation with your parents. You need to<strong> register your subject combination choices using the CJC Portal from Tuesday, 3 Feb to Saturday, 7 Feb</strong>.
+in consultation with your parents. You need to<strong> register your subject combination choices using the CJC Portal from Tuesday, 3 Feb to Thursday, 5 Feb, 12pm</strong>.
 More details will be provided during the “Subject Registration Briefing”
 on 4 Feb.</p>
 <p>The subject combination and class allocations will be released to all
