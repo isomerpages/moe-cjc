@@ -4,25 +4,24 @@ permalink: /students/subject-registration/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Subject Registration 2025</strong></h3>
+<h3><strong>Subject Registration 2026</strong></h3>
 <p><strong>Subject Registration System - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Online CJC Portal</a></strong>
 </p>
-<p>The link will be available from 5 Feb, 4pm for the subject registration
-period.</p>
+<p>The link will be available from 3 Feb for the subject registration period.</p>
 <h4><strong>Important Note:</strong></h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
 <p>Every student must register for a course of study using this Subject Registration
 System. This is to ensure that you will be assigned a class during Matriculation
 Week.</p>
 </li>
 <li>
-<p>The portal will be online from 5 Feb 2025 (Wed), 4pm, to 8 Feb 2025 (Sat),
+<p>The portal will be online from 3 Feb 2026 (Tues), to 7 Feb 2026 (Sat),
 10pm.</p>
 </li>
 <li>
 <p>Students can continue to login and make changes to their choices within
-the registration period. No changes will be allowed after 8 Feb 2025 (Sat),
+the registration period. No changes will be allowed after 7 Feb 2026 (Sat),
 10pm.</p>
 </li>
 </ul>
