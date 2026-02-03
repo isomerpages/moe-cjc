@@ -42,3 +42,6 @@ the guide here: Download the slides for the briefing on 4 Feb if required.</p>
 </p>
 <p><strong><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
+<p>If you have any further questions please contact us at the following address:&nbsp;
+<a href="mailto:catholicjcreg@gmail.com" rel="noopener noreferrer nofollow" target="_blank">catholicjcreg@gmail.com</a>
+</p>
