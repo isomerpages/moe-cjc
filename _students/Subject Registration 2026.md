@@ -40,5 +40,5 @@ the guide here: Download the slides for the briefing on 4 Feb if required.</p>
 </p>
 <p>Slides (part 2) - <a href="/files/2025_Subject_Registration_Briefing_5_Feb_Part_2.pdf" rel="noopener nofollow" target="_blank">file</a>
 </p>
-<p><strong><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations-2025/" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
+<p><strong><a href="https://www.cjc.moe.edu.sg/admission/subject-combinations/" rel="noopener noreferrer nofollow" target="_blank">Subject Combinations here</a></strong>
 </p>
