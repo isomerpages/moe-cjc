@@ -6,12 +6,11 @@ description: ""
 third_nav_title: Info for JC1 Student & Parents
 ---
 <h4>Setting up of the CJ Portal Account and Subject Registration</h4>
-<p>To facilitate your enrollment into CJC, please set up your CJ Portal Account.
-Do fill in all relevant information, with the final step being to submit
-your subject combination by <strong><u>today,&nbsp;3 Feb</u></strong><u>&nbsp;</u>before
-you report to CJC tomorrow, 4 Feb&nbsp;. Please refer to the attached guide
-on how to set up your CJ Portal account, fill in all relevant information
-and submit your subject combination.</p>
+<p>A CJ Portal Account is needed to facilitate your enrollment into CJC,
+so fill in all relevant information, with the final step being to submit
+your subject combination before you report to CJC tomorrow, 4 Feb. Please
+refer to the attached guide on how to set up your CJ Portal account, fill
+in all relevant information and submit your subject combination.</p>
 <p>Rest assured, you are able to continue amending your subject combination
 on 4 and 5 Feb even after submitting your subject combination today, 3
 Feb. As part of the Orientation Programme, you will be attending subject
