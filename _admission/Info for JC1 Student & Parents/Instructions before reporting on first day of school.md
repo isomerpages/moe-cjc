@@ -18,3 +18,5 @@ Leaders, who are your JC2 seniors and teachers who are with you will also
 helpfully respond to queries you have.</p>
 <p>Click this link to set up your CJ Portal Account - <a href="https://portal.catholicjc.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">https://portal.catholicjc.edu.sg/</a>
 </p>
+<p>Refer to this user guide on how to set up your CJ Portal Account - <a href="/files/2026_Subject_Registration_Briefing_slides.pdf" rel="noopener nofollow" target="_blank">file</a>
+</p>
