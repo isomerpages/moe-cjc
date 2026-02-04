@@ -12,7 +12,7 @@ your decision making do refer to the following resource to guide you through
 the process of selecting your subject combination.</p>
 <p>Please refer to the website via the link given below to guide you through
 the process of selecting your subject combination:</p>
-<p><a href="https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/d/1LVUJv1JOP5VUsIXSTQpe2zOq93cTDbNO/p/1xkpuWoYc56lW35t7elAJX5EVmv-Q61-_/edit</a>
+<p><a href="https://sites.google.com/moe.edu.sg/cjceducationcareerguidance/jc1-subject-selection" rel="noopener noreferrer nofollow" target="_blank">https://sites.google.com/moe.edu.sg/cjceducationcareerguidance/jc1-subject-selection</a>
 </p>
 <p>In summary, do take into consideration the following when deciding on
 your subject combination:</p>
