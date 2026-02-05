@@ -10,7 +10,7 @@ variant: markdown
 <img src="/images/students1.jpg" style="width:20%;margin-right:5px;" align="left">
 </a></p>
 
-<p><a href="https://www.cjc.moe.edu.sg/students/subject-registration/">
+<p><a href="https://www.cjc.moe.edu.sg/admission/info-for-jc1-students-and-parents/subject-combination-registration/">
 <img src="/images/students2.jpg" style="width:20%;margin-right:5px;" align="left">
 </a></p>
 
