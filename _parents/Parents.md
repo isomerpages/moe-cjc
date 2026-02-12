@@ -4,31 +4,35 @@ permalink: /parents/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Parent Engagement Events in 2025</strong></h3>
+<h3><strong>Parent Engagement Events in 2026</strong></h3>
 <p>The College organises regular touchpoints with parents to provide timely
 updates on your children’s holistic development. Parents are encouraged
-to attend the <strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong> with
+to attend the&nbsp;<strong>Parent Information Evening (PIE) and Parent-Teacher Conference (PTC)</strong>&nbsp;with
 your children.</p>
 <p><strong>For parents of JC1 students</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PIE: 28 February, in-person<br></strong>Parents
-are invited to attend the JC1 introductory briefing on College life, before
-meeting your child’s Home Tutor in your child’s homeroom.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 1: 14 August, online<br></strong>Parents
-of students who require additional support are invited to meet your child's
-Subject Tutors.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 2: 21 November, online<br></strong>Parents
-of students who require additional support are invited to meet your child's
-Subject Tutors.</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>PIE: 13 February, in-person<br></strong>Parents are invited to
+attend the JC1 introductory briefing on College life, before meeting your
+child’s Home Tutor in your child’s homeroom.</p>
+</li>
+<li>
+<p><strong>PTC 1: 13 August, online<br></strong>Parents of students who require
+additional support are invited to meet your child's Subject Tutors.</p>
+</li>
+<li>
+<p><strong>PTC 2: 20 November, online<br></strong>Parents of students who
+require additional support are invited to meet your child's Home Tutors.</p>
+</li>
+</ul>
 <p><strong>For parents of JC2 students</strong>
 </p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>PTC 1: 10 April, online<br></strong>Parents
+<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>PTC 1: 5 March, online<br></strong>Parents
 of students who require additional support are invited to meet your child’s
 Subject Tutors.</p>
-<p>Further to these events, the College partners the <a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a> to
-organise <strong>Parent Education Seminars</strong>. Parents are invited
-to attend the seminars on <strong>28 February</strong> to strengthen your
-parenting support for your children.</p>
+<p>Further to these events, the College partners the&nbsp;<a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a>&nbsp;to
+organise&nbsp;<strong>Parent Education Seminars</strong>.</p>
 <h3><strong>Communications with Parents</strong></h3>
 <p>The College uses various communications channels to update parents.</p>
 <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Parents Gateway (PG)<br></strong>Parents
