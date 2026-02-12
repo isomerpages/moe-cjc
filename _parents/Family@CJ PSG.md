@@ -191,6 +191,10 @@ participation.</p>
 <p>Come join us and support our CJC students and family! Scan the QR code
 or sign up at <a href="https://tinyurl.com/2026CJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2026CJCPSG</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PSG_2026_QR_code.jpg">
+</div>
 <p>
 <br>
 <br>
