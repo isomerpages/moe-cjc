@@ -1347,7 +1347,7 @@ JC1</p>
 <p>1T17</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Pang Soon Kit Kelvin</p>
 </td>
 </tr>
 <tr>
@@ -1355,7 +1355,7 @@ JC1</p>
 <p>1T18</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ang Shiok Hoon</p>
 </td>
 </tr>
 <tr>
@@ -1363,7 +1363,7 @@ JC1</p>
 <p>1T19</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chew Hui Teng</p>
 </td>
 </tr>
 <tr>
