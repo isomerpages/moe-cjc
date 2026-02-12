@@ -20,12 +20,14 @@ develops every CJCian to be a <em>Thinker with a Mission and Leader with a Heart
 The three hands represented in the college colours of blue, red and yellow,
 highlight parents' fervent support in fulfilling the college’s mission
 and vision <em>in Truth and in Love</em>.</p>
-<h3><strong>PSG Exco 2025</strong></h3>
+<h3><strong>PSG Exco 2026</strong></h3>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/A.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_a.jpg">
 </div>
-<p><em>(From left: Mr John Tay, Ms Haslinda bte Hashim, Mr Andy Wee, Mrs Hurustiani Boy, Ms Serene Sim, Ms Magdalen Shew, Ms Natalie Ng)</em>
-</p>
+<p>From left to right:</p>
+<p>Seated: Ms Alicia Ong, Mr James Ong, Ms Ang Hui Ling, Ms Audrey Leong</p>
+<p>Row 1: Ms Patricia Seng, Ms Josephine Lim</p>
 <p></p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -46,7 +48,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Chairperson (Activities IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Wee</p>
+<p>Mr James Ong</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +56,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Vice-Chairperson (Membership IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hurustiani Boy</p>
+<p>Ms Ang Hui Ling</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +64,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natalie Ng</p>
+<p>Ms Josephine Lim</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +72,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Night Study Snacks IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Haslinda bte Hashim</p>
+<p>Ms Alicia Ong / Ms Teng Shimin</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +80,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Communications IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Sim</p>
+<p>Ms Audrey Leong</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +88,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Praying Parents IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalen Shew</p>
+<p>Ms Patricia Seng</p>
 </td>
 </tr>
 <tr>
@@ -94,7 +96,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Dads for Life Representative &amp; Pre-NS Talk IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Tay / Mr Stacy Lee (deputy)</p>
+<p>Mr James Ong</p>
 </td>
 </tr>
 </tbody>
