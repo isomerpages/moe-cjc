@@ -171,13 +171,25 @@ participation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_n.jpg">
 </div>
 <p></p>
-<p></p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_o.jpg">
 </div>
+<p><strong><u>PSG Learning Journey explore CDE @ NUS:</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_p.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_r.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_s.jpg">
+</div>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
-or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
+or sign up at <a href="https://tinyurl.com/2026CJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2026CJCPSG</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
 <p>
 <br>
