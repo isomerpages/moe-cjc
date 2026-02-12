@@ -145,6 +145,23 @@ participation.</p>
 </div>
 <p><strong><u>PSG Parents' Education Seminar 2025 - ALONE VS LONELY:</u></strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_i.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_j.jpg">
+</div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - Navigating Late Teen Years (Raising Resilient Teens):</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_k.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_l.jpg">
+</div>
+<p></p>
 <p></p>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
