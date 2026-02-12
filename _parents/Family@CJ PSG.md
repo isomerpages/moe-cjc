@@ -125,7 +125,6 @@ participation.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_f.jpg">
 </div>
 <p></p>
-<p></p>
 <p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/F.jpg">
@@ -135,15 +134,17 @@ participation.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/G.jpg">
 </div>
 <p></p>
-<p>Encouragement cards and rosaries for JC2 students (especially blessed
-by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p>
+<p><strong><u>CJC 50th Anniversary Food and Fun Fair 2025:</u></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/H.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_g.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/I.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_h.jpg">
 </div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - ALONE VS LONELY:</u></strong>
+</p>
 <p></p>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
