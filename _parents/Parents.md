@@ -64,19 +64,29 @@ these letters through email.</p>
 <p>Should parents require any assistance and/or wish to provide feedback,
 please contact your child’s Home Tutor and Subject Tutors or the College
 at 62524083/4 or <a rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a>.</p>
-<h3><strong>Parenting Resources</strong></h3>
+<h4><strong>Parenting Resources</strong></h4>
 <p>Parents may refer to the following MOE and CJC resources to strengthen
 their parenting support for your children.</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">‘Parenting with MOE’ Instagram account</a><strong><br></strong>Receive
+<ul data-tight="true" class="tight">
+<li>
+<p><a href="https://www.instagram.com/parentingwith.moesg/" rel="noopener noreferrer nofollow" target="_blank">‘Parenting with MOE’ Instagram account</a><strong><br></strong>Receive
 bite-sized parenting tips via Instagram</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://linktr.ee/parentingwith.moesg" rel="noopener noreferrer nofollow" target="_blank">‘Parenting with MOE’ resources</a><strong><br></strong>Access
+</li>
+<li>
+<p><a href="https://linktr.ee/parentingwith.moesg" rel="noopener noreferrer nofollow" target="_blank">‘Parenting with MOE’ resources</a><strong><br></strong>Access
 an extensive list of resources including cyber-wellness support</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a><strong><br></strong>Be
+</li>
+<li>
+<p><a href="https://www.schoolbag.edu.sg/" rel="noopener noreferrer nofollow" target="_blank">Schoolbag</a><strong><br></strong>Be
 updated on education news, school features and tips</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cjc.moe.edu.sg/education/cce/potential-development" rel="noopener noreferrer nofollow" target="_blank">CJC Education and Career Guidance</a><strong><br></strong>Support
-your child in making informed education and career choices
-<br>
-</p>
-<p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a><strong><br></strong>Join
+</li>
+<li>
+<p><a href="https://www.cjc.moe.edu.sg/education/cce/potential-development" rel="noopener noreferrer nofollow" target="_blank">CJC Education and Career Guidance</a><strong><br></strong>Support
+your child in making informed education and career choices</p>
+</li>
+<li>
+<p><a href="https://www.cjc.moe.edu.sg/parents/psg" rel="noopener noreferrer nofollow" target="_blank">Family@CJ Parent Support Group</a><strong><br></strong>Join
 fellow parents in the journey of supporting children in CJC</p>
+</li>
+</ul>
 <p></p>
