@@ -1251,7 +1251,7 @@ JC1</p>
 <p>1T06</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Joel Gwee Shou Wen</p>
 </td>
 </tr>
 <tr>
@@ -1259,7 +1259,15 @@ JC1</p>
 <p>1T07</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Ka Lok Carolina</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T07</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chua Chee Siang</p>
 </td>
 </tr>
 <tr>
@@ -1267,7 +1275,7 @@ JC1</p>
 <p>1T08</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Zachary Kok Zhi Hoe</p>
 </td>
 </tr>
 <tr>
@@ -1275,7 +1283,7 @@ JC1</p>
 <p>1T09</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Chong Phow Loong</p>
 </td>
 </tr>
 <tr>
@@ -1283,7 +1291,7 @@ JC1</p>
 <p>1T10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Daniel Tay Han Tzuen</p>
 </td>
 </tr>
 <tr>
@@ -1291,7 +1299,7 @@ JC1</p>
 <p>1T11</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ng Chee Keong</p>
 </td>
 </tr>
 <tr>
@@ -1299,7 +1307,7 @@ JC1</p>
 <p>1T12</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Hing Meow Cheng Wendy</p>
 </td>
 </tr>
 <tr>
@@ -1307,7 +1315,7 @@ JC1</p>
 <p>1T13</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Geetha D/O Muthu</p>
 </td>
 </tr>
 <tr>
@@ -1315,7 +1323,7 @@ JC1</p>
 <p>1T14</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Manqing Tiffany</p>
 </td>
 </tr>
 <tr>
@@ -1323,7 +1331,7 @@ JC1</p>
 <p>1T15</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Zhiyi</p>
 </td>
 </tr>
 <tr>
@@ -1331,7 +1339,7 @@ JC1</p>
 <p>1T16</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Lim Hwee Teng</p>
 </td>
 </tr>
 <tr>
