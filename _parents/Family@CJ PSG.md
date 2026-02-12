@@ -101,22 +101,30 @@ and vision <em>in Truth and in Love</em>.</p>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_b.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_c.jpg">
+</div>
 <h3><strong>Key College Events Supported by the PSG</strong></h3>
 <p>The PSG supports key college events through parents’ support and active
 participation.</p>
-<p></p>
-<p>Refreshments on selected nights during the College’s Night Study Programme:</p>
+<p><strong>Refreshments on selected nights during the College’s Night Study Programme:</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/C.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_d.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/D.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_e.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/B.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_f.jpg">
 </div>
+<p></p>
 <p></p>
 <p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
 <div class="isomer-image-wrapper">
