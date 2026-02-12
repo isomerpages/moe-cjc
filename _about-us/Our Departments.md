@@ -1208,10 +1208,10 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>1T03</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Toh Hong Jin</p>
 </td>
 </tr>
 <tr>
@@ -1219,7 +1219,7 @@ JC1</p>
 <p>1T04</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wu Yuen Yi</p>
 </td>
 </tr>
 <tr>
@@ -1227,7 +1227,23 @@ JC1</p>
 <p>1T05</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Brinda D/O Balasubramaniam</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T05</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Lai Ern Chuen</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T06</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Sharon Soong Yin-Yin</p>
 </td>
 </tr>
 <tr>
