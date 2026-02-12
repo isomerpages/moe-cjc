@@ -28,7 +28,6 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>From left to right:</p>
 <p>Seated: Ms Alicia Ong, Mr James Ong, Ms Ang Hui Ling, Ms Audrey Leong</p>
 <p>Row 1: Ms Patricia Seng, Ms Josephine Lim</p>
-<p></p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
