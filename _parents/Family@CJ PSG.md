@@ -161,8 +161,20 @@ participation.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_l.jpg">
 </div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - Calm Parenting Approach:</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_m.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_n.jpg">
+</div>
 <p></p>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_o.jpg">
+</div>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
 or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
