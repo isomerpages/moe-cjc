@@ -20,13 +20,14 @@ develops every CJCian to be a <em>Thinker with a Mission and Leader with a Heart
 The three hands represented in the college colours of blue, red and yellow,
 highlight parents' fervent support in fulfilling the college’s mission
 and vision <em>in Truth and in Love</em>.</p>
-<h3><strong>PSG Exco 2025</strong></h3>
-<div class="isomer-image-wrapper">
-<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/A.jpg">
-</div>
-<p><em>(From left: Mr John Tay, Ms Haslinda bte Hashim, Mr Andy Wee, Mrs Hurustiani Boy, Ms Serene Sim, Ms Magdalen Shew, Ms Natalie Ng)</em>
-</p>
+<h3><strong>PSG Exco 2026</strong></h3>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_a.jpg">
+</div>
+<p>From left to right:</p>
+<p>Seated: Ms Alicia Ong, Mr James Ong, Ms Ang Hui Ling, Ms Audrey Leong</p>
+<p>Row 1: Ms Patricia Seng, Ms Josephine Lim</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -46,7 +47,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Chairperson (Activities IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Andy Wee</p>
+<p>Mr James Ong</p>
 </td>
 </tr>
 <tr>
@@ -54,7 +55,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Vice-Chairperson (Membership IC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Hurustiani Boy</p>
+<p>Ms Ang Hui Ling</p>
 </td>
 </tr>
 <tr>
@@ -62,7 +63,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Treasurer</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Natalie Ng</p>
+<p>Ms Josephine Lim</p>
 </td>
 </tr>
 <tr>
@@ -70,7 +71,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Night Study Snacks IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Haslinda bte Hashim</p>
+<p>Ms Alicia Ong / Ms Teng Shimin</p>
 </td>
 </tr>
 <tr>
@@ -78,7 +79,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Communications IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Serene Sim</p>
+<p>Ms Audrey Leong</p>
 </td>
 </tr>
 <tr>
@@ -86,7 +87,7 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Praying Parents IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Magdalen Shew</p>
+<p>Ms Patricia Seng</p>
 </td>
 </tr>
 <tr>
@@ -94,26 +95,33 @@ and vision <em>in Truth and in Love</em>.</p>
 <p>Dads for Life Representative &amp; Pre-NS Talk IC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr John Tay / Mr Stacy Lee (deputy)</p>
+<p>Mr James Ong</p>
 </td>
 </tr>
 </tbody>
 </table>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_b.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_c.jpg">
+</div>
 <h3><strong>Key College Events Supported by the PSG</strong></h3>
 <p>The PSG supports key college events through parents’ support and active
 participation.</p>
-<p></p>
-<p>Refreshments on selected nights during the College’s Night Study Programme:</p>
+<p><strong>Refreshments on selected nights during the College’s Night Study Programme:</strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/C.jpg">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_d.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/D.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_e.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/B.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_f.jpg">
 </div>
 <p></p>
 <p>Tokens of appreciation for staff at the College’s Teachers’ Day Celebrations:</p>
@@ -125,22 +133,66 @@ participation.</p>
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/G.jpg">
 </div>
 <p></p>
-<p>Encouragement cards and rosaries for JC2 students (especially blessed
-by Cardinal William Goh) taking their A-levels &amp; Prayer Vigil by parents:</p>
+<p><strong><u>CJC 50th Anniversary Food and Fun Fair 2025:</u></strong>
+</p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/H.jpg">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_g.jpg">
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/I.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_h.jpg">
+</div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - ALONE VS LONELY:</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 70%;" height="auto" width="100%" alt="" src="/images/PSG_2026_i.jpg">
 </div>
 <p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_j.jpg">
+</div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - Navigating Late Teen Years (Raising Resilient Teens):</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_k.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_l.jpg">
+</div>
+<p><strong><u>PSG Parents' Education Seminar 2025 - Calm Parenting Approach:</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_m.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_n.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_o.jpg">
+</div>
+<p><strong><u>PSG Learning Journey explore CDE @ NUS:</u></strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_p.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 80%;" height="auto" width="100%" alt="" src="/images/PSG_2026_r.jpg">
+</div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_s.jpg">
+</div>
 <h3><strong>Join the Family@CJ PSG</strong></h3>
 <p>Come join us and support our CJC students and family! Scan the QR code
-or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
+or sign up at <a href="https://tinyurl.com/2026CJCPSG" rel="noopener noreferrer nofollow" target="_blank">https://tinyurl.com/2026CJCPSG</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_new_QR_code_12Feb.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/PSG_2026_QR_code.jpg">
 </div>
 <p>
 <br>
