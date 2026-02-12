@@ -141,7 +141,7 @@ participation.</p>
 </div>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026_h.jpg">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/PSG_2026_h.jpg">
 </div>
 <p><strong><u>PSG Parents' Education Seminar 2025 - ALONE VS LONELY:</u></strong>
 </p>
@@ -150,9 +150,6 @@ participation.</p>
 <p>Come join us and support our CJC students and family! Scan the QR code
 or sign up at <a href="https://formurl.com/to/2025CJCPSGSignUp" rel="noopener noreferrer nofollow" target="_blank">https://formurl.com/to/2025CJCPSGSignUp</a>.
 If you have any queries, do feel free to email PSG at <a href="mailto:cjc.psgexco@gmail.com" rel="noopener noreferrer nofollow" target="_blank">cjc.psgexco@gmail.com</a>.</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2025_PSG_new_QR_code_12Feb.jpg">
-</div>
 <p>
 <br>
 <br>
