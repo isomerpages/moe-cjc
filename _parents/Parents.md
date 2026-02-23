@@ -50,9 +50,9 @@ at <a rel="noopener noreferrer nofollow" target="_blank">http://pg.moe.edu.sg</a
 <p><strong>CJC Portal<br></strong>Parents may access the CJC Portal at
 <a rel="noopener noreferrer nofollow" target="_blank">http://portal.catholicjc.edu.sg</a>to view your child’s timetable, assessment
 schedule and progress reports, and to book your PTC slots with your child’s
-Subject Tutors. Parents may refer to the <a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view" rel="noopener noreferrer nofollow" target="_blank">CJC Portal onboarding</a>
-<a href="https://drive.google.com/file/d/1vSENMBGxH9lQSxYpsQRkZVVJx_tLniI7/view&quot;" rel="noopener noreferrer nofollow" target="_blank">guide</a>to create your account. Onboarded parents may click on “Reset
-it here” link on the CJC Portal if you have forgotten your password.</p>
+Subject Tutors. Parents may refer to the <a href="/files/2026_CJC_Portal_Onboarding_Guide_for_Parents_23_Feb.pdf" rel="noopener noreferrer nofollow" target="_blank">CJC Portal Onboarding Guide</a> to
+create your account. Onboarded parents may click on “Reset it here” link
+on the CJC Portal if you have forgotten your password.</p>
 </li>
 <li>
 <p><strong>Principal’s Termly Letter to Parents<br></strong>Parents are encouraged
