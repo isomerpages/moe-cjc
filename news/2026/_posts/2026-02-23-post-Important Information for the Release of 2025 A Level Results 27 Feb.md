@@ -13,19 +13,12 @@ variant: tiptap
 report to their homerooms by 2.00pm to collect their results.&nbsp;</p>
 <p>CCAs will continue according to usual CCA schedule.</p>
 <p>
-<br><strong><u>2025 JC2 cohort of candidates collecting results</u></strong><u><br><br></u>
+<br><strong><u>2025 JC2 cohort of candidates collecting results</u></strong><u><br></u><strong>Collection of Examination Results</strong>
 </p>
-<p><strong>Collection of Examination Results</strong>
-</p>
-<p><a rel="noopener noreferrer nofollow" target="_blank">Candidates may collect their Examination Certificates and School Graduation Certificates from the school from 2.30pm on Friday, 27 February 2026.</a>
-</p>
-<p>&nbsp;</p>
-<p><strong>Please report to the PAC at 2pm for the Principal’s address and Year Head’s briefing.&nbsp;</strong>
-</p>
-<p>&nbsp;</p>
-<p><em>Refer to the Announcement on Venues for Release of Results for more details.</em>
-</p>
-<p><em>&nbsp;</em>
+<p>Candidates may collect their Examination Certificates and School Graduation
+Certificates from the school from 2.30pm on Friday, 27 February 2026.</p>
+<p><strong>Please report to the PAC at 2pm for the Principal’s address and Year Head’s briefing.&nbsp;</strong>&nbsp;</p>
+<p><em>Refer to the <a href="/files/11b__Venues_for_Release_of_2025_A_Level_Results_college_website.pdf" rel="noopener noreferrer nofollow" target="_blank">Announcement on Venues for Release of Results</a> for more details.&nbsp;</em>
 </p>
 <p>Candidates who are unable to collect their results in person can appoint
 a proxy to collect a physical copy of their results on their behalf from
@@ -33,10 +26,9 @@ the College General Office on 27 February between 4 – 5.30pm. Proxies may
 also come to college after 27 February between 9am and 5.30pm. Proxies
 are required to produce an authorization letter and their identification
 card for verification purposes. &nbsp;An&nbsp;<strong>authorisation letter for proxies</strong>&nbsp;can
-be found here:&nbsp;<u>A-Levels Results Authorisation Form</u>. This form
-has to be printed in hardcopy, duly signed and submitted to the college
-upon collection of the results at the General Office.&nbsp;</p>
-<p>&nbsp;</p>
+be found here:&nbsp;<a href="/files/11c__2025_A_Level_Results_Authorisation_Form.pdf" rel="noopener noreferrer nofollow" target="_blank"><u>A-Levels Results Authorisation Form</u></a>.
+This form has to be printed in hardcopy, duly signed and submitted to the
+college upon collection of the results at the General Office.&nbsp;</p>
 <p>&nbsp;</p>
 <p><strong>Viewing Examination Results Online</strong>
 </p>
