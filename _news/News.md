@@ -7,6 +7,12 @@ variant: tiptap
 <h3><strong>News</strong></h3>
 <p></p>
 <div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students_PAC_website.jpg">
+</div>
+<p><a href="https://www.cjc.moe.edu.sg/cjc-congratulates-the-class-of-2025/" rel="noopener nofollow" target="_blank">CJC Congratulates the Class of 2025</a>
+<br>Our heartiest congratulations to the Class of 2025 on your commendable
+A-Level results</p>
+<div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Min_Edn_Mr_Desmond_Lee_wefie_with_CJC_and_partners.jpg">
 </div>
 <p><a href="https://www.cjc.moe.edu.sg/catholic-junior-college-to-relocate-to-punggol-in-the-vicinity-of-punggol-digital-district/" rel="noopener nofollow" target="_blank">CJC to Relocate to Punggol in the vicinity of Punggol Digital District</a>
