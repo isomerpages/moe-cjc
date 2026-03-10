@@ -751,9 +751,8 @@ remission of school fees and an annual allowance.</p>
 authentic learning experiences. Besides classroom learning, students embark
 on a range of exciting learning activities, competitions, talent development
 and research programmes. These also include overseas academic trips to
-the UK, Hong Kong and India in partnership with reputable organisations
-and Institutes of Higher Learning such as REACH Cambridge, Hong Kong University
-(HKU) and the Singapore Ministry of Trade &amp; Industry (MTI).</p>
+Vietnam, Hong Kong and Japan in partnership with reputable organisations
+and Institutes of Higher Learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collegeprofile1.jpg">
 </div>
