@@ -780,22 +780,5 @@ and Institutes of Higher Learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collegeprofile7.jpg">
 </div>
-<h4><strong>Financial Statement FY 2019</strong></h4>
-<p><a href="/files/2019%20Financial%20Statements.pdf" rel="noopener noreferrer nofollow" target="_blank">2019 Financial Statements can be found here.</a>
-</p>
-<h4><strong>CJ45 donations to be used for supporting students who require financial assistance</strong></h4>
-<div class="isomer-image-wrapper">
-<img style="width:40%;margin-left::55px;" height="auto" width="100%" src="/images/collegeprofile8.jpeg">
-</div>
-<p>Given the ongoing COVID-19 pandemic and the challenges faced by our students
-and their families, the College has decided that the donations received
-under our “CJ45 celebrations in 2020” will be used to support students
-who require financial assistance. The original aim of the CJ45 fundraising
-project, that is, to renovate the CJC hostel to develop a student learning
-hub, has been cancelled due to escalating construction costs which has
-rendered the project unfeasible.</p>
-<p>The College has informed all donors of the change in usage of donations.
-This message is to inform the remaining donors who are uncontactable. Donors
-with further queries may contact the College at (65) 62524083 and&nbsp;
-<a href="mailto:catholic_jc@moe.edu.sg" rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a>
-</p>
+<p>To view Catholic Junior College's financial summary, click <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">here</a>.</p>
+<p></p>
