@@ -194,9 +194,9 @@ mission, building a generation of students with the mission to lead and
 serve others and make a positive impact beyond Singapore</p>
 <h4><strong>Our Co-Curricular Activities</strong></h4>
 <h5><strong>Physical Sports</strong></h5>
-<p>Badminton ▫ Basketball ▫ Canoeing ▫ Fencing ▫ Floorball ▫ Netball ▫ Soccer
-▫ Swimming ▫ Tennis ▫ Bowling ▫ Track &amp; Field ▫ Cross Country ▫ Volleyball
-▫ Ultimate Frisbee</p>
+<p>Badminton ▫ Basketball ▫ Bowling ▫ Canoeing ▫ Cross Country ▫ Fencing
+▫ Floorball ▫ Football ▫ Netball ▫ Swimming ▫ Tennis ▫ Ultimate Frisbee
+▫ Volleyball</p>
 <h5><strong>Visual and Performing Arts</strong></h5>
 <p>Choir ▫ Modern Dance ▫ English Drama ▫ Guitar ▫ Guzheng ▫ Concert Band</p>
 <h5><strong>Clubs and Societies</strong></h5>
