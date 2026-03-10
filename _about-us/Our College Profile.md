@@ -96,12 +96,15 @@ for all.</p>
 <p><strong>Common Good</strong>- We exhort students to connect knowledge
 with values and pursue truth for the common good.</p>
 </li>
-</ul>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Solidarity</strong>-
-We seek to cultivate relationships grounded in trust, respect, and a common
-purpose, nurturing a spirit of solidarity.</p>
+<li>
+<p><strong>Solidarity</strong>- We seek to cultivate relationships grounded
+in trust, respect, and a common purpose, nurturing a spirit of solidarity.</p>
+</li>
+<li>
 <p><strong>Servant Leadership</strong>- We reflect servant leadership by
 living out values of humility, compassion, and love.</p>
+</li>
+</ul>
 <h4><strong>Values</strong></h4>
 <p><strong>Truth and Love</strong>
 <br>In CJC we pursue knowledge for the service of others.</p>
