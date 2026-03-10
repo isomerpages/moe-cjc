@@ -239,7 +239,7 @@ and staff can monitor progress in learning:</p>
 <p>JC1 (year 11): Promotional Examination</p>
 </li>
 <li>
-<p>JC2 (year 12): Mid-Year Examination, Preliminary Examination</p>
+<p>JC2 (year 12): Preliminary Examination</p>
 </li>
 </ul>
 <p>Estimated or predicted grades are based on the student’s progress across
