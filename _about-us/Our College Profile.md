@@ -198,7 +198,8 @@ serve others and make a positive impact beyond Singapore</p>
 ▫ Floorball ▫ Football ▫ Netball ▫ Swimming ▫ Tennis ▫ Ultimate Frisbee
 ▫ Volleyball</p>
 <h5><strong>Visual and Performing Arts</strong></h5>
-<p>Choir ▫ Modern Dance ▫ English Drama ▫ Guitar ▫ Guzheng ▫ Concert Band</p>
+<p>Choir ▫ English Drama ▫ Guitar Ensemble ▫ Guzheng Ensemble ▫ Modern Dance
+▫ Symphonic Band</p>
 <h5><strong>Clubs and Societies</strong></h5>
 <p>Editorial Club ▫ STEM Club ▫ Film Sound Video Society ▫ First Aid Club
 ▫ Interact Club ▫ Oratorical Society ▫ Strategy Games Club ▫ Student Council
