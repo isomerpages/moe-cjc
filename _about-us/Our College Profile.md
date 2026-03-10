@@ -696,38 +696,29 @@ service to the community. They include:
 </tbody>
 </table>
 <h4><strong>The CJC Ignite Programme</strong></h4>
-<p>The CJC Ignite programme is a talent development programme in alignment
-to the College’s mission of “Building a generation: In Truth &amp; Love”
-where every CJCian is a Thinker with a Mission and a Leader with a Heart.
-Our integrated curriculum prepares students to be critical thinkers and
-future-oriented leaders, through providing them with the opportunities
-to ask difficult questions, uncover core theories and analyse complex problems.
-Students from the Ignite Programme not only achieve excellent results in
-the GCE A-Level examination, they are also recognised for their holistic
-leadership qualities.</p>
-<p>The CJC Ignite programme is built upon the following principles:</p>
+<p>The CJC Ignite Talent Development Programme nurtures students to become
+thinkers, leaders and changemakers by providing opportunities to stretch
+academically, grow in leadership, and apply learning beyond the classroom.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Seminar-style pedagogy, encouraging exploration, reflection and expression
-of ideas</p>
+<p>Students may apply for selection to our Ignite classes, which challenge
+them intellectually, develop critical and creative thinking and build confidence.
+They gain access to university seminars, national forums, industry attachments
+and competitions, collaborating with like-minded peers to broaden their
+horizons.</p>
 </li>
 <li>
-<p>Smaller teacher-student ratio, allowing for greater tutor-student interaction
-and engagement</p>
-</li>
-<li>
-<p>An authentic service learning project for a target community and / or
-advocacy programme</p>
-</li>
-<li>
-<p>A residential programme at NUS U-Town based on our integrated learning
-approach Integration of subject disciplines, through a concept-based approach</p>
-</li>
-<li>
-<p>Greater opportunities to develop life skills, communication and leadership
-skills</p>
+<p>Students who demonstrate consistent academic performance and leadership
+potential may be selected for our Ignite+ programme, focusing on community
+leadership. Through mentoring, grassroots involvement and service-learning
+opportunities, students grow in empathy, self-awareness and purpose, learn
+to lead with humility, and create meaningful social impact while connecting
+with teacher-mentors and alumni for guidance and inspiration.</p>
 </li>
 </ul>
+<p>The Ignite talent development programme equips students with the knowledge,
+skills and mindset to excel academically, lead with purpose, and contribute
+meaningfully to the community.</p>
 <h4><strong>Knowledge Skills</strong></h4>
 <p>These subjects are designed to support a rigorous course of academic study
 by developing higher order thinking skills, conceptual thinking, processing
@@ -739,10 +730,11 @@ language. It comprises two main modes of assessment (writing and reading
 comprehension) to ensure that students are familiar with the skills required
 to write an academic argument and to evaluate and assess academic writing.
 The course spans the complete two years of the junior college course.</p>
-<p>Project Work – Students work in groups of 4-5 on a research task set at
-the national level. This results in a written report, a group project file,
-and an oral presentation of their research findings and recommendations.
-All aspects of Project Work are assessed in the first year (JC1).</p>
+<p>Project Work – Students work in groups of 4-5 on a real-world research
+project, completing a Project Summary, Individual Reflection, and oral
+presentation in JC1. Graded Pass/Fail from 2024, students are mentored
+to apply their ideas through service-learning, developing critical thinking,
+communication, collaboration and creating positive social impact.</p>
 <h4><strong>Ministry of Education (MOE) Special Programmes at CJC</strong></h4>
 <p><strong>English Language and Linguistics</strong>
 <br>English Language and Linguistics (ELL) is a subject offered at the H2
