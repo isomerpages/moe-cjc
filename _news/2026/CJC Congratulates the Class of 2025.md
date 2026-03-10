@@ -49,3 +49,9 @@ of 2025 with grace and wisdom as they take flight and soar!<em>&nbsp;</em>
 </p>
 <p><em>In Veritate et Caritate</em>
 </p>
+<p><strong>ZAYNE CHEW  ZHENG XUN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
+</div>
+<p></p>
