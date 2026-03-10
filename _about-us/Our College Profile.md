@@ -42,18 +42,38 @@ with a Heart’ in a changing global landscape.</p>
 <h4><strong>Vision</strong></h4>
 <p><strong>CJC - A Place of Excellence in Learning and Living.</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Excellence - Striving for high standards in educating young people.</p>
-</li>
-<li>
-<p>Learning - Enabling students to realise their potential academically,
-physically and spiritually.</p>
-</li>
-<li>
-<p>Living - Forming a person who is well-integrated into society.</p>
-</li>
-</ul>
+<p>Brother Patrick Loh, the founding principal of Catholic Junior College,
+envisioned that "underlying education is the concept of the unique, irreplaceable
+value of every human person. Our education should therefore help each person
+to understand himself as he truly is, to fulfill their special vocation
+in life."</p>
+<p>Over the years CJC continues to bring this vision to life, as a place
+of excellence in learning and living. As an educational institution, CJC
+strives for high standards in educating young people thereby enabling students
+to realise their potential academically, physically and spiritually so
+that our students are formed to be well-integrated into society<em>.</em>
+</p>
+<p><strong>1. Student Outcomes: Every CJCian to be a Thinker with a Mission, Leader with a Heart</strong>
+</p>
+<p>At CJC, we nurture every student to become a purposeful, disciplined learner
+guided by strong values like humility, courage, and integrity. Our students
+grow into critical and adaptive thinkers and effective communicators, striving
+for veracity and justice when forming meaningful collaborations. They are
+also servant leaders, ready to serve others and make a positive impact
+in their communities.</p>
+<p><strong>2. Staff Outcomes: Our staff nurture the holistic development of students and embody the values of being Reflective, Innovative, Caring, and Engaged, striving always for excellence.</strong>
+</p>
+<p>Our team of dedicated staff support the academic, physical, and spiritual
+growth of every student. Our staff embody servant leadership, continuous
+learning, and collaboration to create a vibrant, caring community focussed
+on developing student agency.</p>
+<p><strong>3. Culture Outcomes: A college culture grounded in Truth and Love — expressed through Respect, Solidarity, Service, and Excellence</strong>
+</p>
+<p>We envision a college culture deeply grounded in the values of truth and
+love, where respect, solidarity, service, and excellence flourish. We inspire
+everyone to honour their God-given dignity and unique gifts, grow in character,
+and pursue their calling with passion — building a compassionate community
+that contributes meaningfully to the world.</p>
 <h4><strong>Mission</strong></h4>
 <p><strong>Building a Generation in Truth and Love: Every CJCian to be a Thinker with a Mission and a Leader with a Heart.</strong>
 </p>
