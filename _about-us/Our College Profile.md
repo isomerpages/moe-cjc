@@ -201,9 +201,10 @@ serve others and make a positive impact beyond Singapore</p>
 <p>Choir ▫ English Drama ▫ Guitar Ensemble ▫ Guzheng Ensemble ▫ Modern Dance
 ▫ Symphonic Band</p>
 <h5><strong>Clubs and Societies</strong></h5>
-<p>Editorial Club ▫ STEM Club ▫ Film Sound Video Society ▫ First Aid Club
-▫ Interact Club ▫ Oratorical Society ▫ Strategy Games Club ▫ Student Council
-▫ Nexus Investment &amp; Entrepreneurship Society ▫ Genesis (Second CCA)</p>
+<p>Editorial Club ▫ Film Sound Video Society ▫ First Aid Club ▫ Genesis (Second
+CCA) ▫ Interact Club ▫ Nexus Investment &amp; Entrepreneurship Society
+▫ Oratorical Society ▫ STE<sup>2</sup>M Club ▫ Strategy Games Club ▫ Student
+Council</p>
 <h5><strong>Leadership opportunities</strong></h5>
 <p>Student Council ▫ House Leaders ▫ Class Committees ▫ Subject Leaders</p>
 <h4><strong>The Singapore-Cambridge A-Level (Advanced Level) Examination Syllabus (revised in 2007)</strong></h4>
