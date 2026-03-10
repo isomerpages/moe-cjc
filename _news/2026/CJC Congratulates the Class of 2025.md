@@ -158,6 +158,33 @@ about Physics, Mrs Tie for keeping Chemistry fun, and lastly Mr Tan and
 Ms Rai for their constant encouragement and as well as advice about how
 to succeed in General Paper and in life.”</p>
 <p>
+<br><strong>ROXANNE NEO YU XUAN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
+</div>
+<p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
+of JC life. As a hard worker who possesses exemplary critical thinking
+skills and a passion for History, she clutched top scores for her A Level
+examinations. Her willingness to learn and excel in her academics was reflected
+in her outstanding performance in lessons, where she offered valuable insights
+on complex subjects, as well as in her H3 History research.&nbsp;</p>
+<p>Roxanne showed her willingness to take initiative as she enthusiastically
+participated in events like the Tran Phu-Hoan Kiem High School - Catholic
+Junior College Exchange Programme where she hosted Vietnamese students
+and patiently taught them about Singaporean culture, fostering meaningful
+cross-cultural dialogue. Her dexterity in communication could also be seen
+in her interactions with people across age groups while she participated
+in the Bedok Sports Carnival. Her likeable personality fostered good peer
+relations; she even won ‘Ms Charismatic’ for Graduation Night.&nbsp;</p>
+<p>“I would like to thank Mr Alex Tan especially for giving us the opportunity
+to pursue H3, and patiently refining my H2 and H3 history answers, and
+filling up my UCAS reference for university admissions in the UK. He and
+Ms Janice really worked tirelessly to organise group study sessions, tailored
+consultations and concise notes throughout JC which majorly boosted my
+confidence to score in history and also CJC’s overall history distinction
+rates!”</p>
+<p>
 <br>
 <br>
 </p>
