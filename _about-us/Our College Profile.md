@@ -781,6 +781,6 @@ and Institutes of Higher Learning.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collegeprofile7.jpg">
 </div>
 <h4><strong>Financial Information</strong></h4>
-<p>Please click here to view the latest information - <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">Financial Summary of Donation Funds</a>
-</p>
+<p>Please click <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">here</a> to
+view the latest information.</p>
 <p></p>
