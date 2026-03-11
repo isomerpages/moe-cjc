@@ -93,7 +93,9 @@ House Captains and Vice-House Captains for their respective years:</p>
 <p>Frederick Djojo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Clarissa Chen,</p>
+<p>Justin Ang,</p>
+<p>Natalie Eve Teo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
