@@ -241,44 +241,6 @@ House Captains and Vice-House Captains for their respective years:</p>
 <br>Amos Tan Tuan</p>
 </td>
 </tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2019</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ethan Chuah E-Wai How Troy</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Megan Lim Li Yi
-<br>Jenifer Vania Bachtiar</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mohamed Muzammir B Mohamed Murad
-<br>Tricia See Jia Tung</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Seow Rui Xuan
-<br>Cherry Ling Zhiyi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
 </tbody>
 </table>
 <p></p>
