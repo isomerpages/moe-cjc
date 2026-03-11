@@ -28,8 +28,9 @@ variant: tiptap
 <p><strong>Treasurer</strong>
 <br>Ms Gwee Siew Ping</p>
 <p><strong>Members</strong>
-<br>Mr Darrell Low
-<br>Dr Reuben Ng
-<br>Ms Jacqueline Chua
-<br>Mr Martino Tan
-<br>Mr Nicholas Lee</p>
+<br>Mr Darrell Low</p>
+<p>Dr Reuben Ng</p>
+<p>Ms Jacqueline Chua</p>
+<p>Mr Martino Tan</p>
+<p>Mr Nicholas Lee</p>
+<p>Ms Yong Wei Fong Gwendoline</p>
