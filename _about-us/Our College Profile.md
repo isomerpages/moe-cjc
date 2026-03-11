@@ -40,7 +40,7 @@ Today, we stand as Singapore’s third oldest Junior College and continue
 to develop students holistically as ‘Thinkers with a Mission and Leaders
 with a Heart’ in a changing global landscape.</p>
 <h4><strong>Vision</strong></h4>
-<p><strong>CJC - A Place of Excellence in Learning and Living.</strong>
+<p><strong>CJC - A Place of Excellence in Learning and Living</strong>
 </p>
 <p>Brother Patrick Loh, the founding principal of Catholic Junior College,
 envisioned that "underlying education is the concept of the unique, irreplaceable
@@ -160,18 +160,19 @@ core leadership principles to serve others and enact positive change both
 locally and overseas.</p>
 <h4><strong>Local Leadership Programmes:</strong></h4>
 <p><strong>(a) Local Service Learning Programme (LSLP)</strong>
-<br>Every year, all JC1 students initiate and implement a local Service Learning
-project. The aim is to develop in each CJCian a sense of mission, a compassionate
-heart and a commitment to serve others. Each JC1 class is given the autonomy
-to identify a voluntary welfare association to partner and champion a cause
-they would like to advocate for. Our students partner about 25 Voluntary
-Welfare Organisations (VWOs), impacting various sectors of the community
-such as the elderly, low income families, disadvantaged children, people
-with special needs and migrant workers. Facilitated by their Home Tutors,
-students reach out to the beneficiaries in order to understand the issues
-involved. Employing the use of the reflective cycle, students connect their
-head knowledge with their ‘hearts’ and eventually translate it into action
-to benefit their community.</p>
+<br>Service-learning at CJC is grounded in the Catholic ethos of upholding
+human dignity, acting in solidarity with those who face challenges, and
+working for the common good. Students exercise values-based agency in choosing
+how they participate in service, progressing through increasingly immersive
+tiers — from indirect support to direct interaction with beneficiaries
+— and culminating in student-led Local Service-Learning Projects (LSLPs).
+To support this journey, our annual Service-Learning Fair allows students
+to connect with community partners and identify suitable Values in Action
+(VIA) and LSLP opportunities aligned with their personal mission and interests.
+The PW@CJC Social Impact Programme further strengthens this growth by integrating
+LSLPs with the A-Level Project Work (PW) curriculum, providing every class
+with a platform to design and implement feasible projects that create positive
+social impact.</p>
 <p><strong>(b) Work Attachment and Shadowing Programme (WASP)</strong>
 <br>The CJC WASP aims to help students’ transition from school to further
 education and work. It enables students to apply their knowledge, skills
@@ -780,6 +781,7 @@ and Institutes of Higher Learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collegeprofile7.jpg">
 </div>
-<p>To view Catholic Junior College's financial summary, click here - <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">Financial Summary of Donation Funds</a>
-</p>
+<h4><strong>Financial Information</strong></h4>
+<p>Please click <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">here</a> to
+view the latest information.</p>
 <p></p>
