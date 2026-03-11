@@ -780,6 +780,7 @@ and Institutes of Higher Learning.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/collegeprofile7.jpg">
 </div>
-<p>To view Catholic Junior College's financial summary, click here - <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">Financial Summary of Donation Funds</a>
+<h4><strong>Financial Information</strong></h4>
+<p>Please click here to view the latest information - <a href="https://www.moe.gov.sg/about-us/organisation-structure/fpd/financial-summary" rel="noopener nofollow" target="_blank">Financial Summary of Donation Funds</a>
 </p>
 <p></p>
