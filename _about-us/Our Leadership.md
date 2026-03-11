@@ -26,11 +26,11 @@ variant: tiptap
 <p><strong>Secretary</strong>
 <br>Mrs Woo Soo Min</p>
 <p><strong>Treasurer</strong>
-<br>Ms Gwee Siew Ping</p>
-<p><strong>Members</strong>
 <br>Mr Darrell Low</p>
-<p>Dr Reuben Ng</p>
+<p><strong>Members</strong>
+<br>Ms Gwee Siew Ping</p>
 <p>Ms Jacqueline Chua</p>
 <p>Mr Martino Tan</p>
 <p>Mr Nicholas Lee</p>
+<p>Dr Reuben Ng</p>
 <p>Ms Yong Wei Fong Gwendoline</p>
