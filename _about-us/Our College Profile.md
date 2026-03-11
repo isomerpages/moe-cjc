@@ -40,7 +40,7 @@ Today, we stand as Singapore’s third oldest Junior College and continue
 to develop students holistically as ‘Thinkers with a Mission and Leaders
 with a Heart’ in a changing global landscape.</p>
 <h4><strong>Vision</strong></h4>
-<p><strong>CJC - A Place of Excellence in Learning and Living.</strong>
+<p><strong>CJC - A Place of Excellence in Learning and Living</strong>
 </p>
 <p>Brother Patrick Loh, the founding principal of Catholic Junior College,
 envisioned that "underlying education is the concept of the unique, irreplaceable
