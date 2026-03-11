@@ -98,10 +98,14 @@ House Captains and Vice-House Captains for their respective years:</p>
 <p>Natalie Eve Teo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Tricia Teh,</p>
+<p>Joanna Crawley,</p>
+<p>Park Sieun</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Betsy,</p>
+<p>Angela Danielle Sutiarto,</p>
+<p>Yang Kate Lynn</p>
 </td>
 </tr>
 <tr>
