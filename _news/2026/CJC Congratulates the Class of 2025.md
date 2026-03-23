@@ -309,8 +309,10 @@ of chasing someone else's tempo.</p>
 <p>“The people you journey with often shape you as much as the journey itself.”</p>
 <p></p>
 <p><strong>ALIEF AHMAD</strong>
-<br>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALIEF_AHMAD_website.jpg">
+</div>
 <p>Throughout his time in CJC, Alief distinguished himself as an intellectually
 curious and academically versatile student who demonstrated a strong engagement
 with both the sciences and the humanities. Beyond the classroom, Alief
@@ -370,3 +372,4 @@ my JC life. I am very grateful for his help.”</p>
 <p>
 <br>
 </p>
+<p></p>
