@@ -185,6 +185,8 @@ consultations and concise notes throughout JC which majorly boosted my
 confidence to score in history and also CJC’s overall history distinction
 rates!”</p>
 <p></p>
+<p><strong>OSCAR TIONG FOO XIANG</strong>
+</p>
 <p>
 <br>Oscar is a consistent and accountable learner who demonstrates strong
 critical thinking skills. His ability to learn from past mistakes and make
@@ -212,6 +214,27 @@ can perform better in future exams. It is important to remember that improvement
 are not always linear and observable and to not be deterred when you meet
 an obstacle.”&nbsp;</p>
 <p>
-<br>
+<br><strong>GAN YANG LE </strong>
+<br>Yang Le demonstrated resilience and determination in adapting to the demands
+of the JC curriculum, making significant academic progress over the two
+years. Her efforts were recognised through the Edusave Certificate of Academic
+Achievement and the Edusave Good Progress Award. She also developed a strong
+interest in Geography, particularly in understanding global phenomena beyond
+her immediate society.</p>
+<p>As a member of the Guzheng Ensemble, Yang Le showed strong dedication
+by mastering the instrument within a year despite having no prior experience.
+Her perseverance contributed to the ensemble attaining a Certificate of
+Distinction at the 2025 Singapore Youth Festival Arts Presentation. She
+also took initiative in organising logistics for the Guzheng booth during
+the school’s Sports and Aesthetic Carnival and seniors’ farewell celebrations,
+demonstrating responsibility and teamwork.</p>
+<p>In an interview, Yang Le expressed sincere appreciation for her Economics
+and Home Tutor, Serena Soh, for her unwavering support throughout her time
+in junior college. She shared that Ms Soh consistently went the extra mile
+to prepare additional materials and conduct extra sessions to strengthen
+students’ understanding, even organising boot camps before major assessments.
+Yang Le credits her guidance and encouragement as a key source of motivation
+in her learning journey.</p>
+<p>
 <br>
 </p>
