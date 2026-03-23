@@ -278,7 +278,11 @@ dedicating 2-3 hours to each subject every day with sufficient breaks,
 and follow this schedule religiously especially during study breaks!”</p>
 <p></p>
 <p><strong>WANG NUO</strong>
-<br>Serving as the Executive Committee Administrator of the 50th Student Council
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WANG_NUO_website.jpg">
+</div>
+<p>Serving as the Executive Committee Administrator of the 50th Student Council
 has left a remarkable impact on Wang Nuo, both in terms of leadership and
 self-discovery. In this role, she demonstrated strong organisational skills
 and meticulous attention to detail, overseeing morning assemblies, allocating
