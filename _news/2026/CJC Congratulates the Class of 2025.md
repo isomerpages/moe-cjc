@@ -52,7 +52,7 @@ of 2025 with grace and wisdom as they take flight and soar!<em>&nbsp;</em>
 <p><strong>ZAYNE CHEW ZHENG XUN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
 </div>
 <p>Zayne served as a committed member of the 50th Student Council, where
 he flourished and learnt how to be more assertive, bold and outgoing. Grounded
@@ -87,7 +87,7 @@ always be thankful for everyone I have met.”</p>
 <p><strong>TAN JUN KAI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
 </div>
 <p>Jun Kai’s journey at Catholic Junior College is marked by his intellectual
 curiosity and independence as a learner. His willingness to challenge himself
@@ -125,7 +125,7 @@ when we needed them.”</p>
 <br><strong>NG ZHI KANG JOSHUA</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
 </div>
 <p>Joshua is a reflective and committed learner who consistently demonstrates
 a strong sense of commitment in his academic pursuits. He thrives on problem-solving
@@ -161,7 +161,7 @@ to succeed in General Paper and in life.”</p>
 <br><strong>ROXANNE NEO YU XUAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
 </div>
 <p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
 of JC life. As a hard worker who possesses exemplary critical thinking
@@ -184,6 +184,33 @@ Ms Janice really worked tirelessly to organise group study sessions, tailored
 consultations and concise notes throughout JC which majorly boosted my
 confidence to score in history and also CJC’s overall history distinction
 rates!”</p>
+<p></p>
+<p>
+<br>Oscar is a consistent and accountable learner who demonstrates strong
+critical thinking skills. His ability to learn from past mistakes and make
+appropriate adjustments has contributed to his academic growth. In General
+Paper, he has developed into a discerning thinker who looks beyond face
+value to appreciate deeper meanings, while in History, he actively participates
+in discussions and demonstrates maturity in interpreting different viewpoints.</p>
+<p>As President of the First Aid Club, Oscar has shown remarkable leadership
+abilities. He has shown his leadership abilities through facilitating Executive
+Committee discussions and ensuring all the First Aid members were included
+in the many events organised, such as Orientation and Post-Promotional
+Examination Games. Oscar played an important role in shaping a fun and
+safe school environment, by tending to injured persons with his caring
+and reassuring demeanour. Apart from CCA, he encouraged the student population
+to extend their kindness to various beneficiaries. The compassion he has
+shown and sheer determination to achieve what he set out to do, has made
+him a suitable candidate for Medicine that he plans to study.</p>
+<p>“I personally believe that having the right mindset is crucial to doing
+well. You have to believe that you have the capacity to do well. Of course,
+I also had moments where I was disappointed with how I performed in a test,
+and it certainly is normal to feel sad when you do not perform up to your
+expectations. However, there is no changing the past. I would encourage
+students to see failures simply as a learning opportunity such that they
+can perform better in future exams. It is important to remember that improvements
+are not always linear and observable and to not be deterred when you meet
+an obstacle.”&nbsp;</p>
 <p>
 <br>
 <br>
