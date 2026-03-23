@@ -345,6 +345,39 @@ organisations such as homeless shelters and having open dialogue with officials
 from the ministry to improve working conditions of social workers. This
 experience improved his ability to interact with others.</p>
 <p></p>
+<p><strong>VANCE TANG QI ZHI</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VANCE_TANG_QI_ZHI_website.jpg">
+</div>
+<p>Vance is a self-directed learner who displays great intellectual curiosity.
+His strict approach allows him to manage different commitments effectively.
+Academically, he has demonstrated high-level academic and leadership caliber
+through his selection for the Pre-University Seminar, where he led a team
+of twenty-five tertiary students in a project on social issues. Additionally,
+he participated in the S. Rajaratnam Dialogue, showcasing a drive for understanding.
+His academic achievements were also recognised with the 2025 Edusave Merit
+Bursary. He also took part in the Nara-CJC Exchange Programme which allowed
+him to work together with Japanese students from Nara High School, where
+he navigated cross-cultural collaboration with notable sensitivity.&nbsp;</p>
+<p>Vance has also distinguished himself as a pillar of his student community.
+His leadership as the Overall-in-charge of Open House 2025 and Head of
+the Community Involvement Wing reflects a sophisticated ability to manage
+complex logistics while maintaining an inclusive, team-oriented environment.
+Beyond his roles, Vance’s character is defined by a genuine commitment
+to social advocacy. His work with AWWA and his thoughtful engagement with
+inclusive practices demonstrate a maturity that goes beyond the classroom.&nbsp;</p>
+<p>Additionally, in terms of his academics, he has commented that he prioritises
+“Quality over quantity”. In regards to his lifestyle during the two years
+in Junior College, he stated, “In J1 I would sacrifice sleep to study more.
+But in J2 I changed my lifestyle so I would have a minimum of 7.5 hours
+and that enabled me to focus better in class and memorise more efficiently!
+Beyond sleep, I found it helpful to revise consistently rather than cram,
+summarise concepts in my own words, and actively test myself through practice
+papers. Balance is also important - make time for activities and friendships
+that energise you. Sustainable habits, not last-minute bursts of effort,
+are what carry you through the A Levels.”&nbsp;</p>
+<p></p>
 <p><strong>WONG ZI JIAN SAMUEL</strong>
 </p>
 <div class="isomer-image-wrapper">
