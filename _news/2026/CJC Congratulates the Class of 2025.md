@@ -304,6 +304,29 @@ is to become comfortable in the unfamiliar, seeking her own rhythm instead
 of chasing someone else's tempo.</p>
 <p>“The people you journey with often shape you as much as the journey itself.”</p>
 <p>
-<br>
+<br><strong>XUE KEMING</strong>
+<br>Keming is an inquisitive student who exemplifies the spirit of active
+learning by participating eagerly and raising thoughtful questions during
+class discussions. With a keen interest in the subject of Chemistry, he
+cultivated his critical thinking and proficiency in solving complex chemical
+reactions throughout his A-Level Journey.</p>
+<p>A member of CJC’s Fencing Team, Keming displayed extraordinary mental
+fortitude and athletic prowess. In the face of high stakes, he competed
+against a national fencer and maintained remarkable composure. This mindset
+eventually led to him clinching the top 8 in Men’s Sabre at the 2024 National
+School Games (NSG)&nbsp; ‘A’ Division. Apart from academic and athletic
+achievements, Keming was also an active contributor to college events.
+During the CJC 2025 Open House, he assisted in managing the Fencing CCA
+booth, sharing his experiences with prospective students. At the CJC 50th
+Anniversary Food and Fun Fair, he stepped up to manage a service stall
+to raise funds, exhibiting commendable organisational and communication
+skills.&nbsp;</p>
+<p>“I would like to show gratitude towards my PE teacher Mr Loh. Throughout
+most of my JC life, I often visited the school gym before the start of
+the school day and he was always there to make conversation. He often encouraged
+me and congratulated me for my hard work both in the gym and academically.
+His words of support kept me going and helped me stay consistent through
+my JC life. I am very grateful for his help.”</p>
+<p>
 <br>
 </p>
