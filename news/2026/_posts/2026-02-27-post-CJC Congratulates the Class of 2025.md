@@ -56,7 +56,7 @@ of 2025 with grace and wisdom as they take flight and soar!<em>&nbsp;</em>
 <p><strong>ZAYNE CHEW ZHENG XUN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
 </div>
 <p>Zayne served as a committed member of the 50th Student Council, where
 he flourished and learnt how to be more assertive, bold and outgoing. Grounded
@@ -91,7 +91,7 @@ always be thankful for everyone I have met.”</p>
 <p><strong>TAN JUN KAI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
 </div>
 <p>Jun Kai’s journey at Catholic Junior College is marked by his intellectual
 curiosity and independence as a learner. His willingness to challenge himself
@@ -129,7 +129,7 @@ when we needed them.”</p>
 <br><strong>NG ZHI KANG JOSHUA</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
 </div>
 <p>Joshua is a reflective and committed learner who consistently demonstrates
 a strong sense of commitment in his academic pursuits. He thrives on problem-solving
@@ -165,7 +165,7 @@ to succeed in General Paper and in life.”</p>
 <br><strong>ROXANNE NEO YU XUAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
 </div>
 <p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
 of JC life. As a hard worker who possesses exemplary critical thinking
@@ -189,3 +189,237 @@ consultations and concise notes throughout JC which majorly boosted my
 confidence to score in history and also CJC’s overall history distinction
 rates!”</p>
 <p></p>
+<p><strong>OSCAR TIONG FOO XIANG</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OSCAR_TIONG_FOO_XIANG_website.jpg">
+</div>
+<p>Oscar is a consistent and accountable learner who demonstrates strong
+critical thinking skills. His ability to learn from past mistakes and make
+appropriate adjustments has contributed to his academic growth. In General
+Paper, he has developed into a discerning thinker who looks beyond face
+value to appreciate deeper meanings, while in History, he actively participates
+in discussions and demonstrates maturity in interpreting different viewpoints.</p>
+<p>As President of the First Aid Club, Oscar has shown remarkable leadership
+abilities. He has shown his leadership abilities through facilitating Executive
+Committee discussions and ensuring all the First Aid members were included
+in the many events organised, such as Orientation and Post-Promotional
+Examination Games. Oscar played an important role in shaping a fun and
+safe school environment, by tending to injured persons with his caring
+and reassuring demeanour. Apart from CCA, he encouraged the student population
+to extend their kindness to various beneficiaries. The compassion he has
+shown and sheer determination to achieve what he set out to do, has made
+him a suitable candidate for Medicine that he plans to study.</p>
+<p>“I personally believe that having the right mindset is crucial to doing
+well. You have to believe that you have the capacity to do well. Of course,
+I also had moments where I was disappointed with how I performed in a test,
+and it certainly is normal to feel sad when you do not perform up to your
+expectations. However, there is no changing the past. I would encourage
+students to see failures simply as a learning opportunity such that they
+can perform better in future exams. It is important to remember that improvements
+are not always linear and observable and to not be deterred when you meet
+an obstacle.”&nbsp;</p>
+<p>
+<br><strong>GAN YANG LE</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GAN_YANG_LE_website.jpg">
+</div>
+<p>Yang Le demonstrated resilience and determination in adapting to the demands
+of the JC curriculum, making significant academic progress over the two
+years. Her efforts were recognised through the Edusave Certificate of Academic
+Achievement and the Edusave Good Progress Award. She also developed a strong
+interest in Geography, particularly in understanding global phenomena beyond
+her immediate society.</p>
+<p>As a member of the Guzheng Ensemble, Yang Le showed strong dedication
+by mastering the instrument within a year despite having no prior experience.
+Her perseverance contributed to the ensemble attaining a Certificate of
+Distinction at the 2025 Singapore Youth Festival Arts Presentation. She
+also took initiative in organising logistics for the Guzheng booth during
+the school’s Sports and Aesthetic Carnival and seniors’ farewell celebrations,
+demonstrating responsibility and teamwork.</p>
+<p>In an interview, Yang Le expressed sincere appreciation for her Economics
+and Home Tutor, Serena Soh, for her unwavering support throughout her time
+in junior college. She shared that Ms Soh consistently went the extra mile
+to prepare additional materials and conduct extra sessions to strengthen
+students’ understanding, even organising boot camps before major assessments.
+Yang Le credits her guidance and encouragement as a key source of motivation
+in her learning journey.</p>
+<p></p>
+<p><strong>CLAIRE TAN</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
+</div>
+<p>Claire works hard and has improved tremendously in her studies since she
+started her journey in CJC. She is a very mature individual who has grown
+in confidence, particularly in seeking help when needed. The A-Level curriculum
+has broadened her horizons towards different worldviews and developed her
+sensitivity to assertions, enabling her to unpeel the many layers of arguments
+to deduce logical reasoning. Her critical thinking skills have been honed
+whilst managing time constraints, teaching her to think quickly and comprehensively.</p>
+<p>Apart from academics, Claire has demonstrated exceptionally good leadership
+skills. Positioned the Vice-president of the Catholic Activities wing in
+the Students’ Council, she contributed to the organisation and execution
+of events like Racial Harmony Day among others. As the Officer-in-Charge
+of the Lenten Project, she pushed for a more inclusive event, allowing
+students from affiliated Catholic schools to join the event, showing also
+her adaptability when faced with challenges. To acknowledge her leadership
+and commitment, she was awarded the Flame Scholarship.&nbsp;</p>
+<p>Claire also has quite a vibrant service-learning journey, showcasing her
+willingness to serve and sincerity in her nature. In school, she organised
+a crochet project, “A Stitch in Time”, during the CJC 50th Anniversary
+Food and Fun Fair to raise funds for the college. Her exemplary contributions
+go beyond the college. She has also organised Project Eclairer, which reached
+out to elderly NTUC Geylang East Nursing Home through baking sessions.
+Through the Overseas Service Learning Programme to Phnom Penh, which focused
+on English lessons and Science experiments for high school students, she
+had a deeper understanding of human dignity and service to the community.&nbsp;</p>
+<p>“I think what worked best for me was following a well-thought out study
+schedule. There’s really no point in studying 10 hours a day without planning
+it through carefully; your time is precious! Spend some time making a schedule
+dedicating 2-3 hours to each subject every day with sufficient breaks,
+and follow this schedule religiously especially during study breaks!”</p>
+<p></p>
+<p><strong>WANG NUO</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WANG_NUO_website.jpg">
+</div>
+<p>Serving as the Executive Committee Administrator of the 50th Student Council
+has left a remarkable impact on Wang Nuo, both in terms of leadership and
+self-discovery. In this role, she demonstrated strong organisational skills
+and meticulous attention to detail, overseeing morning assemblies, allocating
+personalised reflections and prayers, training and executing morning assemblies,
+and coordinating special assemblies and events while liaising effectively
+with teachers and various student leader groups. She also handled administrative
+roles including attendance, dietary requirements, and logistics whilst
+leading councillors in events and supporting other student leaders. Wang
+Nuo approached her administrator role with dedication and resilience, particularly
+when managing multiple concurrent responsibilities.</p>
+<p>Wang Nuo has developed a strong academic disposition through her analytical
+skills and has consistently shown the ability to apply her content understanding
+to the world around her. Her passion for History was especially evident
+in her insightful perspectives and active participation in class discussions.
+The A-Level curriculum has fostered discipline and self-direction in her
+learning whilst encouraging her to be more curious about what is happening
+outside of her society. Her subject combination has provided her with soft
+skills to accurately seek out introspective information, allowing her to
+engage with multiple perspectives and exercise caution when reading online.
+Through these experiences, Wang Nuo grew both as a leader and as an individual,
+learning that change is the only constant and that the beauty of metamorphosing
+is to become comfortable in the unfamiliar, seeking her own rhythm instead
+of chasing someone else's tempo.</p>
+<p>“The people you journey with often shape you as much as the journey itself.”</p>
+<p></p>
+<p><strong>ALIEF AHMAD</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALIEF_AHMAD_website.jpg">
+</div>
+<p>Throughout his time in CJC, Alief distinguished himself as an intellectually
+curious and academically versatile student who demonstrated a strong engagement
+with both the sciences and the humanities. Beyond the classroom, Alief
+actively participated in academic and enrichment platforms such as the
+Chemistry and Biology Olympiads, Envirothon 2024 where he earned a Silver
+Award, and Model United Nations where he received the Best Position Paper
+Award at CJMUN 2025. His participation in initiatives such as NUS’s NEFMC
+2025 and reaching the finals of NTU’s GAIP 2025 further reflected his strong
+analytical abilities and interdisciplinary thinking. These accomplishments,
+alongside his consistent academic commitment, culminated in his successful
+admission to the National University of Singapore Engineering programme
+through the College Direct Admission scheme.</p>
+<p>Beyond academics, Alief demonstrated commendable leadership and initiative
+in both his class and Co-Curricular Activities. Serving as Home Tutorial
+Councillor, he played an important role in fostering class cohesion and
+leading various class initiatives. Within the Nexus Investment and Entrepreneurship
+Society CCA, Alief emerged as a proactive and creative leader, contributing
+significantly to the planning and execution of major activities. Notably,
+he served as a key organiser for the Nexus Business Competition 2025, coordinating
+participation from six tertiary institutions while managing the event’s
+logistics. In addition, he participated in service-oriented initiatives
+such as a Valentine’s Day fundraiser for a special needs organisation and
+a business workshop for the CJ50 Funfair.&nbsp;</p>
+<p>Recounting on his CJ experience, Alief’s most memorable experience was
+his Work Attachment and Shadowing Programme (WASP) where he shadowed a
+social worker for a week at a family service centre. He learnt the daily
+lives of social workers in how they aptly solve issues in the community
+through providing services to troubled residents, coordinating with other
+organisations such as homeless shelters and having open dialogue with officials
+from the ministry to improve working conditions of social workers. This
+experience improved his ability to interact with others.</p>
+<p></p>
+<p><strong>WONG ZI JIAN SAMUEL</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WONG_ZI_JIAN_SAMUEL_website.jpg">
+</div>
+<p>Samuel is an inquisitive and intellectual individual who finds immense
+pleasure in learning. His passion for History is remarkable and he would
+go on to offer History at the H3 level, demonstrating his academic prowess.
+His academic abilities were further recognised when he was offered the
+Best Academic Award (Arts) in JC. As a student that was strongly self-disciplined,
+he managed to clinch top scores in his ‘A’ Level Examinations while juggling
+external commitments such as Co-Curricular Activities (CCA).&nbsp;</p>
+<p>Apart from his academics, Samuel is interested in current affairs and
+global issues. This could be seen from his participation in Catholic Junior
+College’s Model United Nations — taking part in the Historical Crisis Council.
+He was also a part of the Nexus Investment and Entrepreneurship Society
+for his CCA. There, he learnt about economics and finance which helped
+nurture him holistically.&nbsp;</p>
+<p>“I found that my teachers often proved to be well-suited to meet my learning
+needs, which varied between subjects. So for example, my math teacher would
+often leave me to practise during our class tutorial, allowing me to conduct
+my practice in favourable conditions; this differed from my economics teacher
+who usually was active in posing us questions that forced us to think which
+I found favourable to my learning needs.”</p>
+<p></p>
+<p>
+<br><strong>CRISTIAN SCOTT CHUM</strong>
+</p>
+<p>Throughout Cristian’s academic journey, he showed steady growth in self-discipline,
+resilience and intellectual maturity. An inquisitive learner, he approached
+challenges with determination and engaged actively in lessons. His critical
+thinking and engagement were most evident through the thoughtful and probing
+questions he asked during lessons. Over time, Cristian’s academic journey
+reflected a growing intellectual maturity, marked by his ability to analyse
+complex ideas and articulate his thoughts with clarity and confidence.</p>
+<p>Cristian also made meaningful contributions through leadership and service.
+As Home Tutorial Councillor, he led his class in preparing their CJ50 booth
+and leveraged his strong interpersonal skills to strengthen ties with their
+buddy class, fostering collaboration and embodying the college spirit.
+He was part of the Overseas Service-Learning Programme (OSLP) to Phnom
+Penh, Cambodia, where he served as Head of Logistics. Through this role,
+Cristian discovered his strength in working behind the scenes. He noted
+that he thrives when ensuring operations run smoothly, showing maturity
+and a deep sense of duty. His most meaningful takeaway from this experience
+was the realisation of the vast diversity of life experiences around the
+world. It reminded him of the need for empathy and groundedness, and a
+deeper understanding of our shared humanity.</p>
+<p>“Have fun in J2; have fun in class even though it might seem like a lot
+to juggle. I myself worked hard throughout JC but I can promise that the
+busiest of student lives are often the most fulfilling ones.”</p>
+<p></p>
+<p><strong>XUE KEMING</strong>
+<br>Keming is an inquisitive student who exemplifies the spirit of active
+learning by participating eagerly and raising thoughtful questions during
+class discussions. With a keen interest in the subject of Chemistry, he
+cultivated his critical thinking and proficiency in solving complex chemical
+reactions throughout his A-Level Journey.</p>
+<p>A member of CJC’s Fencing Team, Keming displayed extraordinary mental
+fortitude and athletic prowess. In the face of high stakes, he competed
+against a national fencer and maintained remarkable composure. This mindset
+eventually led to him clinching the top 8 in Men’s Sabre at the 2024 National
+School Games (NSG)&nbsp; ‘A’ Division. Apart from academic and athletic
+achievements, Keming was also an active contributor to college events.
+During the CJC 2025 Open House, he assisted in managing the Fencing CCA
+booth, sharing his experiences with prospective students. At the CJC 50th
+Anniversary Food and Fun Fair, he stepped up to manage a service stall
+to raise funds, exhibiting commendable organisational and communication
+skills.&nbsp;</p>
+<p>“I would like to show gratitude towards my PE teacher Mr Loh. Throughout
+most of my JC life, I often visited the school gym before the start of
+the school day and he was always there to make conversation. He often encouraged
+me and congratulated me for my hard work both in the gym and academically.
+His words of support kept me going and helped me stay consistent through
+my JC life. I am very grateful for his help.”</p>
