@@ -345,6 +345,33 @@ organisations such as homeless shelters and having open dialogue with officials
 from the ministry to improve working conditions of social workers. This
 experience improved his ability to interact with others.</p>
 <p></p>
+<p><strong>WONG ZI JIAN SAMUEL</strong>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WONG_ZI_JIAN_SAMUEL_website.jpg">
+</div>
+<p>Samuel is an inquisitive and intellectual individual who finds immense
+pleasure in learning. His passion for History is remarkable and he would
+go on to offer History at the H3 level, demonstrating his academic prowess.
+His academic abilities were further recognised when he was offered the
+Best Academic Award (Arts) in JC. As a student that was strongly self-disciplined,
+he managed to clinch top scores in his ‘A’ Level Examinations while juggling
+external commitments such as Co-Curricular Activities (CCA).&nbsp;</p>
+<p>Apart from his academics, Samuel is interested in current affairs and
+global issues. This could be seen from his participation in Catholic Junior
+College’s Model United Nations — taking part in the Historical Crisis Council.
+He was also a part of the Nexus Investment and Entrepreneurship Society
+for his CCA. There, he learnt about economics and finance which helped
+nurture him holistically.&nbsp;</p>
+<p>“I found that my teachers often proved to be well-suited to meet my learning
+needs, which varied between subjects. So for example, my math teacher would
+often leave me to practise during our class tutorial, allowing me to conduct
+my practice in favourable conditions; this differed from my economics teacher
+who usually was active in posing us questions that forced us to think which
+I found favourable to my learning needs.”</p>
+<p>
+<br>
+</p>
 <p><strong>XUE KEMING</strong>
 <br>Keming is an inquisitive student who exemplifies the spirit of active
 learning by participating eagerly and raising thoughtful questions during
