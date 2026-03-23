@@ -369,6 +369,32 @@ often leave me to practise during our class tutorial, allowing me to conduct
 my practice in favourable conditions; this differed from my economics teacher
 who usually was active in posing us questions that forced us to think which
 I found favourable to my learning needs.”</p>
+<p></p>
+<p>
+<br><strong>CRISTIAN SCOTT CHUM</strong>
+</p>
+<p>Throughout Cristian’s academic journey, he showed steady growth in self-discipline,
+resilience and intellectual maturity. An inquisitive learner, he approached
+challenges with determination and engaged actively in lessons. His critical
+thinking and engagement were most evident through the thoughtful and probing
+questions he asked during lessons. Over time, Cristian’s academic journey
+reflected a growing intellectual maturity, marked by his ability to analyse
+complex ideas and articulate his thoughts with clarity and confidence.</p>
+<p>Cristian also made meaningful contributions through leadership and service.
+As Home Tutorial Councillor, he led his class in preparing their CJ50 booth
+and leveraged his strong interpersonal skills to strengthen ties with their
+buddy class, fostering collaboration and embodying the college spirit.
+He was part of the Overseas Service-Learning Programme (OSLP) to Phnom
+Penh, Cambodia, where he served as Head of Logistics. Through this role,
+Cristian discovered his strength in working behind the scenes. He noted
+that he thrives when ensuring operations run smoothly, showing maturity
+and a deep sense of duty. His most meaningful takeaway from this experience
+was the realisation of the vast diversity of life experiences around the
+world. It reminded him of the need for empathy and groundedness, and a
+deeper understanding of our shared humanity.</p>
+<p>“Have fun in J2; have fun in class even though it might seem like a lot
+to juggle. I myself worked hard throughout JC but I can promise that the
+busiest of student lives are often the most fulfilling ones.”</p>
 <p>
 <br>
 </p>
