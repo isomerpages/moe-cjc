@@ -187,8 +187,10 @@ rates!”</p>
 <p></p>
 <p><strong>OSCAR TIONG FOO XIANG</strong>
 </p>
-<p>
-<br>Oscar is a consistent and accountable learner who demonstrates strong
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OSCAR_TIONG_FOO_XIANG_website.jpg">
+</div>
+<p>Oscar is a consistent and accountable learner who demonstrates strong
 critical thinking skills. His ability to learn from past mistakes and make
 appropriate adjustments has contributed to his academic growth. In General
 Paper, he has developed into a discerning thinker who looks beyond face
@@ -215,7 +217,11 @@ are not always linear and observable and to not be deterred when you meet
 an obstacle.”&nbsp;</p>
 <p>
 <br><strong>GAN YANG LE </strong>
-<br>Yang Le demonstrated resilience and determination in adapting to the demands
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GAN_YANG_LE_website.jpg">
+</div>
+<p>Yang Le demonstrated resilience and determination in adapting to the demands
 of the JC curriculum, making significant academic progress over the two
 years. Her efforts were recognised through the Edusave Certificate of Academic
 Achievement and the Edusave Good Progress Award. She also developed a strong
@@ -238,6 +244,9 @@ in her learning journey.</p>
 <p></p>
 <p><strong>CLAIRE TAN</strong>
 </p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
+</div>
 <p>Claire works hard and has improved tremendously in her studies since she
 started her journey in CJC. She is a very mature individual who has grown
 in confidence, particularly in seeking help when needed. The A-Level curriculum
