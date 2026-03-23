@@ -307,8 +307,43 @@ learning that change is the only constant and that the beauty of metamorphosing
 is to become comfortable in the unfamiliar, seeking her own rhythm instead
 of chasing someone else's tempo.</p>
 <p>“The people you journey with often shape you as much as the journey itself.”</p>
-<p>
-<br><strong>XUE KEMING</strong>
+<p></p>
+<p><strong>ALIEF AHMAD</strong>
+<br>
+</p>
+<p>Throughout his time in CJC, Alief distinguished himself as an intellectually
+curious and academically versatile student who demonstrated a strong engagement
+with both the sciences and the humanities. Beyond the classroom, Alief
+actively participated in academic and enrichment platforms such as the
+Chemistry and Biology Olympiads, Envirothon 2024 where he earned a Silver
+Award, and Model United Nations where he received the Best Position Paper
+Award at CJMUN 2025. His participation in initiatives such as NUS’s NEFMC
+2025 and reaching the finals of NTU’s GAIP 2025 further reflected his strong
+analytical abilities and interdisciplinary thinking. These accomplishments,
+alongside his consistent academic commitment, culminated in his successful
+admission to the National University of Singapore Engineering programme
+through the College Direct Admission scheme.</p>
+<p>Beyond academics, Alief demonstrated commendable leadership and initiative
+in both his class and Co-Curricular Activities. Serving as Home Tutorial
+Councillor, he played an important role in fostering class cohesion and
+leading various class initiatives. Within the Nexus Investment and Entrepreneurship
+Society CCA, Alief emerged as a proactive and creative leader, contributing
+significantly to the planning and execution of major activities. Notably,
+he served as a key organiser for the Nexus Business Competition 2025, coordinating
+participation from six tertiary institutions while managing the event’s
+logistics. In addition, he participated in service-oriented initiatives
+such as a Valentine’s Day fundraiser for a special needs organisation and
+a business workshop for the CJ50 Funfair.&nbsp;</p>
+<p>Recounting on his CJ experience, Alief’s most memorable experience was
+his Work Attachment and Shadowing Programme (WASP) where he shadowed a
+social worker for a week at a family service centre. He learnt the daily
+lives of social workers in how they aptly solve issues in the community
+through providing services to troubled residents, coordinating with other
+organisations such as homeless shelters and having open dialogue with officials
+from the ministry to improve working conditions of social workers. This
+experience improved his ability to interact with others.</p>
+<p></p>
+<p><strong>XUE KEMING</strong>
 <br>Keming is an inquisitive student who exemplifies the spirit of active
 learning by participating eagerly and raising thoughtful questions during
 class discussions. With a keen interest in the subject of Chemistry, he
@@ -331,6 +366,7 @@ the school day and he was always there to make conversation. He often encouraged
 me and congratulated me for my hard work both in the gym and academically.
 His words of support kept me going and helped me stay consistent through
 my JC life. I am very grateful for his help.”</p>
+<p></p>
 <p>
 <br>
 </p>
