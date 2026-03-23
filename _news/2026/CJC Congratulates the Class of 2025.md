@@ -235,6 +235,39 @@ to prepare additional materials and conduct extra sessions to strengthen
 students’ understanding, even organising boot camps before major assessments.
 Yang Le credits her guidance and encouragement as a key source of motivation
 in her learning journey.</p>
+<p></p>
+<p><strong>CLAIRE TAN</strong>
+</p>
+<p>Claire works hard and has improved tremendously in her studies since she
+started her journey in CJC. She is a very mature individual who has grown
+in confidence, particularly in seeking help when needed. The A-Level curriculum
+has broadened her horizons towards different worldviews and developed her
+sensitivity to assertions, enabling her to unpeel the many layers of arguments
+to deduce logical reasoning. Her critical thinking skills have been honed
+whilst managing time constraints, teaching her to think quickly and comprehensively.</p>
+<p>Apart from academics, Claire has demonstrated exceptionally good leadership
+skills. Positioned the Vice-president of the Catholic Activities wing in
+the Students’ Council, she contributed to the organisation and execution
+of events like Racial Harmony Day among others. As the Officer-in-Charge
+of the Lenten Project, she pushed for a more inclusive event, allowing
+students from affiliated Catholic schools to join the event, showing also
+her adaptability when faced with challenges. To acknowledge her leadership
+and commitment, she was awarded the Flame Scholarship.&nbsp;</p>
+<p>Claire also has quite a vibrant service-learning journey, showcasing her
+willingness to serve and sincerity in her nature. In school, she organised
+a crochet project, “A Stitch in Time”, during the CJC 50th Anniversary
+Food and Fun Fair to raise funds for the college. Her exemplary contributions
+go beyond the college. She has also organised Project Eclairer, which reached
+out to elderly NTUC Geylang East Nursing Home through baking sessions.
+Through the Overseas Service Learning Programme to Phnom Penh, which focused
+on English lessons and Science experiments for high school students, she
+had a deeper understanding of human dignity and service to the community.&nbsp;</p>
+<p>“I think what worked best for me was following a well-thought out study
+schedule. There’s really no point in studying 10 hours a day without planning
+it through carefully; your time is precious! Spend some time making a schedule
+dedicating 2-3 hours to each subject every day with sufficient breaks,
+and follow this schedule religiously especially during study breaks!”</p>
 <p>
+<br>
 <br>
 </p>
