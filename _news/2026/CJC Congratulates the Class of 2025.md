@@ -216,7 +216,7 @@ can perform better in future exams. It is important to remember that improvement
 are not always linear and observable and to not be deterred when you meet
 an obstacle.”&nbsp;</p>
 <p>
-<br><strong>GAN YANG LE </strong>
+<br><strong>GAN YANG LE</strong>
 </p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GAN_YANG_LE_website.jpg">
@@ -276,6 +276,33 @@ schedule. There’s really no point in studying 10 hours a day without planning
 it through carefully; your time is precious! Spend some time making a schedule
 dedicating 2-3 hours to each subject every day with sufficient breaks,
 and follow this schedule religiously especially during study breaks!”</p>
+<p></p>
+<p><strong>WANG NUO</strong>
+<br>Serving as the Executive Committee Administrator of the 50th Student Council
+has left a remarkable impact on Wang Nuo, both in terms of leadership and
+self-discovery. In this role, she demonstrated strong organisational skills
+and meticulous attention to detail, overseeing morning assemblies, allocating
+personalised reflections and prayers, training and executing morning assemblies,
+and coordinating special assemblies and events while liaising effectively
+with teachers and various student leader groups. She also handled administrative
+roles including attendance, dietary requirements, and logistics whilst
+leading councillors in events and supporting other student leaders. Wang
+Nuo approached her administrator role with dedication and resilience, particularly
+when managing multiple concurrent responsibilities.</p>
+<p>Wang Nuo has developed a strong academic disposition through her analytical
+skills and has consistently shown the ability to apply her content understanding
+to the world around her. Her passion for History was especially evident
+in her insightful perspectives and active participation in class discussions.
+The A-Level curriculum has fostered discipline and self-direction in her
+learning whilst encouraging her to be more curious about what is happening
+outside of her society. Her subject combination has provided her with soft
+skills to accurately seek out introspective information, allowing her to
+engage with multiple perspectives and exercise caution when reading online.
+Through these experiences, Wang Nuo grew both as a leader and as an individual,
+learning that change is the only constant and that the beauty of metamorphosing
+is to become comfortable in the unfamiliar, seeking her own rhythm instead
+of chasing someone else's tempo.</p>
+<p>“The people you journey with often shape you as much as the journey itself.”</p>
 <p>
 <br>
 <br>
