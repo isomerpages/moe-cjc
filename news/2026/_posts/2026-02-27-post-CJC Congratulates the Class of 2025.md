@@ -324,50 +324,35 @@ are what carry you through the A Levels.”&nbsp;</p>
 <p><strong>WONG ZI JIAN SAMUEL</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/WONG_ZI_JIAN_SAMUEL_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WONG_ZI_JIAN_SAMUEL_website.jpg">
 </div>
 <p>Samuel is an inquisitive and intellectual individual who finds immense
 pleasure in learning. His passion for History is remarkable and he would
 go on to offer History at the H3 level, demonstrating his academic prowess.
 His academic abilities were further recognised when he was offered the
-Best Academic Award (Arts) in JC. As a student that was strongly self-disciplined,
-he managed to clinch top scores in his ‘A’ Level Examinations while juggling
-external commitments such as Co-Curricular Activities (CCA).&nbsp;</p>
-<p>Apart from his academics, Samuel is interested in current affairs and
-global issues. This could be seen from his participation in Catholic Junior
-College’s Model United Nations — taking part in the Historical Crisis Council.
-He was also a part of the Nexus Investment and Entrepreneurship Society
-for his CCA. There, he learnt about economics and finance which helped
-nurture him holistically.&nbsp;</p>
+Best Academic Award (Arts) in JC.</p>
 <p>“I found that my teachers often proved to be well-suited to meet my learning
 needs, which varied between subjects. So for example, my math teacher would
 often leave me to practise during our class tutorial, allowing me to conduct
 my practice in favourable conditions; this differed from my economics teacher
 who usually was active in posing us questions that forced us to think which
 I found favourable to my learning needs.”</p>
-<p></p>
 <p>
 <br><strong>CRISTIAN SCOTT CHUM</strong>
 </p>
 <p>Throughout Cristian’s academic journey, he showed steady growth in self-discipline,
-resilience and intellectual maturity. An inquisitive learner, he approached
-challenges with determination and engaged actively in lessons. His critical
-thinking and engagement were most evident through the thoughtful and probing
-questions he asked during lessons. Over time, Cristian’s academic journey
-reflected a growing intellectual maturity, marked by his ability to analyse
-complex ideas and articulate his thoughts with clarity and confidence.</p>
-<p>Cristian also made meaningful contributions through leadership and service.
-As Home Tutorial Councillor, he led his class in preparing their CJ50 booth
-and leveraged his strong interpersonal skills to strengthen ties with their
-buddy class, fostering collaboration and embodying the college spirit.
-He was part of the Overseas Service-Learning Programme (OSLP) to Phnom
-Penh, Cambodia, where he served as Head of Logistics. Through this role,
-Cristian discovered his strength in working behind the scenes. He noted
-that he thrives when ensuring operations run smoothly, showing maturity
-and a deep sense of duty. His most meaningful takeaway from this experience
-was the realisation of the vast diversity of life experiences around the
-world. It reminded him of the need for empathy and groundedness, and a
-deeper understanding of our shared humanity.</p>
+resilience and intellectual maturity. He made meaningful contributions
+through leadership and service. As Home Tutorial Councillor, he led his
+class in preparing their CJ50 booth and leveraged his strong interpersonal
+skills to strengthen ties with their buddy class, fostering collaboration
+and embodying the college spirit. He was part of the Overseas Service-Learning
+Programme (OSLP) to Phnom Penh, Cambodia, where he served as Head of Logistics.
+Through this role, Cristian discovered his strength in working behind the
+scenes. He noted that he thrives when ensuring operations run smoothly,
+showing maturity and a deep sense of duty. His most meaningful takeaway
+from this experience was the realisation of the vast diversity of life
+experiences around the world. It reminded him of the need for empathy and
+groundedness, and a deeper understanding of our shared humanity.</p>
 <p>“Have fun in J2; have fun in class even though it might seem like a lot
 to juggle. I myself worked hard throughout JC but I can promise that the
 busiest of student lives are often the most fulfilling ones.”</p>
@@ -375,20 +360,11 @@ busiest of student lives are often the most fulfilling ones.”</p>
 <p><strong>XUE KEMING</strong>
 <br>Keming is an inquisitive student who exemplifies the spirit of active
 learning by participating eagerly and raising thoughtful questions during
-class discussions. With a keen interest in the subject of Chemistry, he
-cultivated his critical thinking and proficiency in solving complex chemical
-reactions throughout his A-Level Journey.</p>
-<p>A member of CJC’s Fencing Team, Keming displayed extraordinary mental
-fortitude and athletic prowess. In the face of high stakes, he competed
+class discussions. A member of CJC’s Fencing Team, Keming displayed extraordinary
+mental fortitude and athletic prowess. In the face of high stakes, he competed
 against a national fencer and maintained remarkable composure. This mindset
 eventually led to him clinching the top 8 in Men’s Sabre at the 2024 National
-School Games (NSG)&nbsp; ‘A’ Division. Apart from academic and athletic
-achievements, Keming was also an active contributor to college events.
-During the CJC 2025 Open House, he assisted in managing the Fencing CCA
-booth, sharing his experiences with prospective students. At the CJC 50th
-Anniversary Food and Fun Fair, he stepped up to manage a service stall
-to raise funds, exhibiting commendable organisational and communication
-skills.&nbsp;</p>
+School Games (NSG)&nbsp; ‘A’ Division.</p>
 <p>“I would like to show gratitude towards my PE teacher Mr Loh. Throughout
 most of my JC life, I often visited the school gym before the start of
 the school day and he was always there to make conversation. He often encouraged
