@@ -111,7 +111,7 @@ when we needed them.”</p>
 <br><strong>NG ZHI KANG JOSHUA</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
 </div>
 <p>Joshua is a reflective and committed learner who consistently demonstrates
 a strong sense of commitment in his academic pursuits. He thrives on problem-solving
@@ -127,11 +127,7 @@ enriching opportunities for his holistic development. His active involvement
 in the Oratorical Society is reflected by his participation in the CJC
 Model United Nations 2025 as the Vice-Chairman of the World Health Organisation
 council, where he showcased his adaptability, leadership, and ability to
-navigate complex, unprecedented challenges with composure. He also participated
-in various competitions, such as the Essay Writing competition organised
-by the Central Narcotics Bureau and the Whitehacks cybersecurity outreach
-programme, showcasing his versatility and willingness to explore diverse
-avenues of learning.&nbsp;</p>
+navigate complex, unprecedented challenges with composure.</p>
 <p>“I am grateful to my family for supporting me through my A-Level Journey
 such as driving me to school, cooking meals for me and helping me to destress
 through games. I am also glad to have made friends that are some of the
