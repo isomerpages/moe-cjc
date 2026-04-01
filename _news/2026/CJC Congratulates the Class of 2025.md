@@ -199,13 +199,12 @@ in her learning journey.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
 </div>
 <p>Claire works hard and has improved tremendously in her studies since she
-started her journey in CJC. She is a very mature individual who has grown
-in confidence, particularly in seeking help when needed.</p>
-<p>Apart from academics, Claire has demonstrated exceptionally good leadership
-skills. Positioned the Vice-president of the Catholic Activities wing in
-the Students’ Council, she contributed to the organisation and execution
-of events like Racial Harmony Day among others. To acknowledge her leadership
-and commitment, she was awarded the Flame Scholarship.&nbsp;</p>
+started her journey in CJC. Apart from academics, Claire has demonstrated
+exceptionally good leadership skills. Positioned the Vice-president of
+the Catholic Activities wing in the Students’ Council, she contributed
+to the organisation and execution of events like Racial Harmony Day among
+others. To acknowledge her leadership and commitment, she was awarded the
+Flame Scholarship.&nbsp;</p>
 <p>Claire also has quite a vibrant service-learning journey, showcasing her
 willingness to serve and sincerity in her nature. In school, she organised
 a crochet project, “A Stitch in Time”, during the CJC 50th Anniversary
@@ -260,12 +259,6 @@ analytical abilities and interdisciplinary thinking. These accomplishments,
 alongside his consistent academic commitment, culminated in his successful
 admission to the National University of Singapore Engineering programme
 through the College Direct Admission scheme.</p>
-<p>Beyond academics, Alief demonstrated commendable leadership and initiative
-in both his class and Co-Curricular Activities. Serving as Home Tutorial
-Councillor, he played an important role in fostering class cohesion and
-leading various class initiatives. Within the Nexus Investment and Entrepreneurship
-Society CCA, Alief emerged as a proactive and creative leader, contributing
-significantly to the planning and execution of major activities.</p>
 <p>Recounting on his CJ experience, Alief’s most memorable experience was
 his Work Attachment and Shadowing Programme (WASP) where he shadowed a
 social worker for a week at a family service centre. He learnt the daily
