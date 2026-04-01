@@ -203,9 +203,9 @@ by mastering the instrument within a year despite having no prior experience.
 Her perseverance contributed to the ensemble attaining a Certificate of
 Distinction at the 2025 Singapore Youth Festival Arts Presentation.</p>
 <p>In an interview, Yang Le expressed sincere appreciation for her Economics
-and Home Tutor, Serena Soh, for her unwavering support throughout her time
-in junior college. She shared that Ms Soh consistently went the extra mile
-to prepare additional materials and conduct extra sessions to strengthen
+and Home Tutor, Ms Serena Soh, for her unwavering support throughout her
+time in junior college. She shared that Ms Soh consistently went the extra
+mile to prepare additional materials and conduct extra sessions to strengthen
 students’ understanding, even organising boot camps before major assessments.
 Yang Le credits her guidance and encouragement as a key source of motivation
 in her learning journey.</p>
@@ -213,22 +213,15 @@ in her learning journey.</p>
 <p><strong>CLAIRE TAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
 </div>
 <p>Claire works hard and has improved tremendously in her studies since she
 started her journey in CJC. She is a very mature individual who has grown
-in confidence, particularly in seeking help when needed. The A-Level curriculum
-has broadened her horizons towards different worldviews and developed her
-sensitivity to assertions, enabling her to unpeel the many layers of arguments
-to deduce logical reasoning. Her critical thinking skills have been honed
-whilst managing time constraints, teaching her to think quickly and comprehensively.</p>
+in confidence, particularly in seeking help when needed.</p>
 <p>Apart from academics, Claire has demonstrated exceptionally good leadership
 skills. Positioned the Vice-president of the Catholic Activities wing in
 the Students’ Council, she contributed to the organisation and execution
-of events like Racial Harmony Day among others. As the Officer-in-Charge
-of the Lenten Project, she pushed for a more inclusive event, allowing
-students from affiliated Catholic schools to join the event, showing also
-her adaptability when faced with challenges. To acknowledge her leadership
+of events like Racial Harmony Day among others. To acknowledge her leadership
 and commitment, she was awarded the Flame Scholarship.&nbsp;</p>
 <p>Claire also has quite a vibrant service-learning journey, showcasing her
 willingness to serve and sincerity in her nature. In school, she organised
@@ -248,7 +241,7 @@ and follow this schedule religiously especially during study breaks!”</p>
 <p><strong>WANG NUO</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/WANG_NUO_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/WANG_NUO_website.jpg">
 </div>
 <p>Serving as the Executive Committee Administrator of the 50th Student Council
 has left a remarkable impact on Wang Nuo, both in terms of leadership and
@@ -256,20 +249,11 @@ self-discovery. In this role, she demonstrated strong organisational skills
 and meticulous attention to detail, overseeing morning assemblies, allocating
 personalised reflections and prayers, training and executing morning assemblies,
 and coordinating special assemblies and events while liaising effectively
-with teachers and various student leader groups. She also handled administrative
-roles including attendance, dietary requirements, and logistics whilst
-leading councillors in events and supporting other student leaders. Wang
-Nuo approached her administrator role with dedication and resilience, particularly
-when managing multiple concurrent responsibilities.</p>
+with teachers and various student leader groups.</p>
 <p>Wang Nuo has developed a strong academic disposition through her analytical
 skills and has consistently shown the ability to apply her content understanding
 to the world around her. Her passion for History was especially evident
 in her insightful perspectives and active participation in class discussions.
-The A-Level curriculum has fostered discipline and self-direction in her
-learning whilst encouraging her to be more curious about what is happening
-outside of her society. Her subject combination has provided her with soft
-skills to accurately seek out introspective information, allowing her to
-engage with multiple perspectives and exercise caution when reading online.
 Through these experiences, Wang Nuo grew both as a leader and as an individual,
 learning that change is the only constant and that the beauty of metamorphosing
 is to become comfortable in the unfamiliar, seeking her own rhythm instead
