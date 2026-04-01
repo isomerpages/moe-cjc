@@ -263,7 +263,7 @@ of chasing someone else's tempo.</p>
 <p><strong>ALIEF AHMAD</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ALIEF_AHMAD_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ALIEF_AHMAD_website.jpg">
 </div>
 <p>Throughout his time in CJC, Alief distinguished himself as an intellectually
 curious and academically versatile student who demonstrated a strong engagement
@@ -282,12 +282,7 @@ in both his class and Co-Curricular Activities. Serving as Home Tutorial
 Councillor, he played an important role in fostering class cohesion and
 leading various class initiatives. Within the Nexus Investment and Entrepreneurship
 Society CCA, Alief emerged as a proactive and creative leader, contributing
-significantly to the planning and execution of major activities. Notably,
-he served as a key organiser for the Nexus Business Competition 2025, coordinating
-participation from six tertiary institutions while managing the event’s
-logistics. In addition, he participated in service-oriented initiatives
-such as a Valentine’s Day fundraiser for a special needs organisation and
-a business workshop for the CJ50 Funfair.&nbsp;</p>
+significantly to the planning and execution of major activities.</p>
 <p>Recounting on his CJ experience, Alief’s most memorable experience was
 his Work Attachment and Shadowing Programme (WASP) where he shadowed a
 social worker for a week at a family service centre. He learnt the daily
@@ -300,7 +295,7 @@ experience improved his ability to interact with others.</p>
 <p><strong>VANCE TANG QI ZHI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/VANCE_TANG_QI_ZHI_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/VANCE_TANG_QI_ZHI_website.jpg">
 </div>
 <p>Vance is a self-directed learner who displays great intellectual curiosity.
 His strict approach allows him to manage different commitments effectively.
