@@ -190,7 +190,7 @@ an obstacle.”&nbsp;</p>
 <br><strong>GAN YANG LE</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/GAN_YANG_LE_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/GAN_YANG_LE_website.jpg">
 </div>
 <p>Yang Le demonstrated resilience and determination in adapting to the demands
 of the JC curriculum, making significant academic progress over the two
@@ -201,10 +201,7 @@ her immediate society.</p>
 <p>As a member of the Guzheng Ensemble, Yang Le showed strong dedication
 by mastering the instrument within a year despite having no prior experience.
 Her perseverance contributed to the ensemble attaining a Certificate of
-Distinction at the 2025 Singapore Youth Festival Arts Presentation. She
-also took initiative in organising logistics for the Guzheng booth during
-the school’s Sports and Aesthetic Carnival and seniors’ farewell celebrations,
-demonstrating responsibility and teamwork.</p>
+Distinction at the 2025 Singapore Youth Festival Arts Presentation.</p>
 <p>In an interview, Yang Le expressed sincere appreciation for her Economics
 and Home Tutor, Serena Soh, for her unwavering support throughout her time
 in junior college. She shared that Ms Soh consistently went the extra mile
