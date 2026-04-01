@@ -143,7 +143,7 @@ to succeed in General Paper and in life.”</p>
 <br><strong>ROXANNE NEO YU XUAN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
 </div>
 <p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
 of JC life. As a hard worker who possesses exemplary critical thinking
