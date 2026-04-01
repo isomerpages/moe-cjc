@@ -155,10 +155,7 @@ on complex subjects, as well as in her H3 History research.&nbsp;</p>
 participated in events like the Tran Phu-Hoan Kiem High School - Catholic
 Junior College Exchange Programme where she hosted Vietnamese students
 and patiently taught them about Singaporean culture, fostering meaningful
-cross-cultural dialogue. Her dexterity in communication could also be seen
-in her interactions with people across age groups while she participated
-in the Bedok Sports Carnival. Her likeable personality fostered good peer
-relations; she even won ‘Ms Charismatic’ for Graduation Night.&nbsp;</p>
+cross-cultural dialogue.</p>
 <p>“I would like to thank Mr Alex Tan especially for giving us the opportunity
 to pursue H3, and patiently refining my H2 and H3 history answers, and
 filling up my UCAS reference for university admissions in the UK. He and
