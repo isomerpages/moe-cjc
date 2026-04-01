@@ -105,20 +105,14 @@ when we needed them.”</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
 </div>
 <p>Joshua is a reflective and committed learner who consistently demonstrates
-a strong sense of commitment in his academic pursuits. He thrives on problem-solving
-and self-reflection, using challenges as opportunities for growth and improvement.
-His ability to articulate ideas clearly and thoughtfully, particularly
-in General Paper, has enabled him to develop effective communication skills
-and a nuanced understanding of diverse perspectives. His achievement of
-the JC1 Subject Prize Award for H2 Economics and the Edusave Merit Bursary
+a strong sense of commitment in his academic pursuits. His achievement
+of the JC1 Subject Prize Award for H2 Economics and the Edusave Merit Bursary
 attests to his dedication to academic excellence through consistent efforts
 to refine his capabilities.&nbsp;</p>
-<p>Apart from academic achievements, Joshua embarked on many vibrant and
-enriching opportunities for his holistic development. His active involvement
-in the Oratorical Society is reflected by his participation in the CJC
-Model United Nations 2025 as the Vice-Chairman of the World Health Organisation
-council, where he showcased his adaptability, leadership, and ability to
-navigate complex, unprecedented challenges with composure.</p>
+<p>His active involvement in the Oratorical Society is reflected by his participation
+in the CJC Model United Nations 2025 as the Vice-Chairman of the World
+Health Organisation council, where he showcased his adaptability, leadership,
+and ability to navigate complex, unprecedented challenges with composure.</p>
 <p>“I am grateful to my family for supporting me through my A-Level Journey
 such as driving me to school, cooking meals for me and helping me to destress
 through games. I am also glad to have made friends that are some of the
@@ -137,9 +131,7 @@ to succeed in General Paper and in life.”</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
 </div>
 <p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
-of JC life. As a hard worker who possesses exemplary critical thinking
-skills and a passion for History, she clutched top scores for her A Level
-examinations. Her willingness to learn and excel in her academics was reflected
+of JC life. Her willingness to learn and excel in her academics was reflected
 in her outstanding performance in lessons, where she offered valuable insights
 on complex subjects, as well as in her H3 History research.&nbsp;</p>
 <p>Roxanne showed her willingness to take initiative as she enthusiastically
