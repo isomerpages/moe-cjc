@@ -11,7 +11,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Students_PAC_website.jpg">
 </div>
-<p>(CJCians celebrating the journey undertaken together as a cohort)</p>
+<p>CJCians celebrating the journey undertaken together as a cohort</p>
 <p>Catholic Junior College (CJC) gives thanks to God for our students’ strong
 showing at the 2025 GCE A-Level examinations and we congratulate them for
 the good distinction rates across different subjects. Our CJCians’ academic
@@ -44,7 +44,7 @@ and leaders in the last 50 years and more untold.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Students_PAC_a_website.jpg">
 </div>
-<p>(CJCians celebrating the journey undertaken together as a cohort)</p>
+<p>CJCians celebrating the journey undertaken together as a cohort</p>
 <p>With thanksgiving in our hearts, we affirm and celebrate the outstanding
 accomplishments of every CJCian who exemplifies the qualities of a Thinker
 with a Mission and Leader with a Heart. May God continue to bless the Class
@@ -56,32 +56,21 @@ of 2025 with grace and wisdom as they take flight and soar!<em>&nbsp;</em>
 <p><strong>ZAYNE CHEW ZHENG XUN</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
 </div>
 <p>Zayne served as a committed member of the 50th Student Council, where
-he flourished and learnt how to be more assertive, bold and outgoing. Grounded
-and calm under pressure, Zayne was a steady and reliable presence, making
-him an asset to his peers who enjoyed working with him. As a member of
-the Student Activities Wing, he played a pivotal role in planning and facilitating
-events such as Be Yourself Day, Rockafella, Racial Harmony Day, Valentine's
-Day, Lenten Evening, Jubilee of Teenagers, College Day, the JC1 Leaders'
-Dialogue, the JC2 Graduation Pageant, the annual CCA Bazaar and the college's
-Hari Raya Celebration. One of the most memorable events Zayne was involved
-in planning was Teachers' Day, where he took the immense workload involved
-in his stride and contributed significantly to a vibrant and well-organised
-college event. He was also the assistant-in-charge for the CJ50 Food and
-Fun Fair concert segment which was organised to commemorate the college's
-50th anniversary.</p>
+he flourished and learnt how to be more assertive, bold and outgoing. One
+of the most memorable events Zayne was involved in planning was Teachers'
+Day, where he took the immense workload involved in his stride and contributed
+significantly to a vibrant and well-organised college event. He was also
+the assistant-in-charge for the CJ50 Food and Fun Fair concert segment
+which was organised to commemorate the college's 50th anniversary.</p>
 <p>Throughout his time at Catholic Junior College, Zayne consistently demonstrated
-remarkable resilience and determination. The disciplined individual committed
-to consistent practice, particularly in Mathematics. In particular, Zayne's
-passion lies in Geography, where he developed critical thinking skills
-and a deeper understanding of global issues such as sustainability and
-urban development. Moreover, Zayne had shown strong compassion and empathy
-through his involvement in service learning initiatives, working collaboratively
-with his classmates to organise and publicise a grocery donation drive
-in collaboration with Xin Yuan Community Care to benefit disadvantaged
-elderly individuals.</p>
+remarkable resilience and determination. He showed strong compassion and
+empathy through his involvement in service learning initiatives, working
+collaboratively with his classmates to organise and publicise a grocery
+donation drive in collaboration with Xin Yuan Community Care to benefit
+disadvantaged elderly individuals.</p>
 <p>“My teachers are one of the&nbsp; reasons behind why I continued to pull
 through the tough days in CJ. All my teachers always saw the hope in me
 and never made me feel discouraged whenever I fumbled certain subjects’
@@ -91,7 +80,7 @@ always be thankful for everyone I have met.”</p>
 <p><strong>TAN JUN KAI</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/TAN_JUN_KAI_website.jpg">
 </div>
 <p>Jun Kai’s journey at Catholic Junior College is marked by his intellectual
 curiosity and independence as a learner. His willingness to challenge himself
@@ -100,13 +89,6 @@ Olympiad and STEMazing competition, a digital video contest focused on
 Science, Technology, Engineering, and Mathematics (STEM). This commitment
 to excel was further reflected by his consistent placement on the Principal’s
 Honour Roll.</p>
-<p>Jun Kai also proved himself to be a dependable leader as the Home Tutorial
-Councillor (HTC) of his class 2T09. His charisma and exemplary leadership
-in planning and executing were integral in rallying the support of his
-class for college-wide events including the CJC 50th Anniversary Food and
-Fun Fair. Adaptable and innovative, he was always willing to take on more
-than his fair share of responsibilities. He genuinely enjoys collaboration
-and builds rapport easily, earning the trust and respect of peers.&nbsp;</p>
 <p>His concern for others extended beyond the school environment. Through
 a service learning project with SG Cares Volunteer Centre, he helped to
 create inclusive experiences for children from low-income families and
