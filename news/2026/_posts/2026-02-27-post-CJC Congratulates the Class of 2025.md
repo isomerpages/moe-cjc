@@ -59,18 +59,13 @@ of 2025 with grace and wisdom as they take flight and soar!<em>&nbsp;</em>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ZAYNE_CHEW_ZHENG_XUN_website.jpg">
 </div>
 <p>Zayne served as a committed member of the 50th Student Council, where
-he flourished and learnt how to be more assertive, bold and outgoing. One
-of the most memorable events Zayne was involved in planning was Teachers'
-Day, where he took the immense workload involved in his stride and contributed
-significantly to a vibrant and well-organised college event. He was also
-the assistant-in-charge for the CJ50 Food and Fun Fair concert segment
-which was organised to commemorate the college's 50th anniversary.</p>
-<p>Throughout his time at Catholic Junior College, Zayne consistently demonstrated
-remarkable resilience and determination. He showed strong compassion and
-empathy through his involvement in service learning initiatives, working
-collaboratively with his classmates to organise and publicise a grocery
-donation drive in collaboration with Xin Yuan Community Care to benefit
-disadvantaged elderly individuals.</p>
+he flourished and learnt how to be more assertive, bold and outgoing. Throughout
+his time at Catholic Junior College, Zayne consistently demonstrated remarkable
+resilience and determination. He showed strong compassion and empathy through
+his involvement in service learning initiatives, working collaboratively
+with his classmates to organise and publicise a grocery donation drive
+in collaboration with Xin Yuan Community Care to benefit disadvantaged
+elderly individuals.</p>
 <p>“My teachers are one of the&nbsp; reasons behind why I continued to pull
 through the tough days in CJ. All my teachers always saw the hope in me
 and never made me feel discouraged whenever I fumbled certain subjects’
@@ -92,9 +87,7 @@ Honour Roll.</p>
 <p>His concern for others extended beyond the school environment. Through
 a service learning project with SG Cares Volunteer Centre, he helped to
 create inclusive experiences for children from low-income families and
-the elderly at the Bedok Sports Carnival. His willingness to take on more
-responsibilities for these projects while efficiently sustaining strong
-academic results is a testament to his genuine care and exemplary leadership.</p>
+the elderly at the Bedok Sports Carnival.</p>
 <p>“I want to show my gratitude to Ms Valarie Chia for being a caring Home
 tutor and amazing Chemistry teacher, and for encouraging me to take up
 opportunities to develop myself; Ms Chia Shing Li for keeping lessons interesting
@@ -114,20 +107,14 @@ when we needed them.”</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/NG_ZHI_KANG_JOSHUA_website.jpg">
 </div>
 <p>Joshua is a reflective and committed learner who consistently demonstrates
-a strong sense of commitment in his academic pursuits. He thrives on problem-solving
-and self-reflection, using challenges as opportunities for growth and improvement.
-His ability to articulate ideas clearly and thoughtfully, particularly
-in General Paper, has enabled him to develop effective communication skills
-and a nuanced understanding of diverse perspectives. His achievement of
-the JC1 Subject Prize Award for H2 Economics and the Edusave Merit Bursary
+a strong sense of commitment in his academic pursuits. His achievement
+of the JC1 Subject Prize Award for H2 Economics and the Edusave Merit Bursary
 attests to his dedication to academic excellence through consistent efforts
 to refine his capabilities.&nbsp;</p>
-<p>Apart from academic achievements, Joshua embarked on many vibrant and
-enriching opportunities for his holistic development. His active involvement
-in the Oratorical Society is reflected by his participation in the CJC
-Model United Nations 2025 as the Vice-Chairman of the World Health Organisation
-council, where he showcased his adaptability, leadership, and ability to
-navigate complex, unprecedented challenges with composure.</p>
+<p>His active involvement in the Oratorical Society is reflected by his participation
+in the CJC Model United Nations 2025 as the Vice-Chairman of the World
+Health Organisation council, where he showcased his adaptability, leadership,
+and ability to navigate complex, unprecedented challenges with composure.</p>
 <p>“I am grateful to my family for supporting me through my A-Level Journey
 such as driving me to school, cooking meals for me and helping me to destress
 through games. I am also glad to have made friends that are some of the
@@ -146,9 +133,7 @@ to succeed in General Paper and in life.”</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/ROXANNE_NEO_YU_XUAN_website.jpg">
 </div>
 <p>Roxanne is a well-liked student who demonstrated adeptness in many aspects
-of JC life. As a hard worker who possesses exemplary critical thinking
-skills and a passion for History, she clutched top scores for her A Level
-examinations. Her willingness to learn and excel in her academics was reflected
+of JC life. Her willingness to learn and excel in her academics was reflected
 in her outstanding performance in lessons, where she offered valuable insights
 on complex subjects, as well as in her H3 History research.&nbsp;</p>
 <p>Roxanne showed her willingness to take initiative as she enthusiastically
@@ -216,13 +201,12 @@ in her learning journey.</p>
 <img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CLAIRE_TAN_website.jpg">
 </div>
 <p>Claire works hard and has improved tremendously in her studies since she
-started her journey in CJC. She is a very mature individual who has grown
-in confidence, particularly in seeking help when needed.</p>
-<p>Apart from academics, Claire has demonstrated exceptionally good leadership
-skills. Positioned the Vice-president of the Catholic Activities wing in
-the Students’ Council, she contributed to the organisation and execution
-of events like Racial Harmony Day among others. To acknowledge her leadership
-and commitment, she was awarded the Flame Scholarship.&nbsp;</p>
+started her journey in CJC. Apart from academics, Claire has demonstrated
+exceptionally good leadership skills. Positioned the Vice-president of
+the Catholic Activities wing in the Students’ Council, she contributed
+to the organisation and execution of events like Racial Harmony Day among
+others. To acknowledge her leadership and commitment, she was awarded the
+Flame Scholarship.&nbsp;</p>
 <p>Claire also has quite a vibrant service-learning journey, showcasing her
 willingness to serve and sincerity in her nature. In school, she organised
 a crochet project, “A Stitch in Time”, during the CJC 50th Anniversary
@@ -277,12 +261,6 @@ analytical abilities and interdisciplinary thinking. These accomplishments,
 alongside his consistent academic commitment, culminated in his successful
 admission to the National University of Singapore Engineering programme
 through the College Direct Admission scheme.</p>
-<p>Beyond academics, Alief demonstrated commendable leadership and initiative
-in both his class and Co-Curricular Activities. Serving as Home Tutorial
-Councillor, he played an important role in fostering class cohesion and
-leading various class initiatives. Within the Nexus Investment and Entrepreneurship
-Society CCA, Alief emerged as a proactive and creative leader, contributing
-significantly to the planning and execution of major activities.</p>
 <p>Recounting on his CJ experience, Alief’s most memorable experience was
 his Work Attachment and Shadowing Programme (WASP) where he shadowed a
 social worker for a week at a family service centre. He learnt the daily
