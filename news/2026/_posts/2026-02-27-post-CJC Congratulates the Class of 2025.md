@@ -167,24 +167,16 @@ rates!”</p>
 <p><strong>OSCAR TIONG FOO XIANG</strong>
 </p>
 <div class="isomer-image-wrapper">
-<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/OSCAR_TIONG_FOO_XIANG_website.jpg">
+<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/OSCAR_TIONG_FOO_XIANG_website.jpg">
 </div>
 <p>Oscar is a consistent and accountable learner who demonstrates strong
 critical thinking skills. His ability to learn from past mistakes and make
-appropriate adjustments has contributed to his academic growth. In General
-Paper, he has developed into a discerning thinker who looks beyond face
-value to appreciate deeper meanings, while in History, he actively participates
-in discussions and demonstrates maturity in interpreting different viewpoints.</p>
+appropriate adjustments has contributed to his academic growth.</p>
 <p>As President of the First Aid Club, Oscar has shown remarkable leadership
 abilities. He has shown his leadership abilities through facilitating Executive
 Committee discussions and ensuring all the First Aid members were included
 in the many events organised, such as Orientation and Post-Promotional
-Examination Games. Oscar played an important role in shaping a fun and
-safe school environment, by tending to injured persons with his caring
-and reassuring demeanour. Apart from CCA, he encouraged the student population
-to extend their kindness to various beneficiaries. The compassion he has
-shown and sheer determination to achieve what he set out to do, has made
-him a suitable candidate for Medicine that he plans to study.</p>
+Examination Games.</p>
 <p>“I personally believe that having the right mindset is crucial to doing
 well. You have to believe that you have the capacity to do well. Of course,
 I also had moments where I was disappointed with how I performed in a test,
