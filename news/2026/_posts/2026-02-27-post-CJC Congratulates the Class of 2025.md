@@ -299,12 +299,8 @@ experience improved his ability to interact with others.</p>
 </div>
 <p>Vance is a self-directed learner who displays great intellectual curiosity.
 His strict approach allows him to manage different commitments effectively.
-Academically, he has demonstrated high-level academic and leadership caliber
-through his selection for the Pre-University Seminar, where he led a team
-of twenty-five tertiary students in a project on social issues. Additionally,
-he participated in the S. Rajaratnam Dialogue, showcasing a drive for understanding.
 His academic achievements were also recognised with the 2025 Edusave Merit
-Bursary. He also took part in the Nara-CJC Exchange Programme which allowed
+Bursary. He took part in the Nara-CJC Exchange Programme which allowed
 him to work together with Japanese students from Nara High School, where
 he navigated cross-cultural collaboration with notable sensitivity.&nbsp;</p>
 <p>Vance has also distinguished himself as a pillar of his student community.
