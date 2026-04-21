@@ -20,8 +20,8 @@ sections:
         - title: Alumni
           description: ""
           url: /alumni/whatson
-      background: /images/OH_2026_banner__CJC_Homepage__Final.png
-      variant: image
+      background: /images/Thinker_with_a_Mission_Leader_with_a_Heart_banner___Roundabout_Apr_2026.jpg
+      variant: center
       url: https://www.cjc.moe.edu.sg/50-years-of-family-united-in-truth-and-love/
   - resources:
       title: Happenings at CJC
