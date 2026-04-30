@@ -6,7 +6,8 @@ description: ""
 third_nav_title: "2026"
 ---
 <p>
-<br>By Leticia Wan (2T03) and Rachelle Tan (2T05)</p>
+<br><em>By Leticia Wan (2T03) and Rachelle Tan (2T05)</em>
+</p>
 <p>For many athletes, the annual National School Games is more than just
 a competition. It is a rite of passage, marking a defining moment in their
 sporting journey forged through months of discipline and sacrifice, and
