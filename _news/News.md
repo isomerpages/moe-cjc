@@ -5,7 +5,14 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
-<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/IMG_8186.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/cjc-track-and-field-nsg-2026-a-season-of-pride-purpose-and-progress/" rel="noopener nofollow" target="_blank">CJC Track and Field NSG 2026:  A Season of Pride, Purpose and Progress</a>
+</p>
+<p>Each race stood as a testament to the athletes’ months of relentless commitment,
+reflecting the countless hours spent training and tolling, no matter rain
+or shine.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Students_PAC_website.jpg">
 </div>
