@@ -41,12 +41,7 @@ and/or abilities in leadership and CCA.</p>
 </li>
 <li>
 <p>English Drama</p>
-<p></p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
 <li>
 <p>Guitar Ensemble</p>
 </li>
@@ -55,6 +50,23 @@ and/or abilities in leadership and CCA.</p>
 </li>
 <li>
 <p>Modern Dance</p>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achievement in SYF presentations</p>
+</li>
+<li>
+<p>Representation in international/ national competitions</p>
+</li>
+<li>
+<p>Achievement in music/ dance examinations</p>
+</li>
+<li>
+<p>Participation in Local and International Performances/Recitals</p>
 </li>
 </ul>
 </td>
