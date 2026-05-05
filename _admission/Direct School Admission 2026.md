@@ -324,30 +324,38 @@ has been successful.</p>
 </p>
 <p><strong><u>For DSA-JC (Phase 1),</u></strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only short-listed candidates
-will be invited for&nbsp;an interview between <strong>18 May</strong> and <strong>11 August 2026</strong>.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More information will be provided
-to the applicants by email at least one week before the interview date.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final decision will be made
-by the Interview Panel <u>after</u> the interview.</p>
-<p>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only short-listed candidates will be invited for&nbsp;an interview between <strong>18 May</strong> and <strong>11 August 2026</strong>.</p>
+</li>
+<li>
+<p>More information will be provided to the applicants by email at least
+one week before the interview date.</p>
+</li>
+<li>
+<p>Final decision will be made by the Interview Panel <u>after</u> the interview.</p>
+</li>
+</ul>
 <p>Successful candidates will receive a Letter of Offer by <strong>12 August 2026 via email with a FormSG link</strong>.
 Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday, 14 August 2026 via the FormSG link in the offer email.</strong>
 </p>
-<p>&nbsp;</p>
 <p>All shortlisted applicants who have participated in the Phase 1 selection
 will be informed of the outcome between 28 Jul and 11 Aug 2026.</p>
-<p><u>&nbsp;</u>
+<p><strong><u>For DSA-JC (Phase 2),</u></strong>
 </p>
-<p><u>For DSA-JC (Phase 2),</u>
+<ul data-tight="true" class="tight">
+<li>
+<p>Only short-listed candidates will be invited for&nbsp;an interview between <strong>27 July </strong>and <strong>7 September 2026.</strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only short-listed candidates
-will be invited for&nbsp;an interview between <strong>27 July </strong>and <strong>7 September 2026.</strong>
-</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More information will be provided
-to the applicants by email at least one week before the interview date.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final decision will be made
-by the Interview Panel <u>after</u> the interview.</p>
+</li>
+<li>
+<p>More information will be provided to the applicants by email at least
+one week before the interview date.</p>
+</li>
+<li>
+<p>Final decision will be made by the Interview Panel <u>after</u> the interview.</p>
+</li>
+</ul>
 <p>&nbsp;</p>
 <p>Successful candidates will receive a Letter of Offer by <strong>8 September 2026 via email with a FormSG link</strong>.
 Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday, 11 September 2026 via the FormSG link in the offer email.</strong>
