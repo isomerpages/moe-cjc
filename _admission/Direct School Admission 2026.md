@@ -13,7 +13,8 @@ table below. Successful applicants may be considered for one of the 10
 </a>available to JC1 students with exceptional strengths and/or abilities
 in leadership and CCA.</p>
 <h4><strong>DSA Talent Areas&nbsp;</strong></h4>
-<p>We are looking for students who are outstanding in the following areas:</p>
+<p>We are looking for students who are outstanding in any one of the following
+areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -261,9 +262,11 @@ in the areas of STEM</p>
 </table>
 <p>Applicants are to focus on only <strong><u>one</u> area of expertise or talent </strong>in
 their application.</p>
+<p>To find out if you are eligible to apply for the DSA for JCs, click
+<a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B&amp;faqid=EF2397B895984EEDB429271549EF6B8C" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Application Procedures</strong></h4>
-<p><strong>&nbsp;</strong>1. To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
-6 May to 21 August 2026. <strong>(link will be made available on 6 May 2026</strong>)
+<p><strong>&nbsp;</strong>1. To apply, please register via the <a href="dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
+6 May to 21 August 2026.
 <br>
 <br>2.&nbsp; The following supporting documents are to be included in the
 online application:
@@ -271,9 +274,9 @@ online application:
 equivalent;</p>
 <p>- Sec 4/5 Term 1 &amp; 2 Continual Assessment results slip or equivalent.</p>
 <p>- Latest available NAPFA test results (Compulsory for talent areas in
-Sports)
-<br>- CCA &amp; VIA records (for 2025 and 2026);&nbsp;and
-<br>- Personal Statement.</p>
+Sports)</p>
+<p>- CCA &amp; VIA records (for 2025 and 2026);&nbsp;and</p>
+<p>- Personal Statement.</p>
 <p><strong><em>Incomplete submissions will&nbsp;not&nbsp;be considered</em></strong>.</p>
 <p>3. Application periods for the two phases are as follows:</p>
 <p><u>For DSA-JC (Phase 1)<br></u>To allow sufficient time for processing,
