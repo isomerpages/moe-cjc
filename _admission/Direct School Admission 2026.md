@@ -103,12 +103,7 @@ and/or abilities in leadership and CCA.</p>
 </li>
 <li>
 <p>Floorball</p>
-<p></p>
 </li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<ul>
 <li>
 <p>Football (Boys)</p>
 </li>
@@ -126,6 +121,23 @@ and/or abilities in leadership and CCA.</p>
 </li>
 <li>
 <p>Volleyball</p>
+<p></p>
+</li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Achievement in National Schools/ International Competitions</p>
+</li>
+<li>
+<p>Representation at National or Zonal schools Competitions</p>
+</li>
+<li>
+<p>Achievement in Local and International Club Competitions</p>
+</li>
+<li>
+<p>National Age Group Team Selection</p>
 </li>
 </ul>
 </td>
