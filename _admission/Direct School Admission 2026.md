@@ -260,7 +260,115 @@ in the areas of STEM</p>
 </tr>
 </tbody>
 </table>
-<p></p>
+<p>Applicants are to focus on only <strong><u>one</u> area of expertise or talent </strong>in
+their application.</p>
+<p><strong>Application Procedures</strong>
+</p>
+<p><strong>&nbsp;</strong>1. To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
+6 May to 21 August 2026. (<strong>link will be made available on 6 May 2026</strong>)
+<br>
+<br>2.&nbsp; The following supporting documents are to be included in the
+online application:
+<br>- Sec 3 Progress Reports &amp; End-of-Year Examination results slips or
+equivalent;</p>
+<p>- Sec 4/5 Term 1 &amp; 2 Continual Assessment results slip or equivalent.</p>
+<p>- Latest available NAPFA test results (Compulsory for talent areas in
+Sports)
+<br>- CCA &amp; VIA records (for 2025 and 2026);&nbsp;and
+<br>- Personal Statement.</p>
+<p><strong><em>Incomplete submissions will&nbsp;not&nbsp;be considered</em></strong>.</p>
+<p>3. Application periods for the two phases are as follows:</p>
+<p><u>For DSA-JC (Phase 1)<br></u>To allow sufficient time for processing,
+it is strongly recommended that all applications are submitted online by&nbsp;<strong>5pm, Monday, 20 July 2026.</strong>
+<br>
+<br>Applications submitted&nbsp;<strong>after 20 July 2026</strong>&nbsp;will
+be processed in Phase 2.&nbsp;
+<br>
+<br><u>For DSA-JC (Phase 2)<br></u>To allow sufficient time for processing,
+it is strongly recommended that all applications are submitted online by <strong>5pm, Friday, 21 August 2026</strong>
+<br>
+</p>
+<p><strong>Trial/Audition Process&nbsp;</strong>
+</p>
+<p><u>For DSA-JC (Phase 1),</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Short-listed applicants </strong>will be invited for in-person<strong> auditions/trials</strong>  <strong><u>from 8 May 2026</u></strong> onwards.</p>
+</li>
+<li>
+<p>Students are reminded to be punctual for trials/auditions and are required
+to be in their Secondary School sports attire or school uniform.&nbsp;</p>
+</li>
+<li>
+<p>Having granted a trial/audition does not mean that the DSA-JC application
+has been successful.</p>
+</li>
+</ul>
+<p>&nbsp;</p>
+<p><u>For DSA-JC (Phase 2),</u>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Short-listed applicants </strong>will
+be invited for in-person<strong> auditions/trials</strong>  <strong><u>from 21 July 2026</u></strong> onwards.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to be
+punctual for trials/auditions and are required to be in their Secondary
+School sports attire or school uniform.&nbsp;</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Having granted a trial/audition
+does not mean that the DSA-JC application has been successful.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Selection Process</strong>
+</p>
+<p>&nbsp;</p>
+<p><u>For DSA-JC (Phase 1),</u>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only short-listed candidates
+will be invited for&nbsp;an interview between <strong>18 May</strong> and <strong>11 August 2026</strong>.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More information will be provided
+to the applicants by email at least one week before the interview date.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final decision will be made
+by the Interview Panel <u>after</u> the interview.</p>
+<p>&nbsp;</p>
+<p>Successful candidates will receive a Letter of Offer by <strong>12 August 2026 via email with a FormSG link</strong>.
+Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday, 14 August 2026 via the FormSG link in the offer email.</strong>
+</p>
+<p>&nbsp;</p>
+<p>All shortlisted applicants who have participated in the Phase 1 selection
+will be informed of the outcome between 28 Jul and 11 Aug 2026.</p>
+<p><u>&nbsp;</u>
+</p>
+<p><u>For DSA-JC (Phase 2),</u>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only short-listed candidates
+will be invited for&nbsp;an interview between <strong>27 July </strong>and <strong>7 September 2026.</strong>
+</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; More information will be provided
+to the applicants by email at least one week before the interview date.</p>
+<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Final decision will be made
+by the Interview Panel <u>after</u> the interview.</p>
+<p>&nbsp;</p>
+<p>Successful candidates will receive a Letter of Offer by <strong>8 September 2026 via email with a FormSG link</strong>.
+Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday, 11 September 2026 via the FormSG link in the offer email.</strong>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>All shortlisted applicants who have participated in the Phase 2 selection
+will be informed of the outcome between 24 Aug and 7 Sep 2026.</p>
+<p><strong>&nbsp;</strong>
+</p>
+<p><strong>Important Note</strong>
+</p>
+<p>&nbsp;</p>
+<p>Successful DSA-JC candidates will <strong><u>NOT</u></strong>be allowed
+to participate in the Joint Admissions Exercise. They will also <strong><u>NOT</u></strong> be
+allowed to transfer to another school after the release of the GCE O-Level
+examination results. They are expected to honour their commitment to the
+DSA-JC schools and to participate in activities related to the talent selected
+in, for the duration of the programme admitted to. Students who do not
+fulfill their DSA commitment without valid reason may be required to transfer
+out to another school.</p>
 <p><strong>Enquiries</strong>
 </p>
 <p>For more information, please visit the&nbsp;<strong><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education DSA-JC</a></strong>&nbsp;website.</p>
