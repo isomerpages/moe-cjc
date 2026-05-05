@@ -144,7 +144,7 @@ and/or abilities in leadership and CCA.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Others areas of expertise / talent</strong>
+<p><strong>Other areas of expertise / talent</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -157,23 +157,76 @@ and/or abilities in leadership and CCA.</p>
 <li>
 <p>Debating and Public Speaking&nbsp;</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<ul>
+<li>
+<p>Representation at National or Zonal schools’ competitions</p>
+</li>
+<li>
+<p>Records of achievement with CCA</p>
+</li>
+<li>
+<p>Presentation at local or international conferences/exhibitions</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Entrepreneurship</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<ul>
+<ul data-tight="true" class="tight">
+<li>
+<p>Representation at National, Zonal or similar level inter-school competitions</p>
+</li>
+<li>
+<p>Records of achievements/ contributions with a CCA or a sustained programme
+in this area</p>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Language Elective Programme - English</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Leadership</p>
 </li>
+</ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<ul data-tight="true" class="tight">
 <li>
 <p>Science and Technology</p>
 </li>
 </ul>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 </tbody>
