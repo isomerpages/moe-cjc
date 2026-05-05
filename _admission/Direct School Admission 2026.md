@@ -290,7 +290,7 @@ it is strongly recommended that all applications are submitted online by <strong
 </p>
 <p><strong>Trial/Audition Process&nbsp;</strong>
 </p>
-<p><u>For DSA-JC (Phase 1),</u>
+<p><strong><u>For DSA-JC (Phase 1),</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -305,24 +305,24 @@ to be in their Secondary School sports attire or school uniform.&nbsp;</p>
 has been successful.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
-<p><u>For DSA-JC (Phase 2),</u>
+<p><strong><u>For DSA-JC (Phase 2),</u></strong>
 </p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <strong>Short-listed applicants </strong>will
-be invited for in-person<strong> auditions/trials</strong>  <strong><u>from 21 July 2026</u></strong> onwards.</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Students are reminded to be
-punctual for trials/auditions and are required to be in their Secondary
-School sports attire or school uniform.&nbsp;</p>
-<p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Having granted a trial/audition
-does not mean that the DSA-JC application has been successful.</p>
-<p><strong>&nbsp;</strong>
-</p>
-<p><strong>&nbsp;</strong>
-</p>
+<ul data-tight="true" class="tight">
+<li>
+<p><strong>Short-listed applicants </strong>will be invited for in-person<strong> auditions/trials</strong>  <strong><u>from 21 July 2026</u></strong> onwards.</p>
+</li>
+<li>
+<p>Students are reminded to be punctual for trials/auditions and are required
+to be in their Secondary School sports attire or school uniform.&nbsp;</p>
+</li>
+<li>
+<p>Having granted a trial/audition does not mean that the DSA-JC application
+has been successful.</p>
+</li>
+</ul>
 <p><strong>Selection Process</strong>
 </p>
-<p>&nbsp;</p>
-<p><u>For DSA-JC (Phase 1),</u>
+<p><strong><u>For DSA-JC (Phase 1),</u></strong>
 </p>
 <p>●&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Only short-listed candidates
 will be invited for&nbsp;an interview between <strong>18 May</strong> and <strong>11 August 2026</strong>.</p>
