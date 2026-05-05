@@ -356,20 +356,14 @@ one week before the interview date.</p>
 <p>Final decision will be made by the Interview Panel <u>after</u> the interview.</p>
 </li>
 </ul>
-<p>&nbsp;</p>
 <p>Successful candidates will receive a Letter of Offer by <strong>8 September 2026 via email with a FormSG link</strong>.
 Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday, 11 September 2026 via the FormSG link in the offer email.</strong>
 </p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>All shortlisted applicants who have participated in the Phase 2 selection
 will be informed of the outcome between 24 Aug and 7 Sep 2026.</p>
-<p><strong>&nbsp;</strong>
-</p>
 <p><strong>Important Note</strong>
 </p>
-<p>&nbsp;</p>
-<p>Successful DSA-JC candidates will <strong><u>NOT</u></strong>be allowed
+<p>Successful DSA-JC candidates will <strong><u>NOT </u></strong>be allowed
 to participate in the Joint Admissions Exercise. They will also <strong><u>NOT</u></strong> be
 allowed to transfer to another school after the release of the GCE O-Level
 examination results. They are expected to honour their commitment to the
