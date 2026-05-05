@@ -4,16 +4,15 @@ permalink: /admission/direct-school-admission/
 description: ""
 variant: tiptap
 ---
-<h3><strong>Direct School Admission 2026</strong></h3>
 <h4><strong>2026 Direct School Admission - Junior Colleges (DSA-JC) Exercise for Admission to JC1 in 2027</strong></h4>
 <p></p>
 <p>CJC invites applications for direct admission to JC1 in 2027 from students
 who are outstanding in at least one area of talent/skill listed in the
 table below. Successful applicants may be considered for one of the 10
-<a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships</a>available to JC1 students with exceptional strengths
-and/or abilities in leadership and CCA.</p>
-<p><strong>DSA Talent Areas&nbsp;</strong>
-</p>
+<a href="https://cjc.moe.edu.sg/admission/scholarships" rel="noopener noreferrer nofollow" target="_blank">FLAME scholarships<u> </u>
+</a>available to JC1 students with exceptional strengths and/or abilities
+in leadership and CCA.</p>
+<h4><strong>DSA Talent Areas&nbsp;</strong></h4>
 <p>We are looking for students who are outstanding in the following areas:</p>
 <table style="minWidth: 50px">
 <colgroup>
@@ -262,10 +261,9 @@ in the areas of STEM</p>
 </table>
 <p>Applicants are to focus on only <strong><u>one</u> area of expertise or talent </strong>in
 their application.</p>
-<p><strong>Application Procedures</strong>
-</p>
+<h4><strong>Application Procedures</strong></h4>
 <p><strong>&nbsp;</strong>1. To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
-6 May to 21 August 2026. (<strong>link will be made available on 6 May 2026</strong>)
+6 May to 21 August 2026. <strong>(link will be made available on 6 May 2026</strong>)
 <br>
 <br>2.&nbsp; The following supporting documents are to be included in the
 online application:
@@ -288,8 +286,7 @@ be processed in Phase 2.&nbsp;
 it is strongly recommended that all applications are submitted online by <strong>5pm, Friday, 21 August 2026</strong>
 <br>
 </p>
-<p><strong>Trial/Audition Process&nbsp;</strong>
-</p>
+<h4><strong>Trial/Audition Process&nbsp;</strong></h4>
 <p><strong><u>For DSA-JC (Phase 1),</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -320,8 +317,7 @@ to be in their Secondary School sports attire or school uniform.&nbsp;</p>
 has been successful.</p>
 </li>
 </ul>
-<p><strong>Selection Process</strong>
-</p>
+<h4><strong>Selection Process</strong></h4>
 <p><strong><u>For DSA-JC (Phase 1),</u></strong>
 </p>
 <ul data-tight="true" class="tight">
@@ -361,8 +357,7 @@ Parents/Legal Guardians are required to accept our offer by <strong>5 pm, Friday
 </p>
 <p>All shortlisted applicants who have participated in the Phase 2 selection
 will be informed of the outcome between 24 Aug and 7 Sep 2026.</p>
-<p><strong>Important Note</strong>
-</p>
+<h4><strong>Important Note</strong></h4>
 <p>Successful DSA-JC candidates will <strong><u>NOT </u></strong>be allowed
 to participate in the Joint Admissions Exercise. They will also <strong><u>NOT</u></strong> be
 allowed to transfer to another school after the release of the GCE O-Level
@@ -371,8 +366,7 @@ DSA-JC schools and to participate in activities related to the talent selected
 in, for the duration of the programme admitted to. Students who do not
 fulfill their DSA commitment without valid reason may be required to transfer
 out to another school.</p>
-<p><strong>Enquiries</strong>
-</p>
+<h4><strong>Enquiries</strong></h4>
 <p>For more information, please visit the&nbsp;<strong><a href="https://www.moe.gov.sg/post-secondary/admissions/dsa" rel="noopener noreferrer nofollow" target="_blank">Ministry of Education DSA-JC</a></strong>&nbsp;website.</p>
 <p>For further enquiries on the CJC DSA-JC exercise, please email us at
 <a rel="noopener noreferrer nofollow" target="_blank">catholic_jc@moe.edu.sg</a><u>.</u>
