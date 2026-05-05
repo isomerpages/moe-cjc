@@ -247,7 +247,15 @@ equivalent)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Representation at National, Zonal or similar level inter-school competitions</p>
+</li>
+<li>
+<p>Records of achievements/ contributions with a CCA or a sustained programme
+in the areas of STEM</p>
+</li>
+</ul>
 </td>
 </tr>
 </tbody>
