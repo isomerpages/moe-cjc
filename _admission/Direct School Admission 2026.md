@@ -262,6 +262,8 @@ in the areas of STEM</p>
 </table>
 <p>Applicants are to focus on only <strong><u>one</u> area of expertise or talent </strong>in
 their application.</p>
+<p>To find out if you are eligible to apply for the DSA for JCs, click
+<a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B&amp;faqid=EF2397B895984EEDB429271549EF6B8C" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Application Procedures</strong></h4>
 <p><strong>&nbsp;</strong>1. To apply, please register via the <u>Online DSA Application System</u>&nbsp;from
 6 May to 21 August 2026. <strong>(link will be made available on 6 May 2026</strong>)
