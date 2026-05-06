@@ -265,7 +265,7 @@ their application.</p>
 <p>To find out if you are eligible to apply for the DSA for JCs, click
 <a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B&amp;faqid=EF2397B895984EEDB429271549EF6B8C" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Application Procedures</strong></h4>
-<p><strong>&nbsp;</strong>1. To apply, please register via the <a href="dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
+<p><strong>&nbsp;</strong>1. To apply, please register via the <a href="https://dsa.catholicjc.edu.sg" rel="noopener nofollow" target="_blank">Online DSA Application System</a>&nbsp;from
 6 May to 21 August 2026.
 <br>
 <br>2.&nbsp; The following supporting documents are to be included in the
