@@ -240,6 +240,11 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Toh Hong Jin</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Wang Jiexin</p>
 </td>
 </tr>
@@ -1465,7 +1470,7 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Song Pewe Gordon / Operations Managerc</p>
+<p>See Song Pewe Gordon / Operations Manager</p>
 </td>
 </tr>
 </tbody>
