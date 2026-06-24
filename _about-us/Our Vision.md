@@ -6,7 +6,7 @@ variant: tiptap
 ---
 <h3><strong>Our Vision</strong></h3>
 <h4><strong>Vision</strong></h4>
-<p><strong>CJC - a place of excellence in learning and living.</strong>
+<p><strong>CJC - A place of excellence in learning and living</strong>
 </p>
 <p>Brother Patrick Loh, the founding principal of Catholic Junior College,
 envisioned that "underlying education is the concept of the unique, irreplaceable
