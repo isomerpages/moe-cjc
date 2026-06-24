@@ -235,7 +235,17 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ong Ling Kang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tiffany Yeo Cher Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Toh Hong Jin</p>
 </td>
 </tr>
 <tr>
@@ -289,6 +299,11 @@ JC1</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Carolina Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Gwee Shou Wen</p>
 </td>
 </tr>
 <tr>
@@ -648,6 +663,11 @@ Curriculum</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Mohammad Fairuz Bin Selamat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Sean Lim Zhong Sheng</p>
 </td>
 </tr>
 <tr>
@@ -1224,6 +1244,14 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>1T04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Ling Kang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1T05</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -1465,7 +1493,7 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>See Song Pewe Gordon / Operations Managerc</p>
+<p>See Song Pewe Gordon / Operations Manager</p>
 </td>
 </tr>
 </tbody>
