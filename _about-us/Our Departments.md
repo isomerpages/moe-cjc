@@ -667,6 +667,11 @@ Curriculum</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Sean Lim Zhong Sheng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Sohail Bin Basiron</p>
 </td>
 </tr>
