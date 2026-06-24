@@ -235,6 +235,11 @@ JC1</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Ong Ling Kang</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Tiffany Yeo Cher Ying</p>
 </td>
 </tr>
@@ -294,6 +299,11 @@ JC1</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Carolina Ng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Joel Gwee Shou Wen</p>
 </td>
 </tr>
 <tr>
@@ -1225,6 +1235,14 @@ JC1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Wu Yuen Yi</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>1T04</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ong Ling Kang</p>
 </td>
 </tr>
 <tr>
