@@ -8,7 +8,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_DSC00254.jpg">
 </div>
-<p><a href="https://www.cjc.edu.sg/cjc-track-and-field-nsg-2026-a-season-of-pride-purpose-and-progress/" rel="noopener nofollow" target="_blank">51st Anniversary College Day Annual Awards Presentation Ceremony</a>
+<p><a href="https://www.cjc.edu.sg/51st-anniversary-college-day-annual-awards-presentation-ceremony/" rel="noopener nofollow" target="_blank">51st Anniversary College Day Annual Awards Presentation Ceremony</a>
 </p>
 <p>This year's College Day, themed "From Heritage to Horizon", was a celebration
 that looked both inward and forward.</p>
