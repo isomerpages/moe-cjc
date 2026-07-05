@@ -260,8 +260,9 @@ in the areas of STEM</p>
 </tr>
 </tbody>
 </table>
-<p>Applicants are to focus on only <strong><u>one</u> area of expertise or talent </strong>in
-their application.</p>
+<p>Each applicant must select only<u> </u><strong><u>one</u> DSA talent area</strong> for
+submission. Students are <strong>not allowed</strong> to submit multiple
+DSA applications based on other DSA talent areas.</p>
 <p>To find out if you are eligible to apply for the DSA for JCs, click
 <a href="https://www.moe.gov.sg/faq?categoryid=55AF1782C2DF499BA9DD2215DD46020B&amp;faqid=EF2397B895984EEDB429271549EF6B8C" rel="noopener nofollow" target="_blank">here</a>.</p>
 <h4><strong>Application Procedures</strong></h4>
