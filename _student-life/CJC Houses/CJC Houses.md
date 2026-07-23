@@ -102,7 +102,11 @@ House Captains and Vice-House Captains for their respective years:</p>
 <p>Sarah Ng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Raylyn Ong,</p>
+<p>Claire Hoo,</p>
+<p>Sarah-Ann Png,</p>
+<p>Chloe Yan,</p>
+<p>Chan Mengmonichesda</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
