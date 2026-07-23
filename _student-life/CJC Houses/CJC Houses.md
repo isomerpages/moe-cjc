@@ -45,7 +45,7 @@ and competitions, both physical and non-physical:</p>
 </ul>
 <h4><strong>Four Houses, One CJC</strong></h4>
 <div class="isomer-image-wrapper">
-<img style="width:65%" height="auto" width="100%" src="/images/cjchouse2.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Publicity_Jump_Shot_Prospectus_low_res.jpg">
 </div>
 <p>Reintroduced in 2012, the House system would maintain four existing names,
 taking on the colours of the college:&nbsp;<strong>Albert (Yellow), Michael (Orange), Patrick (Red) and Joseph (Green)</strong>.
@@ -81,6 +81,24 @@ House Captains and Vice-House Captains for their respective years:</p>
 <th rowspan="1" colspan="1">
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Patrick</p>
 </th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>2027</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
@@ -171,74 +189,6 @@ House Captains and Vice-House Captains for their respective years:</p>
 <td rowspan="1" colspan="1">
 <p>Nicodemus Lai Kye Juun,
 <br>Mikhael Sierud</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2022</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nurul Iman Syed Masood
-<br>Kyi Thanthar (Rebecca)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Claudia Ng Hui Lin
-<br>Katerina Shu-Lian Cascapera</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nicole Lyn Chan
-<br>Xin Ru
-<br>Jiang Yit Fong</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Carina Tay Wen Xi
-<br>Xayna Kwek</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2021</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Maria Josephine Orell
-<br>Nur Sarahfina Binte Kamarudin</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Hannah Chiang Siew Hua
-<br>Jonathan Wui Jia Jun</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Patwardhan Dhruva Ramon Jitend
-<br>Yen Su Fei Megan</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Fang Heidi-Eeshin
-<br>Ashley Yaokasin Ong</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>2020</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Muhammad Nabil B Rezalludin
-<br>Rogel Derek Jozch Mangundayao</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Berlyn Francesca Phua Qi Qi
-<br>Matthew Lee
-<br>Jeun Kai</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Nyi Nyi Tun
-<br>Mui Yi Zhe Lincoln</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Tee How Yee
-<br>Amos Tan Tuan</p>
 </td>
 </tr>
 </tbody>
