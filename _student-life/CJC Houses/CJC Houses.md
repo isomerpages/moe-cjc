@@ -88,10 +88,18 @@ House Captains and Vice-House Captains for their respective years:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Nathanael Ho,</p>
+<p>Ong Jane,</p>
+<p>Mia Teo,</p>
+<p>Carynn U Xin Ai,</p>
+<p>Caitlin Grace Gan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Wong Min Qi,</p>
+<p>Marcus Ng,</p>
+<p>Javen Lim,</p>
+<p>Tan Qi Qi,</p>
+<p>Sarah Ng</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
