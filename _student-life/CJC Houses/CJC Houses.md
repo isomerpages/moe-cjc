@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <h3><strong>CJC Houses</strong></h3>
 <div class="isomer-image-wrapper">
-<img style="width:75%" height="auto" width="100%" src="/images/cjchouse1.jpg">
+<img style="width: 90%;" height="auto" width="100%" alt="" src="/images/Four_Houses_One_CJC_May_2026_low_res.jpg">
 </div>
 <h4><strong>Unite to Ignite</strong></h4>
 <p>The House system is a historic feature in Catholic Junior College, with
@@ -50,10 +50,10 @@ and competitions, both physical and non-physical:</p>
 <p>Reintroduced in 2012, the House system would maintain four existing names,
 taking on the colours of the college:&nbsp;<strong>Albert (Yellow), Michael (Orange), Patrick (Red) and Joseph (Green)</strong>.
 These names were chosen because they reflect our treasured legacy, taking
-on the names of our founders and principals. Each House is headed by a
-PE teacher as House Master / Mistress and led by a committee of JC2 students:
-a House Captain, Vice-House Captain, a House Secretary, a House Games Representative,
-House JC1 Level Representatives and various House Leaders.</p>
+on the names of our founders and principals. Each House is headed by House
+Masters or Mistresses from the Physical Education (PE) Department and led
+by a committee of student leaders comprising a House Captain, two House
+Vice-Captains, two House Secretaries, and House Leaders from both cohorts.</p>
 <p>Our four houses are proud to have the leadership and service of the following
 House Captains and Vice-House Captains for their respective years:</p>
 <table style="minWidth: 125px">
