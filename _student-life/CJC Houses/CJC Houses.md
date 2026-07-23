@@ -55,7 +55,8 @@ Masters or Mistresses from the Physical Education (PE) Department and led
 by a committee of student leaders comprising a House Captain, two House
 Vice-Captains, two House Secretaries, and House Leaders from both cohorts.</p>
 <p>Our four houses are proud to have the leadership and service of the following
-House Captains and Vice-House Captains for their respective years:</p>
+House Captains, Vice-House Captains, and Secretaries for their respective
+years:</p>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
