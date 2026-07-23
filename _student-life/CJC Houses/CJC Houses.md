@@ -109,7 +109,11 @@ House Captains and Vice-House Captains for their respective years:</p>
 <p>Chan Mengmonichesda</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ariel Kweh,</p>
+<p>Mileys Lim,</p>
+<p>Tan Diem My,</p>
+<p>Elizabeth Wong,</p>
+<p>Athena Clare Tham</p>
 </td>
 </tr>
 <tr>
