@@ -13,7 +13,7 @@ variant: tiptap
 </div>
 <p>Catholic Junior College staff and students joined residents from Punggol
 in a qigong exercise while celebrating Singapore's 61st National Day on
-the morning of August 7, as part of the college's National Day commemoration
+the morning of 7 August, as part of the college's National Day commemoration
 and outreach to the Punggol community.</p>
 <p></p>
 <div class="isomer-image-wrapper">
