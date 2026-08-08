@@ -53,6 +53,10 @@ to our new beginning in Punggol!&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CJC_Rejuvenation_Project_Giving_SG_QR_code.png">
 </div>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_at_Punggol_whole_college_website.jpg">
+</div>
 <p><strong>Majulah Singapura! #GoBeyond!</strong>
 </p>
 <p><em>In Veritate et Caritate</em>
