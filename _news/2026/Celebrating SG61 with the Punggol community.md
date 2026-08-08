@@ -28,8 +28,7 @@ district.”</p>
 <p>Mr Bernard Tan, Chairman of CJC’s School Management Committee, also announced
 the launch of CJC’s fundraising campaign for the new campus. He said he
 “hopes that CJC alumni, parents, friends and partners will join us in generously
-contributing to building a vibrant campus to serve all Singaporeans.” Information
-on how to donate can be found here - <a href="https://www.giving.sg/donate/campaign/cjc-rejuvenation-project" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.giving.sg/donate/campaign/cjc-rejuvenation-project</u></a> (<em>Donations above $50 are eligible for tax relief.</em>)</p>
+contributing to building a vibrant campus to serve all Singaporeans.”</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_at_Punggol_r.jpg">
 </div>
@@ -48,6 +47,7 @@ to our new beginning in Punggol!&nbsp;</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/National_Day_at_Punggol_n_website.jpg">
 </div>
+<p>Information on how to donate can be found here - <a href="https://www.giving.sg/donate/campaign/cjc-rejuvenation-project" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.giving.sg/donate/campaign/cjc-rejuvenation-project</u></a> (<em>Donations above $50 are eligible for tax relief.</em>)</p>
 <p><strong>Majulah Singapura! #GoBeyond!</strong>
 </p>
 <p><em>In Veritate et Caritate</em>
