@@ -5,6 +5,13 @@ description: ""
 variant: tiptap
 ---
 <h3><strong>News</strong></h3>
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 50%;" height="auto" width="100%" alt="" src="/images/National_Day_at_Punggol_d_website.jpg">
+</div>
+<p><a href="https://www.cjc.edu.sg/celebrating-sg61-with-the-punggol-community/" rel="noopener nofollow" target="_blank">Celebrating SG61 with the Punggol community</a>
+</p>
+<p>CJC celebrated Singapore's 61st birthday with the residents of Punggol</p>
 <div class="isomer-image-wrapper">
 <img style="width: 50%;" height="auto" width="100%" alt="" src="/images/Copy_of_DSC00254.jpg">
 </div>
