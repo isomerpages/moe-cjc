@@ -50,7 +50,7 @@ to our new beginning in Punggol!&nbsp;</p>
 <p>Information on how to donate can be found here - <a href="https://www.giving.sg/donate/campaign/cjc-rejuvenation-project" rel="noopener noreferrer nofollow" target="_blank"><u>https://www.giving.sg/donate/campaign/cjc-rejuvenation-project</u></a> (<em>Donations above $50 are eligible for tax relief.</em>)</p>
 <p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 40%;" height="auto" width="100%" alt="" src="/images/CJC_Rejuvenation_Project_Giving_SG_QR_code.png">
+<img style="width: 30%;" height="auto" width="100%" alt="" src="/images/CJC_Rejuvenation_Project_Giving_SG_QR_code.png">
 </div>
 <p><strong>Majulah Singapura! #GoBeyond!</strong>
 </p>
