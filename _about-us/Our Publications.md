@@ -25,7 +25,8 @@ find out more about our college's programmes and ethos.</p>
 </div>
 <ul>
 <li>
-<p>2026 Issue 1- Nature, Nation, Action</p>
+<p><strong><a href="https://go.gov.sg/cjflamejuly2026" rel="noopener nofollow" target="_blank">2026 Issue 1</a></strong>-
+Nature, Nation, Action</p>
 </li>
 <li>
 <p><strong><a href="https://go.gov.sg/cjflamesept2025" rel="noopener nofollow" target="_blank">2025 Issue 2</a></strong>-
